@@ -1,0 +1,51 @@
+<http://id.crossref.org/contributor/john-charles-goshert-26yx6v992i2z8>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Goshert" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "John Charles" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "John Charles Goshert" .
+
+<http://id.crossref.org/issn/0300-7766>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0300-7766" , "1740-1712" ;
+      <http://purl.org/dc/terms/title>
+              "Popular Music and Society" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0300-7766" , "1740-1712" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0300-7766" , "urn:issn:1740-1712" .
+
+<http://dx.doi.org/10.1080/03007760008591760>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1080/03007760008591760" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "106" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "85" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "24" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/john-charles-goshert-26yx6v992i2z8> ;
+      <http://purl.org/dc/terms/date>
+              "2000-03"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1080/03007760008591760" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0300-7766> ;
+      <http://purl.org/dc/terms/publisher>
+              "Informa UK Limited" ;
+      <http://purl.org/dc/terms/title>
+              "“Punk” after the pistols: American music, economics, and politics in the 1980s and 1990s" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1080/03007760008591760" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "106" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "85" ;
+      <http://purl.org/ontology/bibo/volume>
+              "24" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1080/03007760008591760> , <info:doi/10.1080/03007760008591760> .

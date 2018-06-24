@@ -1,0 +1,60 @@
+<http://dx.doi.org/10.4028/www.scientific.net/amm.71-78.4194>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.4028/www.scientific.net/amm.71-78.4194" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "4198" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "4194" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "71-78" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/shao-qin-zhang-2vx1uuuiqzr6z> , <http://id.crossref.org/contributor/hua-hu-cheng-2vx1uuuiqzr6z> ;
+      <http://purl.org/dc/terms/date>
+              "2011-07"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.4028/www.scientific.net/amm.71-78.4194" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1662-7482> ;
+      <http://purl.org/dc/terms/publisher>
+              "Trans Tech Publications" ;
+      <http://purl.org/dc/terms/title>
+              "Study of the Influence of the Beam-Column Line Stiffness Ratio on the Frame Structure Load Capacity Based on MATLAB" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.4028/www.scientific.net/amm.71-78.4194" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "4198" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "4194" ;
+      <http://purl.org/ontology/bibo/volume>
+              "71-78" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.4028/www.scientific.net/amm.71-78.4194> , <info:doi/10.4028/www.scientific.net/amm.71-78.4194> .
+
+<http://id.crossref.org/contributor/shao-qin-zhang-2vx1uuuiqzr6z>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Zhang" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Shao Qin" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Shao Qin Zhang" .
+
+<http://id.crossref.org/issn/1662-7482>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1662-7482" ;
+      <http://purl.org/dc/terms/title>
+              "Applied Mechanics and Materials" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1662-7482" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1662-7482" .
+
+<http://id.crossref.org/contributor/hua-hu-cheng-2vx1uuuiqzr6z>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Cheng" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Hua Hu" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Hua Hu Cheng" .

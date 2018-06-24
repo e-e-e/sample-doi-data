@@ -1,0 +1,51 @@
+<http://id.crossref.org/issn/0023-656X>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1469-9702" , "0023-656X" ;
+      <http://purl.org/dc/terms/title>
+              "Labor History" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1469-9702" , "0023-656X" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0023-656X" , "urn:issn:1469-9702" .
+
+<http://id.crossref.org/contributor/jeremy-r-egolf-2knucelwdrotd>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Egolf" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Jeremy R." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Jeremy R. Egolf" .
+
+<http://dx.doi.org/10.1080/00236568508584795>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1080/00236568508584795" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "229" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "195" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "26" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/jeremy-r-egolf-2knucelwdrotd> ;
+      <http://purl.org/dc/terms/date>
+              "1985-03"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1080/00236568508584795" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0023-656X> ;
+      <http://purl.org/dc/terms/publisher>
+              "Informa UK Limited" ;
+      <http://purl.org/dc/terms/title>
+              "The limits of shop floor struggle: Workers vs. the Bedaux system at Willapa Harbor Lumber Mills, 1933–35" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1080/00236568508584795" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "229" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "195" ;
+      <http://purl.org/ontology/bibo/volume>
+              "26" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1080/00236568508584795> , <info:doi/10.1080/00236568508584795> .

@@ -1,0 +1,110 @@
+<http://id.crossref.org/issn/0013-4651>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0013-4651" ;
+      <http://purl.org/dc/terms/title>
+              "Journal of The Electrochemical Society" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0013-4651" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0013-4651" .
+
+<http://id.crossref.org/contributor/tsutomu-shinagawa-1fe660cmf9uw3>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Shinagawa" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Tsutomu" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Tsutomu Shinagawa" .
+
+<http://id.crossref.org/contributor/junji-sasano-1fe660cmf9uw3>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Sasano" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Junji" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Junji Sasano" .
+
+<http://dx.doi.org/10.1149/1.3614408>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1149/1.3614408" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "D578" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "158" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/tsutomu-shinagawa-1fe660cmf9uw3> , <http://id.crossref.org/contributor/junji-sasano-1fe660cmf9uw3> , <http://id.crossref.org/contributor/fariza-binti-mohamad-1fe660cmf9uw3> , <http://id.crossref.org/contributor/masanobu-izaki-1fe660cmf9uw3> , <http://id.crossref.org/contributor/keita-maeda-1fe660cmf9uw3> , <http://id.crossref.org/contributor/miho-nagai-1fe660cmf9uw3> , <http://id.crossref.org/contributor/kenjiro-motomura-1fe660cmf9uw3> , <http://id.crossref.org/contributor/seiji-watase-1fe660cmf9uw3> ;
+      <http://purl.org/dc/terms/date>
+              "2011"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1149/1.3614408" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0013-4651> ;
+      <http://purl.org/dc/terms/publisher>
+              "The Electrochemical Society" ;
+      <http://purl.org/dc/terms/title>
+              "Electrodeposition of 1.4-eV-Bandgap p-Copper (II) Oxide Film With Excellent Photoactivity" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1149/1.3614408" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "D578" ;
+      <http://purl.org/ontology/bibo/volume>
+              "158" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1149/1.3614408> , <info:doi/10.1149/1.3614408> .
+
+<http://id.crossref.org/contributor/fariza-binti-mohamad-1fe660cmf9uw3>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Mohamad" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Fariza Binti" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Fariza Binti Mohamad" .
+
+<http://id.crossref.org/contributor/masanobu-izaki-1fe660cmf9uw3>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Izaki" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Masanobu" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Masanobu Izaki" .
+
+<http://id.crossref.org/contributor/miho-nagai-1fe660cmf9uw3>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Nagai" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Miho" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Miho Nagai" .
+
+<http://id.crossref.org/contributor/keita-maeda-1fe660cmf9uw3>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Maeda" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Keita" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Keita Maeda" .
+
+<http://id.crossref.org/contributor/seiji-watase-1fe660cmf9uw3>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Watase" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Seiji" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Seiji Watase" .
+
+<http://id.crossref.org/contributor/kenjiro-motomura-1fe660cmf9uw3>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Motomura" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Kenjiro" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Kenjiro Motomura" .

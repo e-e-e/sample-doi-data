@@ -1,0 +1,36 @@
+<http://dx.doi.org/10.1001/jama.1956.62970130004020b>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1001/jama.1956.62970130004020b" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "1271" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "161" ;
+      <http://purl.org/dc/terms/date>
+              "1956-07-28"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1001/jama.1956.62970130004020b" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0002-9955> ;
+      <http://purl.org/dc/terms/publisher>
+              "American Medical Association (AMA)" ;
+      <http://purl.org/dc/terms/title>
+              "DENMARK" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1001/jama.1956.62970130004020b" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "1271" ;
+      <http://purl.org/ontology/bibo/volume>
+              "161" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1001/jama.1956.62970130004020b> , <info:doi/10.1001/jama.1956.62970130004020b> .
+
+<http://id.crossref.org/issn/0002-9955>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0002-9955" ;
+      <http://purl.org/dc/terms/title>
+              "Journal of the American Medical Association" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0002-9955" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0002-9955" .

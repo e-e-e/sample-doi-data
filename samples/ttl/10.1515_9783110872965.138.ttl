@@ -1,0 +1,22 @@
+<http://id.crossref.org/isbn/9783110872965>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Sprachhelden und Sprachverderber" .
+
+<http://dx.doi.org/10.1515/9783110872965.138>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1515/9783110872965.138" ;
+      <http://purl.org/dc/terms/date>
+              ""^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1515/9783110872965.138" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9783110872965> ;
+      <http://purl.org/dc/terms/publisher>
+              "DE GRUYTER" ;
+      <http://purl.org/dc/terms/title>
+              "34. »Teutscher Michel« (um 1638?)" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1515/9783110872965.138" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1515/9783110872965.138> , <doi:10.1515/9783110872965.138> .

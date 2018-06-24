@@ -1,0 +1,114 @@
+<http://dx.doi.org/10.1016/j.jmb.2011.10.032>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/j.jmb.2011.10.032" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "74" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "61" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "415" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/stephen-p-edgcomb-nqp4f32kn8w9> , <http://id.crossref.org/contributor/andrew-b-carmel-nqp4f32kn8w9> , <http://id.crossref.org/contributor/james-r-williamson-nqp4f32kn8w9> , <http://id.crossref.org/contributor/geza-ambrus-aikelin-nqp4f32kn8w9> , <http://id.crossref.org/contributor/larry-gerace-nqp4f32kn8w9> , <http://id.crossref.org/contributor/souad-naji-nqp4f32kn8w9> , <http://id.crossref.org/contributor/andrew-c-s-saphire-nqp4f32kn8w9> , <http://id.crossref.org/contributor/jason-r-reyes-nqp4f32kn8w9> ;
+      <http://purl.org/dc/terms/date>
+              "2012-01"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/j.jmb.2011.10.032" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0022-2836> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "DDX1 Is an RNA-Dependent ATPase Involved in HIV-1 Rev Function and Virus Replication" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/j.jmb.2011.10.032" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "74" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "61" ;
+      <http://purl.org/ontology/bibo/volume>
+              "415" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1016/j.jmb.2011.10.032> , <doi:10.1016/j.jmb.2011.10.032> .
+
+<http://id.crossref.org/contributor/stephen-p-edgcomb-nqp4f32kn8w9>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Edgcomb" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Stephen P." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Stephen P. Edgcomb" .
+
+<http://id.crossref.org/issn/0022-2836>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0022-2836" ;
+      <http://purl.org/dc/terms/title>
+              "Journal of Molecular Biology" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0022-2836" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0022-2836" .
+
+<http://id.crossref.org/contributor/james-r-williamson-nqp4f32kn8w9>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Williamson" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "James R." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "James R. Williamson" .
+
+<http://id.crossref.org/contributor/andrew-b-carmel-nqp4f32kn8w9>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Carmel" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Andrew B." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Andrew B. Carmel" .
+
+<http://id.crossref.org/contributor/geza-ambrus-aikelin-nqp4f32kn8w9>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Ambrus-Aikelin" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Geza" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Geza Ambrus-Aikelin" .
+
+<http://id.crossref.org/contributor/larry-gerace-nqp4f32kn8w9>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Gerace" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Larry" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Larry Gerace" .
+
+<http://id.crossref.org/contributor/souad-naji-nqp4f32kn8w9>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Naji" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Souad" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Souad Naji" .
+
+<http://id.crossref.org/contributor/andrew-c-s-saphire-nqp4f32kn8w9>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Saphire" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Andrew C.S." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Andrew C.S. Saphire" .
+
+<http://id.crossref.org/contributor/jason-r-reyes-nqp4f32kn8w9>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Reyes" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Jason R." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Jason R. Reyes" .

@@ -1,0 +1,51 @@
+<http://id.crossref.org/issn/1941-5966>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1941-5966" , "1941-5974" ;
+      <http://purl.org/dc/terms/title>
+              "The London, Edinburgh, and Dublin Philosophical Magazine and Journal of Science" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1941-5966" , "1941-5974" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1941-5974" , "urn:issn:1941-5966" .
+
+<http://id.crossref.org/contributor/m-millon-i1bwhbd0yu17>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Millon" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "M." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "M. Millon" .
+
+<http://dx.doi.org/10.1080/14786444708562632>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1080/14786444708562632" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "71" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "70" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "30" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/m-millon-i1bwhbd0yu17> ;
+      <http://purl.org/dc/terms/date>
+              "1847-01"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1080/14786444708562632" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1941-5966> ;
+      <http://purl.org/dc/terms/publisher>
+              "Informa UK Limited" ;
+      <http://purl.org/dc/terms/title>
+              "Purification of mercury" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1080/14786444708562632" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "71" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "70" ;
+      <http://purl.org/ontology/bibo/volume>
+              "30" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1080/14786444708562632> , <doi:10.1080/14786444708562632> .

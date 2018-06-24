@@ -1,0 +1,47 @@
+<http://id.crossref.org/contributor/edward-h-reisner-1murltmlr0o4a>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "REISNER" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "EDWARD H." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "EDWARD H. REISNER" .
+
+<http://id.crossref.org/issn/0003-9926>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0003-9926" ;
+      <http://purl.org/dc/terms/title>
+              "Archives of Internal Medicine" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0003-9926" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0003-9926" .
+
+<http://dx.doi.org/10.1001/archinte.1943.00210020096007>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1001/archinte.1943.00210020096007" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "230" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "71" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/edward-h-reisner-1murltmlr0o4a> ;
+      <http://purl.org/dc/terms/date>
+              "1943-02-01"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1001/archinte.1943.00210020096007" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0003-9926> ;
+      <http://purl.org/dc/terms/publisher>
+              "American Medical Association (AMA)" ;
+      <http://purl.org/dc/terms/title>
+              "MORPHOLOGY OF ERYTHROCYTES IN ERYTHROBLASTOSIS FOETALIS" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1001/archinte.1943.00210020096007" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "230" ;
+      <http://purl.org/ontology/bibo/volume>
+              "71" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1001/archinte.1943.00210020096007> , <doi:10.1001/archinte.1943.00210020096007> .

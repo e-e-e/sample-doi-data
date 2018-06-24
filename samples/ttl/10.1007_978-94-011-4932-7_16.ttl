@@ -1,0 +1,41 @@
+<http://id.crossref.org/isbn/9789401060691>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Liver Growth and Repair" .
+
+<http://id.crossref.org/contributor/mario-chojkier-2rzyrsp42snqf>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Chojkier" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Mario" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Mario Chojkier" .
+
+<http://dx.doi.org/10.1007/978-94-011-4932-7_16>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1007/978-94-011-4932-7_16" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "450" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "430" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/mario-chojkier-2rzyrsp42snqf> ;
+      <http://purl.org/dc/terms/date>
+              "1998"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1007/978-94-011-4932-7_16" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9789401060691> ;
+      <http://purl.org/dc/terms/publisher>
+              "Springer Netherlands" ;
+      <http://purl.org/dc/terms/title>
+              "Regulation of collagen gene expression" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1007/978-94-011-4932-7_16" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "450" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "430" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1007/978-94-011-4932-7_16> , <doi:10.1007/978-94-011-4932-7_16> .

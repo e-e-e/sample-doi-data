@@ -1,0 +1,59 @@
+<http://id.crossref.org/contributor/g-murza-1osqd8rh2a4hu>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Murza" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "G." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "G. Murza" .
+
+<http://dx.doi.org/10.1007/978-3-642-73096-2_44>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1007/978-3-642-73096-2_44" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "397" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "389" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/g-murza-1osqd8rh2a4hu> , <http://id.crossref.org/contributor/w-werse-1osqd8rh2a4hu> , <http://id.crossref.org/contributor/m-schapeit-1osqd8rh2a4hu> ;
+      <http://purl.org/dc/terms/date>
+              "1987"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1007/978-3-642-73096-2_44" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9783540184881> ;
+      <http://purl.org/dc/terms/publisher>
+              "Springer Berlin Heidelberg" ;
+      <http://purl.org/dc/terms/title>
+              "Institutionelle Kooperation: Situationsanalyse in Nordrhein-Westfalen" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1007/978-3-642-73096-2_44" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "397" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "389" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1007/978-3-642-73096-2_44> , <doi:10.1007/978-3-642-73096-2_44> .
+
+<http://id.crossref.org/isbn/9783540184881>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Prävention und Gesundheitserziehung" .
+
+<http://id.crossref.org/contributor/w-werse-1osqd8rh2a4hu>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Werse" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "W." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "W. Werse" .
+
+<http://id.crossref.org/contributor/m-schapeit-1osqd8rh2a4hu>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Schapeit" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "M." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "M. Schapeit" .

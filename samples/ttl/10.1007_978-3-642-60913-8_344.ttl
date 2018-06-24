@@ -1,0 +1,79 @@
+<http://id.crossref.org/contributor/a-david-dj5toga6kkm6>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Dávid" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "A. Dávid" .
+
+<http://dx.doi.org/10.1007/978-3-642-60913-8_344>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1007/978-3-642-60913-8_344" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "921" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "920" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/a-david-dj5toga6kkm6> , <http://id.crossref.org/contributor/d-pape-dj5toga6kkm6> , <http://id.crossref.org/contributor/g-muhr-dj5toga6kkm6> , <http://id.crossref.org/contributor/a-pommer-dj5toga6kkm6> ;
+      <http://purl.org/dc/terms/date>
+              "1997"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1007/978-3-642-60913-8_344" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9783540635734> , <http://id.crossref.org/issn/0945-1382> ;
+      <http://purl.org/dc/terms/publisher>
+              "Springer Berlin Heidelberg" ;
+      <http://purl.org/dc/terms/title>
+              "Senken Hydroxylapatit-beschichtete Schanz-Schrauben die lokale Komplikationsrate bei der Transportkortikotomie?" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1007/978-3-642-60913-8_344" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "921" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "920" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1007/978-3-642-60913-8_344> , <doi:10.1007/978-3-642-60913-8_344> .
+
+<http://id.crossref.org/isbn/9783540635734>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Hefte zur Zeitschrift „Der Unfallchirurg“" .
+
+<http://id.crossref.org/contributor/d-pape-dj5toga6kkm6>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Pape" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "D." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "D. Pape" .
+
+<http://id.crossref.org/contributor/g-muhr-dj5toga6kkm6>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Muhr" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "G." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "G. Muhr" .
+
+<http://id.crossref.org/contributor/a-pommer-dj5toga6kkm6>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Pommer" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "A. Pommer" .
+
+<http://id.crossref.org/issn/0945-1382>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0945-1382" ;
+      <http://purl.org/dc/terms/title>
+              "Hefte zur Zeitschrift „Der Unfallchirurg“" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0945-1382" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0945-1382" .

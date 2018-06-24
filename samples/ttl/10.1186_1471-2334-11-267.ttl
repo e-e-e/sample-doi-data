@@ -1,0 +1,106 @@
+<http://id.crossref.org/contributor/bente-l-langdahl-3htb4sekpb7hz>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Langdahl" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Bente L" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Bente L Langdahl" .
+
+<http://id.crossref.org/contributor/alex-l-laursen-3htb4sekpb7hz>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Laursen" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Alex L" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Alex L Laursen" .
+
+<http://id.crossref.org/contributor/jesper-melchjorsen-3htb4sekpb7hz>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Melchjorsen" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Jesper" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Jesper Melchjorsen" .
+
+<http://id.crossref.org/issn/1471-2334>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1471-2334" ;
+      <http://purl.org/dc/terms/title>
+              "BMC Infectious Diseases" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1471-2334" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1471-2334" .
+
+<http://id.crossref.org/contributor/lars-stergaard-3htb4sekpb7hz>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Østergaard" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Lars" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Lars Østergaard" .
+
+<http://id.crossref.org/contributor/martin-tolstrup-3htb4sekpb7hz>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Tolstrup" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Martin" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Martin Tolstrup" .
+
+<http://dx.doi.org/10.1186/1471-2334-11-267>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1186/1471-2334-11-267" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "11" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/bente-l-langdahl-3htb4sekpb7hz> , <http://id.crossref.org/contributor/alex-l-laursen-3htb4sekpb7hz> , <http://id.crossref.org/contributor/jesper-melchjorsen-3htb4sekpb7hz> , <http://id.crossref.org/contributor/lars-stergaard-3htb4sekpb7hz> , <http://id.crossref.org/contributor/martin-tolstrup-3htb4sekpb7hz> , <http://id.crossref.org/contributor/christian-a-frederiksen-3htb4sekpb7hz> , <http://id.crossref.org/contributor/thomas-a-rasmussen-3htb4sekpb7hz> , <http://id.crossref.org/contributor/ulla-s-nielsen-3htb4sekpb7hz> ;
+      <http://purl.org/dc/terms/date>
+              "2011-10-04"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1186/1471-2334-11-267" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1471-2334> ;
+      <http://purl.org/dc/terms/publisher>
+              "Springer Nature" ;
+      <http://purl.org/dc/terms/title>
+              "Evaluation of cardiovascular biomarkers In HIV-infected patients switching to abacavir or tenofovir based therapy" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1186/1471-2334-11-267" ;
+      <http://purl.org/ontology/bibo/volume>
+              "11" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1186/1471-2334-11-267> , <doi:10.1186/1471-2334-11-267> .
+
+<http://id.crossref.org/contributor/christian-a-frederiksen-3htb4sekpb7hz>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Frederiksen" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Christian A" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Christian A Frederiksen" .
+
+<http://id.crossref.org/contributor/thomas-a-rasmussen-3htb4sekpb7hz>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Rasmussen" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Thomas A" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Thomas A Rasmussen" .
+
+<http://id.crossref.org/contributor/ulla-s-nielsen-3htb4sekpb7hz>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Nielsen" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Ulla S" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Ulla S Nielsen" .

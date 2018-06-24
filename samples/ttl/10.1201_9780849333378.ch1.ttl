@@ -1,0 +1,60 @@
+<http://id.crossref.org/contributor/matthew-kolon-3f0gwl2lmx319>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kolon" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Matthew" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Matthew Kolon" .
+
+<http://id.crossref.org/isbn/9780849333378>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "The CRC Handbook of Modern Telecommunications" .
+
+<http://id.crossref.org/contributor/patricia-morreale-3f0gwl2lmx319>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Morreale" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Patricia" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Patricia Morreale" .
+
+<http://dx.doi.org/10.1201/9780849333378.ch1>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1201/9780849333378.ch1" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/matthew-kolon-3f0gwl2lmx319> , <http://id.crossref.org/contributor/patricia-morreale-3f0gwl2lmx319> , <http://id.crossref.org/contributor/michel-gilbert-3f0gwl2lmx319> , <http://id.crossref.org/contributor/john-amoss-3f0gwl2lmx319> ;
+      <http://purl.org/dc/terms/date>
+              "2000-11-22"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1201/9780849333378.ch1" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9780849333378> ;
+      <http://purl.org/dc/terms/publisher>
+              "CRC Press" ;
+      <http://purl.org/dc/terms/title>
+              "Voice and Data Communications" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1201/9780849333378.ch1" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1201/9780849333378.ch1> , <doi:10.1201/9780849333378.ch1> .
+
+<http://id.crossref.org/contributor/michel-gilbert-3f0gwl2lmx319>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Gilbert" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Michel" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Michel Gilbert" .
+
+<http://id.crossref.org/contributor/john-amoss-3f0gwl2lmx319>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Amoss" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "John" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "John Amoss" .

@@ -1,0 +1,123 @@
+<http://id.crossref.org/contributor/eerik-halonen-13fs6phwl612c>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Halonen" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Eerik" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Eerik Halonen" .
+
+<http://id.crossref.org/contributor/hannu-sillanpaa-13fs6phwl612c>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Sillanpää" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Hannu" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Hannu Sillanpää" .
+
+<http://id.crossref.org/contributor/juha-lilja-13fs6phwl612c>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Lilja" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Juha" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Juha Lilja" .
+
+<http://id.crossref.org/contributor/tero-kaija-13fs6phwl612c>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kaija" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Tero" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Tero Kaija" .
+
+<http://id.crossref.org/contributor/vesa-pynttari-13fs6phwl612c>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Pynttäri" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Vesa" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Vesa Pynttäri" .
+
+<http://dx.doi.org/10.1016/j.mee.2011.04.038>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/j.mee.2011.04.038" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "2976" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "2970" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "88" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/eerik-halonen-13fs6phwl612c> , <http://id.crossref.org/contributor/hannu-sillanpaa-13fs6phwl612c> , <http://id.crossref.org/contributor/juha-lilja-13fs6phwl612c> , <http://id.crossref.org/contributor/tero-kaija-13fs6phwl612c> , <http://id.crossref.org/contributor/vesa-pynttari-13fs6phwl612c> , <http://id.crossref.org/contributor/pekka-salonen-13fs6phwl612c> , <http://id.crossref.org/contributor/riku-makinen-13fs6phwl612c> , <http://id.crossref.org/contributor/jouko-heikkinen-13fs6phwl612c> , <http://id.crossref.org/contributor/matti-mantysalo-13fs6phwl612c> ;
+      <http://purl.org/dc/terms/date>
+              "2011-09"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/j.mee.2011.04.038" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0167-9317> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Environmental protection of inkjet-printed Ag conductors" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/j.mee.2011.04.038" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "2976" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "2970" ;
+      <http://purl.org/ontology/bibo/volume>
+              "88" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1016/j.mee.2011.04.038> , <info:doi/10.1016/j.mee.2011.04.038> .
+
+<http://id.crossref.org/contributor/pekka-salonen-13fs6phwl612c>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Salonen" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Pekka" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Pekka Salonen" .
+
+<http://id.crossref.org/contributor/riku-makinen-13fs6phwl612c>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Mäkinen" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Riku" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Riku Mäkinen" .
+
+<http://id.crossref.org/contributor/jouko-heikkinen-13fs6phwl612c>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Heikkinen" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Jouko" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Jouko Heikkinen" .
+
+<http://id.crossref.org/contributor/matti-mantysalo-13fs6phwl612c>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Mäntysalo" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Matti" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Matti Mäntysalo" .
+
+<http://id.crossref.org/issn/0167-9317>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0167-9317" ;
+      <http://purl.org/dc/terms/title>
+              "Microelectronic Engineering" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0167-9317" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0167-9317" .
