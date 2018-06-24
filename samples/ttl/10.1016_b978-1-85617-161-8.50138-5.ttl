@@ -1,0 +1,64 @@
+<http://id.crossref.org/isbn/9781856171618>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Biosensors '92 Proceedings" .
+
+<http://id.crossref.org/contributor/r-d-schmid-13uvx9giz3bnf>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Schmid" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "R.D." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "R.D. Schmid" .
+
+<http://dx.doi.org/10.1016/b978-1-85617-161-8.50138-5>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/b978-1-85617-161-8.50138-5" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "508" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/r-d-schmid-13uvx9giz3bnf> , <http://id.crossref.org/contributor/g-wagner-13uvx9giz3bnf> , <http://id.crossref.org/contributor/u-bilitewski-13uvx9giz3bnf> , <http://id.crossref.org/contributor/h-ukeda-13uvx9giz3bnf> ;
+      <http://purl.org/dc/terms/date>
+              "1992"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/b978-1-85617-161-8.50138-5" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9781856171618> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier" ;
+      <http://purl.org/dc/terms/title>
+              "Flow Injection Analysis of Short Chain Fatty Acids in Dairy Products Based on the Use of a Microbial Electrode" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/b978-1-85617-161-8.50138-5" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "508" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1016/b978-1-85617-161-8.50138-5> , <doi:10.1016/b978-1-85617-161-8.50138-5> .
+
+<http://id.crossref.org/contributor/g-wagner-13uvx9giz3bnf>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Wagner" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "G." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "G. Wagner" .
+
+<http://id.crossref.org/contributor/u-bilitewski-13uvx9giz3bnf>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Bilitewski" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "U." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "U. Bilitewski" .
+
+<http://id.crossref.org/contributor/h-ukeda-13uvx9giz3bnf>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Ukeda" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "H." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "H. Ukeda" .

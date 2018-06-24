@@ -1,0 +1,26 @@
+<http://dx.doi.org/10.3410/f.1059709.518670>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.3410/f.1059709.518670" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/tim-humphrey-5c1utp8c8zbs> ;
+      <http://purl.org/dc/terms/date>
+              "2007-02-10"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.3410/f.1059709.518670" ;
+      <http://purl.org/dc/terms/publisher>
+              "Faculty of 1000, Ltd." ;
+      <http://purl.org/dc/terms/title>
+              "Faculty of 1000 evaluation for Single Holliday junctions are intermediates of meiotic recombination." ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.3410/f.1059709.518670" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.3410/f.1059709.518670> , <doi:10.3410/f.1059709.518670> .
+
+<http://id.crossref.org/contributor/tim-humphrey-5c1utp8c8zbs>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Humphrey" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Tim" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Tim Humphrey" .

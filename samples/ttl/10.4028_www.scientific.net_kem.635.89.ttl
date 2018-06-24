@@ -1,0 +1,69 @@
+<http://dx.doi.org/10.4028/www.scientific.net/kem.635.89>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.4028/www.scientific.net/kem.635.89" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "93" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "89" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "635" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/petra-lackova-1fdmz8vpig1ar> , <http://id.crossref.org/contributor/marian-bursak-1fdmz8vpig1ar> , <http://id.crossref.org/contributor/martin-orecny-1fdmz8vpig1ar> ;
+      <http://purl.org/dc/terms/date>
+              "2014-12"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.4028/www.scientific.net/kem.635.89" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1662-9795> ;
+      <http://purl.org/dc/terms/publisher>
+              "Trans Tech Publications" ;
+      <http://purl.org/dc/terms/title>
+              "Possibilities of Preparing Tools Working in Conditions of Abrasion Wear with the Modification of the Tool Surfaces by Nitridation" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.4028/www.scientific.net/kem.635.89" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "93" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "89" ;
+      <http://purl.org/ontology/bibo/volume>
+              "635" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.4028/www.scientific.net/kem.635.89> , <info:doi/10.4028/www.scientific.net/kem.635.89> .
+
+<http://id.crossref.org/contributor/petra-lackova-1fdmz8vpig1ar>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Lacková" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Petra" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Petra Lacková" .
+
+<http://id.crossref.org/contributor/marian-bursak-1fdmz8vpig1ar>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Buršák" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Marián" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Marián Buršák" .
+
+<http://id.crossref.org/issn/1662-9795>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1662-9795" ;
+      <http://purl.org/dc/terms/title>
+              "Key Engineering Materials" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1662-9795" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1662-9795" .
+
+<http://id.crossref.org/contributor/martin-orecny-1fdmz8vpig1ar>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Orečný" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Martin" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Martin Orečný" .

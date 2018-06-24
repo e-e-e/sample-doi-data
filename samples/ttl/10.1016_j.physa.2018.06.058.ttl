@@ -1,0 +1,66 @@
+<http://id.crossref.org/contributor/xiao-yu-yan-o4vxigxdj0ac>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Yan" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Xiao-Yu" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Xiao-Yu Yan" .
+
+<http://id.crossref.org/contributor/shi-chun-yang-o4vxigxdj0ac>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Yang" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Shi-Chun" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Shi-Chun Yang" .
+
+<http://id.crossref.org/contributor/tie-qiao-tang-o4vxigxdj0ac>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Tang" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Tie-Qiao" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Tie-Qiao Tang" .
+
+<http://id.crossref.org/contributor/hong-he-o4vxigxdj0ac>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "He" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Hong" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Hong He" .
+
+<http://dx.doi.org/10.1016/j.physa.2018.06.058>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/j.physa.2018.06.058" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/xiao-yu-yan-o4vxigxdj0ac> , <http://id.crossref.org/contributor/shi-chun-yang-o4vxigxdj0ac> , <http://id.crossref.org/contributor/tie-qiao-tang-o4vxigxdj0ac> , <http://id.crossref.org/contributor/hong-he-o4vxigxdj0ac> ;
+      <http://purl.org/dc/terms/date>
+              "2018-06"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/j.physa.2018.06.058" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0378-4371> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "An optimization model for wireless power transfer system based on circuit simulation" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/j.physa.2018.06.058" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1016/j.physa.2018.06.058> , <doi:10.1016/j.physa.2018.06.058> .
+
+<http://id.crossref.org/issn/0378-4371>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0378-4371" ;
+      <http://purl.org/dc/terms/title>
+              "Physica A: Statistical Mechanics and its Applications" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0378-4371" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0378-4371" .

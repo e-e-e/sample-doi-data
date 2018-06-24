@@ -1,0 +1,44 @@
+<http://dx.doi.org/10.1037/e573362009-001>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1037/e573362009-001" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/u-berglund-2ul77tof0cy1r> , <http://id.crossref.org/contributor/t-lindvall-2ul77tof0cy1r> , <http://id.crossref.org/contributor/b-berglund-2ul77tof0cy1r> ;
+      <http://purl.org/dc/terms/date>
+              "1971"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1037/e573362009-001" ;
+      <http://purl.org/dc/terms/publisher>
+              "American Psychological Association (APA)" ;
+      <http://purl.org/dc/terms/title>
+              "On the principle of odor interaction" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1037/e573362009-001" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1037/e573362009-001> , <info:doi/10.1037/e573362009-001> .
+
+<http://id.crossref.org/contributor/u-berglund-2ul77tof0cy1r>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Berglund" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "U." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "U. Berglund" .
+
+<http://id.crossref.org/contributor/t-lindvall-2ul77tof0cy1r>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Lindvall" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "T." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "T. Lindvall" .
+
+<http://id.crossref.org/contributor/b-berglund-2ul77tof0cy1r>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Berglund" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "B." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "B. Berglund" .

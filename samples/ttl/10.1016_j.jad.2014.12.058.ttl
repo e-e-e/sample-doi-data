@@ -1,0 +1,116 @@
+<http://id.crossref.org/contributor/sabine-wyckaert-2ozsndslunx6j>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Wyckaert" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Sabine" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Sabine Wyckaert" .
+
+<http://id.crossref.org/contributor/brendon-stubbs-2ozsndslunx6j>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Stubbs" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Brendon" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Brendon Stubbs" .
+
+<http://id.crossref.org/contributor/andrew-soundy-2ozsndslunx6j>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Soundy" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Andrew" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Andrew Soundy" .
+
+<http://id.crossref.org/contributor/pascal-sienaert-2ozsndslunx6j>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Sienaert" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Pascal" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Pascal Sienaert" .
+
+<http://id.crossref.org/contributor/marc-de-hert-2ozsndslunx6j>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "De Hert" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Marc" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Marc De Hert" .
+
+<http://id.crossref.org/issn/0165-0327>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0165-0327" ;
+      <http://purl.org/dc/terms/title>
+              "Journal of Affective Disorders" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0165-0327" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0165-0327" .
+
+<http://id.crossref.org/contributor/jennifer-de-smet-2ozsndslunx6j>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "De Smet" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Jennifer" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Jennifer De Smet" .
+
+<http://id.crossref.org/contributor/davy-vancampfort-2ozsndslunx6j>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <http://orcid.org/0000-0002-4592-8625> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Vancampfort" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Davy" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Davy Vancampfort" .
+
+<http://dx.doi.org/10.1016/j.jad.2014.12.058>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/j.jad.2014.12.058" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "27" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "22" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "177" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/sabine-wyckaert-2ozsndslunx6j> , <http://id.crossref.org/contributor/brendon-stubbs-2ozsndslunx6j> , <http://id.crossref.org/contributor/andrew-soundy-2ozsndslunx6j> , <http://id.crossref.org/contributor/pascal-sienaert-2ozsndslunx6j> , <http://id.crossref.org/contributor/marc-de-hert-2ozsndslunx6j> , <http://id.crossref.org/contributor/jennifer-de-smet-2ozsndslunx6j> , <http://id.crossref.org/contributor/davy-vancampfort-2ozsndslunx6j> , <http://id.crossref.org/contributor/michel-probst-2ozsndslunx6j> ;
+      <http://purl.org/dc/terms/date>
+              "2015-05"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/j.jad.2014.12.058" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0165-0327> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Health-related physical fitness in patients with bipolar disorder vs. healthy controls: An exploratory study" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/j.jad.2014.12.058" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "27" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "22" ;
+      <http://purl.org/ontology/bibo/volume>
+              "177" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1016/j.jad.2014.12.058> , <info:doi/10.1016/j.jad.2014.12.058> .
+
+<http://id.crossref.org/contributor/michel-probst-2ozsndslunx6j>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Probst" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Michel" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Michel Probst" .

@@ -1,0 +1,41 @@
+<http://dx.doi.org/10.1007/978-1-349-23334-2_1>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1007/978-1-349-23334-2_1" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "4" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "1" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/nick-kaye-16p1sss8ipj5> ;
+      <http://purl.org/dc/terms/date>
+              "1994"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1007/978-1-349-23334-2_1" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9780333519189> ;
+      <http://purl.org/dc/terms/publisher>
+              "Macmillan Education UK" ;
+      <http://purl.org/dc/terms/title>
+              "Introduction Limiting the Postmodern" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1007/978-1-349-23334-2_1" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "4" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "1" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1007/978-1-349-23334-2_1> , <info:doi/10.1007/978-1-349-23334-2_1> .
+
+<http://id.crossref.org/isbn/9780333519189>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Postmodernism and Performance" .
+
+<http://id.crossref.org/contributor/nick-kaye-16p1sss8ipj5>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kaye" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Nick" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Nick Kaye" .

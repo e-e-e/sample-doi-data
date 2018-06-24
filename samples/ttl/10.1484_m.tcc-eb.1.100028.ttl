@@ -1,0 +1,52 @@
+<http://id.crossref.org/contributor/helena-kogen-29rwnjh93u6tu>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kogen" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Helena" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Helena Kogen" .
+
+<http://id.crossref.org/issn/2294-8333>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "2294-8333" , "2294-8341" ;
+      <http://purl.org/dc/terms/title>
+              "René d’Anjou, écrivain et mécène (1409-1480)" ;
+      <http://purl.org/ontology/bibo/issn>
+              "2294-8333" , "2294-8341" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:2294-8341" , "urn:issn:2294-8333" .
+
+<http://id.crossref.org/isbn/9782503533506>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "René d’Anjou, écrivain et mécène (1409-1480)" .
+
+<http://dx.doi.org/10.1484/m.tcc-eb.1.100028>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1484/m.tcc-eb.1.100028" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "221" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "209" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/helena-kogen-29rwnjh93u6tu> ;
+      <http://purl.org/dc/terms/date>
+              "2011-01"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1484/m.tcc-eb.1.100028" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/2294-8333> , <http://id.crossref.org/isbn/9782503533506> ;
+      <http://purl.org/dc/terms/publisher>
+              "Brepols Publishers" ;
+      <http://purl.org/dc/terms/title>
+              "Dans l’ombre du prince : la carrière littéraire de Jehan du Prier à la cour de René d’Anjou" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1484/m.tcc-eb.1.100028" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "221" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "209" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1484/m.tcc-eb.1.100028> , <doi:10.1484/m.tcc-eb.1.100028> .

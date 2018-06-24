@@ -1,0 +1,105 @@
+<http://id.crossref.org/contributor/anna-m-belle-26qz4dsfpii8l>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Belle" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Anna M." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Anna M. Belle" .
+
+<http://id.crossref.org/contributor/jinwoo-park-26qz4dsfpii8l>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Park" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Jinwoo" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Jinwoo Park" .
+
+<http://id.crossref.org/contributor/pavel-takmakov-26qz4dsfpii8l>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Takmakov" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Pavel" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Pavel Takmakov" .
+
+<http://id.crossref.org/contributor/r-mark-wightman-26qz4dsfpii8l>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Wightman" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "R. Mark" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "R. Mark Wightman" .
+
+<http://dx.doi.org/10.1021/ac200143v>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1021/ac200143v" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "3571" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "3563" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "83" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/anna-m-belle-26qz4dsfpii8l> , <http://id.crossref.org/contributor/jinwoo-park-26qz4dsfpii8l> , <http://id.crossref.org/contributor/pavel-takmakov-26qz4dsfpii8l> , <http://id.crossref.org/contributor/r-mark-wightman-26qz4dsfpii8l> , <http://id.crossref.org/contributor/richard-b-keithley-26qz4dsfpii8l> , <http://id.crossref.org/contributor/elizabeth-s-bucher-26qz4dsfpii8l> , <http://id.crossref.org/contributor/catarina-a-owesson-white-26qz4dsfpii8l> ;
+      <http://purl.org/dc/terms/date>
+              "2011-05"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1021/ac200143v" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0003-2700> ;
+      <http://purl.org/dc/terms/publisher>
+              "American Chemical Society (ACS)" ;
+      <http://purl.org/dc/terms/title>
+              "Higher Sensitivity Dopamine Measurements with Faster-Scan Cyclic Voltammetry" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1021/ac200143v" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "3571" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "3563" ;
+      <http://purl.org/ontology/bibo/volume>
+              "83" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1021/ac200143v> , <doi:10.1021/ac200143v> .
+
+<http://id.crossref.org/contributor/richard-b-keithley-26qz4dsfpii8l>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Keithley" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Richard B." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Richard B. Keithley" .
+
+<http://id.crossref.org/issn/0003-2700>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1520-6882" , "0003-2700" ;
+      <http://purl.org/dc/terms/title>
+              "Analytical Chemistry" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1520-6882" , "0003-2700" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0003-2700" , "urn:issn:1520-6882" .
+
+<http://id.crossref.org/contributor/elizabeth-s-bucher-26qz4dsfpii8l>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Bucher" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Elizabeth S." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Elizabeth S. Bucher" .
+
+<http://id.crossref.org/contributor/catarina-a-owesson-white-26qz4dsfpii8l>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Owesson-White" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Catarina A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Catarina A. Owesson-White" .

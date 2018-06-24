@@ -1,0 +1,51 @@
+<http://id.crossref.org/contributor/milton-l-mccall-3osk2trian68u>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "McCall" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Milton L." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Milton L. McCall" .
+
+<http://id.crossref.org/issn/0002-9378>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0002-9378" ;
+      <http://purl.org/dc/terms/title>
+              "American Journal of Obstetrics and Gynecology" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0002-9378" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0002-9378" .
+
+<http://dx.doi.org/10.1016/s0002-9378(16)35436-9>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/s0002-9378(16)35436-9" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "301" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "295" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "85" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/milton-l-mccall-3osk2trian68u> ;
+      <http://purl.org/dc/terms/date>
+              "1963-02"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/s0002-9378(16)35436-9" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0002-9378> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "A modern evaluation of the radical vaginal operation for carcinoma of the cervix" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/s0002-9378(16)35436-9" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "301" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "295" ;
+      <http://purl.org/ontology/bibo/volume>
+              "85" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1016/s0002-9378(16)35436-9> , <doi:10.1016/s0002-9378(16)35436-9> .

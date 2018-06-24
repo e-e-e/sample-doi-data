@@ -1,0 +1,22 @@
+<http://id.crossref.org/isbn/9789004262591>
+      a       <http://purl.org/ontology/bibo/Book> .
+
+<http://dx.doi.org/10.1163/9789004262591>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1163/9789004262591" ;
+      <http://purl.org/dc/terms/date>
+              "2013-12-02"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1163/9789004262591" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9789004262591> ;
+      <http://purl.org/dc/terms/publisher>
+              "Brill" ;
+      <http://purl.org/dc/terms/title>
+              """
+         The Limits of Maritime Jurisdiction
+      """ ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1163/9789004262591" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1163/9789004262591> , <doi:10.1163/9789004262591> .

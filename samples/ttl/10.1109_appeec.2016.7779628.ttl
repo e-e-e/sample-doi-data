@@ -1,0 +1,59 @@
+<http://id.crossref.org/contributor/jiankang-liang-1y1aq6bt48ixr>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Jiankang Liang" ;
+      <http://xmlns.com/foaf/0.1/name>
+              " Jiankang Liang" .
+
+<http://id.crossref.org/contributor/zece-zhang-1y1aq6bt48ixr>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Zece Zhang" ;
+      <http://xmlns.com/foaf/0.1/name>
+              " Zece Zhang" .
+
+<http://id.crossref.org/contributor/rong-ye-1y1aq6bt48ixr>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Rong Ye" ;
+      <http://xmlns.com/foaf/0.1/name>
+              " Rong Ye" .
+
+<http://id.crossref.org/contributor/zhangsui-lin-1y1aq6bt48ixr>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Zhangsui Lin" ;
+      <http://xmlns.com/foaf/0.1/name>
+              " Zhangsui Lin" .
+
+<http://id.crossref.org/isbn/9781509054183>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "2016 IEEE PES Asia-Pacific Power and Energy Engineering Conference (APPEEC)" .
+
+<http://id.crossref.org/contributor/xiuli-wang-1y1aq6bt48ixr>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Xiuli Wang" ;
+      <http://xmlns.com/foaf/0.1/name>
+              " Xiuli Wang" .
+
+<http://dx.doi.org/10.1109/appeec.2016.7779628>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1109/appeec.2016.7779628" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/jiankang-liang-1y1aq6bt48ixr> , <http://id.crossref.org/contributor/zece-zhang-1y1aq6bt48ixr> , <http://id.crossref.org/contributor/rong-ye-1y1aq6bt48ixr> , <http://id.crossref.org/contributor/zhangsui-lin-1y1aq6bt48ixr> , <http://id.crossref.org/contributor/xiuli-wang-1y1aq6bt48ixr> ;
+      <http://purl.org/dc/terms/date>
+              "2016-10"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1109/appeec.2016.7779628" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9781509054183> ;
+      <http://purl.org/dc/terms/publisher>
+              "IEEE" ;
+      <http://purl.org/dc/terms/title>
+              "Transmission network including VSC-HVDC expansion planning based on genetic algorithm with shift operation" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1109/appeec.2016.7779628" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1109/appeec.2016.7779628> , <doi:10.1109/appeec.2016.7779628> .

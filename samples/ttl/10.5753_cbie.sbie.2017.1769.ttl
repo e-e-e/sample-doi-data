@@ -1,0 +1,44 @@
+<http://dx.doi.org/10.5753/cbie.sbie.2017.1769>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.5753/cbie.sbie.2017.1769" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/andre-da-silva-htp35cbzd8xw> , <http://id.crossref.org/contributor/davidson-piazza-htp35cbzd8xw> , <http://id.crossref.org/contributor/flavia-arantes-htp35cbzd8xw> ;
+      <http://purl.org/dc/terms/date>
+              "2017-10-27"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.5753/cbie.sbie.2017.1769" ;
+      <http://purl.org/dc/terms/publisher>
+              "Brazilian Computer Society (Sociedade Brasileira de Computação - SBC)" ;
+      <http://purl.org/dc/terms/title>
+              "Recomendações de Acessibilidade para a Equipe de um Software Livre Educacional" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.5753/cbie.sbie.2017.1769" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.5753/cbie.sbie.2017.1769> , <doi:10.5753/cbie.sbie.2017.1769> .
+
+<http://id.crossref.org/contributor/andre-da-silva-htp35cbzd8xw>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Silva" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "André Da" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "André Da Silva" .
+
+<http://id.crossref.org/contributor/davidson-piazza-htp35cbzd8xw>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Piazza" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Davidson" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Davidson Piazza" .
+
+<http://id.crossref.org/contributor/flavia-arantes-htp35cbzd8xw>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Arantes" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Flávia" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Flávia Arantes" .

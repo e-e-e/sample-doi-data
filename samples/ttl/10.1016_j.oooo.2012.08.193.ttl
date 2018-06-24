@@ -1,0 +1,40 @@
+<http://id.crossref.org/issn/2212-4403>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "2212-4403" ;
+      <http://purl.org/dc/terms/title>
+              "Oral Surgery, Oral Medicine, Oral Pathology and Oral Radiology" ;
+      <http://purl.org/ontology/bibo/issn>
+              "2212-4403" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:2212-4403" .
+
+<http://dx.doi.org/10.1016/j.oooo.2012.08.193>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/j.oooo.2012.08.193" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "e84" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "e83" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "114" ;
+      <http://purl.org/dc/terms/date>
+              "2012-10"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/j.oooo.2012.08.193" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/2212-4403> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Paracoccidioidomycosis in women: A case report" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/j.oooo.2012.08.193" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "e84" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "e83" ;
+      <http://purl.org/ontology/bibo/volume>
+              "114" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1016/j.oooo.2012.08.193> , <info:doi/10.1016/j.oooo.2012.08.193> .

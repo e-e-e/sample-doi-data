@@ -1,0 +1,69 @@
+<http://id.crossref.org/contributor/john-knight-eujvdx1hrwj1>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Knight" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "John" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "John Knight" .
+
+<http://id.crossref.org/issn/0378-4266>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0378-4266" ;
+      <http://purl.org/dc/terms/title>
+              "Journal of Banking & Finance" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0378-4266" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0378-4266" .
+
+<http://id.crossref.org/contributor/alessandra-guariglia-eujvdx1hrwj1>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Guariglia" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Alessandra" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Alessandra Guariglia" .
+
+<http://dx.doi.org/10.1016/j.jbankfin.2012.03.025>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/j.jbankfin.2012.03.025" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "1507" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "1490" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "37" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/john-knight-eujvdx1hrwj1> , <http://id.crossref.org/contributor/alessandra-guariglia-eujvdx1hrwj1> , <http://id.crossref.org/contributor/sai-ding-eujvdx1hrwj1> ;
+      <http://purl.org/dc/terms/date>
+              "2013-05"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/j.jbankfin.2012.03.025" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0378-4266> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Investment and financing constraints in China: Does working capital management make a difference?" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/j.jbankfin.2012.03.025" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "1507" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "1490" ;
+      <http://purl.org/ontology/bibo/volume>
+              "37" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1016/j.jbankfin.2012.03.025> , <doi:10.1016/j.jbankfin.2012.03.025> .
+
+<http://id.crossref.org/contributor/sai-ding-eujvdx1hrwj1>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Ding" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Sai" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Sai Ding" .

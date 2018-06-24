@@ -1,0 +1,206 @@
+<http://id.crossref.org/contributor/meihui-pan-2lolxgbi92qo1>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Pan" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Meihui" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Meihui Pan" .
+
+<http://id.crossref.org/contributor/daniel-lasala-2lolxgbi92qo1>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "LaSala" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Daniel" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Daniel LaSala" .
+
+<http://id.crossref.org/contributor/muneto-mogi-2lolxgbi92qo1>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Mogi" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Muneto" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Muneto Mogi" .
+
+<http://id.crossref.org/contributor/guoming-zhu-2lolxgbi92qo1>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Zhu" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Guoming" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Guoming Zhu" .
+
+<http://id.crossref.org/contributor/margaret-brousseau-2lolxgbi92qo1>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Brousseau" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Margaret" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Margaret Brousseau" .
+
+<http://dx.doi.org/10.1021/acs.jmedchem.7b00900>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1021/acs.jmedchem.7b00900" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "8481" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "8466" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "60" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/meihui-pan-2lolxgbi92qo1> , <http://id.crossref.org/contributor/muneto-mogi-2lolxgbi92qo1> , <http://id.crossref.org/contributor/daniel-lasala-2lolxgbi92qo1> , <http://id.crossref.org/contributor/guoming-zhu-2lolxgbi92qo1> , <http://id.crossref.org/contributor/margaret-brousseau-2lolxgbi92qo1> , <http://id.crossref.org/contributor/ichiro-umemura-2lolxgbi92qo1> , <http://id.crossref.org/contributor/yuki-iwaki-2lolxgbi92qo1> , <http://id.crossref.org/contributor/dean-f-rigel-2lolxgbi92qo1> , <http://id.crossref.org/contributor/ken-yamada-2lolxgbi92qo1> , <http://id.crossref.org/contributor/wataru-honma-2lolxgbi92qo1> , <http://id.crossref.org/contributor/hironobu-mitani-2lolxgbi92qo1> , <http://id.crossref.org/contributor/kazuhiko-nonomura-2lolxgbi92qo1> , <http://id.crossref.org/contributor/akiko-iimura-2lolxgbi92qo1> , <http://id.crossref.org/contributor/kayo-yasoshima-2lolxgbi92qo1> , <http://id.crossref.org/contributor/hidetomo-imase-2lolxgbi92qo1> , <http://id.crossref.org/contributor/toshio-kawanami-2lolxgbi92qo1> , <http://id.crossref.org/contributor/osamu-ohmori-2lolxgbi92qo1> , <http://id.crossref.org/contributor/guiqing-liang-2lolxgbi92qo1> ;
+      <http://purl.org/dc/terms/date>
+              "2017-10-16"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1021/acs.jmedchem.7b00900" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0022-2623> ;
+      <http://purl.org/dc/terms/publisher>
+              "American Chemical Society (ACS)" ;
+      <http://purl.org/dc/terms/title>
+              "Discovery of a Novel Piperidine-Based Inhibitor of Cholesteryl Ester Transfer Protein (CETP) That Retains Activity in Hypertriglyceridemic Plasma" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1021/acs.jmedchem.7b00900" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "8481" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "8466" ;
+      <http://purl.org/ontology/bibo/volume>
+              "60" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1021/acs.jmedchem.7b00900> , <doi:10.1021/acs.jmedchem.7b00900> .
+
+<http://id.crossref.org/contributor/ichiro-umemura-2lolxgbi92qo1>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Umemura" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Ichiro" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Ichiro Umemura" .
+
+<http://id.crossref.org/contributor/yuki-iwaki-2lolxgbi92qo1>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Iwaki" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Yuki" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Yuki Iwaki" .
+
+<http://id.crossref.org/contributor/wataru-honma-2lolxgbi92qo1>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Honma" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Wataru" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Wataru Honma" .
+
+<http://id.crossref.org/contributor/dean-f-rigel-2lolxgbi92qo1>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Rigel" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Dean F." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Dean F. Rigel" .
+
+<http://id.crossref.org/contributor/ken-yamada-2lolxgbi92qo1>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <http://orcid.org/0000-0001-7899-6192> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Yamada" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Ken" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Ken Yamada" .
+
+<http://id.crossref.org/contributor/hironobu-mitani-2lolxgbi92qo1>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Mitani" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Hironobu" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Hironobu Mitani" .
+
+<http://id.crossref.org/contributor/kazuhiko-nonomura-2lolxgbi92qo1>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Nonomura" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Kazuhiko" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Kazuhiko Nonomura" .
+
+<http://id.crossref.org/contributor/akiko-iimura-2lolxgbi92qo1>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Iimura" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Akiko" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Akiko Iimura" .
+
+<http://id.crossref.org/contributor/kayo-yasoshima-2lolxgbi92qo1>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Yasoshima" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Kayo" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Kayo Yasoshima" .
+
+<http://id.crossref.org/issn/0022-2623>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1520-4804" , "0022-2623" ;
+      <http://purl.org/dc/terms/title>
+              "Journal of Medicinal Chemistry" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1520-4804" , "0022-2623" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1520-4804" , "urn:issn:0022-2623" .
+
+<http://id.crossref.org/contributor/hidetomo-imase-2lolxgbi92qo1>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Imase" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Hidetomo" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Hidetomo Imase" .
+
+<http://id.crossref.org/contributor/toshio-kawanami-2lolxgbi92qo1>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kawanami" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Toshio" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Toshio Kawanami" .
+
+<http://id.crossref.org/contributor/osamu-ohmori-2lolxgbi92qo1>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Ohmori" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Osamu" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Osamu Ohmori" .
+
+<http://id.crossref.org/contributor/guiqing-liang-2lolxgbi92qo1>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Liang" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Guiqing" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Guiqing Liang" .

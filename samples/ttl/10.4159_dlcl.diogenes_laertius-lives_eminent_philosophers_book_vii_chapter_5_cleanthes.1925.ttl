@@ -1,0 +1,33 @@
+<http://id.crossref.org/contributor/diogenes-laertius-3eq11pbnudvlj>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Diogenes Laertius" ;
+      <http://xmlns.com/foaf/0.1/name>
+              " Diogenes Laertius" .
+
+<http://dx.doi.org/10.4159/dlcl.diogenes_laertius-lives_eminent_philosophers_book_vii_chapter_5_cleanthes.1925>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.4159/dlcl.diogenes_laertius-lives_eminent_philosophers_book_vii_chapter_5_cleanthes.1925" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/diogenes-laertius-3eq11pbnudvlj> , <http://id.crossref.org/contributor/r-d-hicks-3eq11pbnudvlj> ;
+      <http://purl.org/dc/terms/date>
+              "1925"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.4159/dlcl.diogenes_laertius-lives_eminent_philosophers_book_vii_chapter_5_cleanthes.1925" ;
+      <http://purl.org/dc/terms/publisher>
+              "Harvard University Press" ;
+      <http://purl.org/dc/terms/title>
+              "Lives of Eminent Philosophers 7.5. Cleanthes" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.4159/dlcl.diogenes_laertius-lives_eminent_philosophers_book_vii_chapter_5_cleanthes.1925" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.4159/dlcl.diogenes_laertius-lives_eminent_philosophers_book_vii_chapter_5_cleanthes.1925> , <info:doi/10.4159/dlcl.diogenes_laertius-lives_eminent_philosophers_book_vii_chapter_5_cleanthes.1925> .
+
+<http://id.crossref.org/contributor/r-d-hicks-3eq11pbnudvlj>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Hicks" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "R. D." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "R. D. Hicks" .

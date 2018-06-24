@@ -1,0 +1,22 @@
+<http://dx.doi.org/10.3138/9781442689633-008>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.3138/9781442689633-008" ;
+      <http://purl.org/dc/terms/date>
+              "2008-01-31"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.3138/9781442689633-008" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9781442689633> ;
+      <http://purl.org/dc/terms/publisher>
+              "University of Toronto Press" ;
+      <http://purl.org/dc/terms/title>
+              "Conclusion" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.3138/9781442689633-008" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.3138/9781442689633-008> , <info:doi/10.3138/9781442689633-008> .
+
+<http://id.crossref.org/isbn/9781442689633>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Women Novelists Before Jane Austen" .

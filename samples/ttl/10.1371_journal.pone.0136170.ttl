@@ -1,0 +1,146 @@
+<http://id.crossref.org/contributor/jiaquan-huang-3c9n3jhic8tlu>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Huang" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Jiaquan" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Jiaquan Huang" .
+
+<http://id.crossref.org/contributor/zengshu-cheng-3c9n3jhic8tlu>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Cheng" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Zengshu" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Zengshu Cheng" .
+
+<http://id.crossref.org/contributor/marie-joelle-virolle-3c9n3jhic8tlu>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Virolle" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Marie-Joelle" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Marie-Joelle Virolle" .
+
+<http://id.crossref.org/contributor/yurong-li-3c9n3jhic8tlu>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Li" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Yurong" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Yurong Li" .
+
+<http://id.crossref.org/contributor/jin-wang-3c9n3jhic8tlu>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Wang" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Jin" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Jin Wang" .
+
+<http://id.crossref.org/contributor/yong-lei-3c9n3jhic8tlu>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Lei" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Yong" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Yong Lei" .
+
+<http://id.crossref.org/contributor/silong-chen-3c9n3jhic8tlu>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Chen" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Silong" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Silong Chen" .
+
+<http://id.crossref.org/contributor/yahui-song-3c9n3jhic8tlu>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Song" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Yahui" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Yahui Song" .
+
+<http://id.crossref.org/contributor/xian-xu-3c9n3jhic8tlu>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Xu" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Xian" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Xian Xu" .
+
+<http://dx.doi.org/10.1371/journal.pone.0136170>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1371/journal.pone.0136170" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "e0136170" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "10" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/jiaquan-huang-3c9n3jhic8tlu> , <http://id.crossref.org/contributor/yahui-song-3c9n3jhic8tlu> , <http://id.crossref.org/contributor/marie-joelle-virolle-3c9n3jhic8tlu> , <http://id.crossref.org/contributor/xian-xu-3c9n3jhic8tlu> , <http://id.crossref.org/contributor/zengshu-cheng-3c9n3jhic8tlu> , <http://id.crossref.org/contributor/yurong-li-3c9n3jhic8tlu> , <http://id.crossref.org/contributor/huifang-jiang-3c9n3jhic8tlu> , <http://id.crossref.org/contributor/boshou-liao-3c9n3jhic8tlu> , <http://id.crossref.org/contributor/jin-wang-3c9n3jhic8tlu> , <http://id.crossref.org/contributor/yong-lei-3c9n3jhic8tlu> , <http://id.crossref.org/contributor/jianan-zhang-3c9n3jhic8tlu> , <http://id.crossref.org/contributor/silong-chen-3c9n3jhic8tlu> ;
+      <http://purl.org/dc/terms/date>
+              "2015-08-24"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1371/journal.pone.0136170" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1932-6203> ;
+      <http://purl.org/dc/terms/publisher>
+              "Public Library of Science (PLoS)" ;
+      <http://purl.org/dc/terms/title>
+              "The Peanut (Arachis hypogaea L.) Gene AhLPAT2 Increases the Lipid Content of Transgenic Arabidopsis Seeds" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1371/journal.pone.0136170" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "e0136170" ;
+      <http://purl.org/ontology/bibo/volume>
+              "10" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1371/journal.pone.0136170> , <info:doi/10.1371/journal.pone.0136170> .
+
+<http://id.crossref.org/contributor/huifang-jiang-3c9n3jhic8tlu>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Jiang" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Huifang" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Huifang Jiang" .
+
+<http://id.crossref.org/contributor/boshou-liao-3c9n3jhic8tlu>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Liao" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Boshou" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Boshou Liao" .
+
+<http://id.crossref.org/issn/1932-6203>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1932-6203" ;
+      <http://purl.org/dc/terms/title>
+              "PLOS ONE" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1932-6203" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1932-6203" .
+
+<http://id.crossref.org/contributor/jianan-zhang-3c9n3jhic8tlu>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Zhang" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Jianan" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Jianan Zhang" .

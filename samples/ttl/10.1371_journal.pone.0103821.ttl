@@ -1,0 +1,110 @@
+<http://id.crossref.org/contributor/conrad-von-schubert-3vfa3dms2r235>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "von Schubert" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Conrad" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Conrad von Schubert" .
+
+<http://id.crossref.org/issn/1932-6203>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1932-6203" ;
+      <http://purl.org/dc/terms/title>
+              "PLoS ONE" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1932-6203" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1932-6203" .
+
+<http://dx.doi.org/10.1371/journal.pone.0103821>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1371/journal.pone.0103821" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "e103821" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "9" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/conrad-von-schubert-3vfa3dms2r235> , <http://id.crossref.org/contributor/dirk-a-e-dobbelaere-3vfa3dms2r235> , <http://id.crossref.org/contributor/olga-wiens-3vfa3dms2r235> , <http://id.crossref.org/contributor/mauro-salvi-3vfa3dms2r235> , <http://id.crossref.org/contributor/dong-xia-3vfa3dms2r235> , <http://id.crossref.org/contributor/kerry-l-woods-3vfa3dms2r235> , <http://id.crossref.org/contributor/volker-t-heussler-3vfa3dms2r235> , <http://id.crossref.org/contributor/jonathan-m-wastling-3vfa3dms2r235> ;
+      <http://purl.org/dc/terms/date>
+              "2014-07-31"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1371/journal.pone.0103821" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1932-6203> ;
+      <http://purl.org/dc/terms/publisher>
+              "Public Library of Science (PLoS)" ;
+      <http://purl.org/dc/terms/title>
+              "Cell Cycle-Dependent Phosphorylation of Theileria annulata Schizont Surface Proteins" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1371/journal.pone.0103821" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "e103821" ;
+      <http://purl.org/ontology/bibo/volume>
+              "9" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1371/journal.pone.0103821> , <info:doi/10.1371/journal.pone.0103821> .
+
+<http://id.crossref.org/contributor/dirk-a-e-dobbelaere-3vfa3dms2r235>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Dobbelaere" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Dirk A. E." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Dirk A. E. Dobbelaere" .
+
+<http://id.crossref.org/contributor/olga-wiens-3vfa3dms2r235>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Wiens" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Olga" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Olga Wiens" .
+
+<http://id.crossref.org/contributor/mauro-salvi-3vfa3dms2r235>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Salvi" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Mauro" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Mauro Salvi" .
+
+<http://id.crossref.org/contributor/dong-xia-3vfa3dms2r235>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Xia" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Dong" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Dong Xia" .
+
+<http://id.crossref.org/contributor/kerry-l-woods-3vfa3dms2r235>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Woods" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Kerry L." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Kerry L. Woods" .
+
+<http://id.crossref.org/contributor/volker-t-heussler-3vfa3dms2r235>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Heussler" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Volker T." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Volker T. Heussler" .
+
+<http://id.crossref.org/contributor/jonathan-m-wastling-3vfa3dms2r235>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Wastling" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Jonathan M." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Jonathan M. Wastling" .

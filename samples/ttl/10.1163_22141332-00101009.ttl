@@ -1,0 +1,51 @@
+<http://id.crossref.org/issn/2214-1324>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "2214-1332" , "2214-1324" ;
+      <http://purl.org/dc/terms/title>
+              "Journal of Jesuit Studies" ;
+      <http://purl.org/ontology/bibo/issn>
+              "2214-1332" , "2214-1324" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:2214-1324" , "urn:issn:2214-1332" .
+
+<http://id.crossref.org/contributor/eric-nelson-2jzsw4qplndx>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Nelson" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Eric" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Eric Nelson" .
+
+<http://dx.doi.org/10.1163/22141332-00101009>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1163/22141332-00101009" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "130" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "128" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "1" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/eric-nelson-2jzsw4qplndx> ;
+      <http://purl.org/dc/terms/date>
+              "2014-01-01"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1163/22141332-00101009" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/2214-1324> ;
+      <http://purl.org/dc/terms/publisher>
+              "Brill Academic Publishers" ;
+      <http://purl.org/dc/terms/title>
+              "Alexandra Bamji, Geert H. Janssen and Mary Laven (eds.)" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1163/22141332-00101009" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "130" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "128" ;
+      <http://purl.org/ontology/bibo/volume>
+              "1" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1163/22141332-00101009> , <info:doi/10.1163/22141332-00101009> .

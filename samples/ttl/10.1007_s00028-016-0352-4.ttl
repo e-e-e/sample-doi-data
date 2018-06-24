@@ -1,0 +1,69 @@
+<http://id.crossref.org/issn/1424-3199>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1424-3202" , "1424-3199" ;
+      <http://purl.org/dc/terms/title>
+              "Journal of Evolution Equations" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1424-3202" , "1424-3199" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1424-3199" , "urn:issn:1424-3202" .
+
+<http://id.crossref.org/contributor/takahito-kashiwabara-3iabah9hpadf9>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kashiwabara" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Takahito" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Takahito Kashiwabara" .
+
+<http://dx.doi.org/10.1007/s00028-016-0352-4>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1007/s00028-016-0352-4" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "171" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "131" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "17" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/takahito-kashiwabara-3iabah9hpadf9> , <http://id.crossref.org/contributor/matthias-kohne-3iabah9hpadf9> , <http://id.crossref.org/contributor/dieter-bothe-3iabah9hpadf9> ;
+      <http://purl.org/dc/terms/date>
+              "2016-09-19"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1007/s00028-016-0352-4" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1424-3199> ;
+      <http://purl.org/dc/terms/publisher>
+              "Springer Nature" ;
+      <http://purl.org/dc/terms/title>
+              "Strong well-posedness for a class of dynamic outflow boundary conditions for incompressible Newtonian flows" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1007/s00028-016-0352-4" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "171" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "131" ;
+      <http://purl.org/ontology/bibo/volume>
+              "17" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1007/s00028-016-0352-4> , <info:doi/10.1007/s00028-016-0352-4> .
+
+<http://id.crossref.org/contributor/matthias-kohne-3iabah9hpadf9>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Köhne" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Matthias" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Matthias Köhne" .
+
+<http://id.crossref.org/contributor/dieter-bothe-3iabah9hpadf9>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Bothe" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Dieter" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Dieter Bothe" .

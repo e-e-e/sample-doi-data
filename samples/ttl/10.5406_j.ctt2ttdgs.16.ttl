@@ -1,0 +1,30 @@
+<http://dx.doi.org/10.5406/j.ctt2ttdgs.16>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.5406/j.ctt2ttdgs.16" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "174" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "169" ;
+      <http://purl.org/dc/terms/date>
+              ""^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.5406/j.ctt2ttdgs.16" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9780252093166> ;
+      <http://purl.org/dc/terms/publisher>
+              "University of Illinois Press" ;
+      <http://purl.org/dc/terms/title>
+              "APPENDIX C:" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.5406/j.ctt2ttdgs.16" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "174" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "169" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.5406/j.ctt2ttdgs.16> , <info:doi/10.5406/j.ctt2ttdgs.16> .
+
+<http://id.crossref.org/isbn/9780252093166>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Presidential Campaigns and Presidential Accountability" .

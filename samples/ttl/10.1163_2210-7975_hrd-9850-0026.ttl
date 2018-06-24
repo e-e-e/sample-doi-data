@@ -1,0 +1,15 @@
+<http://dx.doi.org/10.1163/2210-7975_hrd-9850-0026>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1163/2210-7975_hrd-9850-0026" ;
+      <http://purl.org/dc/terms/date>
+              ""^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1163/2210-7975_hrd-9850-0026" ;
+      <http://purl.org/dc/terms/publisher>
+              "Brill Academic Publishers" ;
+      <http://purl.org/dc/terms/title>
+              "weekly-reports-no26-1925-june-2008-15-pp" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1163/2210-7975_hrd-9850-0026" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1163/2210-7975_hrd-9850-0026> , <doi:10.1163/2210-7975_hrd-9850-0026> .

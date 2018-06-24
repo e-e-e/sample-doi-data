@@ -1,0 +1,41 @@
+<http://id.crossref.org/isbn/9783658031503>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Der Islam und der Westen" .
+
+<http://id.crossref.org/contributor/wolfgang-frindte-3o020wco00eft>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Frindte" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Wolfgang" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Wolfgang Frindte" .
+
+<http://dx.doi.org/10.1007/978-3-658-03151-0_5>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1007/978-3-658-03151-0_5" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "174" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "121" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/wolfgang-frindte-3o020wco00eft> ;
+      <http://purl.org/dc/terms/date>
+              "2013"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1007/978-3-658-03151-0_5" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9783658031503> ;
+      <http://purl.org/dc/terms/publisher>
+              "Springer Fachmedien Wiesbaden" ;
+      <http://purl.org/dc/terms/title>
+              "„Lebenswelten junger Muslime in Deutschland“ – reloaded" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1007/978-3-658-03151-0_5" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "174" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "121" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1007/978-3-658-03151-0_5> , <doi:10.1007/978-3-658-03151-0_5> .

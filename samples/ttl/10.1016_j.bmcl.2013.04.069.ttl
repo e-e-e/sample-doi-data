@@ -1,0 +1,96 @@
+<http://id.crossref.org/contributor/rui-wang-3k1gjmtjmge4j>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Wang" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Rui" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Rui Wang" .
+
+<http://id.crossref.org/contributor/xianxing-jiang-3k1gjmtjmge4j>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Jiang" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Xianxing" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Xianxing Jiang" .
+
+<http://id.crossref.org/contributor/wei-zhang-3k1gjmtjmge4j>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Zhang" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Wei" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Wei Zhang" .
+
+<http://id.crossref.org/contributor/jingjing-song-3k1gjmtjmge4j>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Song" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Jingjing" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Jingjing Song" .
+
+<http://id.crossref.org/issn/0960-894X>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0960-894X" ;
+      <http://purl.org/dc/terms/title>
+              "Bioorganic & Medicinal Chemistry Letters" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0960-894X" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0960-894X" .
+
+<http://id.crossref.org/contributor/yanhong-xing-3k1gjmtjmge4j>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Xing" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Yanhong" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Yanhong Xing" .
+
+<http://dx.doi.org/10.1016/j.bmcl.2013.04.069>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/j.bmcl.2013.04.069" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "3872" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "3868" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "23" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/rui-wang-3k1gjmtjmge4j> , <http://id.crossref.org/contributor/xianxing-jiang-3k1gjmtjmge4j> , <http://id.crossref.org/contributor/wei-zhang-3k1gjmtjmge4j> , <http://id.crossref.org/contributor/jingjing-song-3k1gjmtjmge4j> , <http://id.crossref.org/contributor/yanhong-xing-3k1gjmtjmge4j> , <http://id.crossref.org/contributor/yixin-zhang-3k1gjmtjmge4j> ;
+      <http://purl.org/dc/terms/date>
+              "2013-07"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/j.bmcl.2013.04.069" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0960-894X> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Anticancer effects of a novel class rosin-derivatives with different mechanisms" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/j.bmcl.2013.04.069" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "3872" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "3868" ;
+      <http://purl.org/ontology/bibo/volume>
+              "23" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1016/j.bmcl.2013.04.069> , <info:doi/10.1016/j.bmcl.2013.04.069> .
+
+<http://id.crossref.org/contributor/yixin-zhang-3k1gjmtjmge4j>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Zhang" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Yixin" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Yixin Zhang" .

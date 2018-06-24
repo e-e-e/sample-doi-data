@@ -1,0 +1,47 @@
+<http://id.crossref.org/contributor/sebastien-wesser-gup3e23g8ptv>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Wesser" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Sébastien" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Sébastien Wesser" .
+
+<http://dx.doi.org/10.3917/polam.026.0085>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.3917/polam.026.0085" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "85" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "26" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/sebastien-wesser-gup3e23g8ptv> ;
+      <http://purl.org/dc/terms/date>
+              "2015"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.3917/polam.026.0085" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1771-8848> ;
+      <http://purl.org/dc/terms/publisher>
+              "CAIRN" ;
+      <http://purl.org/dc/terms/title>
+              "La relation américano-saoudienne à l’épreuve du rapprochement entre Washington et Téhéran" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.3917/polam.026.0085" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "85" ;
+      <http://purl.org/ontology/bibo/volume>
+              "26" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.3917/polam.026.0085> , <doi:10.3917/polam.026.0085> .
+
+<http://id.crossref.org/issn/1771-8848>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1771-8848" , "2264-5306" ;
+      <http://purl.org/dc/terms/title>
+              "Politique américaine" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1771-8848" , "2264-5306" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1771-8848" , "urn:issn:2264-5306" .

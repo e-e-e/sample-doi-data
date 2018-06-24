@@ -1,0 +1,51 @@
+<http://id.crossref.org/issn/0883-1157>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1940-3216" , "0883-1157" ;
+      <http://purl.org/dc/terms/title>
+              "Romance Quarterly" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1940-3216" , "0883-1157" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0883-1157" , "urn:issn:1940-3216" .
+
+<http://dx.doi.org/10.1080/08831157.1992.10544990>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1080/08831157.1992.10544990" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "236" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "232" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "39" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/yuonne-bargues-rollins-3ibgevadr8cxd> ;
+      <http://purl.org/dc/terms/date>
+              "1992-05"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1080/08831157.1992.10544990" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0883-1157> ;
+      <http://purl.org/dc/terms/publisher>
+              "Informa UK Limited" ;
+      <http://purl.org/dc/terms/title>
+              "Emile Zola: Correspondance VII, 1890–1893. Editée sous la direction de B.H. Bakker" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1080/08831157.1992.10544990" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "236" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "232" ;
+      <http://purl.org/ontology/bibo/volume>
+              "39" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1080/08831157.1992.10544990> , <info:doi/10.1080/08831157.1992.10544990> .
+
+<http://id.crossref.org/contributor/yuonne-bargues-rollins-3ibgevadr8cxd>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Rollins" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Yuonne Bargues" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Yuonne Bargues Rollins" .

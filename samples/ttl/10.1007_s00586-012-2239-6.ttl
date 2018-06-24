@@ -1,0 +1,69 @@
+<http://id.crossref.org/contributor/jwalant-s-mehta-1az0zbxkkzudh>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Mehta" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Jwalant S." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Jwalant S. Mehta" .
+
+<http://id.crossref.org/issn/0940-6719>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0940-6719" , "1432-0932" ;
+      <http://purl.org/dc/terms/title>
+              "European Spine Journal" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0940-6719" , "1432-0932" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1432-0932" , "urn:issn:0940-6719" .
+
+<http://id.crossref.org/contributor/i-j-harding-1az0zbxkkzudh>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Harding" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "I. J." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "I. J. Harding" .
+
+<http://id.crossref.org/contributor/s-kochhar-1az0zbxkkzudh>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kochhar" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "S." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "S. Kochhar" .
+
+<http://dx.doi.org/10.1007/s00586-012-2239-6>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1007/s00586-012-2239-6" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "2133" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "2128" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "21" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/jwalant-s-mehta-1az0zbxkkzudh> , <http://id.crossref.org/contributor/i-j-harding-1az0zbxkkzudh> , <http://id.crossref.org/contributor/s-kochhar-1az0zbxkkzudh> ;
+      <http://purl.org/dc/terms/date>
+              "2012-03-21"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1007/s00586-012-2239-6" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0940-6719> ;
+      <http://purl.org/dc/terms/publisher>
+              "Springer Nature" ;
+      <http://purl.org/dc/terms/title>
+              "A slip above a slip: retrolisthesis of the motion segment above a spondylolytic spondylolisthesis" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1007/s00586-012-2239-6" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "2133" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "2128" ;
+      <http://purl.org/ontology/bibo/volume>
+              "21" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1007/s00586-012-2239-6> , <info:doi/10.1007/s00586-012-2239-6> .

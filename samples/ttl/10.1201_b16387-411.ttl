@@ -1,0 +1,59 @@
+<http://id.crossref.org/contributor/j-jith-f38u218b20ov>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Jith" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "J" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "J Jith" .
+
+<http://id.crossref.org/contributor/k-mohan-f38u218b20ov>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Mohan" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "K" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "K Mohan" .
+
+<http://dx.doi.org/10.1201/b16387-411>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1201/b16387-411" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "2847" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "2841" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/j-jith-f38u218b20ov> , <http://id.crossref.org/contributor/k-mohan-f38u218b20ov> , <http://id.crossref.org/contributor/s-gupta-f38u218b20ov> ;
+      <http://purl.org/dc/terms/date>
+              "2014-01-09"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1201/b16387-411" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9781138000865> ;
+      <http://purl.org/dc/terms/publisher>
+              "CRC Press" ;
+      <http://purl.org/dc/terms/title>
+              "Multivariate extreme value distributions of vector LMA processes" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1201/b16387-411" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "2847" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "2841" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1201/b16387-411> , <info:doi/10.1201/b16387-411> .
+
+<http://id.crossref.org/isbn/9781138000865>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Safety, Reliability, Risk and Life-Cycle Performance of Structures and Infrastructures" .
+
+<http://id.crossref.org/contributor/s-gupta-f38u218b20ov>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Gupta" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "S" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "S Gupta" .

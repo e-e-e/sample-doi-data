@@ -1,0 +1,22 @@
+<http://dx.doi.org/10.9783/9780812205381.451>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.9783/9780812205381.451" ;
+      <http://purl.org/dc/terms/date>
+              ""^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.9783/9780812205381.451" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9780812205381> ;
+      <http://purl.org/dc/terms/publisher>
+              "University of Pennsylvania Press" ;
+      <http://purl.org/dc/terms/title>
+              "1. Limburg Principles on the Implementation of the International Covenant on Economic, Social and Cultural Rights" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.9783/9780812205381.451" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.9783/9780812205381.451> , <doi:10.9783/9780812205381.451> .
+
+<http://id.crossref.org/isbn/9780812205381>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Economic, Social, and Cultural Rights" .

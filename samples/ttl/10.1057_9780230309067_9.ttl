@@ -1,0 +1,41 @@
+<http://id.crossref.org/isbn/9781349363018>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Empire and Environmental Anxiety" .
+
+<http://dx.doi.org/10.1057/9780230309067_9>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1057/9780230309067_9" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "216" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "214" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/james-beattie-2tzy63zbuluy0> ;
+      <http://purl.org/dc/terms/date>
+              "2011"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1057/9780230309067_9" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9781349363018> ;
+      <http://purl.org/dc/terms/publisher>
+              "Palgrave Macmillan UK" ;
+      <http://purl.org/dc/terms/title>
+              "Conclusion" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1057/9780230309067_9" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "216" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "214" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1057/9780230309067_9> , <info:doi/10.1057/9780230309067_9> .
+
+<http://id.crossref.org/contributor/james-beattie-2tzy63zbuluy0>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Beattie" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "James" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "James Beattie" .

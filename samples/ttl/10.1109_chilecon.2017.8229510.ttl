@@ -1,0 +1,87 @@
+<http://id.crossref.org/contributor/brigitte-becerra-asencios-ei84a4n50igo>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Becerra Asencios" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Brigitte" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Brigitte Becerra Asencios" .
+
+<http://id.crossref.org/isbn/9781538631232>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "2017 CHILEAN Conference on Electrical, Electronics Engineering, Information and Communication Technologies (CHILECON)" .
+
+<http://id.crossref.org/contributor/hernan-matta-solis-ei84a4n50igo>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Matta-Solis" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Hernan" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Hernan Matta-Solis" .
+
+<http://dx.doi.org/10.1109/chilecon.2017.8229510>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1109/chilecon.2017.8229510" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/brigitte-becerra-asencios-ei84a4n50igo> , <http://id.crossref.org/contributor/hernan-matta-solis-ei84a4n50igo> , <http://id.crossref.org/contributor/tula-espinoza-moreno-ei84a4n50igo> , <http://id.crossref.org/contributor/violeta-nolberto-sifuentes-ei84a4n50igo> , <http://id.crossref.org/contributor/rosa-perez-siguas-ei84a4n50igo> , <http://id.crossref.org/contributor/huber-nieto-chaupis-ei84a4n50igo> , <http://id.crossref.org/contributor/richard-anton-talledo-ei84a4n50igo> ;
+      <http://purl.org/dc/terms/date>
+              "2017-10"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1109/chilecon.2017.8229510" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9781538631232> ;
+      <http://purl.org/dc/terms/publisher>
+              "IEEE" ;
+      <http://purl.org/dc/terms/title>
+              "Proposal of a telecare system for monitoring glucose anomalous behavior in type-2 diabetes patients" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1109/chilecon.2017.8229510" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1109/chilecon.2017.8229510> , <info:doi/10.1109/chilecon.2017.8229510> .
+
+<http://id.crossref.org/contributor/tula-espinoza-moreno-ei84a4n50igo>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Moreno" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Tula Espinoza" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Tula Espinoza Moreno" .
+
+<http://id.crossref.org/contributor/violeta-nolberto-sifuentes-ei84a4n50igo>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Sifuentes" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Violeta Nolberto" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Violeta Nolberto Sifuentes" .
+
+<http://id.crossref.org/contributor/rosa-perez-siguas-ei84a4n50igo>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Perez-Siguas" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Rosa" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Rosa Perez-Siguas" .
+
+<http://id.crossref.org/contributor/huber-nieto-chaupis-ei84a4n50igo>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Nieto-Chaupis" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Huber" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Huber Nieto-Chaupis" .
+
+<http://id.crossref.org/contributor/richard-anton-talledo-ei84a4n50igo>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Talledo" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Richard Anton" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Richard Anton Talledo" .

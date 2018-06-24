@@ -1,0 +1,26 @@
+<http://id.crossref.org/contributor/philemon-melo-cunha-ipauvpm0ugw3>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "MELO CUNHA" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "PHILEMON" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "PHILEMON MELO CUNHA" .
+
+<http://dx.doi.org/10.17771/pucrio.acad.19124>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.17771/pucrio.acad.19124" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/philemon-melo-cunha-ipauvpm0ugw3> ;
+      <http://purl.org/dc/terms/date>
+              ""^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.17771/pucrio.acad.19124" ;
+      <http://purl.org/dc/terms/publisher>
+              "Faculdades Catolicas" ;
+      <http://purl.org/dc/terms/title>
+              "CARACTERÍSTICAS TERMOHIDRAULICAS DE ESCOAMENTOS TURBULENTOS EM CONFIGURAÇÕES CIRCULARES LISAS E PINADAS" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.17771/pucrio.acad.19124" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.17771/pucrio.acad.19124> , <doi:10.17771/pucrio.acad.19124> .

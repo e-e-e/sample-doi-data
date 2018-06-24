@@ -1,0 +1,66 @@
+<http://id.crossref.org/contributor/niharendu-mahapatra-em9ya9yhcbv8>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Mahapatra" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Niharendu" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Niharendu Mahapatra" .
+
+<http://id.crossref.org/contributor/micha-asscher-em9ya9yhcbv8>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Asscher" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Micha" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Micha Asscher" .
+
+<http://id.crossref.org/contributor/sujith-ramakrishnan-em9ya9yhcbv8>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Ramakrishnan" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Sujith" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Sujith Ramakrishnan" .
+
+<http://id.crossref.org/contributor/roey-sagi-em9ya9yhcbv8>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Sagi" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Roey" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Roey Sagi" .
+
+<http://id.crossref.org/issn/1932-7447>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1932-7447" , "1932-7455" ;
+      <http://purl.org/dc/terms/title>
+              "The Journal of Physical Chemistry C" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1932-7447" , "1932-7455" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1932-7455" , "urn:issn:1932-7447" .
+
+<http://dx.doi.org/10.1021/acs.jpcc.8b02155>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1021/acs.jpcc.8b02155" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/niharendu-mahapatra-em9ya9yhcbv8> , <http://id.crossref.org/contributor/micha-asscher-em9ya9yhcbv8> , <http://id.crossref.org/contributor/sujith-ramakrishnan-em9ya9yhcbv8> , <http://id.crossref.org/contributor/roey-sagi-em9ya9yhcbv8> ;
+      <http://purl.org/dc/terms/date>
+              "2018-06-08"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1021/acs.jpcc.8b02155" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1932-7447> ;
+      <http://purl.org/dc/terms/publisher>
+              "American Chemical Society (ACS)" ;
+      <http://purl.org/dc/terms/title>
+              "The Effect of Co-Adsorbed Oxygen on the Photochemistry of Methane Embedded in Amorphous Solid Water" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1021/acs.jpcc.8b02155" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1021/acs.jpcc.8b02155> , <info:doi/10.1021/acs.jpcc.8b02155> .

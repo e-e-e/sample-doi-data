@@ -1,0 +1,42 @@
+<http://id.crossref.org/contributor/do-hoon-kwon-2rwvbwksnuis1>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kwon" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Do-Hoon" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Do-Hoon Kwon" .
+
+<http://id.crossref.org/contributor/caglar-d-emiroglu-2rwvbwksnuis1>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Emiroglu" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Caglar D." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Caglar D. Emiroglu" .
+
+<http://dx.doi.org/10.1109/eucap.2012.6206610>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1109/eucap.2012.6206610" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/do-hoon-kwon-2rwvbwksnuis1> , <http://id.crossref.org/contributor/caglar-d-emiroglu-2rwvbwksnuis1> ;
+      <http://purl.org/dc/terms/date>
+              "2012-03"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1109/eucap.2012.6206610" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9781457709203> ;
+      <http://purl.org/dc/terms/publisher>
+              "IEEE" ;
+      <http://purl.org/dc/terms/title>
+              "Two-dimensional metamaterial designs for line-source radiation from a virtual location" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1109/eucap.2012.6206610" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1109/eucap.2012.6206610> , <doi:10.1109/eucap.2012.6206610> .
+
+<http://id.crossref.org/isbn/9781457709203>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "2012 6th European Conference on Antennas and Propagation (EUCAP)" .

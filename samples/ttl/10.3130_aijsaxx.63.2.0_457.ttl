@@ -1,0 +1,60 @@
+<http://id.crossref.org/contributor/motoo-miyazaki-27fka80m9we02>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Miyazaki" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Motoo" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Motoo Miyazaki" .
+
+<http://id.crossref.org/issn/0387-1185>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0387-1185" , "2433-0027" ;
+      <http://purl.org/dc/terms/title>
+              "Transactions of the Architectural Institute of Japan" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0387-1185" , "2433-0027" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0387-1185" , "urn:issn:2433-0027" .
+
+<http://dx.doi.org/10.3130/aijsaxx.63.2.0_457>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.3130/aijsaxx.63.2.0_457" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "460" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "457" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "63.2" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/motoo-miyazaki-27fka80m9we02> , <http://id.crossref.org/contributor/yutaka-shiroya-27fka80m9we02> ;
+      <http://purl.org/dc/terms/date>
+              "1959"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.3130/aijsaxx.63.2.0_457" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0387-1185> ;
+      <http://purl.org/dc/terms/publisher>
+              "Architectural Institute of Japan" ;
+      <http://purl.org/dc/terms/title>
+              "4029) Economical Condition of Private Housing Construction(Town Planning, Building Economy)" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.3130/aijsaxx.63.2.0_457" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "460" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "457" ;
+      <http://purl.org/ontology/bibo/volume>
+              "63.2" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.3130/aijsaxx.63.2.0_457> , <info:doi/10.3130/aijsaxx.63.2.0_457> .
+
+<http://id.crossref.org/contributor/yutaka-shiroya-27fka80m9we02>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Shiroya" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Yutaka" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Yutaka Shiroya" .

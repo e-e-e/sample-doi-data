@@ -1,0 +1,26 @@
+<http://dx.doi.org/10.1007/13273.2092-8467>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1007/13273.2092-8467" ;
+      <http://purl.org/dc/terms/date>
+              ""^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1007/13273.2092-8467" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1738-642X> ;
+      <http://purl.org/dc/terms/publisher>
+              "Springer Nature" ;
+      <http://purl.org/dc/terms/title>
+              "Molecular & Cellular Toxicology" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1007/13273.2092-8467" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1007/13273.2092-8467> , <info:doi/10.1007/13273.2092-8467> .
+
+<http://id.crossref.org/issn/1738-642X>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "2092-8467" , "1738-642X" ;
+      <http://purl.org/ontology/bibo/issn>
+              "2092-8467" , "1738-642X" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1738-642X" , "urn:issn:2092-8467" .

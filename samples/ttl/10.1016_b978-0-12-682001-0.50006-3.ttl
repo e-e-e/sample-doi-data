@@ -1,0 +1,50 @@
+<http://id.crossref.org/isbn/9780126820010>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Techniques in Protein Chemistry" .
+
+<http://id.crossref.org/contributor/john-e-shively-1fsqem21u0oa1>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Shively" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "John E." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "John E. Shively" .
+
+<http://id.crossref.org/contributor/david-w-speicher-1fsqem21u0oa1>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Speicher" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "David W." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "David W. Speicher" .
+
+<http://dx.doi.org/10.1016/b978-0-12-682001-0.50006-3>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/b978-0-12-682001-0.50006-3" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "6" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "3" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/john-e-shively-1fsqem21u0oa1> , <http://id.crossref.org/contributor/david-w-speicher-1fsqem21u0oa1> ;
+      <http://purl.org/dc/terms/date>
+              "1989"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/b978-0-12-682001-0.50006-3" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9780126820010> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier" ;
+      <http://purl.org/dc/terms/title>
+              "Introduction: CHEMICAL MICROSEQUENCING TECHNIQUES" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/b978-0-12-682001-0.50006-3" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "6" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "3" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1016/b978-0-12-682001-0.50006-3> , <info:doi/10.1016/b978-0-12-682001-0.50006-3> .

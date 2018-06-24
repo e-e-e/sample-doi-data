@@ -1,0 +1,69 @@
+<http://id.crossref.org/contributor/r-a-distasio-61q4z0ty8mt>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "DiStasio" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "R. A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "R. A. DiStasio" .
+
+<http://id.crossref.org/contributor/a-tkatchenko-61q4z0ty8mt>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Tkatchenko" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "A. Tkatchenko" .
+
+<http://id.crossref.org/issn/0027-8424>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1091-6490" , "0027-8424" ;
+      <http://purl.org/dc/terms/title>
+              "Proceedings of the National Academy of Sciences" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1091-6490" , "0027-8424" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1091-6490" , "urn:issn:0027-8424" .
+
+<http://id.crossref.org/contributor/o-a-von-lilienfeld-61q4z0ty8mt>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "von Lilienfeld" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "O. A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "O. A. von Lilienfeld" .
+
+<http://dx.doi.org/10.1073/pnas.1208121109>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1073/pnas.1208121109" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "14795" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "14791" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "109" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/r-a-distasio-61q4z0ty8mt> , <http://id.crossref.org/contributor/a-tkatchenko-61q4z0ty8mt> , <http://id.crossref.org/contributor/o-a-von-lilienfeld-61q4z0ty8mt> ;
+      <http://purl.org/dc/terms/date>
+              "2012-08-24"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1073/pnas.1208121109" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0027-8424> ;
+      <http://purl.org/dc/terms/publisher>
+              "Proceedings of the National Academy of Sciences" ;
+      <http://purl.org/dc/terms/title>
+              "Collective many-body van der Waals interactions in molecular systems" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1073/pnas.1208121109" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "14795" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "14791" ;
+      <http://purl.org/ontology/bibo/volume>
+              "109" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1073/pnas.1208121109> , <doi:10.1073/pnas.1208121109> .

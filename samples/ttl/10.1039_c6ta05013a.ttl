@@ -1,0 +1,87 @@
+<http://id.crossref.org/contributor/samuel-j-ippolito-owyvk3takdat>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Ippolito" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Samuel J." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Samuel J. Ippolito" .
+
+<http://dx.doi.org/10.1039/c6ta05013a>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1039/c6ta05013a" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "16431" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "16418" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "4" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/samuel-j-ippolito-owyvk3takdat> , <http://id.crossref.org/contributor/satyanarayana-lanka-owyvk3takdat> , <http://id.crossref.org/contributor/suresh-k-bhargava-owyvk3takdat> , <http://id.crossref.org/contributor/shravanti-joshi-owyvk3takdat> , <http://id.crossref.org/contributor/manorama-v-sunkara-owyvk3takdat> ;
+      <http://purl.org/dc/terms/date>
+              "2016"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1039/c6ta05013a" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/2050-7488> ;
+      <http://purl.org/dc/terms/publisher>
+              "Royal Society of Chemistry (RSC)" ;
+      <http://purl.org/dc/terms/title>
+              "{111} faceted Li4Ti5O12 octahedra as the reference electrode material in a nanostructured potentiometric CO2 sensor" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1039/c6ta05013a" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "16431" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "16418" ;
+      <http://purl.org/ontology/bibo/volume>
+              "4" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1039/c6ta05013a> , <info:doi/10.1039/c6ta05013a> .
+
+<http://id.crossref.org/contributor/satyanarayana-lanka-owyvk3takdat>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Lanka" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Satyanarayana" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Satyanarayana Lanka" .
+
+<http://id.crossref.org/contributor/suresh-k-bhargava-owyvk3takdat>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Bhargava" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Suresh K." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Suresh K. Bhargava" .
+
+<http://id.crossref.org/contributor/shravanti-joshi-owyvk3takdat>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Joshi" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Shravanti" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Shravanti Joshi" .
+
+<http://id.crossref.org/contributor/manorama-v-sunkara-owyvk3takdat>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Sunkara" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Manorama V." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Manorama V. Sunkara" .
+
+<http://id.crossref.org/issn/2050-7488>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "2050-7488" , "2050-7496" ;
+      <http://purl.org/dc/terms/title>
+              "Journal of Materials Chemistry A" ;
+      <http://purl.org/ontology/bibo/issn>
+              "2050-7488" , "2050-7496" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:2050-7488" , "urn:issn:2050-7496" .

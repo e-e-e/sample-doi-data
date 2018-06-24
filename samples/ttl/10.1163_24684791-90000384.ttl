@@ -1,0 +1,51 @@
+<http://id.crossref.org/contributor/li-ma-2kcq3sy9a7jlg>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Ma" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Li" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Li Ma" .
+
+<http://id.crossref.org/issn/1724-8574>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "2468-4791" , "1724-8574" ;
+      <http://purl.org/dc/terms/title>
+              "Ming Qing Yanjiu" ;
+      <http://purl.org/ontology/bibo/issn>
+              "2468-4791" , "1724-8574" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:2468-4791" , "urn:issn:1724-8574" .
+
+<http://dx.doi.org/10.1163/24684791-90000384>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1163/24684791-90000384" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "130" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "101" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "8" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/li-ma-2kcq3sy9a7jlg> ;
+      <http://purl.org/dc/terms/date>
+              "1999-01-30"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1163/24684791-90000384" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1724-8574> ;
+      <http://purl.org/dc/terms/publisher>
+              "Brill Academic Publishers" ;
+      <http://purl.org/dc/terms/title>
+              "ZHU YUANZHANG AND THE LEGALIST «ART OF RULING»" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1163/24684791-90000384" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "130" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "101" ;
+      <http://purl.org/ontology/bibo/volume>
+              "8" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1163/24684791-90000384> , <info:doi/10.1163/24684791-90000384> .

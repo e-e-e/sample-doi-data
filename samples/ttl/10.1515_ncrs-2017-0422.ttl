@@ -1,0 +1,52 @@
+<http://id.crossref.org/contributor/chien-ing-yeo-cdrz2sig1wbh>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Yeo" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Chien Ing" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Chien Ing Yeo" .
+
+<http://id.crossref.org/issn/2197-4578>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "2197-4578" , "1433-7266" ;
+      <http://purl.org/dc/terms/title>
+              "Zeitschrift für Kristallographie - New Crystal Structures" ;
+      <http://purl.org/ontology/bibo/issn>
+              "2197-4578" , "1433-7266" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:2197-4578" , "urn:issn:1433-7266" .
+
+<http://dx.doi.org/10.1515/ncrs-2017-0422>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1515/ncrs-2017-0422" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "0" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/chien-ing-yeo-cdrz2sig1wbh> , <http://id.crossref.org/contributor/edward-r-t-tiekink-cdrz2sig1wbh> ;
+      <http://purl.org/dc/terms/date>
+              "2018-04-07"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1515/ncrs-2017-0422" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/2197-4578> ;
+      <http://purl.org/dc/terms/publisher>
+              "Walter de Gruyter GmbH" ;
+      <http://purl.org/dc/terms/title>
+              "Crystal structure and molecular packing of O-ethyl (2-chlorophenyl)carbamothioate, C9H10ClNOS" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1515/ncrs-2017-0422" ;
+      <http://purl.org/ontology/bibo/volume>
+              "0" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1515/ncrs-2017-0422> , <info:doi/10.1515/ncrs-2017-0422> .
+
+<http://id.crossref.org/contributor/edward-r-t-tiekink-cdrz2sig1wbh>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Tiekink" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Edward R.T." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Edward R.T. Tiekink" .

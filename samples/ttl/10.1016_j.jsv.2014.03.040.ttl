@@ -1,0 +1,60 @@
+<http://dx.doi.org/10.1016/j.jsv.2014.03.040>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/j.jsv.2014.03.040" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "4749" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "4724" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "333" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/harry-t-d-grigg-16ggre1o1pjf8> , <http://id.crossref.org/contributor/barry-j-gallacher-16ggre1o1pjf8> ;
+      <http://purl.org/dc/terms/date>
+              "2014-09"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/j.jsv.2014.03.040" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0022-460X> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "An efficient general approach to modal analysis of frame resonators with applications to support loss in microelectromechanical systems" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/j.jsv.2014.03.040" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "4749" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "4724" ;
+      <http://purl.org/ontology/bibo/volume>
+              "333" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1016/j.jsv.2014.03.040> , <info:doi/10.1016/j.jsv.2014.03.040> .
+
+<http://id.crossref.org/issn/0022-460X>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0022-460X" ;
+      <http://purl.org/dc/terms/title>
+              "Journal of Sound and Vibration" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0022-460X" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0022-460X" .
+
+<http://id.crossref.org/contributor/harry-t-d-grigg-16ggre1o1pjf8>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Grigg" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Harry T.D." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Harry T.D. Grigg" .
+
+<http://id.crossref.org/contributor/barry-j-gallacher-16ggre1o1pjf8>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Gallacher" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Barry J." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Barry J. Gallacher" .

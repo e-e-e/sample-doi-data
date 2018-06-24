@@ -1,0 +1,51 @@
+<http://dx.doi.org/10.1017/s1049096500005813>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1017/s1049096500005813" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "323" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "293" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "5" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/evron-m-kirkpatrick-a0pvxfd9cv4m> ;
+      <http://purl.org/dc/terms/date>
+              "1972"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1017/s1049096500005813" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1049-0965> ;
+      <http://purl.org/dc/terms/publisher>
+              "Cambridge University Press (CUP)" ;
+      <http://purl.org/dc/terms/title>
+              "Report of the Executive Director 1971–72" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1017/s1049096500005813" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "323" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "293" ;
+      <http://purl.org/ontology/bibo/volume>
+              "5" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1017/s1049096500005813> , <doi:10.1017/s1049096500005813> .
+
+<http://id.crossref.org/contributor/evron-m-kirkpatrick-a0pvxfd9cv4m>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kirkpatrick" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Evron M." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Evron M. Kirkpatrick" .
+
+<http://id.crossref.org/issn/1049-0965>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1049-0965" , "1537-5935" ;
+      <http://purl.org/dc/terms/title>
+              "PS: Political Science & Politics" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1049-0965" , "1537-5935" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1049-0965" , "urn:issn:1537-5935" .

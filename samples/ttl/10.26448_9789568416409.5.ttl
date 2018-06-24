@@ -1,0 +1,31 @@
+<http://id.crossref.org/contributor/ximena-urtubia-1ga8xq29lt8pc>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Urtubia" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Ximena" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Ximena Urtubia" .
+
+<http://id.crossref.org/isbn/9789568416409>
+      a       <http://purl.org/ontology/bibo/Book> .
+
+<http://dx.doi.org/10.26448/9789568416409.5>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.26448/9789568416409.5" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/ximena-urtubia-1ga8xq29lt8pc> ;
+      <http://purl.org/dc/terms/date>
+              "2017-09-08"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.26448/9789568416409.5" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9789568416409> ;
+      <http://purl.org/dc/terms/publisher>
+              "Ariadna Ediciones" ;
+      <http://purl.org/dc/terms/title>
+              "Hegemonía y cultura política en el Partido Comunista de Chile: la transformación del militante tradicional, 1924 – 1933" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.26448/9789568416409.5" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.26448/9789568416409.5> , <doi:10.26448/9789568416409.5> .

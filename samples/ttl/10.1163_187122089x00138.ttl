@@ -1,0 +1,78 @@
+<http://dx.doi.org/10.1163/187122089x00138>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1163/187122089x00138" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "113" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "107" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "11" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/samuel-e-balentine-6rxwfwyty9ly> , <http://id.crossref.org/contributor/carol-frances-jegen-6rxwfwyty9ly> , <http://id.crossref.org/contributor/sharon-h-ringe-6rxwfwyty9ly> , <http://id.crossref.org/contributor/fernando-f-segovia-6rxwfwyty9ly> ;
+      <http://purl.org/dc/terms/date>
+              "1989-01-01"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1163/187122089x00138" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0195-9085> ;
+      <http://purl.org/dc/terms/publisher>
+              "Brill Academic Publishers" ;
+      <http://purl.org/dc/terms/title>
+              "Reviews" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1163/187122089x00138" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "113" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "107" ;
+      <http://purl.org/ontology/bibo/volume>
+              "11" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1163/187122089x00138> , <doi:10.1163/187122089x00138> .
+
+<http://id.crossref.org/contributor/samuel-e-balentine-6rxwfwyty9ly>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Balentine" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Samuel E." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Samuel E. Balentine" .
+
+<http://id.crossref.org/contributor/carol-frances-jegen-6rxwfwyty9ly>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Jegen" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Carol Frances" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Carol Frances Jegen" .
+
+<http://id.crossref.org/issn/0195-9085>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0195-9085" , "1871-2207" ;
+      <http://purl.org/dc/terms/title>
+              "Horizons in Biblical Theology" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0195-9085" , "1871-2207" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1871-2207" , "urn:issn:0195-9085" .
+
+<http://id.crossref.org/contributor/sharon-h-ringe-6rxwfwyty9ly>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Ringe" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Sharon H." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Sharon H. Ringe" .
+
+<http://id.crossref.org/contributor/fernando-f-segovia-6rxwfwyty9ly>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Segovia" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Fernando F." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Fernando F. Segovia" .

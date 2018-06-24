@@ -1,0 +1,33 @@
+<http://dx.doi.org/10.1109/cicsyn.2013.22>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1109/cicsyn.2013.22" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/bogdan-smolka-3u3zzb4vnmf4d> ;
+      <http://purl.org/dc/terms/date>
+              "2013-06"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1109/cicsyn.2013.22" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9781479905874> ;
+      <http://purl.org/dc/terms/publisher>
+              "IEEE" ;
+      <http://purl.org/dc/terms/title>
+              "Soft Switching Technique for Impulsive Noise Removal in Color Images" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1109/cicsyn.2013.22" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1109/cicsyn.2013.22> , <doi:10.1109/cicsyn.2013.22> .
+
+<http://id.crossref.org/contributor/bogdan-smolka-3u3zzb4vnmf4d>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Smolka" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Bogdan" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Bogdan Smolka" .
+
+<http://id.crossref.org/isbn/9781479905874>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "2013 Fifth International Conference on Computational Intelligence, Communication Systems and Networks" .

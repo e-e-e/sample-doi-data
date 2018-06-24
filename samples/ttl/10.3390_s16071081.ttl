@@ -1,0 +1,76 @@
+<http://id.crossref.org/issn/1424-8220>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1424-8220" ;
+      <http://purl.org/dc/terms/title>
+              "Sensors" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1424-8220" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1424-8220" .
+
+<http://id.crossref.org/contributor/jin-yang-3smi8zich3cm5>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <http://orcid.org/0000-0002-1654-5414> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Yang" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Jin" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Jin Yang" .
+
+<http://dx.doi.org/10.3390/s16071081>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.3390/s16071081" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "1081" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "16" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/jin-yang-3smi8zich3cm5> , <http://id.crossref.org/contributor/jianneng-cao-3smi8zich3cm5> , <http://id.crossref.org/contributor/liangming-wang-3smi8zich3cm5> , <http://id.crossref.org/contributor/fagui-liu-3smi8zich3cm5> ;
+      <http://purl.org/dc/terms/date>
+              "2016-07-14"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.3390/s16071081" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1424-8220> ;
+      <http://purl.org/dc/terms/publisher>
+              "MDPI AG" ;
+      <http://purl.org/dc/terms/title>
+              "Discrete Particle Swarm Optimization Routing Protocol for Wireless Sensor Networks with Multiple Mobile Sinks" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.3390/s16071081" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "1081" ;
+      <http://purl.org/ontology/bibo/volume>
+              "16" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.3390/s16071081> , <info:doi/10.3390/s16071081> .
+
+<http://id.crossref.org/contributor/jianneng-cao-3smi8zich3cm5>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Cao" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Jianneng" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Jianneng Cao" .
+
+<http://id.crossref.org/contributor/liangming-wang-3smi8zich3cm5>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Wang" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Liangming" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Liangming Wang" .
+
+<http://id.crossref.org/contributor/fagui-liu-3smi8zich3cm5>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Liu" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Fagui" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Fagui Liu" .

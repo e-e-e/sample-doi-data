@@ -1,0 +1,44 @@
+<http://id.crossref.org/contributor/w-t-rawlins-3cb021hpbthu7>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Rawlins" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "W. T." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "W. T. Rawlins" .
+
+<http://dx.doi.org/10.2172/6514987>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.2172/6514987" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/w-t-rawlins-3cb021hpbthu7> , <http://id.crossref.org/contributor/t-tanzawa-3cb021hpbthu7> , <http://id.crossref.org/contributor/r-h-krech-3cb021hpbthu7> ;
+      <http://purl.org/dc/terms/date>
+              "1981-04-01"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.2172/6514987" ;
+      <http://purl.org/dc/terms/publisher>
+              "Office of Scientific and Technical Information  (OSTI)" ;
+      <http://purl.org/dc/terms/title>
+              "Synthetic fuel combustion: pollutant formation. Soot initiation mechanisms in burning aromatics. Second quarterly report, 1 January 1981-31 March 1981" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.2172/6514987" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.2172/6514987> , <doi:10.2172/6514987> .
+
+<http://id.crossref.org/contributor/t-tanzawa-3cb021hpbthu7>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Tanzawa" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "T." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "T. Tanzawa" .
+
+<http://id.crossref.org/contributor/r-h-krech-3cb021hpbthu7>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Krech" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "R. H." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "R. H. Krech" .

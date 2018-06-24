@@ -1,0 +1,40 @@
+<http://id.crossref.org/issn/0038-7134>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "2040-8072" , "0038-7134" ;
+      <http://purl.org/dc/terms/title>
+              "Speculum" ;
+      <http://purl.org/ontology/bibo/issn>
+              "2040-8072" , "0038-7134" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0038-7134" , "urn:issn:2040-8072" .
+
+<http://dx.doi.org/10.1017/s0038713400001275>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1017/s0038713400001275" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "699" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "698" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "80" ;
+      <http://purl.org/dc/terms/date>
+              "2005-04"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1017/s0038713400001275" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0038-7134> ;
+      <http://purl.org/dc/terms/publisher>
+              "University of Chicago Press" ;
+      <http://purl.org/dc/terms/title>
+              "Catherine Richardson, ed., Clothing Culture, 1350–1650. (The History of Retailing and Consumption.) Aldershot, Eng., and Burlington, Vt.: Ashgate, 2004. Pp. xvi, 290; black-and-white figures and tables. $84.95." ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1017/s0038713400001275" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "699" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "698" ;
+      <http://purl.org/ontology/bibo/volume>
+              "80" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1017/s0038713400001275> , <doi:10.1017/s0038713400001275> .

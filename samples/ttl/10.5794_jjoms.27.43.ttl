@@ -1,0 +1,51 @@
+<http://dx.doi.org/10.5794/jjoms.27.43>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.5794/jjoms.27.43" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "61" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "43" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "27" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/takashi-ushiyama-833nf60qqzjq> ;
+      <http://purl.org/dc/terms/date>
+              "1981"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.5794/jjoms.27.43" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/2186-1579> ;
+      <http://purl.org/dc/terms/publisher>
+              "Japanese Society of Oral and Maxillofacial Surgeons" ;
+      <http://purl.org/dc/terms/title>
+              "Clinical studies on odontophobia. Part I" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.5794/jjoms.27.43" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "61" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "43" ;
+      <http://purl.org/ontology/bibo/volume>
+              "27" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.5794/jjoms.27.43> , <doi:10.5794/jjoms.27.43> .
+
+<http://id.crossref.org/contributor/takashi-ushiyama-833nf60qqzjq>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "USHIYAMA" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Takashi" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Takashi USHIYAMA" .
+
+<http://id.crossref.org/issn/2186-1579>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "2186-1579" , "0021-5163" ;
+      <http://purl.org/dc/terms/title>
+              "Japanese Journal of Oral & Maxillofacial Surgery" ;
+      <http://purl.org/ontology/bibo/issn>
+              "2186-1579" , "0021-5163" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0021-5163" , "urn:issn:2186-1579" .

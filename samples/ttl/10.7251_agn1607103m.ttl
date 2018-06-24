@@ -1,0 +1,43 @@
+<http://id.crossref.org/contributor/-vy992mj2z5s0>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Миловановић" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Стамен" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Стамен Миловановић" .
+
+<http://dx.doi.org/10.7251/agn1607103m>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.7251/agn1607103m" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "5" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/-vy992mj2z5s0> ;
+      <http://purl.org/dc/terms/date>
+              "2017-12-25"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.7251/agn1607103m" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/2233-1581> ;
+      <http://purl.org/dc/terms/publisher>
+              "National and University Library of the Republic of Srpska" ;
+      <http://purl.org/dc/terms/title>
+              "ЈЕДНАЧЕЊЕ ПО ЗВУЧНОСТИ" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.7251/agn1607103m" ;
+      <http://purl.org/ontology/bibo/volume>
+              "5" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.7251/agn1607103m> , <doi:10.7251/agn1607103m> .
+
+<http://id.crossref.org/issn/2233-1581>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "2233-1581" ;
+      <http://purl.org/dc/terms/title>
+              "АГОН" ;
+      <http://purl.org/ontology/bibo/issn>
+              "2233-1581" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:2233-1581" .

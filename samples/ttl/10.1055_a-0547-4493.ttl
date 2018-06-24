@@ -1,0 +1,51 @@
+<http://dx.doi.org/10.1055/a-0547-4493>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1055/a-0547-4493" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "152" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "151" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "97" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/sandro-stockli-88euirqje5ig> ;
+      <http://purl.org/dc/terms/date>
+              "2018-03"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1055/a-0547-4493" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0935-8943> ;
+      <http://purl.org/dc/terms/publisher>
+              "Georg Thieme Verlag KG" ;
+      <http://purl.org/dc/terms/title>
+              "Kommentar der Schriftleitung" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1055/a-0547-4493" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "152" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "151" ;
+      <http://purl.org/ontology/bibo/volume>
+              "97" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1055/a-0547-4493> , <info:doi/10.1055/a-0547-4493> .
+
+<http://id.crossref.org/contributor/sandro-stockli-88euirqje5ig>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Stöckli" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Sandro" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Sandro Stöckli" .
+
+<http://id.crossref.org/issn/0935-8943>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1438-8685" , "0935-8943" ;
+      <http://purl.org/dc/terms/title>
+              "Laryngo-Rhino-Otologie" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1438-8685" , "0935-8943" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0935-8943" , "urn:issn:1438-8685" .

@@ -1,0 +1,41 @@
+<http://dx.doi.org/10.1002/9781118445112.stat03923.pub2>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1002/9781118445112.stat03923.pub2" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "4" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "1" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/alex-j-koning-22z9utb6qi0hd> ;
+      <http://purl.org/dc/terms/date>
+              "2015-06-22"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1002/9781118445112.stat03923.pub2" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9781118445112> ;
+      <http://purl.org/dc/terms/publisher>
+              "John Wiley & Sons, Ltd" ;
+      <http://purl.org/dc/terms/title>
+              "Nonparametric Tests" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1002/9781118445112.stat03923.pub2" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "4" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "1" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1002/9781118445112.stat03923.pub2> , <doi:10.1002/9781118445112.stat03923.pub2> .
+
+<http://id.crossref.org/contributor/alex-j-koning-22z9utb6qi0hd>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Koning" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Alex J." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Alex J. Koning" .
+
+<http://id.crossref.org/isbn/9781118445112>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Wiley StatsRef: Statistics Reference Online" .

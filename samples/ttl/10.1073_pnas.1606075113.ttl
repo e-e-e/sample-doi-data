@@ -1,0 +1,78 @@
+<http://id.crossref.org/issn/0027-8424>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1091-6490" , "0027-8424" ;
+      <http://purl.org/dc/terms/title>
+              "Proceedings of the National Academy of Sciences" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1091-6490" , "0027-8424" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1091-6490" , "urn:issn:0027-8424" .
+
+<http://id.crossref.org/contributor/massimo-vergassola-1s4qgo8t3k02t>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Vergassola" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Massimo" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Massimo Vergassola" .
+
+<http://id.crossref.org/contributor/gautam-reddy-1s4qgo8t3k02t>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Reddy" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Gautam" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Gautam Reddy" .
+
+<http://id.crossref.org/contributor/antonio-celani-1s4qgo8t3k02t>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Celani" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Antonio" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Antonio Celani" .
+
+<http://dx.doi.org/10.1073/pnas.1606075113>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1073/pnas.1606075113" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "E4884" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "E4877" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "113" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/massimo-vergassola-1s4qgo8t3k02t> , <http://id.crossref.org/contributor/gautam-reddy-1s4qgo8t3k02t> , <http://id.crossref.org/contributor/antonio-celani-1s4qgo8t3k02t> , <http://id.crossref.org/contributor/terrence-j-sejnowski-1s4qgo8t3k02t> ;
+      <http://purl.org/dc/terms/date>
+              "2016-08-01"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1073/pnas.1606075113" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0027-8424> ;
+      <http://purl.org/dc/terms/publisher>
+              "Proceedings of the National Academy of Sciences" ;
+      <http://purl.org/dc/terms/title>
+              "Learning to soar in turbulent environments" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1073/pnas.1606075113" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "E4884" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "E4877" ;
+      <http://purl.org/ontology/bibo/volume>
+              "113" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1073/pnas.1606075113> , <doi:10.1073/pnas.1606075113> .
+
+<http://id.crossref.org/contributor/terrence-j-sejnowski-1s4qgo8t3k02t>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Sejnowski" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Terrence J." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Terrence J. Sejnowski" .

@@ -1,0 +1,61 @@
+<http://id.crossref.org/contributor/j-schultz-1xqy7zu1qdwbq>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Schultz" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "J" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "J Schultz" .
+
+<http://id.crossref.org/contributor/a-rickmann-1xqy7zu1qdwbq>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Rickmann" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "A" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "A Rickmann" .
+
+<http://id.crossref.org/issn/1861-9002>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1861-9010" , "1861-9002" ;
+      <http://purl.org/dc/terms/title>
+              "Diabetologie und Stoffwechsel" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1861-9010" , "1861-9002" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1861-9002" , "urn:issn:1861-9010" .
+
+<http://id.crossref.org/contributor/s-baltrusch-1xqy7zu1qdwbq>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Baltrusch" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "S" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "S Baltrusch" .
+
+<http://dx.doi.org/10.1055/s-0031-1277281>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1055/s-0031-1277281" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "6" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/j-schultz-1xqy7zu1qdwbq> , <http://id.crossref.org/contributor/a-rickmann-1xqy7zu1qdwbq> , <http://id.crossref.org/contributor/s-baltrusch-1xqy7zu1qdwbq> ;
+      <http://purl.org/dc/terms/date>
+              "2011-05"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1055/s-0031-1277281" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1861-9002> ;
+      <http://purl.org/dc/terms/publisher>
+              "Georg Thieme Verlag KG" ;
+      <http://purl.org/dc/terms/title>
+              "Eine veränderte mitochondriale Netzwerkstruktur korreliert mit einem Verlust der Glucoseresponsivität in INS1 Beta-Zellen" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1055/s-0031-1277281" ;
+      <http://purl.org/ontology/bibo/volume>
+              "6" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1055/s-0031-1277281> , <info:doi/10.1055/s-0031-1277281> .

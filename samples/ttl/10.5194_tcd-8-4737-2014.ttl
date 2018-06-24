@@ -1,0 +1,89 @@
+<http://id.crossref.org/contributor/a-k-rennermalm-3spx5c2fg1f6z>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Rennermalm" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "A. K." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "A. K. Rennermalm" .
+
+<http://id.crossref.org/contributor/j-r-mioduszewski-3spx5c2fg1f6z>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Mioduszewski" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "J. R." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "J. R. Mioduszewski" .
+
+<http://id.crossref.org/contributor/l-c-smith-3spx5c2fg1f6z>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Smith" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "L. C." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "L. C. Smith" .
+
+<http://id.crossref.org/contributor/m-a-miller-3spx5c2fg1f6z>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Miller" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "M. A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "M. A. Miller" .
+
+<http://dx.doi.org/10.5194/tcd-8-4737-2014>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.5194/tcd-8-4737-2014" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "4778" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "4737" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "8" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/a-k-rennermalm-3spx5c2fg1f6z> , <http://id.crossref.org/contributor/j-r-mioduszewski-3spx5c2fg1f6z> , <http://id.crossref.org/contributor/l-c-smith-3spx5c2fg1f6z> , <http://id.crossref.org/contributor/m-a-miller-3spx5c2fg1f6z> , <http://id.crossref.org/contributor/s-e-moustafa-3spx5c2fg1f6z> ;
+      <http://purl.org/dc/terms/date>
+              "2014-09-05"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.5194/tcd-8-4737-2014" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1994-0440> ;
+      <http://purl.org/dc/terms/publisher>
+              "Copernicus GmbH" ;
+      <http://purl.org/dc/terms/title>
+              "Bimodal albedo distributions in the ablation zone of the southwestern Greenland Ice Sheet" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.5194/tcd-8-4737-2014" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "4778" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "4737" ;
+      <http://purl.org/ontology/bibo/volume>
+              "8" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.5194/tcd-8-4737-2014> , <info:doi/10.5194/tcd-8-4737-2014> .
+
+<http://id.crossref.org/contributor/s-e-moustafa-3spx5c2fg1f6z>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <http://orcid.org/0000-0002-4502-3113> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Moustafa" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "S. E." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "S. E. Moustafa" .
+
+<http://id.crossref.org/issn/1994-0440>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1994-0440" ;
+      <http://purl.org/dc/terms/title>
+              "The Cryosphere Discussions" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1994-0440" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1994-0440" .

@@ -1,0 +1,51 @@
+<http://id.crossref.org/issn/0445-2429>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0445-2429" , "1884-5622" ;
+      <http://purl.org/dc/terms/title>
+              "Igaku Toshokan" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0445-2429" , "1884-5622" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1884-5622" , "urn:issn:0445-2429" .
+
+<http://id.crossref.org/contributor/mitsuhiko-watanabe-2x2biikgjx66s>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "WATANABE" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Mitsuhiko" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Mitsuhiko WATANABE" .
+
+<http://dx.doi.org/10.7142/igakutoshokan.30.47>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.7142/igakutoshokan.30.47" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "60" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "47" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "30" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/mitsuhiko-watanabe-2x2biikgjx66s> ;
+      <http://purl.org/dc/terms/date>
+              "1983"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.7142/igakutoshokan.30.47" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0445-2429> ;
+      <http://purl.org/dc/terms/publisher>
+              "Japan Medical Library Association" ;
+      <http://purl.org/dc/terms/title>
+              "Library System with Computer (3)" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.7142/igakutoshokan.30.47" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "60" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "47" ;
+      <http://purl.org/ontology/bibo/volume>
+              "30" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.7142/igakutoshokan.30.47> , <info:doi/10.7142/igakutoshokan.30.47> .

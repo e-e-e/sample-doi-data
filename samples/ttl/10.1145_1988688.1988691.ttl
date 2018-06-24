@@ -1,0 +1,60 @@
+<http://id.crossref.org/contributor/ashwin-ram-14br16fgnkgd2>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Ram" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Ashwin" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Ashwin Ram" .
+
+<http://dx.doi.org/10.1145/1988688.1988691>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1145/1988688.1988691" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/ashwin-ram-14br16fgnkgd2> , <http://id.crossref.org/contributor/hua-ai-14br16fgnkgd2> , <http://id.crossref.org/contributor/preetha-ram-14br16fgnkgd2> , <http://id.crossref.org/contributor/saurav-sahay-14br16fgnkgd2> ;
+      <http://purl.org/dc/terms/date>
+              "2011"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1145/1988688.1988691" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9781450301480> ;
+      <http://purl.org/dc/terms/publisher>
+              "ACM Press" ;
+      <http://purl.org/dc/terms/title>
+              "Open social learning communities" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1145/1988688.1988691" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1145/1988688.1988691> , <info:doi/10.1145/1988688.1988691> .
+
+<http://id.crossref.org/contributor/hua-ai-14br16fgnkgd2>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Ai" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Hua" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Hua Ai" .
+
+<http://id.crossref.org/isbn/9781450301480>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Proceedings of the International Conference on Web Intelligence, Mining and Semantics - WIMS '11" .
+
+<http://id.crossref.org/contributor/preetha-ram-14br16fgnkgd2>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Ram" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Preetha" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Preetha Ram" .
+
+<http://id.crossref.org/contributor/saurav-sahay-14br16fgnkgd2>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Sahay" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Saurav" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Saurav Sahay" .

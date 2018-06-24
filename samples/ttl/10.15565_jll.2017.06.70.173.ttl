@@ -1,0 +1,51 @@
+<http://dx.doi.org/10.15565/jll.2017.06.70.173>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.15565/jll.2017.06.70.173" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "195" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "173" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "70" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/jongdae-kim-2s2m8t4o2apnz> ;
+      <http://purl.org/dc/terms/date>
+              "2017-06-30"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.15565/jll.2017.06.70.173" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1229-6406> ;
+      <http://purl.org/dc/terms/publisher>
+              "Society of Chung-Ang Language and Literature" ;
+      <http://purl.org/dc/terms/title>
+              "The meaning and reinterpretation of the symbol of the Honyeo in Kimhyungamho folk tale" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.15565/jll.2017.06.70.173" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "195" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "173" ;
+      <http://purl.org/ontology/bibo/volume>
+              "70" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.15565/jll.2017.06.70.173> , <doi:10.15565/jll.2017.06.70.173> .
+
+<http://id.crossref.org/issn/1229-6406>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1229-6406" ;
+      <http://purl.org/dc/terms/title>
+              "The Journal of Language & Literature" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1229-6406" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1229-6406" .
+
+<http://id.crossref.org/contributor/jongdae-kim-2s2m8t4o2apnz>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kim" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Jongdae" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Jongdae Kim" .

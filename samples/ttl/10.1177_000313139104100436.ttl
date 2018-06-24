@@ -1,0 +1,60 @@
+<http://id.crossref.org/contributor/stephen-shipps-1cpwc01u3t4b4>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Shipps" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Stephen" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Stephen Shipps" .
+
+<http://id.crossref.org/issn/0003-1313>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "2515-4842" , "0003-1313" ;
+      <http://purl.org/dc/terms/title>
+              "American String Teacher" ;
+      <http://purl.org/ontology/bibo/issn>
+              "2515-4842" , "0003-1313" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0003-1313" , "urn:issn:2515-4842" .
+
+<http://dx.doi.org/10.1177/000313139104100436>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1177/000313139104100436" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "69" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "65" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "41" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/stephen-shipps-1cpwc01u3t4b4> , <http://id.crossref.org/contributor/simon-fischer-1cpwc01u3t4b4> ;
+      <http://purl.org/dc/terms/date>
+              "1991-11"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1177/000313139104100436" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0003-1313> ;
+      <http://purl.org/dc/terms/publisher>
+              "SAGE Publications" ;
+      <http://purl.org/dc/terms/title>
+              "The English School of Violin Playing" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1177/000313139104100436" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "69" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "65" ;
+      <http://purl.org/ontology/bibo/volume>
+              "41" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1177/000313139104100436> , <doi:10.1177/000313139104100436> .
+
+<http://id.crossref.org/contributor/simon-fischer-1cpwc01u3t4b4>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Fischer" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Simon" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Simon Fischer" .

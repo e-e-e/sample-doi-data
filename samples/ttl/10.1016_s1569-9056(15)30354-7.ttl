@@ -1,0 +1,119 @@
+<http://id.crossref.org/contributor/r-iliev-14l9n7it7d1ss>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Iliev" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "R." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "R. Iliev" .
+
+<http://id.crossref.org/contributor/j-dolezel-14l9n7it7d1ss>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Doležel" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "J." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "J. Doležel" .
+
+<http://id.crossref.org/contributor/b-peltanova-14l9n7it7d1ss>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Peltanová" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "B." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "B. Peltanová" .
+
+<http://id.crossref.org/contributor/t-m-machackova-14l9n7it7d1ss>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Macháčková" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "T.M." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "T.M. Macháčková" .
+
+<http://dx.doi.org/10.1016/s1569-9056(15)30354-7>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/s1569-9056(15)30354-7" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "e1317" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "14" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/j-dolezel-14l9n7it7d1ss> , <http://id.crossref.org/contributor/r-iliev-14l9n7it7d1ss> , <http://id.crossref.org/contributor/t-m-machackova-14l9n7it7d1ss> , <http://id.crossref.org/contributor/b-peltanova-14l9n7it7d1ss> , <http://id.crossref.org/contributor/r-hezova-14l9n7it7d1ss> , <http://id.crossref.org/contributor/m-stanik-14l9n7it7d1ss> , <http://id.crossref.org/contributor/h-mlcochova-14l9n7it7d1ss> , <http://id.crossref.org/contributor/o-slaby-14l9n7it7d1ss> , <http://id.crossref.org/contributor/j-juracek-14l9n7it7d1ss> ;
+      <http://purl.org/dc/terms/date>
+              "2015-10"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/s1569-9056(15)30354-7" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1569-9056> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Urinary cell-free microRNAs as potential biomarkers for bladder cancer" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/s1569-9056(15)30354-7" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "e1317" ;
+      <http://purl.org/ontology/bibo/volume>
+              "14" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1016/s1569-9056(15)30354-7> , <info:doi/10.1016/s1569-9056(15)30354-7> .
+
+<http://id.crossref.org/contributor/r-hezova-14l9n7it7d1ss>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Héžová" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "R." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "R. Héžová" .
+
+<http://id.crossref.org/contributor/m-stanik-14l9n7it7d1ss>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Stanik" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "M." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "M. Stanik" .
+
+<http://id.crossref.org/contributor/h-mlcochova-14l9n7it7d1ss>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Mlčochová" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "H." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "H. Mlčochová" .
+
+<http://id.crossref.org/issn/1569-9056>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1569-9056" ;
+      <http://purl.org/dc/terms/title>
+              "European Urology Supplements" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1569-9056" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1569-9056" .
+
+<http://id.crossref.org/contributor/o-slaby-14l9n7it7d1ss>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Slabý" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "O." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "O. Slabý" .
+
+<http://id.crossref.org/contributor/j-juracek-14l9n7it7d1ss>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Juráček" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "J." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "J. Juráček" .

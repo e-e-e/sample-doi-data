@@ -1,0 +1,123 @@
+<http://id.crossref.org/contributor/ling-pu-liu-3hcsjm7hfgqcf>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Liu" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Ling-Pu" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Ling-Pu Liu" .
+
+<http://id.crossref.org/contributor/xiao-ning-yang-3hcsjm7hfgqcf>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Yang" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Xiao-Ning" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Xiao-Ning Yang" .
+
+<http://id.crossref.org/contributor/ying-hou-3hcsjm7hfgqcf>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Hou" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Ying" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Ying Hou" .
+
+<http://id.crossref.org/issn/0144-8617>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0144-8617" ;
+      <http://purl.org/dc/terms/title>
+              "Carbohydrate Polymers" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0144-8617" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0144-8617" .
+
+<http://id.crossref.org/contributor/dong-dong-xue-3hcsjm7hfgqcf>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Xue" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Dong-Dong" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Dong-Dong Xue" .
+
+<http://id.crossref.org/contributor/li-ye-3hcsjm7hfgqcf>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Ye" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Li" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Li Ye" .
+
+<http://dx.doi.org/10.1016/j.carbpol.2017.07.042>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/j.carbpol.2017.07.042" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "1086" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "1078" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "174" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/ling-pu-liu-3hcsjm7hfgqcf> , <http://id.crossref.org/contributor/xiao-ning-yang-3hcsjm7hfgqcf> , <http://id.crossref.org/contributor/ying-hou-3hcsjm7hfgqcf> , <http://id.crossref.org/contributor/dong-dong-xue-3hcsjm7hfgqcf> , <http://id.crossref.org/contributor/li-ye-3hcsjm7hfgqcf> , <http://id.crossref.org/contributor/cheng-zhong-3hcsjm7hfgqcf> , <http://id.crossref.org/contributor/shi-ru-jia-3hcsjm7hfgqcf> , <http://id.crossref.org/contributor/li-qiang-chu-3hcsjm7hfgqcf> , <http://id.crossref.org/contributor/miao-liu-3hcsjm7hfgqcf> ;
+      <http://purl.org/dc/terms/date>
+              "2017-10"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/j.carbpol.2017.07.042" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0144-8617> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Preparation and characterization of a photocatalytic antibacterial material: Graphene oxide/TiO 2 /bacterial cellulose nanocomposite" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/j.carbpol.2017.07.042" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "1086" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "1078" ;
+      <http://purl.org/ontology/bibo/volume>
+              "174" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1016/j.carbpol.2017.07.042> , <doi:10.1016/j.carbpol.2017.07.042> .
+
+<http://id.crossref.org/contributor/cheng-zhong-3hcsjm7hfgqcf>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Zhong" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Cheng" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Cheng Zhong" .
+
+<http://id.crossref.org/contributor/shi-ru-jia-3hcsjm7hfgqcf>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Jia" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Shi-Ru" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Shi-Ru Jia" .
+
+<http://id.crossref.org/contributor/li-qiang-chu-3hcsjm7hfgqcf>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Chu" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Li-Qiang" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Li-Qiang Chu" .
+
+<http://id.crossref.org/contributor/miao-liu-3hcsjm7hfgqcf>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Liu" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Miao" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Miao Liu" .

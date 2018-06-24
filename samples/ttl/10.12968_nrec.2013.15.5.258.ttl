@@ -1,0 +1,51 @@
+<http://id.crossref.org/issn/1465-9301>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "2052-2932" , "1465-9301" ;
+      <http://purl.org/dc/terms/title>
+              "Nursing and Residential Care" ;
+      <http://purl.org/ontology/bibo/issn>
+              "2052-2932" , "1465-9301" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1465-9301" , "urn:issn:2052-2932" .
+
+<http://id.crossref.org/contributor/bruno-costa-10l6tykpeeue5>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Costa" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Bruno" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Bruno Costa" .
+
+<http://dx.doi.org/10.12968/nrec.2013.15.5.258>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.12968/nrec.2013.15.5.258" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "262" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "258" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "15" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/bruno-costa-10l6tykpeeue5> ;
+      <http://purl.org/dc/terms/date>
+              "2013-05"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.12968/nrec.2013.15.5.258" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1465-9301> ;
+      <http://purl.org/dc/terms/publisher>
+              "Mark Allen Group" ;
+      <http://purl.org/dc/terms/title>
+              "Pressure ulcers: assessment and prevention in the early stages" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.12968/nrec.2013.15.5.258" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "262" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "258" ;
+      <http://purl.org/ontology/bibo/volume>
+              "15" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.12968/nrec.2013.15.5.258> , <doi:10.12968/nrec.2013.15.5.258> .

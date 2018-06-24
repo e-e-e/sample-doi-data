@@ -1,0 +1,92 @@
+<http://id.crossref.org/contributor/jose-angel-guerrero-beltran-3lu77mua378s>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Guerrero-Beltrán" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "José Ángel" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "José Ángel Guerrero-Beltrán" .
+
+<http://id.crossref.org/contributor/juan-jose-luna-guevara-3lu77mua378s>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Luna-Guevara" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Juan José" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Juan José Luna-Guevara" .
+
+<http://id.crossref.org/contributor/carlos-enrique-ochoa-velasco-3lu77mua378s>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Ochoa-Velasco" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Carlos Enrique" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Carlos Enrique Ochoa-Velasco" .
+
+<http://id.crossref.org/contributor/maria-lorena-luna-guevara-3lu77mua378s>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Luna-Guevara" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "María Lorena" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "María Lorena Luna-Guevara" .
+
+<http://id.crossref.org/issn/2077-9917>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "2306-6741" , "2077-9917" ;
+      <http://purl.org/dc/terms/title>
+              "Scientia agropecuaria" ;
+      <http://purl.org/ontology/bibo/issn>
+              "2306-6741" , "2077-9917" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:2306-6741" , "urn:issn:2077-9917" .
+
+<http://dx.doi.org/10.17268/sci.agropecu.2012.04.02>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.17268/sci.agropecu.2012.04.02" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "289" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "279" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/jose-angel-guerrero-beltran-3lu77mua378s> , <http://id.crossref.org/contributor/juan-jose-luna-guevara-3lu77mua378s> , <http://id.crossref.org/contributor/carlos-enrique-ochoa-velasco-3lu77mua378s> , <http://id.crossref.org/contributor/maria-lorena-luna-guevara-3lu77mua378s> , <http://id.crossref.org/contributor/veronica-garcia-vidal-3lu77mua378s> , <http://id.crossref.org/contributor/paola-hernandez-carranza-3lu77mua378s> ;
+      <http://purl.org/dc/terms/date>
+              "2012-12-31"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.17268/sci.agropecu.2012.04.02" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/2077-9917> ;
+      <http://purl.org/dc/terms/publisher>
+              "Scientia Agropecuaria" ;
+      <http://purl.org/dc/terms/title>
+              "Antioxidant, physicochemical and microbiological characteristics of fermented and unfermented drink of three varieties of dragon fruits (Hylocereus spp)" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.17268/sci.agropecu.2012.04.02" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "289" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "279" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.17268/sci.agropecu.2012.04.02> , <doi:10.17268/sci.agropecu.2012.04.02> .
+
+<http://id.crossref.org/contributor/veronica-garcia-vidal-3lu77mua378s>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "García-Vidal" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Verónica" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Verónica García-Vidal" .
+
+<http://id.crossref.org/contributor/paola-hernandez-carranza-3lu77mua378s>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Hernández-Carranza" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Paola" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Paola Hernández-Carranza" .

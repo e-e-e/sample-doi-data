@@ -1,0 +1,39 @@
+<http://id.crossref.org/contributor/j-a-gonzalez-fajardo-38vze0dvop1fs>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "González-Fajardo" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "J.A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "J.A. González-Fajardo" .
+
+<http://dx.doi.org/10.1016/j.angio.2018.01.002>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/j.angio.2018.01.002" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/j-a-gonzalez-fajardo-38vze0dvop1fs> ;
+      <http://purl.org/dc/terms/date>
+              "2018-02"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/j.angio.2018.01.002" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0003-3170> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "La formación, la industria y las sociedades científicas" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/j.angio.2018.01.002" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1016/j.angio.2018.01.002> , <doi:10.1016/j.angio.2018.01.002> .
+
+<http://id.crossref.org/issn/0003-3170>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0003-3170" ;
+      <http://purl.org/dc/terms/title>
+              "Angiología" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0003-3170" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0003-3170" .

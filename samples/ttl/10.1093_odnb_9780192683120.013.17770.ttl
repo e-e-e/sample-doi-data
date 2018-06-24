@@ -1,0 +1,15 @@
+<http://dx.doi.org/10.1093/odnb/9780192683120.013.17770>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1093/odnb/9780192683120.013.17770" ;
+      <http://purl.org/dc/terms/date>
+              "2018-02-06"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1093/odnb/9780192683120.013.17770" ;
+      <http://purl.org/dc/terms/publisher>
+              "Oxford University Press" ;
+      <http://purl.org/dc/terms/title>
+              "Maelsechlainn I (d 863)" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1093/odnb/9780192683120.013.17770" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1093/odnb/9780192683120.013.17770> , <doi:10.1093/odnb/9780192683120.013.17770> .

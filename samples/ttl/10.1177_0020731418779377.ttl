@@ -1,0 +1,52 @@
+<http://id.crossref.org/contributor/roland-poirier-1kn21l2vn2a>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Poirier" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Roland" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Roland Poirier" .
+
+<http://id.crossref.org/issn/0020-7314>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1541-4469" , "0020-7314" ;
+      <http://purl.org/dc/terms/title>
+              "International Journal of Health Services" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1541-4469" , "0020-7314" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1541-4469" , "urn:issn:0020-7314" .
+
+<http://id.crossref.org/contributor/ashley-fox-1kn21l2vn2a>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Fox" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Ashley" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Ashley Fox" .
+
+<http://dx.doi.org/10.1177/0020731418779377>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1177/0020731418779377" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "002073141877937" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/roland-poirier-1kn21l2vn2a> , <http://id.crossref.org/contributor/ashley-fox-1kn21l2vn2a> ;
+      <http://purl.org/dc/terms/date>
+              "2018-06-21"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1177/0020731418779377" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0020-7314> ;
+      <http://purl.org/dc/terms/publisher>
+              "SAGE Publications" ;
+      <http://purl.org/dc/terms/title>
+              "How Single-payer Stacks Up: Evaluating Different Models of Universal Health Coverage on Cost, Access, and Quality" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1177/0020731418779377" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "002073141877937" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1177/0020731418779377> , <info:doi/10.1177/0020731418779377> .

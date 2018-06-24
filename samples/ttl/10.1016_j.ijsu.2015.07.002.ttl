@@ -1,0 +1,47 @@
+<http://id.crossref.org/issn/1743-9191>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1743-9191" ;
+      <http://purl.org/dc/terms/title>
+              "International Journal of Surgery" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1743-9191" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1743-9191" .
+
+<http://dx.doi.org/10.1016/j.ijsu.2015.07.002>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/j.ijsu.2015.07.002" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "S71" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "13" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/francisco-mateo-vallejo-1b60ulbpzwchy> ;
+      <http://purl.org/dc/terms/date>
+              "2015-01"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/j.ijsu.2015.07.002" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1743-9191> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Peer review report 1 on “Usefulness of intraoperative ultrasonography in liver resections due to colon cancer metastasis”" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/j.ijsu.2015.07.002" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "S71" ;
+      <http://purl.org/ontology/bibo/volume>
+              "13" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1016/j.ijsu.2015.07.002> , <doi:10.1016/j.ijsu.2015.07.002> .
+
+<http://id.crossref.org/contributor/francisco-mateo-vallejo-1b60ulbpzwchy>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Vallejo" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Francisco Mateo" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Francisco Mateo Vallejo" .

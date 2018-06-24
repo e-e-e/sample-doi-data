@@ -1,0 +1,52 @@
+<http://id.crossref.org/contributor/laura-mcguire-m4miajtpcq66>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "McGuire" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Laura" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Laura McGuire" .
+
+<http://id.crossref.org/issn/0037-1998>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0037-1998" , "1613-3692" ;
+      <http://purl.org/dc/terms/title>
+              "Semiotica" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0037-1998" , "1613-3692" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1613-3692" , "urn:issn:0037-1998" .
+
+<http://id.crossref.org/contributor/geoffrey-beattie-m4miajtpcq66>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Beattie" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Geoffrey" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Geoffrey Beattie" .
+
+<http://dx.doi.org/10.1515/sem-2015-0109>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1515/sem-2015-0109" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "2016" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/laura-mcguire-m4miajtpcq66> , <http://id.crossref.org/contributor/geoffrey-beattie-m4miajtpcq66> ;
+      <http://purl.org/dc/terms/date>
+              "2016-01-01"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1515/sem-2015-0109" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0037-1998> ;
+      <http://purl.org/dc/terms/publisher>
+              "Walter de Gruyter GmbH" ;
+      <http://purl.org/dc/terms/title>
+              "Consumption and climate change: Why we say one thing but do another in the face of our greatest threat" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1515/sem-2015-0109" ;
+      <http://purl.org/ontology/bibo/volume>
+              "2016" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1515/sem-2015-0109> , <info:doi/10.1515/sem-2015-0109> .

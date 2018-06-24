@@ -1,0 +1,22 @@
+<http://dx.doi.org/10.2305/iucn.uk.2013-1.rlts.t192765a2157719.en>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.2305/iucn.uk.2013-1.rlts.t192765a2157719.en" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/-24bz6e97l5ylp> ;
+      <http://purl.org/dc/terms/date>
+              "2011-10-28"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.2305/iucn.uk.2013-1.rlts.t192765a2157719.en" ;
+      <http://purl.org/dc/terms/publisher>
+              "IUCN" ;
+      <http://purl.org/dc/terms/title>
+              "Conus iodostoma: Veldsman, S.G." ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.2305/iucn.uk.2013-1.rlts.t192765a2157719.en" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.2305/iucn.uk.2013-1.rlts.t192765a2157719.en> , <doi:10.2305/iucn.uk.2013-1.rlts.t192765a2157719.en> .
+
+<http://id.crossref.org/contributor/-24bz6e97l5ylp>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/name>
+              " " .

@@ -1,0 +1,96 @@
+<http://id.crossref.org/issn/0045-2068>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0045-2068" ;
+      <http://purl.org/dc/terms/title>
+              "Bioorganic Chemistry" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0045-2068" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0045-2068" .
+
+<http://id.crossref.org/contributor/jerzy-boryski-20b7cd6fssbsm>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Boryski" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Jerzy" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Jerzy Boryski" .
+
+<http://id.crossref.org/contributor/anna-pasternak-20b7cd6fssbsm>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Pasternak" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Anna" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Anna Pasternak" .
+
+<http://id.crossref.org/contributor/joanna-kosman-20b7cd6fssbsm>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kosman" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Joanna" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Joanna Kosman" .
+
+<http://id.crossref.org/contributor/grzegorz-framski-20b7cd6fssbsm>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Framski" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Grzegorz" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Grzegorz Framski" .
+
+<http://id.crossref.org/contributor/jolanta-lisowiec-wachnicka-20b7cd6fssbsm>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Lisowiec-Wachnicka" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Jolanta" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Jolanta Lisowiec-Wachnicka" .
+
+<http://dx.doi.org/10.1016/j.bioorg.2017.02.014>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/j.bioorg.2017.02.014" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "298" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "294" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "71" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/jerzy-boryski-20b7cd6fssbsm> , <http://id.crossref.org/contributor/joanna-kosman-20b7cd6fssbsm> , <http://id.crossref.org/contributor/anna-pasternak-20b7cd6fssbsm> , <http://id.crossref.org/contributor/grzegorz-framski-20b7cd6fssbsm> , <http://id.crossref.org/contributor/jolanta-lisowiec-wachnicka-20b7cd6fssbsm> , <http://id.crossref.org/contributor/zofia-jahnz-wechmann-20b7cd6fssbsm> ;
+      <http://purl.org/dc/terms/date>
+              "2017-04"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/j.bioorg.2017.02.014" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0045-2068> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Thermodynamic, structural and fluorescent characteristics of DNA hairpins containing functionalized pyrrolo-2′-deoxycytidines" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/j.bioorg.2017.02.014" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "298" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "294" ;
+      <http://purl.org/ontology/bibo/volume>
+              "71" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1016/j.bioorg.2017.02.014> , <doi:10.1016/j.bioorg.2017.02.014> .
+
+<http://id.crossref.org/contributor/zofia-jahnz-wechmann-20b7cd6fssbsm>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Jahnz-Wechmann" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Zofia" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Zofia Jahnz-Wechmann" .

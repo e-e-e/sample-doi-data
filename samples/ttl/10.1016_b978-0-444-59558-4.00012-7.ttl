@@ -1,0 +1,50 @@
+<http://dx.doi.org/10.1016/b978-0-444-59558-4.00012-7>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/b978-0-444-59558-4.00012-7" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "286" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "261" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/man-kee-lam-un7iti2xtr71> , <http://id.crossref.org/contributor/keat-teong-lee-un7iti2xtr71> ;
+      <http://purl.org/dc/terms/date>
+              "2014"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/b978-0-444-59558-4.00012-7" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9780444595584> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier" ;
+      <http://purl.org/dc/terms/title>
+              "Scale-Up and Commercialization of Algal Cultivation and Biofuel Production" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/b978-0-444-59558-4.00012-7" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "286" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "261" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1016/b978-0-444-59558-4.00012-7> , <info:doi/10.1016/b978-0-444-59558-4.00012-7> .
+
+<http://id.crossref.org/contributor/man-kee-lam-un7iti2xtr71>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Lam" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Man Kee" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Man Kee Lam" .
+
+<http://id.crossref.org/contributor/keat-teong-lee-un7iti2xtr71>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Lee" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Keat Teong" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Keat Teong Lee" .
+
+<http://id.crossref.org/isbn/9780444595584>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Biofuels from Algae" .

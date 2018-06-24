@@ -1,0 +1,39 @@
+<http://dx.doi.org/10.7860/jcdr/2014/9900.5265>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.7860/jcdr/2014/9900.5265" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/harvinder-singh-v4na0mywpeds> ;
+      <http://purl.org/dc/terms/date>
+              "2014"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.7860/jcdr/2014/9900.5265" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/2249-782X> ;
+      <http://purl.org/dc/terms/publisher>
+              "JCDR Research and Publications" ;
+      <http://purl.org/dc/terms/title>
+              "Problems Faced by Complete Denture-Wearing Elderly People Living in Jammu District" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.7860/jcdr/2014/9900.5265" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.7860/jcdr/2014/9900.5265> , <info:doi/10.7860/jcdr/2014/9900.5265> .
+
+<http://id.crossref.org/issn/2249-782X>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "2249-782X" ;
+      <http://purl.org/dc/terms/title>
+              "JOURNAL OF CLINICAL AND DIAGNOSTIC RESEARCH" ;
+      <http://purl.org/ontology/bibo/issn>
+              "2249-782X" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:2249-782X" .
+
+<http://id.crossref.org/contributor/harvinder-singh-v4na0mywpeds>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "SINGH" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "HARVINDER" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "HARVINDER SINGH" .

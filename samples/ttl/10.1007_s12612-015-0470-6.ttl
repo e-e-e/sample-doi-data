@@ -1,0 +1,78 @@
+<http://id.crossref.org/contributor/v-soler-1x3gw8caqubz6>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Soler" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "V." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "V. Soler" .
+
+<http://id.crossref.org/issn/1760-5342>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1760-5350" , "1760-5342" ;
+      <http://purl.org/dc/terms/title>
+              "Les cahiers de l'année gérontologique" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1760-5350" , "1760-5342" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1760-5342" , "urn:issn:1760-5350" .
+
+<http://id.crossref.org/contributor/m-cassagne-1x3gw8caqubz6>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Cassagne" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "M." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "M. Cassagne" .
+
+<http://id.crossref.org/contributor/g-nguyen-1x3gw8caqubz6>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Nguyen" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "G." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "G. Nguyen" .
+
+<http://id.crossref.org/contributor/v-sentis-1x3gw8caqubz6>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Sentis" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "V." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "V. Sentis" .
+
+<http://dx.doi.org/10.1007/s12612-015-0470-6>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1007/s12612-015-0470-6" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "174" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "166" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "7" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/v-soler-1x3gw8caqubz6> , <http://id.crossref.org/contributor/m-cassagne-1x3gw8caqubz6> , <http://id.crossref.org/contributor/g-nguyen-1x3gw8caqubz6> , <http://id.crossref.org/contributor/v-sentis-1x3gw8caqubz6> ;
+      <http://purl.org/dc/terms/date>
+              "2015-12"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1007/s12612-015-0470-6" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1760-5342> ;
+      <http://purl.org/dc/terms/publisher>
+              "Springer Nature" ;
+      <http://purl.org/dc/terms/title>
+              "Le glaucome du sujet âgé" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1007/s12612-015-0470-6" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "174" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "166" ;
+      <http://purl.org/ontology/bibo/volume>
+              "7" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1007/s12612-015-0470-6> , <doi:10.1007/s12612-015-0470-6> .

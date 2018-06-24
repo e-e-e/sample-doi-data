@@ -1,0 +1,22 @@
+<http://id.crossref.org/isbn/9789384468873>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "6th International Conference on Advances in Engineering Sciences and Applied Mathematics (ICAESAM-2016) Dec. 21-22, 2016 Kuala Lumpur (Malaysia)" .
+
+<http://dx.doi.org/10.15242/iie.a1216020>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.15242/iie.a1216020" ;
+      <http://purl.org/dc/terms/date>
+              "2016-12-21"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.15242/iie.a1216020" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9789384468873> ;
+      <http://purl.org/dc/terms/publisher>
+              "International Institute of Engineers" ;
+      <http://purl.org/dc/terms/title>
+              "First Record of Dengue Vector Aedes aegypti in Gazipur City Corporation, Bangladesh" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.15242/iie.a1216020" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.15242/iie.a1216020> , <info:doi/10.15242/iie.a1216020> .

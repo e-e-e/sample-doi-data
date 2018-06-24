@@ -1,0 +1,51 @@
+<http://dx.doi.org/10.24033/bsmf.731>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.24033/bsmf.731" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "12" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "2" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "2" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/e-maillet-2oaguy00c9tdm> ;
+      <http://purl.org/dc/terms/date>
+              "1905"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.24033/bsmf.731" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0037-9484> ;
+      <http://purl.org/dc/terms/publisher>
+              "Societe Mathematique de France" ;
+      <http://purl.org/dc/terms/title>
+              "Sur les mouvements d'une nappe souterraine, particulièrement dans les terrains perméables, spongieux et fissurés" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.24033/bsmf.731" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "12" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "2" ;
+      <http://purl.org/ontology/bibo/volume>
+              "2" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.24033/bsmf.731> , <info:doi/10.24033/bsmf.731> .
+
+<http://id.crossref.org/issn/0037-9484>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0037-9484" , "2102-622X" ;
+      <http://purl.org/dc/terms/title>
+              "Bulletin de la Soci&#233;t&#233; math&#233;matique de France" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0037-9484" , "2102-622X" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:2102-622X" , "urn:issn:0037-9484" .
+
+<http://id.crossref.org/contributor/e-maillet-2oaguy00c9tdm>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Maillet" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "E." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "E. Maillet" .

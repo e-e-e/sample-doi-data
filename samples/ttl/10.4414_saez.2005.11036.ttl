@@ -1,0 +1,40 @@
+<http://id.crossref.org/issn/0036-7486>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1424-4004" , "0036-7486" ;
+      <http://purl.org/dc/terms/title>
+              "Schweizerische Ärztezeitung" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1424-4004" , "0036-7486" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1424-4004" , "urn:issn:0036-7486" .
+
+<http://dx.doi.org/10.4414/saez.2005.11036>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.4414/saez.2005.11036" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "411" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "411" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "86" ;
+      <http://purl.org/dc/terms/date>
+              "2005-02-16"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.4414/saez.2005.11036" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0036-7486> ;
+      <http://purl.org/dc/terms/publisher>
+              "EMH Swiss Medical Publishers, Ltd." ;
+      <http://purl.org/dc/terms/title>
+              "Personalien / Nouvelles du corps médical / Dati personali" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.4414/saez.2005.11036" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "411" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "411" ;
+      <http://purl.org/ontology/bibo/volume>
+              "86" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.4414/saez.2005.11036> , <info:doi/10.4414/saez.2005.11036> .

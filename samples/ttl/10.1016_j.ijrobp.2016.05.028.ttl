@@ -1,0 +1,105 @@
+<http://dx.doi.org/10.1016/j.ijrobp.2016.05.028>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/j.ijrobp.2016.05.028" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "250" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "248" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "96" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/mary-gospodarowicz-108j2f8vvrkc3> , <http://id.crossref.org/contributor/meredith-giuliani-108j2f8vvrkc3> , <http://id.crossref.org/contributor/david-jaffray-108j2f8vvrkc3> , <http://id.crossref.org/contributor/laura-a-dawson-108j2f8vvrkc3> , <http://id.crossref.org/contributor/winnie-li-108j2f8vvrkc3> , <http://id.crossref.org/contributor/caitlin-gillan-108j2f8vvrkc3> , <http://id.crossref.org/contributor/nicole-harnett-108j2f8vvrkc3> ;
+      <http://purl.org/dc/terms/date>
+              "2016-10"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/j.ijrobp.2016.05.028" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0360-3016> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Image Guided Radiation Therapy: Unlocking the Future Through Knowledge Translation" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/j.ijrobp.2016.05.028" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "250" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "248" ;
+      <http://purl.org/ontology/bibo/volume>
+              "96" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1016/j.ijrobp.2016.05.028> , <doi:10.1016/j.ijrobp.2016.05.028> .
+
+<http://id.crossref.org/contributor/mary-gospodarowicz-108j2f8vvrkc3>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Gospodarowicz" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Mary" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Mary Gospodarowicz" .
+
+<http://id.crossref.org/contributor/winnie-li-108j2f8vvrkc3>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Li" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Winnie" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Winnie Li" .
+
+<http://id.crossref.org/contributor/david-jaffray-108j2f8vvrkc3>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Jaffray" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "David" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "David Jaffray" .
+
+<http://id.crossref.org/contributor/meredith-giuliani-108j2f8vvrkc3>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Giuliani" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Meredith" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Meredith Giuliani" .
+
+<http://id.crossref.org/contributor/laura-a-dawson-108j2f8vvrkc3>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Dawson" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Laura A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Laura A. Dawson" .
+
+<http://id.crossref.org/contributor/caitlin-gillan-108j2f8vvrkc3>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Gillan" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Caitlin" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Caitlin Gillan" .
+
+<http://id.crossref.org/contributor/nicole-harnett-108j2f8vvrkc3>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Harnett" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Nicole" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Nicole Harnett" .
+
+<http://id.crossref.org/issn/0360-3016>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0360-3016" ;
+      <http://purl.org/dc/terms/title>
+              "International Journal of Radiation Oncology*Biology*Physics" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0360-3016" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0360-3016" .

@@ -1,0 +1,22 @@
+<http://id.crossref.org/isbn/9783034614634>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Timber Construction Manual" .
+
+<http://dx.doi.org/10.11129/detail.9783034614634.366>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.11129/detail.9783034614634.366" ;
+      <http://purl.org/dc/terms/date>
+              "2004-01-31"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.11129/detail.9783034614634.366" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9783034614634> ;
+      <http://purl.org/dc/terms/publisher>
+              "DETAIL - Institut für internationale Architektur-Dokumentation GmbH & Co. KG" ;
+      <http://purl.org/dc/terms/title>
+              "Appendix" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.11129/detail.9783034614634.366" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.11129/detail.9783034614634.366> , <info:doi/10.11129/detail.9783034614634.366> .

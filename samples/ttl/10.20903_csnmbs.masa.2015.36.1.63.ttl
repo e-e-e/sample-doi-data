@@ -1,0 +1,43 @@
+<http://dx.doi.org/10.20903/csnmbs.masa.2015.36.1.63>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.20903/csnmbs.masa.2015.36.1.63" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "36" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/ivan-blinkov-121hihepv22dj> ;
+      <http://purl.org/dc/terms/date>
+              "2017-03-30"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.20903/csnmbs.masa.2015.36.1.63" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1857-9949> ;
+      <http://purl.org/dc/terms/publisher>
+              "Macedonian Academy of Sciences and Arts" ;
+      <http://purl.org/dc/terms/title>
+              "REVIEW AND COMPARISON OF WATER EROSION INTENSITY IN THE WESTERN BALKAN AND EU COUNTRIES" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.20903/csnmbs.masa.2015.36.1.63" ;
+      <http://purl.org/ontology/bibo/volume>
+              "36" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.20903/csnmbs.masa.2015.36.1.63> , <info:doi/10.20903/csnmbs.masa.2015.36.1.63> .
+
+<http://id.crossref.org/issn/1857-9949>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1857-9949" , "1857-9027" ;
+      <http://purl.org/dc/terms/title>
+              "Contributions, Section of Natural, Mathematical and Biotechnical Sciences" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1857-9949" , "1857-9027" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1857-9949" , "urn:issn:1857-9027" .
+
+<http://id.crossref.org/contributor/ivan-blinkov-121hihepv22dj>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Blinkov" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Ivan" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Ivan Blinkov" .

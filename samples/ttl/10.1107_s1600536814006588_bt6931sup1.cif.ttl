@@ -1,0 +1,13 @@
+<http://dx.doi.org/10.1107/s1600536814006588/bt6931sup1.cif>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1107/s1600536814006588/bt6931sup1.cif" ;
+      <http://purl.org/dc/terms/date>
+              ""^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1107/s1600536814006588/bt6931sup1.cif" ;
+      <http://purl.org/dc/terms/publisher>
+              "International Union of Crystallography (IUCr)" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1107/s1600536814006588/bt6931sup1.cif" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1107/s1600536814006588/bt6931sup1.cif> , <info:doi/10.1107/s1600536814006588/bt6931sup1.cif> .

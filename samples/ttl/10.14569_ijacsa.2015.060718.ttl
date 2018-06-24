@@ -1,0 +1,43 @@
+<http://id.crossref.org/issn/2156-5570>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "2156-5570" , "2158-107X" ;
+      <http://purl.org/dc/terms/title>
+              "International Journal of Advanced Computer Science and Applications" ;
+      <http://purl.org/ontology/bibo/issn>
+              "2156-5570" , "2158-107X" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:2158-107X" , "urn:issn:2156-5570" .
+
+<http://id.crossref.org/contributor/abdulkader-a-1zw20hv9j3hn0>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "A" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Abdulkader" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Abdulkader A" .
+
+<http://dx.doi.org/10.14569/ijacsa.2015.060718>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.14569/ijacsa.2015.060718" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "6" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/abdulkader-a-1zw20hv9j3hn0> ;
+      <http://purl.org/dc/terms/date>
+              "2015"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.14569/ijacsa.2015.060718" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/2156-5570> ;
+      <http://purl.org/dc/terms/publisher>
+              "The Science and Information Organization" ;
+      <http://purl.org/dc/terms/title>
+              "Using GIS for Retail Location Assessment at Jeddah City" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.14569/ijacsa.2015.060718" ;
+      <http://purl.org/ontology/bibo/volume>
+              "6" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.14569/ijacsa.2015.060718> , <doi:10.14569/ijacsa.2015.060718> .

@@ -1,0 +1,61 @@
+<http://id.crossref.org/contributor/dawn-hathaway-6e4f2wcezgpo>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Hathaway" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Dawn" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Dawn Hathaway" .
+
+<http://id.crossref.org/isbn/9783319775586>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Understanding Problems of Practice" .
+
+<http://id.crossref.org/issn/2196-498X>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "2196-498X" , "2196-4998" ;
+      <http://purl.org/dc/terms/title>
+              "Understanding Problems of Practice" ;
+      <http://purl.org/ontology/bibo/issn>
+              "2196-498X" , "2196-4998" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:2196-4998" , "urn:issn:2196-498X" .
+
+<http://dx.doi.org/10.1007/978-3-319-77559-3_2>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1007/978-3-319-77559-3_2" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "25" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "11" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/dawn-hathaway-6e4f2wcezgpo> , <http://id.crossref.org/contributor/priscilla-norton-6e4f2wcezgpo> ;
+      <http://purl.org/dc/terms/date>
+              "2018"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1007/978-3-319-77559-3_2" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9783319775586> , <http://id.crossref.org/issn/2196-498X> ;
+      <http://purl.org/dc/terms/publisher>
+              "Springer International Publishing" ;
+      <http://purl.org/dc/terms/title>
+              "Understanding Problems of Practice" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1007/978-3-319-77559-3_2" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "25" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "11" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1007/978-3-319-77559-3_2> , <info:doi/10.1007/978-3-319-77559-3_2> .
+
+<http://id.crossref.org/contributor/priscilla-norton-6e4f2wcezgpo>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Norton" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Priscilla" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Priscilla Norton" .

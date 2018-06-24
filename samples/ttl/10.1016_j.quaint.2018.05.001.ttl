@@ -1,0 +1,66 @@
+<http://id.crossref.org/contributor/changxing-shi-2zacm24f94c3r>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Shi" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Changxing" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Changxing Shi" .
+
+<http://id.crossref.org/contributor/haifang-yao-2zacm24f94c3r>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Yao" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Haifang" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Haifang Yao" .
+
+<http://id.crossref.org/contributor/hui-yang-2zacm24f94c3r>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Yang" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Hui" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Hui Yang" .
+
+<http://dx.doi.org/10.1016/j.quaint.2018.05.001>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/j.quaint.2018.05.001" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/haifang-yao-2zacm24f94c3r> , <http://id.crossref.org/contributor/changxing-shi-2zacm24f94c3r> , <http://id.crossref.org/contributor/hui-yang-2zacm24f94c3r> , <http://id.crossref.org/contributor/zhenkui-gu-2zacm24f94c3r> ;
+      <http://purl.org/dc/terms/date>
+              "2018-05"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/j.quaint.2018.05.001" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1040-6182> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Analysis of dynamic sedimentary environments in alluvial fans of some tributaries of the upper Yellow River of China based on ground penetrating radar (GPR) and sediment cores" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/j.quaint.2018.05.001" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1016/j.quaint.2018.05.001> , <doi:10.1016/j.quaint.2018.05.001> .
+
+<http://id.crossref.org/contributor/zhenkui-gu-2zacm24f94c3r>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Gu" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Zhenkui" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Zhenkui Gu" .
+
+<http://id.crossref.org/issn/1040-6182>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1040-6182" ;
+      <http://purl.org/dc/terms/title>
+              "Quaternary International" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1040-6182" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1040-6182" .

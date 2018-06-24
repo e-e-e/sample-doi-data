@@ -1,0 +1,69 @@
+<http://id.crossref.org/contributor/tin-sin-lee-3r6od4dfw3flz>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Lee" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Tin-Sin" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Tin-Sin Lee" .
+
+<http://id.crossref.org/contributor/han-liang-liew-3r6od4dfw3flz>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Liew" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Han-Liang" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Han-Liang Liew" .
+
+<http://id.crossref.org/contributor/soo-tueen-bee-3r6od4dfw3flz>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Bee" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Soo-Tueen" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Soo-Tueen Bee" .
+
+<http://dx.doi.org/10.3850/978-981-07-1445-1_326>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.3850/978-981-07-1445-1_326" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/tin-sin-lee-3r6od4dfw3flz> , <http://id.crossref.org/contributor/han-liang-liew-3r6od4dfw3flz> , <http://id.crossref.org/contributor/soo-tueen-bee-3r6od4dfw3flz> , <http://id.crossref.org/contributor/tee-tiam-ting-3r6od4dfw3flz> , <http://id.crossref.org/contributor/chong-yu-low-3r6od4dfw3flz> ;
+      <http://purl.org/dc/terms/date>
+              "2012"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.3850/978-981-07-1445-1_326" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9789810714451> ;
+      <http://purl.org/dc/terms/publisher>
+              "Research Publishing Services" ;
+      <http://purl.org/dc/terms/title>
+              "Effects of CaCO3 Concentration on the Dynamic and Viscoelastic Properties of Polypropylene Melts" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.3850/978-981-07-1445-1_326" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.3850/978-981-07-1445-1_326> , <doi:10.3850/978-981-07-1445-1_326> .
+
+<http://id.crossref.org/contributor/tee-tiam-ting-3r6od4dfw3flz>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Ting" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Tee Tiam" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Tee Tiam Ting" .
+
+<http://id.crossref.org/isbn/9789810714451>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Proceedings of the 14th Asia Pacific Confederation of Chemical Engineering Congress" .
+
+<http://id.crossref.org/contributor/chong-yu-low-3r6od4dfw3flz>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Low" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Chong-Yu" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Chong-Yu Low" .

@@ -1,0 +1,60 @@
+<http://id.crossref.org/contributor/masaru-ishizuka-3fqs93is0bu18>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Ishizuka" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Masaru" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Masaru Ishizuka" .
+
+<http://id.crossref.org/isbn/9784904090138>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "2015 International Conference on Electronic Packaging and iMAPS All Asia Conference (ICEP-IAAC)" .
+
+<http://id.crossref.org/contributor/tomoyuki-hatakeyama-3fqs93is0bu18>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Hatakeyama" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Tomoyuki" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Tomoyuki Hatakeyama" .
+
+<http://dx.doi.org/10.1109/icep-iaac.2015.7111015>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1109/icep-iaac.2015.7111015" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/masaru-ishizuka-3fqs93is0bu18> , <http://id.crossref.org/contributor/tomoyuki-hatakeyama-3fqs93is0bu18> , <http://id.crossref.org/contributor/risako-kibushi-3fqs93is0bu18> , <http://id.crossref.org/contributor/shinji-nakagawa-3fqs93is0bu18> ;
+      <http://purl.org/dc/terms/date>
+              "2015-04"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1109/icep-iaac.2015.7111015" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9784904090138> ;
+      <http://purl.org/dc/terms/publisher>
+              "IEEE" ;
+      <http://purl.org/dc/terms/title>
+              "Thermal properties of power Si MOSFET by considering electron - Phonon scattering using Monte Carlo Simulation" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1109/icep-iaac.2015.7111015" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1109/icep-iaac.2015.7111015> , <doi:10.1109/icep-iaac.2015.7111015> .
+
+<http://id.crossref.org/contributor/risako-kibushi-3fqs93is0bu18>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kibushi" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Risako" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Risako Kibushi" .
+
+<http://id.crossref.org/contributor/shinji-nakagawa-3fqs93is0bu18>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Nakagawa" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Shinji" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Shinji Nakagawa" .

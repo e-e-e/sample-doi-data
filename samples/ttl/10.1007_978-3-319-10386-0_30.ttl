@@ -1,0 +1,41 @@
+<http://dx.doi.org/10.1007/978-3-319-10386-0_30>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1007/978-3-319-10386-0_30" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "257" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "251" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/kwee-peng-ng-1ll8jz5jkwwp5> ;
+      <http://purl.org/dc/terms/date>
+              "2014-10-07"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1007/978-3-319-10386-0_30" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9783319103853> ;
+      <http://purl.org/dc/terms/publisher>
+              "Springer International Publishing" ;
+      <http://purl.org/dc/terms/title>
+              "Medication Errors" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1007/978-3-319-10386-0_30" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "257" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "251" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1007/978-3-319-10386-0_30> , <info:doi/10.1007/978-3-319-10386-0_30> .
+
+<http://id.crossref.org/contributor/kwee-peng-ng-1ll8jz5jkwwp5>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Ng" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Kwee Peng" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Kwee Peng Ng" .
+
+<http://id.crossref.org/isbn/9783319103853>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Pharmacological Basis of Acute Care" .

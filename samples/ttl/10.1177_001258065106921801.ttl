@@ -1,0 +1,47 @@
+<http://dx.doi.org/10.1177/001258065106921801>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1177/001258065106921801" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "410" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "393" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "69" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/-23f0oio1xursx> ;
+      <http://purl.org/dc/terms/date>
+              "1951-10"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1177/001258065106921801" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0012-5806> ;
+      <http://purl.org/dc/terms/publisher>
+              "SAGE Publications" ;
+      <http://purl.org/dc/terms/title>
+              "Eusebius and St Victor" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1177/001258065106921801" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "410" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "393" ;
+      <http://purl.org/ontology/bibo/volume>
+              "69" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1177/001258065106921801> , <doi:10.1177/001258065106921801> .
+
+<http://id.crossref.org/contributor/-23f0oio1xursx>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/name>
+              " " .
+
+<http://id.crossref.org/issn/0012-5806>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0012-5806" , "2397-3498" ;
+      <http://purl.org/dc/terms/title>
+              "The Downside Review" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0012-5806" , "2397-3498" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:2397-3498" , "urn:issn:0012-5806" .

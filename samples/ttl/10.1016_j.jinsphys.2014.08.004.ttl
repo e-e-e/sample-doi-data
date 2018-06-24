@@ -1,0 +1,60 @@
+<http://id.crossref.org/contributor/james-d-woodman-221tittt83xgp>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Woodman" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "James D." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "James D. Woodman" .
+
+<http://id.crossref.org/contributor/edward-d-deveson-221tittt83xgp>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Deveson" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Edward D." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Edward D. Deveson" .
+
+<http://dx.doi.org/10.1016/j.jinsphys.2014.08.004>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/j.jinsphys.2014.08.004" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "7" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "1" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "70" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/james-d-woodman-221tittt83xgp> , <http://id.crossref.org/contributor/edward-d-deveson-221tittt83xgp> ;
+      <http://purl.org/dc/terms/date>
+              "2014-11"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/j.jinsphys.2014.08.004" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0022-1910> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Embryonic diapause in the Australian plague locust relative to parental experience of cumulative photophase decline" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/j.jinsphys.2014.08.004" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "7" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "1" ;
+      <http://purl.org/ontology/bibo/volume>
+              "70" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1016/j.jinsphys.2014.08.004> , <info:doi/10.1016/j.jinsphys.2014.08.004> .
+
+<http://id.crossref.org/issn/0022-1910>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0022-1910" ;
+      <http://purl.org/dc/terms/title>
+              "Journal of Insect Physiology" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0022-1910" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0022-1910" .

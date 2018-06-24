@@ -1,0 +1,50 @@
+<http://dx.doi.org/10.1007/978-0-85729-323-7_1784>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1007/978-0-85729-323-7_1784" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "557" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "557" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/anna-i-glushenkova-2h9672jz9dni5> , <http://id.crossref.org/contributor/shakhnoza-s-azimova-2h9672jz9dni5> ;
+      <http://purl.org/dc/terms/date>
+              "2012"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1007/978-0-85729-323-7_1784" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9780857293220> ;
+      <http://purl.org/dc/terms/publisher>
+              "Springer London" ;
+      <http://purl.org/dc/terms/title>
+              "Acacia verek Guill (= Acacia senegal Willd)." ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1007/978-0-85729-323-7_1784" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "557" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "557" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1007/978-0-85729-323-7_1784> , <info:doi/10.1007/978-0-85729-323-7_1784> .
+
+<http://id.crossref.org/contributor/anna-i-glushenkova-2h9672jz9dni5>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Glushenkova" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Anna I." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Anna I. Glushenkova" .
+
+<http://id.crossref.org/contributor/shakhnoza-s-azimova-2h9672jz9dni5>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Azimova" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Shakhnoza S." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Shakhnoza S. Azimova" .
+
+<http://id.crossref.org/isbn/9780857293220>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Lipids, Lipophilic Components and Essential Oils from Plant Sources" .

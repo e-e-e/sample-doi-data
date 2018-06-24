@@ -1,0 +1,15 @@
+<http://dx.doi.org/10.1093/gao/9781884446054.013.7002293337>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1093/gao/9781884446054.013.7002293337" ;
+      <http://purl.org/dc/terms/date>
+              ""^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1093/gao/9781884446054.013.7002293337" ;
+      <http://purl.org/dc/terms/publisher>
+              "CrossRef" ;
+      <http://purl.org/dc/terms/title>
+              "10.1093/gao/9781884446054.013.7002293337" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1093/gao/9781884446054.013.7002293337" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1093/gao/9781884446054.013.7002293337> , <info:doi/10.1093/gao/9781884446054.013.7002293337> .

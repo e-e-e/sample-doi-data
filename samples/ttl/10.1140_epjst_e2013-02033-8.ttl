@@ -1,0 +1,60 @@
+<http://id.crossref.org/contributor/e-v-pankratova-1oxn4yirgcsxp>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Pankratova" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "E.V." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "E.V. Pankratova" .
+
+<http://id.crossref.org/contributor/v-n-belykh-1oxn4yirgcsxp>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Belykh" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "V.N." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "V.N. Belykh" .
+
+<http://dx.doi.org/10.1140/epjst/e2013-02033-8>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1140/epjst/e2013-02033-8" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "2515" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "2509" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "222" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/e-v-pankratova-1oxn4yirgcsxp> , <http://id.crossref.org/contributor/v-n-belykh-1oxn4yirgcsxp> ;
+      <http://purl.org/dc/terms/date>
+              "2013-10"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1140/epjst/e2013-02033-8" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1951-6355> ;
+      <http://purl.org/dc/terms/publisher>
+              "Springer Nature" ;
+      <http://purl.org/dc/terms/title>
+              "Consequential noise-induced synchronization of indirectly coupled self-sustained oscillators" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1140/epjst/e2013-02033-8" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "2515" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "2509" ;
+      <http://purl.org/ontology/bibo/volume>
+              "222" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1140/epjst/e2013-02033-8> , <info:doi/10.1140/epjst/e2013-02033-8> .
+
+<http://id.crossref.org/issn/1951-6355>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1951-6355" , "1951-6401" ;
+      <http://purl.org/dc/terms/title>
+              "The European Physical Journal Special Topics" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1951-6355" , "1951-6401" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1951-6355" , "urn:issn:1951-6401" .

@@ -1,0 +1,61 @@
+<http://id.crossref.org/contributor/mm-rana-58dsqmtt68k1>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Rana" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "MM" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "MM Rana" .
+
+<http://id.crossref.org/issn/2408-8633>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "2408-8633" , "1999-7361" ;
+      <http://purl.org/dc/terms/title>
+              "Journal of Environmental Science and Natural Resources" ;
+      <http://purl.org/ontology/bibo/issn>
+              "2408-8633" , "1999-7361" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:2408-8633" , "urn:issn:1999-7361" .
+
+<http://id.crossref.org/contributor/ms-rahman-58dsqmtt68k1>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Rahman" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "MS" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "MS Rahman" .
+
+<http://id.crossref.org/contributor/mz-abedin-58dsqmtt68k1>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Abedin" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "MZ" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "MZ Abedin" .
+
+<http://dx.doi.org/10.3329/jesnr.v6i2.22098>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.3329/jesnr.v6i2.22098" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "6" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/mm-rana-58dsqmtt68k1> , <http://id.crossref.org/contributor/ms-rahman-58dsqmtt68k1> , <http://id.crossref.org/contributor/mz-abedin-58dsqmtt68k1> ;
+      <http://purl.org/dc/terms/date>
+              "2015-02-11"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.3329/jesnr.v6i2.22098" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/2408-8633> ;
+      <http://purl.org/dc/terms/publisher>
+              "Bangladesh Journals Online (JOL)" ;
+      <http://purl.org/dc/terms/title>
+              "Seasonal Variation in Wastewater Quality of Mymensingh Municipality Area Discharged into the Brahmaputra River" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.3329/jesnr.v6i2.22098" ;
+      <http://purl.org/ontology/bibo/volume>
+              "6" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.3329/jesnr.v6i2.22098> , <info:doi/10.3329/jesnr.v6i2.22098> .

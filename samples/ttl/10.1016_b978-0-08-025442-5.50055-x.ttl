@@ -1,0 +1,59 @@
+<http://id.crossref.org/isbn/9780080254425>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Gasdynamics of Explosions and Reactive Systems" .
+
+<http://id.crossref.org/contributor/t-takeno-20yeeyfyzf5ym>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "TAKENO" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "T." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "T. TAKENO" .
+
+<http://id.crossref.org/contributor/y-kotani-20yeeyfyzf5ym>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "KOTANI" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Y." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Y. KOTANI" .
+
+<http://dx.doi.org/10.1016/b978-0-08-025442-5.50055-x>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/b978-0-08-025442-5.50055-x" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "915" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "891" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/t-takeno-20yeeyfyzf5ym> , <http://id.crossref.org/contributor/y-kotani-20yeeyfyzf5ym> , <http://id.crossref.org/contributor/t-uno-20yeeyfyzf5ym> ;
+      <http://purl.org/dc/terms/date>
+              "1980"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/b978-0-08-025442-5.50055-x" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9780080254425> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier" ;
+      <http://purl.org/dc/terms/title>
+              "An experimental study on shock-induced combustion of hydrogen" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/b978-0-08-025442-5.50055-x" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "915" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "891" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1016/b978-0-08-025442-5.50055-x> , <doi:10.1016/b978-0-08-025442-5.50055-x> .
+
+<http://id.crossref.org/contributor/t-uno-20yeeyfyzf5ym>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "UNO" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "T." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "T. UNO" .

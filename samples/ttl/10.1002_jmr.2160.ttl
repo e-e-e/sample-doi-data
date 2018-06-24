@@ -1,0 +1,78 @@
+<http://id.crossref.org/contributor/rafa-biedron-24y6tqnxk6zem>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Biedroń" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Rafał" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Rafał Biedroń" .
+
+<http://id.crossref.org/contributor/maria-nowakowska-24y6tqnxk6zem>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Nowakowska" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Maria" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Maria Nowakowska" .
+
+<http://id.crossref.org/contributor/szczepan-zapotoczny-24y6tqnxk6zem>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Zapotoczny" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Szczepan" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Szczepan Zapotoczny" .
+
+<http://id.crossref.org/contributor/janusz-marcinkiewicz-24y6tqnxk6zem>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Marcinkiewicz" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Janusz" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Janusz Marcinkiewicz" .
+
+<http://id.crossref.org/issn/0952-3499>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0952-3499" ;
+      <http://purl.org/dc/terms/title>
+              "Journal of Molecular Recognition" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0952-3499" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0952-3499" .
+
+<http://dx.doi.org/10.1002/jmr.2160>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1002/jmr.2160" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "88" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "82" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "25" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/rafa-biedron-24y6tqnxk6zem> , <http://id.crossref.org/contributor/maria-nowakowska-24y6tqnxk6zem> , <http://id.crossref.org/contributor/szczepan-zapotoczny-24y6tqnxk6zem> , <http://id.crossref.org/contributor/janusz-marcinkiewicz-24y6tqnxk6zem> ;
+      <http://purl.org/dc/terms/date>
+              "2012-01-30"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1002/jmr.2160" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0952-3499> ;
+      <http://purl.org/dc/terms/publisher>
+              "Wiley" ;
+      <http://purl.org/dc/terms/title>
+              "Atomic force microscopy-based molecular studies on the recognition of immunogenic chlorinated ovalbumin by macrophage receptors" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1002/jmr.2160" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "88" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "82" ;
+      <http://purl.org/ontology/bibo/volume>
+              "25" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1002/jmr.2160> , <doi:10.1002/jmr.2160> .

@@ -1,0 +1,79 @@
+<http://id.crossref.org/contributor/jerry-morris-21cyjziak2379>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Morris" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Jerry" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Jerry Morris" .
+
+<http://id.crossref.org/contributor/evert-van-der-heide-21cyjziak2379>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "van der Heide" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Evert" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Evert van der Heide" .
+
+<http://dx.doi.org/10.1515/hf-2013-0102>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1515/hf-2013-0102" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "68" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/jerry-morris-21cyjziak2379> , <http://id.crossref.org/contributor/evert-van-der-heide-21cyjziak2379> , <http://id.crossref.org/contributor/juben-chheda-21cyjziak2379> , <http://id.crossref.org/contributor/mehmet-sefik-tunc-21cyjziak2379> , <http://id.crossref.org/contributor/adriaan-van-heiningen-21cyjziak2379> ;
+      <http://purl.org/dc/terms/date>
+              "2014-01-01"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1515/hf-2013-0102" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1437-434X> ;
+      <http://purl.org/dc/terms/publisher>
+              "Walter de Gruyter GmbH" ;
+      <http://purl.org/dc/terms/title>
+              "Pretreatment of hardwood chips via autohydrolysis supported by acetic and formic acid" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1515/hf-2013-0102" ;
+      <http://purl.org/ontology/bibo/volume>
+              "68" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1515/hf-2013-0102> , <info:doi/10.1515/hf-2013-0102> .
+
+<http://id.crossref.org/contributor/juben-chheda-21cyjziak2379>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Chheda" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Juben" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Juben Chheda" .
+
+<http://id.crossref.org/contributor/mehmet-sefik-tunc-21cyjziak2379>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Tunc" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Mehmet Sefik" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Mehmet Sefik Tunc" .
+
+<http://id.crossref.org/issn/1437-434X>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1437-434X" , "0018-3830" ;
+      <http://purl.org/dc/terms/title>
+              "Holzforschung" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1437-434X" , "0018-3830" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0018-3830" , "urn:issn:1437-434X" .
+
+<http://id.crossref.org/contributor/adriaan-van-heiningen-21cyjziak2379>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "van Heiningen" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Adriaan" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Adriaan van Heiningen" .

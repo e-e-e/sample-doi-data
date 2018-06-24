@@ -1,0 +1,43 @@
+<http://id.crossref.org/issn/2198-0675>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0341-9320" , "2198-0675" ;
+      <http://purl.org/dc/terms/title>
+              "Jahrbuch des Kölnischen Geschichtsvereins" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0341-9320" , "2198-0675" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:2198-0675" , "urn:issn:0341-9320" .
+
+<http://dx.doi.org/10.7788/jbkgv.1996.67.1.29>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.7788/jbkgv.1996.67.1.29" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "67" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/heinz-wolter-1nfqsuysr56ax> ;
+      <http://purl.org/dc/terms/date>
+              "1996-01-01"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.7788/jbkgv.1996.67.1.29" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/2198-0675> ;
+      <http://purl.org/dc/terms/publisher>
+              "Bohlau Verlag" ;
+      <http://purl.org/dc/terms/title>
+              "Eine unbekannte Urkunde (Fälschung) Philipps von Heinsberg für das Kloster Königsdorf aus dem Jahre 1175" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.7788/jbkgv.1996.67.1.29" ;
+      <http://purl.org/ontology/bibo/volume>
+              "67" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.7788/jbkgv.1996.67.1.29> , <info:doi/10.7788/jbkgv.1996.67.1.29> .
+
+<http://id.crossref.org/contributor/heinz-wolter-1nfqsuysr56ax>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Wolter" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Heinz" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Heinz Wolter" .

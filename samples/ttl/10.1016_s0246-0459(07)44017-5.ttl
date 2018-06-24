@@ -1,0 +1,96 @@
+<http://id.crossref.org/contributor/i-javerliat-wxpuhkn161j1>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Javerliat" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "I." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "I. Javerliat" .
+
+<http://id.crossref.org/contributor/o-goeau-brissonniere-wxpuhkn161j1>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Goëau-Brissonnière" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "O." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "O. Goëau-Brissonnière" .
+
+<http://dx.doi.org/10.1016/s0246-0459(07)44017-5>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/s0246-0459(07)44017-5" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "11" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "1" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "2" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/i-javerliat-wxpuhkn161j1> , <http://id.crossref.org/contributor/o-goeau-brissonniere-wxpuhkn161j1> , <http://id.crossref.org/contributor/m-coggia-wxpuhkn161j1> , <http://id.crossref.org/contributor/p-cerceau-wxpuhkn161j1> , <http://id.crossref.org/contributor/g-colacchio-wxpuhkn161j1> , <http://id.crossref.org/contributor/i-dicenta-wxpuhkn161j1> ;
+      <http://purl.org/dc/terms/date>
+              "2007-01"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/s0246-0459(07)44017-5" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0246-0459> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Chirurgie sous vidéoscopie des anévrismes de l'aorte abdominale" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/s0246-0459(07)44017-5" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "11" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "1" ;
+      <http://purl.org/ontology/bibo/volume>
+              "2" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1016/s0246-0459(07)44017-5> , <info:doi/10.1016/s0246-0459(07)44017-5> .
+
+<http://id.crossref.org/issn/0246-0459>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0246-0459" ;
+      <http://purl.org/dc/terms/title>
+              "EMC - Techniques chirurgicales - Chirurgie vasculaire" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0246-0459" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0246-0459" .
+
+<http://id.crossref.org/contributor/p-cerceau-wxpuhkn161j1>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Cerceau" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "P." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "P. Cerceau" .
+
+<http://id.crossref.org/contributor/m-coggia-wxpuhkn161j1>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Coggia" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "M." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "M. Coggia" .
+
+<http://id.crossref.org/contributor/g-colacchio-wxpuhkn161j1>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Colacchio" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "G." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "G. Colacchio" .
+
+<http://id.crossref.org/contributor/i-dicenta-wxpuhkn161j1>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "DiCenta" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "I." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "I. DiCenta" .

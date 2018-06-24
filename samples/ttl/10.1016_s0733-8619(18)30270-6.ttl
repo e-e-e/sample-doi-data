@@ -1,0 +1,60 @@
+<http://id.crossref.org/contributor/raymond-d-adams-3f2oc70x80ank>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Adams" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Raymond D." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Raymond D. Adams" .
+
+<http://id.crossref.org/contributor/maria-salam-adams-3f2oc70x80ank>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Salam-Adams" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Maria" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Maria Salam-Adams" .
+
+<http://dx.doi.org/10.1016/s0733-8619(18)30270-6>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/s0733-8619(18)30270-6" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "623" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "605" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "9" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/raymond-d-adams-3f2oc70x80ank> , <http://id.crossref.org/contributor/maria-salam-adams-3f2oc70x80ank> ;
+      <http://purl.org/dc/terms/date>
+              "1991-08"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/s0733-8619(18)30270-6" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0733-8619> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Chronic Nontraumatic Diseases of the Spinal Cord" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/s0733-8619(18)30270-6" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "623" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "605" ;
+      <http://purl.org/ontology/bibo/volume>
+              "9" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1016/s0733-8619(18)30270-6> , <doi:10.1016/s0733-8619(18)30270-6> .
+
+<http://id.crossref.org/issn/0733-8619>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0733-8619" ;
+      <http://purl.org/dc/terms/title>
+              "Neurologic Clinics" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0733-8619" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0733-8619" .

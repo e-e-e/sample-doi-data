@@ -1,0 +1,60 @@
+<http://dx.doi.org/10.1016/j.ecolind.2015.10.044>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/j.ecolind.2015.10.044" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "904" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "899" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "61" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/jixi-gao-t0g9r5olrw0g> , <http://id.crossref.org/contributor/meirong-tian-t0g9r5olrw0g> ;
+      <http://purl.org/dc/terms/date>
+              "2016-02"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/j.ecolind.2015.10.044" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1470-160X> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Analysis of over-consumption of natural resources and the ecological trade deficit in China based on ecological footprints" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/j.ecolind.2015.10.044" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "904" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "899" ;
+      <http://purl.org/ontology/bibo/volume>
+              "61" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1016/j.ecolind.2015.10.044> , <info:doi/10.1016/j.ecolind.2015.10.044> .
+
+<http://id.crossref.org/issn/1470-160X>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1470-160X" ;
+      <http://purl.org/dc/terms/title>
+              "Ecological Indicators" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1470-160X" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1470-160X" .
+
+<http://id.crossref.org/contributor/jixi-gao-t0g9r5olrw0g>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Gao" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Jixi" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Jixi Gao" .
+
+<http://id.crossref.org/contributor/meirong-tian-t0g9r5olrw0g>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Tian" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Meirong" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Meirong Tian" .

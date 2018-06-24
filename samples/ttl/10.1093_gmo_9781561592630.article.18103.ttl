@@ -1,0 +1,26 @@
+<http://id.crossref.org/contributor/peter-branscombe-1h1r1jowiuzfu>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Branscombe" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Peter" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Peter Branscombe" .
+
+<http://dx.doi.org/10.1093/gmo/9781561592630.article.18103>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1093/gmo/9781561592630.article.18103" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/peter-branscombe-1h1r1jowiuzfu> ;
+      <http://purl.org/dc/terms/date>
+              "2001"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1093/gmo/9781561592630.article.18103" ;
+      <http://purl.org/dc/terms/publisher>
+              "Oxford University Press" ;
+      <http://purl.org/dc/terms/title>
+              "Matthisson, Friedrich von" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1093/gmo/9781561592630.article.18103" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1093/gmo/9781561592630.article.18103> , <info:doi/10.1093/gmo/9781561592630.article.18103> .

@@ -1,0 +1,59 @@
+<http://id.crossref.org/contributor/jan-tore-klovland-3fj7q09j2tbry>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Klovland" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Jan Tore" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Jan Tore Klovland" .
+
+<http://dx.doi.org/10.1017/9781316577202.015>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1017/9781316577202.015" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "407" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "388" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/jan-tore-klovland-3fj7q09j2tbry> , <http://id.crossref.org/contributor/lars-fredrik-oksendal-3fj7q09j2tbry> , <http://id.crossref.org/contributor/oyvind-eitrheim-3fj7q09j2tbry> ;
+      <http://purl.org/dc/terms/date>
+              ""^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1017/9781316577202.015" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9781316577202> ;
+      <http://purl.org/dc/terms/publisher>
+              "Cambridge University Press" ;
+      <http://purl.org/dc/terms/title>
+              "The Extreme Liquidity Creation during the Occupation Years, 1940–1945" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1017/9781316577202.015" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "407" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "388" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1017/9781316577202.015> , <info:doi/10.1017/9781316577202.015> .
+
+<http://id.crossref.org/contributor/lars-fredrik-oksendal-3fj7q09j2tbry>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Oksendal" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Lars Fredrik" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Lars Fredrik Oksendal" .
+
+<http://id.crossref.org/contributor/oyvind-eitrheim-3fj7q09j2tbry>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Eitrheim" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Oyvind" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Oyvind Eitrheim" .
+
+<http://id.crossref.org/isbn/9781316577202>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "A Monetary History of Norway, 1816-2016" .

@@ -1,0 +1,87 @@
+<http://id.crossref.org/issn/1382-6689>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1382-6689" ;
+      <http://purl.org/dc/terms/title>
+              "Environmental Toxicology and Pharmacology" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1382-6689" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1382-6689" .
+
+<http://dx.doi.org/10.1016/j.etap.2012.08.009>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/j.etap.2012.08.009" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "904" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "895" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "34" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/bozena-cukrowska-okiu6otzqq77> , <http://id.crossref.org/contributor/jerzy-juskiewicz-okiu6otzqq77> , <http://id.crossref.org/contributor/elzbieta-klewicka-okiu6otzqq77> , <http://id.crossref.org/contributor/zenon-zdunczyk-okiu6otzqq77> , <http://id.crossref.org/contributor/adriana-nowak-okiu6otzqq77> ;
+      <http://purl.org/dc/terms/date>
+              "2012-11"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/j.etap.2012.08.009" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1382-6689> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Protective effect of lactofermented red beetroot juice against aberrant crypt foci formation, genotoxicity of fecal water and oxidative stress induced by 2-amino-1-methyl-6-phenylimidazo[4,5-b] pyridine in rats model" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/j.etap.2012.08.009" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "904" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "895" ;
+      <http://purl.org/ontology/bibo/volume>
+              "34" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1016/j.etap.2012.08.009> , <info:doi/10.1016/j.etap.2012.08.009> .
+
+<http://id.crossref.org/contributor/jerzy-juskiewicz-okiu6otzqq77>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Juśkiewicz" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Jerzy" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Jerzy Juśkiewicz" .
+
+<http://id.crossref.org/contributor/bozena-cukrowska-okiu6otzqq77>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Cukrowska" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Bożena" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Bożena Cukrowska" .
+
+<http://id.crossref.org/contributor/zenon-zdunczyk-okiu6otzqq77>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Zduńczyk" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Zenon" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Zenon Zduńczyk" .
+
+<http://id.crossref.org/contributor/elzbieta-klewicka-okiu6otzqq77>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Klewicka" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Elżbieta" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Elżbieta Klewicka" .
+
+<http://id.crossref.org/contributor/adriana-nowak-okiu6otzqq77>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Nowak" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Adriana" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Adriana Nowak" .

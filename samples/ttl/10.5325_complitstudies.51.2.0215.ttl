@@ -1,0 +1,45 @@
+<http://dx.doi.org/10.5325/complitstudies.51.2.0215>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.5325/complitstudies.51.2.0215" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "215" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "51" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/lacayo-je2tvxlesg> ;
+      <http://purl.org/dc/terms/date>
+              "2014"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.5325/complitstudies.51.2.0215" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0010-4132> ;
+      <http://purl.org/dc/terms/publisher>
+              "The Pennsylvania State University Press" ;
+      <http://purl.org/dc/terms/title>
+              "A Queer and Embodied Translation:" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.5325/complitstudies.51.2.0215" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "215" ;
+      <http://purl.org/ontology/bibo/volume>
+              "51" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.5325/complitstudies.51.2.0215> , <doi:10.5325/complitstudies.51.2.0215> .
+
+<http://id.crossref.org/issn/0010-4132>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0010-4132" ;
+      <http://purl.org/dc/terms/title>
+              "Comparative Literature Studies" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0010-4132" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0010-4132" .
+
+<http://id.crossref.org/contributor/lacayo-je2tvxlesg>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Lacayo" ;
+      <http://xmlns.com/foaf/0.1/name>
+              " Lacayo" .

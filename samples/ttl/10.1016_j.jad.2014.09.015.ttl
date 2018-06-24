@@ -1,0 +1,114 @@
+<http://id.crossref.org/contributor/rodrigo-machado-vieira-32y261gu2mhkj>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Machado-Vieira" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Rodrigo" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Rodrigo Machado-Vieira" .
+
+<http://id.crossref.org/contributor/robin-ortiz-32y261gu2mhkj>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Ortiz" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Robin" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Robin Ortiz" .
+
+<http://id.crossref.org/contributor/david-a-luckenbaugh-32y261gu2mhkj>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Luckenbaugh" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "David A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "David A. Luckenbaugh" .
+
+<http://id.crossref.org/contributor/leorey-n-saligan-32y261gu2mhkj>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Saligan" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Leorey N." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Leorey N. Saligan" .
+
+<http://id.crossref.org/contributor/carlos-a-zarate-32y261gu2mhkj>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Zarate" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Carlos A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Carlos A. Zarate" .
+
+<http://id.crossref.org/issn/0165-0327>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0165-0327" ;
+      <http://purl.org/dc/terms/title>
+              "Journal of Affective Disorders" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0165-0327" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0165-0327" .
+
+<http://id.crossref.org/contributor/allison-c-nugent-32y261gu2mhkj>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Nugent" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Allison C." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Allison C. Nugent" .
+
+<http://id.crossref.org/contributor/mark-j-niciu-32y261gu2mhkj>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Niciu" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Mark J." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Mark J. Niciu" .
+
+<http://id.crossref.org/contributor/nada-lukkahati-32y261gu2mhkj>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Lukkahati" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Nada" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Nada Lukkahati" .
+
+<http://dx.doi.org/10.1016/j.jad.2014.09.015>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/j.jad.2014.09.015" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "311" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "307" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "172" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/robin-ortiz-32y261gu2mhkj> , <http://id.crossref.org/contributor/rodrigo-machado-vieira-32y261gu2mhkj> , <http://id.crossref.org/contributor/david-a-luckenbaugh-32y261gu2mhkj> , <http://id.crossref.org/contributor/leorey-n-saligan-32y261gu2mhkj> , <http://id.crossref.org/contributor/carlos-a-zarate-32y261gu2mhkj> , <http://id.crossref.org/contributor/allison-c-nugent-32y261gu2mhkj> , <http://id.crossref.org/contributor/mark-j-niciu-32y261gu2mhkj> , <http://id.crossref.org/contributor/nada-lukkahati-32y261gu2mhkj> ;
+      <http://purl.org/dc/terms/date>
+              "2015-02"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/j.jad.2014.09.015" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0165-0327> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Shank3 as a potential biomarker of antidepressant response to ketamine and its neural correlates in bipolar depression" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/j.jad.2014.09.015" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "311" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "307" ;
+      <http://purl.org/ontology/bibo/volume>
+              "172" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1016/j.jad.2014.09.015> , <info:doi/10.1016/j.jad.2014.09.015> .

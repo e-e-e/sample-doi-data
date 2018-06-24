@@ -1,0 +1,51 @@
+<http://id.crossref.org/issn/1052-150X>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "2153-3326" , "1052-150X" ;
+      <http://purl.org/dc/terms/title>
+              "Business Ethics Quarterly" ;
+      <http://purl.org/ontology/bibo/issn>
+              "2153-3326" , "1052-150X" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1052-150X" , "urn:issn:2153-3326" .
+
+<http://id.crossref.org/contributor/kenneth-e-goodpaster-17p1y2vnkg053>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Goodpaster" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Kenneth E." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Kenneth E. Goodpaster" .
+
+<http://dx.doi.org/10.1017/s1052150x00008782>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1017/s1052150x00008782" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "73" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "53" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "1" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/kenneth-e-goodpaster-17p1y2vnkg053> ;
+      <http://purl.org/dc/terms/date>
+              "1991-01"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1017/s1052150x00008782" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1052-150X> ;
+      <http://purl.org/dc/terms/publisher>
+              "Cambridge University Press (CUP)" ;
+      <http://purl.org/dc/terms/title>
+              "Business Ethics and Stakeholder Analysis" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1017/s1052150x00008782" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "73" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "53" ;
+      <http://purl.org/ontology/bibo/volume>
+              "1" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1017/s1052150x00008782> , <info:doi/10.1017/s1052150x00008782> .

@@ -1,0 +1,51 @@
+<http://dx.doi.org/10.1080/00029890.1990.11995543>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1080/00029890.1990.11995543" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "42" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "39" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "97" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/robert-weinstock-24okoo7dp7blt> ;
+      <http://purl.org/dc/terms/date>
+              "1990-01"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1080/00029890.1990.11995543" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0002-9890> ;
+      <http://purl.org/dc/terms/publisher>
+              "Informa UK Limited" ;
+      <http://purl.org/dc/terms/title>
+              "Elementary Evaluations of ∫0∞e-x2 dx, ∫0∞ cos x2 dx, and ∫0∞ sin x2 dx" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1080/00029890.1990.11995543" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "42" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "39" ;
+      <http://purl.org/ontology/bibo/volume>
+              "97" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1080/00029890.1990.11995543> , <info:doi/10.1080/00029890.1990.11995543> .
+
+<http://id.crossref.org/contributor/robert-weinstock-24okoo7dp7blt>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Weinstock" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Robert" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Robert Weinstock" .
+
+<http://id.crossref.org/issn/0002-9890>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0002-9890" , "1930-0972" ;
+      <http://purl.org/dc/terms/title>
+              "The American Mathematical Monthly" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0002-9890" , "1930-0972" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0002-9890" , "urn:issn:1930-0972" .

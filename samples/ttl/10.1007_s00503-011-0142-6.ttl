@@ -1,0 +1,51 @@
+<http://id.crossref.org/issn/0022-6912>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0022-6912" , "1613-7639" ;
+      <http://purl.org/dc/terms/title>
+              "Juristische Blätter" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0022-6912" , "1613-7639" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1613-7639" , "urn:issn:0022-6912" .
+
+<http://id.crossref.org/contributor/hansjorg-sailer-qpim1d7f25yh>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Sailer" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Hansjörg" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Hansjörg Sailer" .
+
+<http://dx.doi.org/10.1007/s00503-011-0142-6>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1007/s00503-011-0142-6" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "791" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "790" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "133" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/hansjorg-sailer-qpim1d7f25yh> ;
+      <http://purl.org/dc/terms/date>
+              "2011-12"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1007/s00503-011-0142-6" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0022-6912> ;
+      <http://purl.org/dc/terms/publisher>
+              "Springer Nature" ;
+      <http://purl.org/dc/terms/title>
+              "Kein Ausgleichsanspruch nach § 364b ABGB bei selbst verursachter Störung der Liegenschaft" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1007/s00503-011-0142-6" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "791" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "790" ;
+      <http://purl.org/ontology/bibo/volume>
+              "133" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1007/s00503-011-0142-6> , <doi:10.1007/s00503-011-0142-6> .

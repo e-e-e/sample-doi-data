@@ -1,0 +1,48 @@
+<http://id.crossref.org/issn/1612-510X>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1612-5118" , "1612-510X" ;
+      <http://purl.org/dc/terms/title>
+              "Landslides" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1612-5118" , "1612-510X" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1612-5118" , "urn:issn:1612-510X" .
+
+<http://id.crossref.org/contributor/martin-mergili-2t9fxn7lda49v>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Mergili" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Martin" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Martin Mergili" .
+
+<http://id.crossref.org/contributor/elmar-m-schmaltz-2t9fxn7lda49v>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Schmaltz" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Elmar M." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Elmar M. Schmaltz" .
+
+<http://dx.doi.org/10.1007/s10346-018-0970-8>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1007/s10346-018-0970-8" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/martin-mergili-2t9fxn7lda49v> , <http://id.crossref.org/contributor/elmar-m-schmaltz-2t9fxn7lda49v> ;
+      <http://purl.org/dc/terms/date>
+              "2018-03-06"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1007/s10346-018-0970-8" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1612-510X> ;
+      <http://purl.org/dc/terms/publisher>
+              "Springer Nature" ;
+      <http://purl.org/dc/terms/title>
+              "Integration of root systems into a GIS-based slip surface model: computational experiments in a generic hillslope environment" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1007/s10346-018-0970-8" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1007/s10346-018-0970-8> , <doi:10.1007/s10346-018-0970-8> .

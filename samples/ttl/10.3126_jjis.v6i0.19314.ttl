@@ -1,0 +1,47 @@
+<http://dx.doi.org/10.3126/jjis.v6i0.19314>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.3126/jjis.v6i0.19314" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "121" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "6" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/ratna-shila-banstola-30ca2kpuhtq63> ;
+      <http://purl.org/dc/terms/date>
+              "2018-03-02"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.3126/jjis.v6i0.19314" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/2362-1516> ;
+      <http://purl.org/dc/terms/publisher>
+              "Nepal Journals Online (JOL)" ;
+      <http://purl.org/dc/terms/title>
+              "Psychosocial Problem among School-going Adolescents in Pokhara, Western Nepal" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.3126/jjis.v6i0.19314" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "121" ;
+      <http://purl.org/ontology/bibo/volume>
+              "6" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.3126/jjis.v6i0.19314> , <info:doi/10.3126/jjis.v6i0.19314> .
+
+<http://id.crossref.org/issn/2362-1516>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "2362-1516" ;
+      <http://purl.org/dc/terms/title>
+              "Janapriya Journal of Interdisciplinary Studies" ;
+      <http://purl.org/ontology/bibo/issn>
+              "2362-1516" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:2362-1516" .
+
+<http://id.crossref.org/contributor/ratna-shila-banstola-30ca2kpuhtq63>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Banstola" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Ratna Shila" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Ratna Shila Banstola" .

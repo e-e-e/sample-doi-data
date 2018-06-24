@@ -1,0 +1,40 @@
+<http://dx.doi.org/10.3775/jie.6.586>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.3775/jie.6.586" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "591" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "586" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "6" ;
+      <http://purl.org/dc/terms/date>
+              "1927"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.3775/jie.6.586" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0369-3775> ;
+      <http://purl.org/dc/terms/publisher>
+              "The Japan Institute of Energy" ;
+      <http://purl.org/dc/terms/title>
+              "" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.3775/jie.6.586" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "591" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "586" ;
+      <http://purl.org/ontology/bibo/volume>
+              "6" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.3775/jie.6.586> , <doi:10.3775/jie.6.586> .
+
+<http://id.crossref.org/issn/0369-3775>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "2185-226X" , "0369-3775" ;
+      <http://purl.org/dc/terms/title>
+              "Journal of the Fuel Society of Japan" ;
+      <http://purl.org/ontology/bibo/issn>
+              "2185-226X" , "0369-3775" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:2185-226X" , "urn:issn:0369-3775" .

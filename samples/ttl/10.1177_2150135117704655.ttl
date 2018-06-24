@@ -1,0 +1,70 @@
+<http://id.crossref.org/contributor/sowmya-ramanan-30jraj0cicokr>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Ramanan" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Sowmya" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Sowmya Ramanan" .
+
+<http://dx.doi.org/10.1177/2150135117704655>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1177/2150135117704655" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "215013511770465" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/sowmya-ramanan-30jraj0cicokr> , <http://id.crossref.org/contributor/r-anto-sahayaraj-30jraj0cicokr> , <http://id.crossref.org/contributor/kotturathu-mammen-cherian-30jraj0cicokr> , <http://id.crossref.org/contributor/raghavan-subramanyan-30jraj0cicokr> ;
+      <http://purl.org/dc/terms/date>
+              "2017-08-20"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1177/2150135117704655" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/2150-1351> ;
+      <http://purl.org/dc/terms/publisher>
+              "SAGE Publications" ;
+      <http://purl.org/dc/terms/title>
+              "3D Printing to Model Surgical Repair of Complex Congenitally Corrected Transposition of the Great Arteries" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1177/2150135117704655" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "215013511770465" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1177/2150135117704655> , <info:doi/10.1177/2150135117704655> .
+
+<http://id.crossref.org/contributor/r-anto-sahayaraj-30jraj0cicokr>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Sahayaraj" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "R. Anto" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "R. Anto Sahayaraj" .
+
+<http://id.crossref.org/contributor/kotturathu-mammen-cherian-30jraj0cicokr>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Cherian" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Kotturathu Mammen" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Kotturathu Mammen Cherian" .
+
+<http://id.crossref.org/issn/2150-1351>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "2150-1351" , "2150-136X" ;
+      <http://purl.org/dc/terms/title>
+              "World Journal for Pediatric and Congenital Heart Surgery" ;
+      <http://purl.org/ontology/bibo/issn>
+              "2150-1351" , "2150-136X" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:2150-1351" , "urn:issn:2150-136X" .
+
+<http://id.crossref.org/contributor/raghavan-subramanyan-30jraj0cicokr>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Subramanyan" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Raghavan" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Raghavan Subramanyan" .

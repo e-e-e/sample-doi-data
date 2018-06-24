@@ -1,0 +1,28 @@
+<http://dx.doi.org/10.1093/oxfordjournals.bjsw.a056837>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1093/oxfordjournals.bjsw.a056837" ;
+      <http://purl.org/dc/terms/date>
+              "1977-06-01"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1093/oxfordjournals.bjsw.a056837" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1468-263X> ;
+      <http://purl.org/dc/terms/publisher>
+              "Oxford University Press (OUP)" ;
+      <http://purl.org/dc/terms/title>
+              "Book Reviews" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1093/oxfordjournals.bjsw.a056837" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1093/oxfordjournals.bjsw.a056837> , <info:doi/10.1093/oxfordjournals.bjsw.a056837> .
+
+<http://id.crossref.org/issn/1468-263X>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1468-263X" ;
+      <http://purl.org/dc/terms/title>
+              "The British Journal of Social Work" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1468-263X" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1468-263X" .

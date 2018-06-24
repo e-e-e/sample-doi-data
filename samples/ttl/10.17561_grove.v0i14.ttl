@@ -1,0 +1,26 @@
+<http://dx.doi.org/10.17561/grove.v0i14>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.17561/grove.v0i14" ;
+      <http://purl.org/dc/terms/date>
+              "2013-12-05"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.17561/grove.v0i14" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/2386-5431> ;
+      <http://purl.org/dc/terms/publisher>
+              "Universidad de Jaen" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.17561/grove.v0i14" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.17561/grove.v0i14> , <doi:10.17561/grove.v0i14> .
+
+<http://id.crossref.org/issn/2386-5431>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1137-005X" , "2386-5431" ;
+      <http://purl.org/dc/terms/title>
+              "The Grove - Working Papers on English Studies" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1137-005X" , "2386-5431" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1137-005X" , "urn:issn:2386-5431" .

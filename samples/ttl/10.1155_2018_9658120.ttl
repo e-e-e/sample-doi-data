@@ -1,0 +1,91 @@
+<http://id.crossref.org/issn/1687-9627>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1687-9635" , "1687-9627" ;
+      <http://purl.org/dc/terms/title>
+              "Case Reports in Medicine" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1687-9635" , "1687-9627" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1687-9635" , "urn:issn:1687-9627" .
+
+<http://id.crossref.org/contributor/melroy-dsouza-25z948m85t981>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "D’Souza" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Melroy" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Melroy D’Souza" .
+
+<http://dx.doi.org/10.1155/2018/9658120>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1155/2018/9658120" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "3" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "1" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "2018" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/melroy-dsouza-25z948m85t981> , <http://id.crossref.org/contributor/kathleen-casey-25z948m85t981> , <http://id.crossref.org/contributor/aria-mahtabfar-25z948m85t981> , <http://id.crossref.org/contributor/william-berrigan-25z948m85t981> , <http://id.crossref.org/contributor/hamoon-eshraghi-25z948m85t981> ;
+      <http://purl.org/dc/terms/date>
+              "2018"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1155/2018/9658120" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1687-9627> ;
+      <http://purl.org/dc/terms/publisher>
+              "Hindawi Limited" ;
+      <http://purl.org/dc/terms/title>
+              "A Case of Anterior Spinal Artery Syndrome Caused by Streptococcus mitis Endocarditis" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1155/2018/9658120" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "3" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "1" ;
+      <http://purl.org/ontology/bibo/volume>
+              "2018" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1155/2018/9658120> , <doi:10.1155/2018/9658120> .
+
+<http://id.crossref.org/contributor/kathleen-casey-25z948m85t981>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Casey" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Kathleen" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Kathleen Casey" .
+
+<http://id.crossref.org/contributor/aria-mahtabfar-25z948m85t981>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <http://orcid.org/0000-0002-4026-7821> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Mahtabfar" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Aria" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Aria Mahtabfar" .
+
+<http://id.crossref.org/contributor/william-berrigan-25z948m85t981>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Berrigan" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "William" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "William Berrigan" .
+
+<http://id.crossref.org/contributor/hamoon-eshraghi-25z948m85t981>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <http://orcid.org/0000-0002-5103-1435> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Eshraghi" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Hamoon" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Hamoon Eshraghi" .

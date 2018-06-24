@@ -1,0 +1,30 @@
+<http://id.crossref.org/issn/1692-715X>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1692-715X" , "2027-7679" ;
+      <http://purl.org/dc/terms/title>
+              "Revista Latinoamericana de Ciencias Sociales, Niñez y Juventud" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1692-715X" , "2027-7679" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1692-715X" , "urn:issn:2027-7679" .
+
+<http://dx.doi.org/10.11600/1692715x.14229080915>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.11600/1692715x.14229080915" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "14" ;
+      <http://purl.org/dc/terms/date>
+              "2016-07-01"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.11600/1692715x.14229080915" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1692-715X> ;
+      <http://purl.org/dc/terms/publisher>
+              "Fundacion Cinde" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.11600/1692715x.14229080915" ;
+      <http://purl.org/ontology/bibo/volume>
+              "14" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.11600/1692715x.14229080915> , <info:doi/10.11600/1692715x.14229080915> .

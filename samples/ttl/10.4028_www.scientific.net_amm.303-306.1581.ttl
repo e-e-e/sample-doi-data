@@ -1,0 +1,60 @@
+<http://id.crossref.org/contributor/jun-yun-wu-356j1fssjhoik>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Wu" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Jun Yun" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Jun Yun Wu" .
+
+<http://id.crossref.org/issn/1662-7482>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1662-7482" ;
+      <http://purl.org/dc/terms/title>
+              "Applied Mechanics and Materials" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1662-7482" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1662-7482" .
+
+<http://dx.doi.org/10.4028/www.scientific.net/amm.303-306.1581>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.4028/www.scientific.net/amm.303-306.1581" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "1584" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "1581" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "303-306" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/jun-yun-wu-356j1fssjhoik> , <http://id.crossref.org/contributor/cai-yun-xie-356j1fssjhoik> ;
+      <http://purl.org/dc/terms/date>
+              "2013-02"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.4028/www.scientific.net/amm.303-306.1581" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1662-7482> ;
+      <http://purl.org/dc/terms/publisher>
+              "Trans Tech Publications" ;
+      <http://purl.org/dc/terms/title>
+              "An Improved Algorithm of Concept Extraction in Ontology Learning" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.4028/www.scientific.net/amm.303-306.1581" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "1584" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "1581" ;
+      <http://purl.org/ontology/bibo/volume>
+              "303-306" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.4028/www.scientific.net/amm.303-306.1581> , <info:doi/10.4028/www.scientific.net/amm.303-306.1581> .
+
+<http://id.crossref.org/contributor/cai-yun-xie-356j1fssjhoik>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Xie" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Cai Yun" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Cai Yun Xie" .

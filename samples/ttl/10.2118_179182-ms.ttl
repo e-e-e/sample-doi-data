@@ -1,0 +1,53 @@
+<http://dx.doi.org/10.2118/179182-ms>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.2118/179182-ms" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/b-goodwin-2wtuoqasam6y7> , <http://id.crossref.org/contributor/d-d-moore-2wtuoqasam6y7> , <http://id.crossref.org/contributor/r-dysart-2wtuoqasam6y7> , <http://id.crossref.org/contributor/c-r-reimer-2wtuoqasam6y7> ;
+      <http://purl.org/dc/terms/date>
+              "2016"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.2118/179182-ms" ;
+      <http://purl.org/dc/terms/publisher>
+              "Society of Petroleum Engineers" ;
+      <http://purl.org/dc/terms/title>
+              "MPD Equipment Selection for a Deepwater Drillship" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.2118/179182-ms" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.2118/179182-ms> , <info:doi/10.2118/179182-ms> .
+
+<http://id.crossref.org/contributor/b-goodwin-2wtuoqasam6y7>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Goodwin" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "B." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "B. Goodwin" .
+
+<http://id.crossref.org/contributor/d-d-moore-2wtuoqasam6y7>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Moore" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "D. D." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "D. D. Moore" .
+
+<http://id.crossref.org/contributor/r-dysart-2wtuoqasam6y7>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Dysart" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "R." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "R. Dysart" .
+
+<http://id.crossref.org/contributor/c-r-reimer-2wtuoqasam6y7>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Reimer" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "C. R." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "C. R. Reimer" .

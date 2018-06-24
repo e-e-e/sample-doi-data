@@ -1,0 +1,60 @@
+<http://id.crossref.org/contributor/haim-yacobi-1xlny0iukgdxx>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Yacobi" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Haim" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Haim Yacobi" .
+
+<http://dx.doi.org/10.1080/13602365.2014.987155>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1080/13602365.2014.987155" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "997" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "975" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "19" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/haim-yacobi-1xlny0iukgdxx> , <http://id.crossref.org/contributor/hadas-shadar-1xlny0iukgdxx> ;
+      <http://purl.org/dc/terms/date>
+              "2014-11-02"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1080/13602365.2014.987155" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1360-2365> ;
+      <http://purl.org/dc/terms/publisher>
+              "Informa UK Limited" ;
+      <http://purl.org/dc/terms/title>
+              "The Arab village: a genealogy of (post)colonial imagination" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1080/13602365.2014.987155" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "997" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "975" ;
+      <http://purl.org/ontology/bibo/volume>
+              "19" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1080/13602365.2014.987155> , <doi:10.1080/13602365.2014.987155> .
+
+<http://id.crossref.org/issn/1360-2365>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1360-2365" , "1466-4410" ;
+      <http://purl.org/dc/terms/title>
+              "The Journal of Architecture" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1360-2365" , "1466-4410" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1360-2365" , "urn:issn:1466-4410" .
+
+<http://id.crossref.org/contributor/hadas-shadar-1xlny0iukgdxx>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Shadar" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Hadas" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Hadas Shadar" .

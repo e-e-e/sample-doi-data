@@ -1,0 +1,56 @@
+<http://id.crossref.org/contributor/guliz-aydn-g5hpb5n57zgn>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Aydın" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Güliz" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Güliz Aydın" .
+
+<http://dx.doi.org/10.17220/ijpes.2015.02.003>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.17220/ijpes.2015.02.003" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "34" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "22" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "2" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/guliz-aydn-g5hpb5n57zgn> , <http://id.crossref.org/contributor/-g5hpb5n57zgn> ;
+      <http://purl.org/dc/terms/date>
+              "2015-05-01"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.17220/ijpes.2015.02.003" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/2148-9378> ;
+      <http://purl.org/dc/terms/publisher>
+              "Kiperonline Academic" ;
+      <http://purl.org/dc/terms/title>
+              "Pre-service Science Teachers’ Views on Conceptual Change Strategies and Practices Carried out" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.17220/ijpes.2015.02.003" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "34" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "22" ;
+      <http://purl.org/ontology/bibo/volume>
+              "2" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.17220/ijpes.2015.02.003> , <doi:10.17220/ijpes.2015.02.003> .
+
+<http://id.crossref.org/issn/2148-9378>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "2148-9378" ;
+      <http://purl.org/dc/terms/title>
+              "International Journal of Psychology and Educational Studies" ;
+      <http://purl.org/ontology/bibo/issn>
+              "2148-9378" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:2148-9378" .
+
+<http://id.crossref.org/contributor/-g5hpb5n57zgn>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/name>
+              " " .

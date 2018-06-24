@@ -1,0 +1,60 @@
+<http://id.crossref.org/contributor/a-hamilton-1yb47n69xampt>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Hamilton" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "A. Hamilton" .
+
+<http://id.crossref.org/issn/2054-0574>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "2054-0574" ;
+      <http://purl.org/dc/terms/title>
+              "Journal of the Institution of Electrical Engineers" ;
+      <http://purl.org/ontology/bibo/issn>
+              "2054-0574" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:2054-0574" .
+
+<http://dx.doi.org/10.1049/jiee-2.1949.0045>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1049/jiee-2.1949.0045" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "116" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "115" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "1949" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/a-hamilton-1yb47n69xampt> , <http://id.crossref.org/contributor/r-w-sillars-1yb47n69xampt> ;
+      <http://purl.org/dc/terms/date>
+              "1949-04"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1049/jiee-2.1949.0045" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/2054-0574> ;
+      <http://purl.org/dc/terms/publisher>
+              "Institution of Engineering and Technology (IET)" ;
+      <http://purl.org/dc/terms/title>
+              "Spark quenching at relay contacts interrupting d.c. circuits" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1049/jiee-2.1949.0045" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "116" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "115" ;
+      <http://purl.org/ontology/bibo/volume>
+              "1949" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1049/jiee-2.1949.0045> , <info:doi/10.1049/jiee-2.1949.0045> .
+
+<http://id.crossref.org/contributor/r-w-sillars-1yb47n69xampt>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Sillars" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "R.W." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "R.W. Sillars" .

@@ -1,0 +1,78 @@
+<http://id.crossref.org/contributor/s-singh-2jzsxbufd0d6f>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Singh" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "S." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "S. Singh" .
+
+<http://id.crossref.org/contributor/hilary-wallace-2jzsxbufd0d6f>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Wallace" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Hilary" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Hilary Wallace" .
+
+<http://id.crossref.org/issn/1110-1849>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1110-1849" ;
+      <http://purl.org/dc/terms/title>
+              "Egyptian Journal of Anaesthesia" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1110-1849" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1110-1849" .
+
+<http://id.crossref.org/contributor/elizabeth-perritt-2jzsxbufd0d6f>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Perritt" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Elizabeth" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Elizabeth Perritt" .
+
+<http://id.crossref.org/contributor/a-banerjee-2jzsxbufd0d6f>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Banerjee" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "A. Banerjee" .
+
+<http://dx.doi.org/10.1016/j.egja.2017.02.004>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/j.egja.2017.02.004" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "201" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "195" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "33" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/s-singh-2jzsxbufd0d6f> , <http://id.crossref.org/contributor/hilary-wallace-2jzsxbufd0d6f> , <http://id.crossref.org/contributor/elizabeth-perritt-2jzsxbufd0d6f> , <http://id.crossref.org/contributor/a-banerjee-2jzsxbufd0d6f> ;
+      <http://purl.org/dc/terms/date>
+              "2017-04"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/j.egja.2017.02.004" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1110-1849> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Effect of intra-articular alpha-agonists on post-operative outcomes following arthroscopic knee surgery: A systematic review and meta-analysis" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/j.egja.2017.02.004" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "201" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "195" ;
+      <http://purl.org/ontology/bibo/volume>
+              "33" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1016/j.egja.2017.02.004> , <doi:10.1016/j.egja.2017.02.004> .

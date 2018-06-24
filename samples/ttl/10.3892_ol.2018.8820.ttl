@@ -1,0 +1,84 @@
+<http://id.crossref.org/issn/1792-1074>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1792-1074" , "1792-1082" ;
+      <http://purl.org/dc/terms/title>
+              "Oncology Letters" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1792-1074" , "1792-1082" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1792-1074" , "urn:issn:1792-1082" .
+
+<http://id.crossref.org/contributor/jia-ji-6lupk86daqjh>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Ji" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Jia" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Jia Ji" .
+
+<http://id.crossref.org/contributor/xiuqiu-gao-6lupk86daqjh>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Gao" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Xiu‑Qiu" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Xiu‑Qiu Gao" .
+
+<http://id.crossref.org/contributor/ming-zhong-6lupk86daqjh>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Zhong" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Ming" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Ming Zhong" .
+
+<http://id.crossref.org/contributor/yv-chen-6lupk86daqjh>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Chen" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Yv" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Yv Chen" .
+
+<http://id.crossref.org/contributor/guannan-wang-6lupk86daqjh>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Wang" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Guan‑Nan" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Guan‑Nan Wang" .
+
+<http://id.crossref.org/contributor/tianfu-wang-6lupk86daqjh>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Wang" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Tian‑Fu" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Tian‑Fu Wang" .
+
+<http://dx.doi.org/10.3892/ol.2018.8820>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.3892/ol.2018.8820" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/jia-ji-6lupk86daqjh> , <http://id.crossref.org/contributor/xiuqiu-gao-6lupk86daqjh> , <http://id.crossref.org/contributor/ming-zhong-6lupk86daqjh> , <http://id.crossref.org/contributor/yv-chen-6lupk86daqjh> , <http://id.crossref.org/contributor/tianfu-wang-6lupk86daqjh> , <http://id.crossref.org/contributor/guannan-wang-6lupk86daqjh> ;
+      <http://purl.org/dc/terms/date>
+              "2018-05-25"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.3892/ol.2018.8820" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1792-1074> ;
+      <http://purl.org/dc/terms/publisher>
+              "Spandidos Publications" ;
+      <http://purl.org/dc/terms/title>
+              "Expression of WNT1 in ameloblastoma and its significance" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.3892/ol.2018.8820" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.3892/ol.2018.8820> , <info:doi/10.3892/ol.2018.8820> .

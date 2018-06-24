@@ -1,0 +1,51 @@
+<http://id.crossref.org/contributor/barbara-m-dainiak-2ryxjhbi2dvrz>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Dainiak" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Barbara M." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Barbara M. Dainiak" .
+
+<http://id.crossref.org/issn/0022-3409>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0022-3409" ;
+      <http://purl.org/dc/terms/title>
+              "Journal of Pastoral Care" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0022-3409" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0022-3409" .
+
+<http://dx.doi.org/10.1177/002234099404800117>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1177/002234099404800117" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "103" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "103" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "48" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/barbara-m-dainiak-2ryxjhbi2dvrz> ;
+      <http://purl.org/dc/terms/date>
+              "1994-03"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1177/002234099404800117" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0022-3409> ;
+      <http://purl.org/dc/terms/publisher>
+              "SAGE Publications" ;
+      <http://purl.org/dc/terms/title>
+              "Book Review: Compassioning: Basic Counselling Skills for Christian Care-GiversCompassioning: Basic Counselling Skills for Christian Care-Givers. FerrisMargaret (Kansas City, MO: Sheed & Ward, 1993). 73pp. $8.95. (paper)" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1177/002234099404800117" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "103" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "103" ;
+      <http://purl.org/ontology/bibo/volume>
+              "48" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1177/002234099404800117> , <info:doi/10.1177/002234099404800117> .

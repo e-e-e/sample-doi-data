@@ -1,0 +1,47 @@
+<http://id.crossref.org/contributor/francisco-jose-garcia-penalvo-1e1ttl3g6lc83>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "GARCÍA PEÑALVO" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Francisco José" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Francisco José GARCÍA PEÑALVO" .
+
+<http://id.crossref.org/issn/1138-9737>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1138-9737" ;
+      <http://purl.org/dc/terms/title>
+              "Education in the Knowledge Society (EKS)" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1138-9737" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1138-9737" .
+
+<http://dx.doi.org/10.14201/eks2015163618>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.14201/eks2015163618" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "6" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "16" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/francisco-jose-garcia-penalvo-1e1ttl3g6lc83> ;
+      <http://purl.org/dc/terms/date>
+              "2015-11-01"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.14201/eks2015163618" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1138-9737> ;
+      <http://purl.org/dc/terms/publisher>
+              "Ediciones Universidad de Salamanca" ;
+      <http://purl.org/dc/terms/title>
+              "Un punto de reflexión" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.14201/eks2015163618" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "6" ;
+      <http://purl.org/ontology/bibo/volume>
+              "16" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.14201/eks2015163618> , <doi:10.14201/eks2015163618> .

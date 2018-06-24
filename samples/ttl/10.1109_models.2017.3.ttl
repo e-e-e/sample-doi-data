@@ -1,0 +1,69 @@
+<http://id.crossref.org/contributor/krzysztof-czarnecki-3vcgyfflh7wai>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Czarnecki" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Krzysztof" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Krzysztof Czarnecki" .
+
+<http://id.crossref.org/contributor/marsha-chechik-3vcgyfflh7wai>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Chechik" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Marsha" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Marsha Chechik" .
+
+<http://id.crossref.org/contributor/julia-rubin-3vcgyfflh7wai>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Rubin" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Julia" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Julia Rubin" .
+
+<http://dx.doi.org/10.1109/models.2017.3>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1109/models.2017.3" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/krzysztof-czarnecki-3vcgyfflh7wai> , <http://id.crossref.org/contributor/marsha-chechik-3vcgyfflh7wai> , <http://id.crossref.org/contributor/julia-rubin-3vcgyfflh7wai> , <http://id.crossref.org/contributor/rick-salay-3vcgyfflh7wai> , <http://id.crossref.org/contributor/michalis-famelis-3vcgyfflh7wai> ;
+      <http://purl.org/dc/terms/date>
+              "2017-09"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1109/models.2017.3" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9781538634929> ;
+      <http://purl.org/dc/terms/publisher>
+              "IEEE" ;
+      <http://purl.org/dc/terms/title>
+              "Software Product Lines with Design Choices: Reasoning about Variability and Design Uncertainty" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1109/models.2017.3" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1109/models.2017.3> , <info:doi/10.1109/models.2017.3> .
+
+<http://id.crossref.org/isbn/9781538634929>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "2017 ACM/IEEE 20th International Conference on Model Driven Engineering Languages and Systems (MODELS)" .
+
+<http://id.crossref.org/contributor/rick-salay-3vcgyfflh7wai>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Salay" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Rick" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Rick Salay" .
+
+<http://id.crossref.org/contributor/michalis-famelis-3vcgyfflh7wai>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Famelis" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Michalis" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Michalis Famelis" .

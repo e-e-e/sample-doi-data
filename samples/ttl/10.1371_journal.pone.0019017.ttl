@@ -1,0 +1,110 @@
+<http://id.crossref.org/contributor/jacques-zimmer-304xjommzzwoe>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Zimmer" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Jacques" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Jacques Zimmer" .
+
+<http://id.crossref.org/contributor/yoshio-hayashi-304xjommzzwoe>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Hayashi" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Yoshio" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Yoshio Hayashi" .
+
+<http://id.crossref.org/contributor/rieko-arakaki-304xjommzzwoe>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Arakaki" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Rieko" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Rieko Arakaki" .
+
+<http://id.crossref.org/contributor/akiko-yamada-304xjommzzwoe>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Yamada" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Akiko" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Akiko Yamada" .
+
+<http://id.crossref.org/issn/1932-6203>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1932-6203" ;
+      <http://purl.org/dc/terms/title>
+              "PLoS ONE" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1932-6203" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1932-6203" .
+
+<http://id.crossref.org/contributor/tetsuo-ichikawa-304xjommzzwoe>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Ichikawa" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Tetsuo" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Tetsuo Ichikawa" .
+
+<http://id.crossref.org/contributor/megumi-watanabe-304xjommzzwoe>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Watanabe" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Megumi" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Megumi Watanabe" .
+
+<http://dx.doi.org/10.1371/journal.pone.0019017>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1371/journal.pone.0019017" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "e19017" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "6" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/jacques-zimmer-304xjommzzwoe> , <http://id.crossref.org/contributor/rieko-arakaki-304xjommzzwoe> , <http://id.crossref.org/contributor/yoshio-hayashi-304xjommzzwoe> , <http://id.crossref.org/contributor/akiko-yamada-304xjommzzwoe> , <http://id.crossref.org/contributor/tetsuo-ichikawa-304xjommzzwoe> , <http://id.crossref.org/contributor/megumi-watanabe-304xjommzzwoe> , <http://id.crossref.org/contributor/meinar-nur-ashrin-304xjommzzwoe> , <http://id.crossref.org/contributor/naozumi-ishimaru-304xjommzzwoe> ;
+      <http://purl.org/dc/terms/date>
+              "2011-04-22"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1371/journal.pone.0019017" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1932-6203> ;
+      <http://purl.org/dc/terms/publisher>
+              "Public Library of Science (PLoS)" ;
+      <http://purl.org/dc/terms/title>
+              "A Novel DC Therapy with Manipulation of MKK6 Gene on Nickel Allergy in Mice" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1371/journal.pone.0019017" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "e19017" ;
+      <http://purl.org/ontology/bibo/volume>
+              "6" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1371/journal.pone.0019017> , <info:doi/10.1371/journal.pone.0019017> .
+
+<http://id.crossref.org/contributor/naozumi-ishimaru-304xjommzzwoe>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Ishimaru" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Naozumi" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Naozumi Ishimaru" .
+
+<http://id.crossref.org/contributor/meinar-nur-ashrin-304xjommzzwoe>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Ashrin" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Meinar Nur" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Meinar Nur Ashrin" .

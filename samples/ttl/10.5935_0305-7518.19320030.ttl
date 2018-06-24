@@ -1,0 +1,43 @@
+<http://id.crossref.org/issn/0305-7518>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0305-7518" ;
+      <http://purl.org/dc/terms/title>
+              "Leprosy Review" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0305-7518" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0305-7518" .
+
+<http://dx.doi.org/10.5935/0305-7518.19320030>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.5935/0305-7518.19320030" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "3" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/c-a-wallace-nzmzdvgi6fw0> ;
+      <http://purl.org/dc/terms/date>
+              "1932"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.5935/0305-7518.19320030" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0305-7518> ;
+      <http://purl.org/dc/terms/publisher>
+              "GN1 Genesis Network" ;
+      <http://purl.org/dc/terms/title>
+              "Leprosy in Ukuguru District, Tanganyika" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.5935/0305-7518.19320030" ;
+      <http://purl.org/ontology/bibo/volume>
+              "3" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.5935/0305-7518.19320030> , <doi:10.5935/0305-7518.19320030> .
+
+<http://id.crossref.org/contributor/c-a-wallace-nzmzdvgi6fw0>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "WALLACE" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "C. A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "C. A. WALLACE" .

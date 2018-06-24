@@ -1,0 +1,50 @@
+<http://id.crossref.org/contributor/andrzej-jakubowski-pgswp1lvu1x>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Jakubowski" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Andrzej" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Andrzej Jakubowski" .
+
+<http://dx.doi.org/10.4337/9781781007341.00021>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.4337/9781781007341.00021" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "353" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "305" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/andrzej-jakubowski-pgswp1lvu1x> , <http://id.crossref.org/contributor/olgierd-jakubowski-pgswp1lvu1x> ;
+      <http://purl.org/dc/terms/date>
+              ""^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.4337/9781781007341.00021" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9781781007341> ;
+      <http://purl.org/dc/terms/publisher>
+              "Edward Elgar Publishing" ;
+      <http://purl.org/dc/terms/title>
+              "Poland" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.4337/9781781007341.00021" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "353" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "305" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.4337/9781781007341.00021> , <info:doi/10.4337/9781781007341.00021> .
+
+<http://id.crossref.org/isbn/9781781007341>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Handbook on the Law of Cultural Heritage and International Trade" .
+
+<http://id.crossref.org/contributor/olgierd-jakubowski-pgswp1lvu1x>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Jakubowski" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Olgierd" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Olgierd Jakubowski" .

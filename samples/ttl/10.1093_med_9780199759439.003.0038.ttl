@@ -1,0 +1,59 @@
+<http://id.crossref.org/isbn/9780199759439>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Gastrointestinal Imaging Cases" .
+
+<http://dx.doi.org/10.1093/med/9780199759439.003.0038>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1093/med/9780199759439.003.0038" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "82" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "81" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/angela-d-levy-mt2az4j4z1mt> , <http://id.crossref.org/contributor/benjamin-m-yeh-mt2az4j4z1mt> , <http://id.crossref.org/contributor/koenraad-mortele-mt2az4j4z1mt> ;
+      <http://purl.org/dc/terms/date>
+              "2013-05"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1093/med/9780199759439.003.0038" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9780199759439> ;
+      <http://purl.org/dc/terms/publisher>
+              "Oxford University Press" ;
+      <http://purl.org/dc/terms/title>
+              "Case 38" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1093/med/9780199759439.003.0038" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "82" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "81" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1093/med/9780199759439.003.0038> , <info:doi/10.1093/med/9780199759439.003.0038> .
+
+<http://id.crossref.org/contributor/angela-d-levy-mt2az4j4z1mt>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Levy" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Angela D." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Angela D. Levy" .
+
+<http://id.crossref.org/contributor/benjamin-m-yeh-mt2az4j4z1mt>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Yeh" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Benjamin M." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Benjamin M. Yeh" .
+
+<http://id.crossref.org/contributor/koenraad-mortele-mt2az4j4z1mt>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Mortele" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Koenraad" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Koenraad Mortele" .

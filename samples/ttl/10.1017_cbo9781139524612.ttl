@@ -1,0 +1,31 @@
+<http://id.crossref.org/isbn/9781139524612>
+      a       <http://purl.org/ontology/bibo/Book> .
+
+<http://dx.doi.org/10.1017/cbo9781139524612>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1017/cbo9781139524612" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/john-flowerdew-2rjij2w6vsf8g> ;
+      <http://purl.org/dc/terms/date>
+              "1995"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1017/cbo9781139524612" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9781139524612> ;
+      <http://purl.org/dc/terms/publisher>
+              "Cambridge University Press" ;
+      <http://purl.org/dc/terms/title>
+              "Academic Listening" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1017/cbo9781139524612" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1017/cbo9781139524612> , <doi:10.1017/cbo9781139524612> .
+
+<http://id.crossref.org/contributor/john-flowerdew-2rjij2w6vsf8g>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Flowerdew" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "John" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "John Flowerdew" .

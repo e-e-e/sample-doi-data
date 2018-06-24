@@ -1,0 +1,65 @@
+<http://id.crossref.org/contributor/m-camus-17xxr1oux3hrg>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Camus" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "M." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "M. Camus" .
+
+<http://id.crossref.org/contributor/y-jannot-17xxr1oux3hrg>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Jannot" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Y." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Y. Jannot" .
+
+<http://dx.doi.org/10.1063/1.5020117>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1063/1.5020117" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "044904" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "89" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/m-camus-17xxr1oux3hrg> , <http://id.crossref.org/contributor/y-jannot-17xxr1oux3hrg> , <http://id.crossref.org/contributor/a-degiovanni-17xxr1oux3hrg> ;
+      <http://purl.org/dc/terms/date>
+              "2018-04"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1063/1.5020117" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0034-6748> ;
+      <http://purl.org/dc/terms/publisher>
+              "AIP Publishing" ;
+      <http://purl.org/dc/terms/title>
+              "Extension of the thermal porosimetry method to high gas pressure for nanoporosimetry estimation" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1063/1.5020117" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "044904" ;
+      <http://purl.org/ontology/bibo/volume>
+              "89" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1063/1.5020117> , <doi:10.1063/1.5020117> .
+
+<http://id.crossref.org/issn/0034-6748>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1089-7623" , "0034-6748" ;
+      <http://purl.org/dc/terms/title>
+              "Review of Scientific Instruments" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1089-7623" , "0034-6748" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1089-7623" , "urn:issn:0034-6748" .
+
+<http://id.crossref.org/contributor/a-degiovanni-17xxr1oux3hrg>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Degiovanni" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "A. Degiovanni" .

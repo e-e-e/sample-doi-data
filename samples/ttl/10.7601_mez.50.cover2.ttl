@@ -1,0 +1,36 @@
+<http://dx.doi.org/10.7601/mez.50.cover2>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.7601/mez.50.cover2" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "Cover2" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "50" ;
+      <http://purl.org/dc/terms/date>
+              "1999"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.7601/mez.50.cover2" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0424-7086> ;
+      <http://purl.org/dc/terms/publisher>
+              "Japan Society of Medical Entomology and Zoology" ;
+      <http://purl.org/dc/terms/title>
+              "" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.7601/mez.50.cover2" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "Cover2" ;
+      <http://purl.org/ontology/bibo/volume>
+              "50" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.7601/mez.50.cover2> , <info:doi/10.7601/mez.50.cover2> .
+
+<http://id.crossref.org/issn/0424-7086>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0424-7086" , "2185-5609" ;
+      <http://purl.org/dc/terms/title>
+              "Medical Entomology and Zoology" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0424-7086" , "2185-5609" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0424-7086" , "urn:issn:2185-5609" .

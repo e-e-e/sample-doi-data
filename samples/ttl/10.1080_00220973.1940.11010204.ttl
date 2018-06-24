@@ -1,0 +1,51 @@
+<http://id.crossref.org/contributor/otto-j-gabel-2ow3tmqxu8mkb>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Gabel" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Otto J." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Otto J. Gabel" .
+
+<http://id.crossref.org/issn/0022-0973>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0022-0973" , "1940-0683" ;
+      <http://purl.org/dc/terms/title>
+              "The Journal of Experimental Education" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0022-0973" , "1940-0683" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0022-0973" , "urn:issn:1940-0683" .
+
+<http://dx.doi.org/10.1080/00220973.1940.11010204>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1080/00220973.1940.11010204" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "186" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "177" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "9" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/otto-j-gabel-2ow3tmqxu8mkb> ;
+      <http://purl.org/dc/terms/date>
+              "1940-12"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1080/00220973.1940.11010204" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0022-0973> ;
+      <http://purl.org/dc/terms/publisher>
+              "Informa UK Limited" ;
+      <http://purl.org/dc/terms/title>
+              "The Effect of Definite versus Indefinite Quantitative Terms upon the Comprehension and Retention of Social Studies Material" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1080/00220973.1940.11010204" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "186" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "177" ;
+      <http://purl.org/ontology/bibo/volume>
+              "9" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1080/00220973.1940.11010204> , <doi:10.1080/00220973.1940.11010204> .

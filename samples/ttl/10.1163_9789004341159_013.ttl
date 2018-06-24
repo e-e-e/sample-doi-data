@@ -1,0 +1,42 @@
+<http://dx.doi.org/10.1163/9789004341159_013>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1163/9789004341159_013" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "248" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "229" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/laura-a-smit-1ce4jm05bqkjo> ;
+      <http://purl.org/dc/terms/date>
+              ""^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1163/9789004341159_013" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9789004341159> ;
+      <http://purl.org/dc/terms/publisher>
+              "Brill" ;
+      <http://purl.org/dc/terms/title>
+              "Jesus Christ as the Exemplar of Magnanimity: Magnanimity in Bonaventure’s Collationes in Hexaëmeron               " ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1163/9789004341159_013" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "248" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "229" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1163/9789004341159_013> , <info:doi/10.1163/9789004341159_013> .
+
+<http://id.crossref.org/isbn/9789004341159>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              """
+Ordo et Sanctitas: The Franciscan Spiritual Journey in Theology and Hagiography""" .
+
+<http://id.crossref.org/contributor/laura-a-smit-1ce4jm05bqkjo>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Smit" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Laura A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Laura A. Smit" .

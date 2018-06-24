@@ -1,0 +1,60 @@
+<http://id.crossref.org/contributor/tomasz-strzelecki-1m26jazssyg3g>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Strzelecki" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Tomasz" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Tomasz Strzelecki" .
+
+<http://dx.doi.org/10.2478/s11600-014-0219-4>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.2478/s11600-014-0219-4" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "1178" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "1163" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "62" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/tomasz-strzelecki-1m26jazssyg3g> , <http://id.crossref.org/contributor/anna-uciechowska-1m26jazssyg3g> ;
+      <http://purl.org/dc/terms/date>
+              "2014-06-13"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.2478/s11600-014-0219-4" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1895-6572> ;
+      <http://purl.org/dc/terms/publisher>
+              "Springer Nature" ;
+      <http://purl.org/dc/terms/title>
+              "Thermal consolidation process of multiphase medium consisting of elastic skeleton, water, and water vapour" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.2478/s11600-014-0219-4" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "1178" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "1163" ;
+      <http://purl.org/ontology/bibo/volume>
+              "62" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.2478/s11600-014-0219-4> , <info:doi/10.2478/s11600-014-0219-4> .
+
+<http://id.crossref.org/contributor/anna-uciechowska-1m26jazssyg3g>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Uciechowska" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Anna" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Anna Uciechowska" .
+
+<http://id.crossref.org/issn/1895-6572>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1895-7455" , "1895-6572" ;
+      <http://purl.org/dc/terms/title>
+              "Acta Geophysica" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1895-7455" , "1895-6572" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1895-6572" , "urn:issn:1895-7455" .

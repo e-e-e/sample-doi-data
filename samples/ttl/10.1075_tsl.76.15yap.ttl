@@ -1,0 +1,61 @@
+<http://dx.doi.org/10.1075/tsl.76.15yap>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1075/tsl.76.15yap" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "341" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "309" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/foong-ha-yap-2vmsee7ikhwst> , <http://id.crossref.org/contributor/stephen-matthews-2vmsee7ikhwst> ;
+      <http://purl.org/dc/terms/date>
+              "2008"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1075/tsl.76.15yap" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0167-7373> , <http://id.crossref.org/isbn/9789027229885> ;
+      <http://purl.org/dc/terms/publisher>
+              "John Benjamins Publishing Company" ;
+      <http://purl.org/dc/terms/title>
+              "The development of nominalizers in East Asian and Tibeto-Burman languages" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1075/tsl.76.15yap" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "341" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "309" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1075/tsl.76.15yap> , <info:doi/10.1075/tsl.76.15yap> .
+
+<http://id.crossref.org/contributor/foong-ha-yap-2vmsee7ikhwst>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Yap" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Foong Ha" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Foong Ha Yap" .
+
+<http://id.crossref.org/issn/0167-7373>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0167-7373" ;
+      <http://purl.org/dc/terms/title>
+              "Typological Studies in Language" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0167-7373" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0167-7373" .
+
+<http://id.crossref.org/isbn/9789027229885>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Typological Studies in Language" .
+
+<http://id.crossref.org/contributor/stephen-matthews-2vmsee7ikhwst>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Matthews" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Stephen" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Stephen Matthews" .

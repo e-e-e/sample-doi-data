@@ -1,0 +1,96 @@
+<http://id.crossref.org/contributor/maria-alonso-2cu27hcg0e72j>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Alonso" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Maria" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Maria Alonso" .
+
+<http://id.crossref.org/contributor/johannes-schoenmaekers-2cu27hcg0e72j>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Schoenmaekers" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Johannes" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Johannes Schoenmaekers" .
+
+<http://id.crossref.org/contributor/octavio-camino-ramos-2cu27hcg0e72j>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Camino-Ramos" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Octavio" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Octavio Camino-Ramos" .
+
+<http://id.crossref.org/isbn/9781624100512>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "SpaceOps 2006 Conference" .
+
+<http://id.crossref.org/contributor/jurriaan-de-bruin-2cu27hcg0e72j>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "De Bruin" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Jurriaan" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Jurriaan De Bruin" .
+
+<http://id.crossref.org/contributor/sascha-ricken-2cu27hcg0e72j>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Ricken" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Sascha" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Sascha Ricken" .
+
+<http://id.crossref.org/contributor/rick-blake-2cu27hcg0e72j>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Blake" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Rick" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Rick Blake" .
+
+<http://id.crossref.org/contributor/pablo-pardo-voss-2cu27hcg0e72j>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Pardo-Voss" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Pablo" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Pablo Pardo-Voss" .
+
+<http://id.crossref.org/contributor/daniel-gestal-2cu27hcg0e72j>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Gestal" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Daniel" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Daniel Gestal" .
+
+<http://dx.doi.org/10.2514/6.2006-5960>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.2514/6.2006-5960" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/maria-alonso-2cu27hcg0e72j> , <http://id.crossref.org/contributor/johannes-schoenmaekers-2cu27hcg0e72j> , <http://id.crossref.org/contributor/octavio-camino-ramos-2cu27hcg0e72j> , <http://id.crossref.org/contributor/jurriaan-de-bruin-2cu27hcg0e72j> , <http://id.crossref.org/contributor/pablo-pardo-voss-2cu27hcg0e72j> , <http://id.crossref.org/contributor/sascha-ricken-2cu27hcg0e72j> , <http://id.crossref.org/contributor/rick-blake-2cu27hcg0e72j> , <http://id.crossref.org/contributor/daniel-gestal-2cu27hcg0e72j> ;
+      <http://purl.org/dc/terms/date>
+              "2006-06-19"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.2514/6.2006-5960" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9781624100512> ;
+      <http://purl.org/dc/terms/publisher>
+              "American Institute of Aeronautics and Astronautics" ;
+      <http://purl.org/dc/terms/title>
+              "SMART-1 Lunar Mission: Operations Close to Moon Impact" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.2514/6.2006-5960" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.2514/6.2006-5960> , <info:doi/10.2514/6.2006-5960> .

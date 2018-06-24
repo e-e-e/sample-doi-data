@@ -1,0 +1,46 @@
+<http://id.crossref.org/contributor/-kc4k40eikq7c>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/name>
+              " " .
+
+<http://id.crossref.org/contributor/e-b-kielstra-kc4k40eikq7c>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kielstra" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "E. B." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "E. B. Kielstra" .
+
+<http://id.crossref.org/isbn/9789401516228>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Vergadering van 25 September 1906" .
+
+<http://dx.doi.org/10.1007/978-94-015-2754-5_1>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1007/978-94-015-2754-5_1" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "34" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "1" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/e-b-kielstra-kc4k40eikq7c> , <http://id.crossref.org/contributor/-kc4k40eikq7c> ;
+      <http://purl.org/dc/terms/date>
+              "1906"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1007/978-94-015-2754-5_1" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9789401516228> ;
+      <http://purl.org/dc/terms/publisher>
+              "Springer Netherlands" ;
+      <http://purl.org/dc/terms/title>
+              "Algemeene vergadering van 25 September 1906" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1007/978-94-015-2754-5_1" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "34" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "1" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1007/978-94-015-2754-5_1> , <info:doi/10.1007/978-94-015-2754-5_1> .

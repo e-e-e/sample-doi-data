@@ -1,0 +1,68 @@
+<http://id.crossref.org/contributor/klaus-schwinn-39rvopd24mohp>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Schwinn" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Klaus" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Klaus Schwinn" .
+
+<http://id.crossref.org/isbn/9783528356613>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Unternehmensweites Datenmanagement" .
+
+<http://id.crossref.org/contributor/andreas-meier-39rvopd24mohp>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Meier" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Andreas" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Andreas Meier" .
+
+<http://dx.doi.org/10.1007/978-3-322-86870-1_11>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1007/978-3-322-86870-1_11" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "272" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "257" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/klaus-schwinn-39rvopd24mohp> , <http://id.crossref.org/contributor/andreas-meier-39rvopd24mohp> , <http://id.crossref.org/contributor/rolf-dippold-39rvopd24mohp> , <http://id.crossref.org/contributor/walter-schnider-39rvopd24mohp> ;
+      <http://purl.org/dc/terms/date>
+              "2005"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1007/978-3-322-86870-1_11" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9783528356613> ;
+      <http://purl.org/dc/terms/publisher>
+              "Vieweg+Teubner Verlag" ;
+      <http://purl.org/dc/terms/title>
+              "Weiterentwicklungen des Datenmanagements" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1007/978-3-322-86870-1_11" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "272" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "257" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1007/978-3-322-86870-1_11> , <info:doi/10.1007/978-3-322-86870-1_11> .
+
+<http://id.crossref.org/contributor/rolf-dippold-39rvopd24mohp>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Dippold" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Rolf" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Rolf Dippold" .
+
+<http://id.crossref.org/contributor/walter-schnider-39rvopd24mohp>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Schnider" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Walter" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Walter Schnider" .

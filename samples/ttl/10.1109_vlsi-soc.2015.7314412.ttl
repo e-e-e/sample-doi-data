@@ -1,0 +1,60 @@
+<http://dx.doi.org/10.1109/vlsi-soc.2015.7314412>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1109/vlsi-soc.2015.7314412" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/jun-fei-cherng-7157min30dco> , <http://id.crossref.org/contributor/jing-jia-liou-7157min30dco> , <http://id.crossref.org/contributor/harry-h-chen-7157min30dco> , <http://id.crossref.org/contributor/meng-ta-hsieh-7157min30dco> ;
+      <http://purl.org/dc/terms/date>
+              "2015-10"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1109/vlsi-soc.2015.7314412" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9781467391405> ;
+      <http://purl.org/dc/terms/publisher>
+              "IEEE" ;
+      <http://purl.org/dc/terms/title>
+              "Cost reduction of system-level tests with stressed structural tests and SVM" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1109/vlsi-soc.2015.7314412" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1109/vlsi-soc.2015.7314412> , <info:doi/10.1109/vlsi-soc.2015.7314412> .
+
+<http://id.crossref.org/contributor/jun-fei-cherng-7157min30dco>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Cherng" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Jun-Fei" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Jun-Fei Cherng" .
+
+<http://id.crossref.org/contributor/jing-jia-liou-7157min30dco>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Liou" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Jing-Jia" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Jing-Jia Liou" .
+
+<http://id.crossref.org/contributor/harry-h-chen-7157min30dco>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Chen" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Harry H." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Harry H. Chen" .
+
+<http://id.crossref.org/isbn/9781467391405>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "2015 IFIP/IEEE International Conference on Very Large Scale Integration (VLSI-SoC)" .
+
+<http://id.crossref.org/contributor/meng-ta-hsieh-7157min30dco>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Hsieh" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Meng-Ta" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Meng-Ta Hsieh" .

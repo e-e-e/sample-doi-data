@@ -1,0 +1,43 @@
+<http://id.crossref.org/issn/2196-7008>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0031-7985" , "2196-7008" ;
+      <http://purl.org/dc/terms/title>
+              "Philologus" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0031-7985" , "2196-7008" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:2196-7008" , "urn:issn:0031-7985" .
+
+<http://dx.doi.org/10.1524/phil.1913.72.14.465>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1524/phil.1913.72.14.465" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "72" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/k-svoboda-1s5wjaf27tztr> ;
+      <http://purl.org/dc/terms/date>
+              "1913-01-01"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1524/phil.1913.72.14.465" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/2196-7008> ;
+      <http://purl.org/dc/terms/publisher>
+              "Walter de Gruyter GmbH" ;
+      <http://purl.org/dc/terms/title>
+              "XXIV. Die Abfassungszeit des Geschichtswerkes des Polybios" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1524/phil.1913.72.14.465" ;
+      <http://purl.org/ontology/bibo/volume>
+              "72" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1524/phil.1913.72.14.465> , <info:doi/10.1524/phil.1913.72.14.465> .
+
+<http://id.crossref.org/contributor/k-svoboda-1s5wjaf27tztr>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Svoboda" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "K." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "K. Svoboda" .

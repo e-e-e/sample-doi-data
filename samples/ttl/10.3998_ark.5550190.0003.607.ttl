@@ -1,0 +1,36 @@
+<http://dx.doi.org/10.3998/ark.5550190.0003.607>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.3998/ark.5550190.0003.607" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "59" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "2002" ;
+      <http://purl.org/dc/terms/date>
+              "2002-08-04"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.3998/ark.5550190.0003.607" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1551-7012> ;
+      <http://purl.org/dc/terms/publisher>
+              "ARKAT USA, Inc." ;
+      <http://purl.org/dc/terms/title>
+              "The mechanism of pyrolysis of 9,9-dimethylfluorene" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.3998/ark.5550190.0003.607" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "59" ;
+      <http://purl.org/ontology/bibo/volume>
+              "2002" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.3998/ark.5550190.0003.607> , <doi:10.3998/ark.5550190.0003.607> .
+
+<http://id.crossref.org/issn/1551-7012>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1551-7012" ;
+      <http://purl.org/dc/terms/title>
+              "Arkivoc" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1551-7012" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1551-7012" .

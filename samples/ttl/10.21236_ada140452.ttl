@@ -1,0 +1,26 @@
+@prefix schema: <http://schema.org/> .
+
+<https://doi.org/10.21236/ada140452> a schema:ScholarlyArticle;
+   schema:alternateName "RADC-TR-83-298";
+   schema:author [
+     a schema:Person;
+     schema:familyName "Luckham";
+     schema:givenName "D. C.";
+     schema:name "D. C. Luckham"
+   ];
+   schema:dateCreated "1/1/1984"^^schema:Date;
+   schema:datePublished "1984"^^schema:Date;
+   schema:identifier <https://doi.org/10.21236/ada140452>;
+   schema:inLanguage "English";
+   schema:isPartOf [ a schema:Periodical];
+   schema:keywords "120500, Computer Programming and Software, Computer programming, Programming languages, Compilers, Error detection codes, Computer program documentation, Computer program verification, Specifications, Computer logic, *ADA, *ADA programming language, *ANNA(Annotated ADA), Formal Annotation Language, WURADC55811907, PE62702F";
+   schema:name "Annotation Language Design for Ada (ANNA).";
+   schema:provider [
+     a schema:Organization;
+     schema:name "DataCite"
+   ];
+   schema:publisher [
+     a schema:Organization;
+     schema:name "Defense Technical Information Center"
+   ];
+   schema:schemaVersion <http://datacite.org/schema/kernel-3> .

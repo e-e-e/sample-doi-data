@@ -1,0 +1,56 @@
+<http://id.crossref.org/contributor/-d9e7hhr19zm4>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/name>
+              " " .
+
+<http://id.crossref.org/issn/0317-0500>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0317-0500" ;
+      <http://purl.org/dc/terms/title>
+              "The Chesterton Review" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0317-0500" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0317-0500" .
+
+<http://id.crossref.org/contributor/marijo-zivkovic-d9e7hhr19zm4>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Zivkovic" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Marijo" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Marijo Zivkovic" .
+
+<http://dx.doi.org/10.5840/chesterton1994202/391>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.5840/chesterton1994202/391" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "270" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "267" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "20" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/-d9e7hhr19zm4> , <http://id.crossref.org/contributor/marijo-zivkovic-d9e7hhr19zm4> ;
+      <http://purl.org/dc/terms/date>
+              "1994"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.5840/chesterton1994202/391" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0317-0500> ;
+      <http://purl.org/dc/terms/publisher>
+              "Philosophy Documentation Center" ;
+      <http://purl.org/dc/terms/title>
+              "The Family and Public Life" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.5840/chesterton1994202/391" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "270" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "267" ;
+      <http://purl.org/ontology/bibo/volume>
+              "20" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.5840/chesterton1994202/391> , <info:doi/10.5840/chesterton1994202/391> .

@@ -1,0 +1,22 @@
+<http://id.crossref.org/isbn/9781137319517>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "The Play of Political Culture, Emotion and Identity" .
+
+<http://dx.doi.org/10.1057/9781137319517.0007>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1057/9781137319517.0007" ;
+      <http://purl.org/dc/terms/date>
+              ""^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1057/9781137319517.0007" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9781137319517> ;
+      <http://purl.org/dc/terms/publisher>
+              "Palgrave Macmillan" ;
+      <http://purl.org/dc/terms/title>
+              "The Absent Parent in Political Culture" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1057/9781137319517.0007" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1057/9781137319517.0007> , <doi:10.1057/9781137319517.0007> .

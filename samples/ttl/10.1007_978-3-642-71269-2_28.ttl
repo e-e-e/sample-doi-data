@@ -1,0 +1,59 @@
+<http://id.crossref.org/contributor/georg-hossli-2e36x75jf95nd>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Hossli" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Georg" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Georg Hossli" .
+
+<http://id.crossref.org/isbn/9783540166184>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "ZAK Zürich" .
+
+<http://id.crossref.org/contributor/pius-frey-2e36x75jf95nd>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Frey" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Pius" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Pius Frey" .
+
+<http://id.crossref.org/contributor/georg-kreienbuhl-2e36x75jf95nd>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kreienbühl" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Georg" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Georg Kreienbühl" .
+
+<http://dx.doi.org/10.1007/978-3-642-71269-2_28>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1007/978-3-642-71269-2_28" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "176" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "176" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/georg-hossli-2e36x75jf95nd> , <http://id.crossref.org/contributor/pius-frey-2e36x75jf95nd> , <http://id.crossref.org/contributor/georg-kreienbuhl-2e36x75jf95nd> ;
+      <http://purl.org/dc/terms/date>
+              "1986"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1007/978-3-642-71269-2_28" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9783540166184> ;
+      <http://purl.org/dc/terms/publisher>
+              "Springer Berlin Heidelberg" ;
+      <http://purl.org/dc/terms/title>
+              "Schlußwort" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1007/978-3-642-71269-2_28" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "176" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "176" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1007/978-3-642-71269-2_28> , <doi:10.1007/978-3-642-71269-2_28> .

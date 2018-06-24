@@ -1,0 +1,159 @@
+<http://id.crossref.org/contributor/jun-yamashita-xe45m5xicuvi>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Yamashita" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Jun" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Jun Yamashita" .
+
+<http://id.crossref.org/contributor/hideki-miyachi-xe45m5xicuvi>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Miyachi" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Hideki" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Hideki Miyachi" .
+
+<http://id.crossref.org/contributor/mizuki-miura-xe45m5xicuvi>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Miura" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Mizuki" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Mizuki Miura" .
+
+<http://id.crossref.org/contributor/hiroyuki-tanaka-xe45m5xicuvi>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Tanaka" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Hiroyuki" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Hiroyuki Tanaka" .
+
+<http://id.crossref.org/contributor/morimasa-takayama-xe45m5xicuvi>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Takayama" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Morimasa" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Morimasa Takayama" .
+
+<http://id.crossref.org/contributor/katsumi-miyauchi-xe45m5xicuvi>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Miyauchi" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Katsumi" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Katsumi Miyauchi" .
+
+<http://id.crossref.org/contributor/masao-yamasaki-xe45m5xicuvi>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Yamasaki" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Masao" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Masao Yamasaki" .
+
+<http://dx.doi.org/10.1253/circj.cj-15-0889>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1253/circj.cj-15-0889" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "468" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "461" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "80" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/jun-yamashita-xe45m5xicuvi> , <http://id.crossref.org/contributor/hideki-miyachi-xe45m5xicuvi> , <http://id.crossref.org/contributor/mizuki-miura-xe45m5xicuvi> , <http://id.crossref.org/contributor/hiroyuki-tanaka-xe45m5xicuvi> , <http://id.crossref.org/contributor/morimasa-takayama-xe45m5xicuvi> , <http://id.crossref.org/contributor/katsumi-miyauchi-xe45m5xicuvi> , <http://id.crossref.org/contributor/masao-yamasaki-xe45m5xicuvi> , <http://id.crossref.org/contributor/issei-komuro-xe45m5xicuvi> , <http://id.crossref.org/contributor/ken-nagao-xe45m5xicuvi> , <http://id.crossref.org/contributor/yukari-uemura-xe45m5xicuvi> , <http://id.crossref.org/contributor/makoto-suzuki-xe45m5xicuvi> , <http://id.crossref.org/contributor/masatomo-yoshikawa-xe45m5xicuvi> , <http://id.crossref.org/contributor/takeshi-yamamoto-xe45m5xicuvi> ;
+      <http://purl.org/dc/terms/date>
+              "2016"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1253/circj.cj-15-0889" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1346-9843> ;
+      <http://purl.org/dc/terms/publisher>
+              "Japanese Circulation Society" ;
+      <http://purl.org/dc/terms/title>
+              "Effect of Statin Treatment and Low-Density Lipoprotein-Cholesterol on Short-Term Mortality in Acute Myocardial Infarction Patients Undergoing Primary Percutaneous Coronary Intervention　– Multicenter Registry From Tokyo CCU Network Database –" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1253/circj.cj-15-0889" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "468" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "461" ;
+      <http://purl.org/ontology/bibo/volume>
+              "80" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1253/circj.cj-15-0889> , <doi:10.1253/circj.cj-15-0889> .
+
+<http://id.crossref.org/contributor/issei-komuro-xe45m5xicuvi>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Komuro" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Issei" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Issei Komuro" .
+
+<http://id.crossref.org/contributor/ken-nagao-xe45m5xicuvi>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Nagao" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Ken" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Ken Nagao" .
+
+<http://id.crossref.org/contributor/yukari-uemura-xe45m5xicuvi>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Uemura" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Yukari" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Yukari Uemura" .
+
+<http://id.crossref.org/contributor/makoto-suzuki-xe45m5xicuvi>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Suzuki" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Makoto" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Makoto Suzuki" .
+
+<http://id.crossref.org/issn/1346-9843>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1347-4820" , "1346-9843" ;
+      <http://purl.org/dc/terms/title>
+              "Circulation Journal" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1347-4820" , "1346-9843" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1346-9843" , "urn:issn:1347-4820" .
+
+<http://id.crossref.org/contributor/masatomo-yoshikawa-xe45m5xicuvi>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Yoshikawa" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Masatomo" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Masatomo Yoshikawa" .
+
+<http://id.crossref.org/contributor/takeshi-yamamoto-xe45m5xicuvi>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Yamamoto" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Takeshi" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Takeshi Yamamoto" .

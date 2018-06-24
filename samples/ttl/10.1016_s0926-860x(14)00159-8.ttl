@@ -1,0 +1,40 @@
+<http://dx.doi.org/10.1016/s0926-860x(14)00159-8>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/s0926-860x(14)00159-8" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "xvii" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "iii" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "475" ;
+      <http://purl.org/dc/terms/date>
+              "2014-04"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/s0926-860x(14)00159-8" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0926-860X> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Contents" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/s0926-860x(14)00159-8" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "xvii" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "iii" ;
+      <http://purl.org/ontology/bibo/volume>
+              "475" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1016/s0926-860x(14)00159-8> , <doi:10.1016/s0926-860x(14)00159-8> .
+
+<http://id.crossref.org/issn/0926-860X>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0926-860X" ;
+      <http://purl.org/dc/terms/title>
+              "Applied Catalysis A: General" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0926-860X" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0926-860X" .

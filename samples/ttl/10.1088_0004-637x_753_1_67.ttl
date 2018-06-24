@@ -1,0 +1,515 @@
+<http://id.crossref.org/contributor/massimo-turatto-3vra7lthcgjup>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Turatto" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Massimo" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Massimo Turatto" .
+
+<http://id.crossref.org/contributor/pall-jakobsson-3vra7lthcgjup>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Jakobsson" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Pall" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Pall Jakobsson" .
+
+<http://id.crossref.org/contributor/eliana-palazzi-3vra7lthcgjup>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Palazzi" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Eliana" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Eliana Palazzi" .
+
+<http://id.crossref.org/contributor/palle-mller-3vra7lthcgjup>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Møller" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Palle" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Palle Møller" .
+
+<http://id.crossref.org/contributor/paolo-goldoni-3vra7lthcgjup>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Goldoni" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Paolo" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Paolo Goldoni" .
+
+<http://id.crossref.org/contributor/paolo-davanzo-3vra7lthcgjup>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "D'Avanzo" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Paolo" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Paolo D'Avanzo" .
+
+<http://id.crossref.org/contributor/daniel-e-reichart-3vra7lthcgjup>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Reichart" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Daniel E." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Daniel E. Reichart" .
+
+<http://id.crossref.org/contributor/ralph-a-m-j-wijers-3vra7lthcgjup>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Wijers" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Ralph A. M. J." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Ralph A. M. J. Wijers" .
+
+<http://id.crossref.org/contributor/zach-cano-3vra7lthcgjup>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Cano" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Zach" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Zach Cano" .
+
+<http://id.crossref.org/contributor/keiichi-maeda-3vra7lthcgjup>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Maeda" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Keiichi" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Keiichi Maeda" .
+
+<http://id.crossref.org/contributor/stefano-covino-3vra7lthcgjup>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Covino" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Stefano" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Stefano Covino" .
+
+<http://id.crossref.org/contributor/susanna-d-vergani-3vra7lthcgjup>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Vergani" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Susanna D." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Susanna D. Vergani" .
+
+<http://dx.doi.org/10.1088/0004-637x/753/1/67>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1088/0004-637x/753/1/67" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "67" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "753" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/massimo-turatto-3vra7lthcgjup> , <http://id.crossref.org/contributor/pall-jakobsson-3vra7lthcgjup> , <http://id.crossref.org/contributor/eliana-palazzi-3vra7lthcgjup> , <http://id.crossref.org/contributor/palle-mller-3vra7lthcgjup> , <http://id.crossref.org/contributor/paolo-goldoni-3vra7lthcgjup> , <http://id.crossref.org/contributor/paolo-davanzo-3vra7lthcgjup> , <http://id.crossref.org/contributor/daniel-e-reichart-3vra7lthcgjup> , <http://id.crossref.org/contributor/ralph-a-m-j-wijers-3vra7lthcgjup> , <http://id.crossref.org/contributor/zach-cano-3vra7lthcgjup> , <http://id.crossref.org/contributor/keiichi-maeda-3vra7lthcgjup> , <http://id.crossref.org/contributor/stefano-covino-3vra7lthcgjup> , <http://id.crossref.org/contributor/susanna-d-vergani-3vra7lthcgjup> , <http://id.crossref.org/contributor/giulia-stratta-3vra7lthcgjup> , <http://id.crossref.org/contributor/alexei-v-filippenko-3vra7lthcgjup> , <http://id.crossref.org/contributor/lex-kaper-3vra7lthcgjup> , <http://id.crossref.org/contributor/filomena-bufano-3vra7lthcgjup> , <http://id.crossref.org/contributor/bo-milvang-jensen-3vra7lthcgjup> , <http://id.crossref.org/contributor/daniele-malesani-3vra7lthcgjup> , <http://id.crossref.org/contributor/giuliano-pignata-3vra7lthcgjup> , <http://id.crossref.org/contributor/francois-hammer-3vra7lthcgjup> , <http://id.crossref.org/contributor/felix-i-mirabel-3vra7lthcgjup> , <http://id.crossref.org/contributor/andrew-j-levan-3vra7lthcgjup> , <http://id.crossref.org/contributor/jesper-sollerman-3vra7lthcgjup> , <http://id.crossref.org/contributor/nial-r-tanvir-3vra7lthcgjup> , <http://id.crossref.org/contributor/sylvio-klose-3vra7lthcgjup> , <http://id.crossref.org/contributor/patrizia-ferrero-3vra7lthcgjup> , <http://id.crossref.org/contributor/nicola-masetti-3vra7lthcgjup> , <http://id.crossref.org/contributor/jens-hjorth-3vra7lthcgjup> , <http://id.crossref.org/contributor/elena-pian-3vra7lthcgjup> , <http://id.crossref.org/contributor/massimo-della-valle-3vra7lthcgjup> , <http://id.crossref.org/contributor/masaomi-tanaka-3vra7lthcgjup> , <http://id.crossref.org/contributor/lorenzo-amati-3vra7lthcgjup> , <http://id.crossref.org/contributor/jinsong-deng-3vra7lthcgjup> , <http://id.crossref.org/contributor/johan-fynbo-3vra7lthcgjup> , <http://id.crossref.org/contributor/jochen-greiner-3vra7lthcgjup> , <http://id.crossref.org/contributor/silvia-piranomonte-3vra7lthcgjup> , <http://id.crossref.org/contributor/stefano-benetti-3vra7lthcgjup> , <http://id.crossref.org/contributor/paolo-a-mazzali-3vra7lthcgjup> , <http://id.crossref.org/contributor/ruben-salvaterra-3vra7lthcgjup> , <http://id.crossref.org/contributor/sergio-campana-3vra7lthcgjup> , <http://id.crossref.org/contributor/guido-chincarini-3vra7lthcgjup> , <http://id.crossref.org/contributor/klass-wiersema-3vra7lthcgjup> , <http://id.crossref.org/contributor/stefano-valenti-3vra7lthcgjup> , <http://id.crossref.org/contributor/alberto-j-castro-tirado-3vra7lthcgjup> , <http://id.crossref.org/contributor/valerio-delia-3vra7lthcgjup> , <http://id.crossref.org/contributor/javier-gorosabel-3vra7lthcgjup> , <http://id.crossref.org/contributor/kenichi-nomoto-3vra7lthcgjup> , <http://id.crossref.org/contributor/rhaana-l-c-starling-3vra7lthcgjup> , <http://id.crossref.org/contributor/gianpiero-tagliaferri-3vra7lthcgjup> , <http://id.crossref.org/contributor/enrico-cappellaro-3vra7lthcgjup> , <http://id.crossref.org/contributor/antonio-de-ugarte-postigo-3vra7lthcgjup> , <http://id.crossref.org/contributor/koji-s-kawabata-3vra7lthcgjup> , <http://id.crossref.org/contributor/david-bersier-3vra7lthcgjup> ;
+      <http://purl.org/dc/terms/date>
+              "2012-06-14"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1088/0004-637x/753/1/67" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0004-637X> ;
+      <http://purl.org/dc/terms/publisher>
+              "IOP Publishing" ;
+      <http://purl.org/dc/terms/title>
+              "THE HIGHLY ENERGETIC EXPANSION OF SN 2010bh ASSOCIATED WITH GRB 100316D" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1088/0004-637x/753/1/67" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "67" ;
+      <http://purl.org/ontology/bibo/volume>
+              "753" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1088/0004-637x/753/1/67> , <info:doi/10.1088/0004-637x/753/1/67> .
+
+<http://id.crossref.org/contributor/giulia-stratta-3vra7lthcgjup>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Stratta" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Giulia" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Giulia Stratta" .
+
+<http://id.crossref.org/contributor/alexei-v-filippenko-3vra7lthcgjup>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Filippenko" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Alexei V." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Alexei V. Filippenko" .
+
+<http://id.crossref.org/contributor/lex-kaper-3vra7lthcgjup>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kaper" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Lex" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Lex Kaper" .
+
+<http://id.crossref.org/contributor/filomena-bufano-3vra7lthcgjup>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Bufano" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Filomena" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Filomena Bufano" .
+
+<http://id.crossref.org/contributor/bo-milvang-jensen-3vra7lthcgjup>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Milvang-Jensen" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Bo" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Bo Milvang-Jensen" .
+
+<http://id.crossref.org/contributor/daniele-malesani-3vra7lthcgjup>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Malesani" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Daniele" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Daniele Malesani" .
+
+<http://id.crossref.org/contributor/giuliano-pignata-3vra7lthcgjup>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Pignata" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Giuliano" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Giuliano Pignata" .
+
+<http://id.crossref.org/contributor/francois-hammer-3vra7lthcgjup>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Hammer" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Francois" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Francois Hammer" .
+
+<http://id.crossref.org/contributor/felix-i-mirabel-3vra7lthcgjup>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Mirabel" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Felix I." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Felix I. Mirabel" .
+
+<http://id.crossref.org/contributor/andrew-j-levan-3vra7lthcgjup>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Levan" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Andrew J." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Andrew J. Levan" .
+
+<http://id.crossref.org/contributor/jesper-sollerman-3vra7lthcgjup>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Sollerman" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Jesper" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Jesper Sollerman" .
+
+<http://id.crossref.org/contributor/nial-r-tanvir-3vra7lthcgjup>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Tanvir" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Nial R." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Nial R. Tanvir" .
+
+<http://id.crossref.org/contributor/sylvio-klose-3vra7lthcgjup>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Klose" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Sylvio" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Sylvio Klose" .
+
+<http://id.crossref.org/contributor/patrizia-ferrero-3vra7lthcgjup>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Ferrero" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Patrizia" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Patrizia Ferrero" .
+
+<http://id.crossref.org/contributor/nicola-masetti-3vra7lthcgjup>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Masetti" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Nicola" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Nicola Masetti" .
+
+<http://id.crossref.org/contributor/jens-hjorth-3vra7lthcgjup>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Hjorth" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Jens" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Jens Hjorth" .
+
+<http://id.crossref.org/contributor/elena-pian-3vra7lthcgjup>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Pian" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Elena" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Elena Pian" .
+
+<http://id.crossref.org/contributor/massimo-della-valle-3vra7lthcgjup>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Della Valle" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Massimo" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Massimo Della Valle" .
+
+<http://id.crossref.org/contributor/masaomi-tanaka-3vra7lthcgjup>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Tanaka" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Masaomi" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Masaomi Tanaka" .
+
+<http://id.crossref.org/contributor/lorenzo-amati-3vra7lthcgjup>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Amati" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Lorenzo" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Lorenzo Amati" .
+
+<http://id.crossref.org/contributor/johan-fynbo-3vra7lthcgjup>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Fynbo" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Johan" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Johan Fynbo" .
+
+<http://id.crossref.org/contributor/jinsong-deng-3vra7lthcgjup>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Deng" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Jinsong" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Jinsong Deng" .
+
+<http://id.crossref.org/contributor/jochen-greiner-3vra7lthcgjup>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Greiner" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Jochen" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Jochen Greiner" .
+
+<http://id.crossref.org/contributor/stefano-benetti-3vra7lthcgjup>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Benetti" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Stefano" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Stefano Benetti" .
+
+<http://id.crossref.org/contributor/silvia-piranomonte-3vra7lthcgjup>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Piranomonte" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Silvia" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Silvia Piranomonte" .
+
+<http://id.crossref.org/contributor/paolo-a-mazzali-3vra7lthcgjup>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Mazzali" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Paolo A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Paolo A. Mazzali" .
+
+<http://id.crossref.org/contributor/ruben-salvaterra-3vra7lthcgjup>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Salvaterra" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Ruben" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Ruben Salvaterra" .
+
+<http://id.crossref.org/contributor/guido-chincarini-3vra7lthcgjup>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Chincarini" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Guido" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Guido Chincarini" .
+
+<http://id.crossref.org/contributor/sergio-campana-3vra7lthcgjup>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Campana" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Sergio" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Sergio Campana" .
+
+<http://id.crossref.org/contributor/klass-wiersema-3vra7lthcgjup>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Wiersema" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Klass" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Klass Wiersema" .
+
+<http://id.crossref.org/contributor/stefano-valenti-3vra7lthcgjup>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Valenti" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Stefano" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Stefano Valenti" .
+
+<http://id.crossref.org/contributor/alberto-j-castro-tirado-3vra7lthcgjup>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Castro-Tirado" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Alberto J." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Alberto J. Castro-Tirado" .
+
+<http://id.crossref.org/contributor/valerio-delia-3vra7lthcgjup>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "D'Elia" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Valerio" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Valerio D'Elia" .
+
+<http://id.crossref.org/contributor/javier-gorosabel-3vra7lthcgjup>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Gorosabel" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Javier" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Javier Gorosabel" .
+
+<http://id.crossref.org/contributor/kenichi-nomoto-3vra7lthcgjup>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Nomoto" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Ken'ichi" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Ken'ichi Nomoto" .
+
+<http://id.crossref.org/issn/0004-637X>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0004-637X" , "1538-4357" ;
+      <http://purl.org/dc/terms/title>
+              "The Astrophysical Journal" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0004-637X" , "1538-4357" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1538-4357" , "urn:issn:0004-637X" .
+
+<http://id.crossref.org/contributor/rhaana-l-c-starling-3vra7lthcgjup>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Starling" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Rhaana L. C." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Rhaana L. C. Starling" .
+
+<http://id.crossref.org/contributor/gianpiero-tagliaferri-3vra7lthcgjup>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Tagliaferri" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Gianpiero" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Gianpiero Tagliaferri" .
+
+<http://id.crossref.org/contributor/enrico-cappellaro-3vra7lthcgjup>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Cappellaro" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Enrico" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Enrico Cappellaro" .
+
+<http://id.crossref.org/contributor/antonio-de-ugarte-postigo-3vra7lthcgjup>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "de Ugarte Postigo" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Antonio" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Antonio de Ugarte Postigo" .
+
+<http://id.crossref.org/contributor/koji-s-kawabata-3vra7lthcgjup>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kawabata" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Koji S." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Koji S. Kawabata" .
+
+<http://id.crossref.org/contributor/david-bersier-3vra7lthcgjup>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Bersier" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "David" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "David Bersier" .

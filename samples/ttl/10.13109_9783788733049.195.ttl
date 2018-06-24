@@ -1,0 +1,30 @@
+<http://id.crossref.org/isbn/9783788733025>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Geistliche Begleitung als mystagogische Seelsorge" .
+
+<http://dx.doi.org/10.13109/9783788733049.195>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.13109/9783788733049.195" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "234" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "195" ;
+      <http://purl.org/dc/terms/date>
+              "2018-06-11"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.13109/9783788733049.195" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9783788733025> ;
+      <http://purl.org/dc/terms/publisher>
+              "Vandenhoeck & Ruprecht" ;
+      <http://purl.org/dc/terms/title>
+              "Dritter Teil: Perspektiven für einen Entwurf Geistlicher Begleitung als ein seelsorgerlich-pastoralpsychologisches und spirituelles Geschehen" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.13109/9783788733049.195" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "234" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "195" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.13109/9783788733049.195> , <info:doi/10.13109/9783788733049.195> .

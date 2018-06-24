@@ -1,0 +1,78 @@
+<http://id.crossref.org/contributor/gaelle-m-bustin-1tjnj1dbao5br>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Bustin" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Gaëlle M." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Gaëlle M. Bustin" .
+
+<http://id.crossref.org/contributor/remi-l-capa-1tjnj1dbao5br>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Capa" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Rémi L." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Rémi L. Capa" .
+
+<http://dx.doi.org/10.1016/j.concog.2012.03.005>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/j.concog.2012.03.005" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "952" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "947" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "21" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/gaelle-m-bustin-1tjnj1dbao5br> , <http://id.crossref.org/contributor/remi-l-capa-1tjnj1dbao5br> , <http://id.crossref.org/contributor/michel-hansenne-1tjnj1dbao5br> , <http://id.crossref.org/contributor/jordi-quoidbach-1tjnj1dbao5br> ;
+      <http://purl.org/dc/terms/date>
+              "2012-06"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/j.concog.2012.03.005" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1053-8100> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Personality modulation of (un)conscious processing: Novelty Seeking and performance following supraliminal and subliminal reward cues" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/j.concog.2012.03.005" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "952" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "947" ;
+      <http://purl.org/ontology/bibo/volume>
+              "21" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1016/j.concog.2012.03.005> , <info:doi/10.1016/j.concog.2012.03.005> .
+
+<http://id.crossref.org/contributor/michel-hansenne-1tjnj1dbao5br>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Hansenne" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Michel" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Michel Hansenne" .
+
+<http://id.crossref.org/issn/1053-8100>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1053-8100" ;
+      <http://purl.org/dc/terms/title>
+              "Consciousness and Cognition" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1053-8100" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1053-8100" .
+
+<http://id.crossref.org/contributor/jordi-quoidbach-1tjnj1dbao5br>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Quoidbach" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Jordi" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Jordi Quoidbach" .

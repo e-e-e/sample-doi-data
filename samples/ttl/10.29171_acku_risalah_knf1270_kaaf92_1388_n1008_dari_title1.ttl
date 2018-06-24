@@ -1,0 +1,20 @@
+<http://dx.doi.org/10.29171/acku_risalah_knf1270_kaaf92_1388_n1008_dari_title1>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.29171/acku_risalah_knf1270_kaaf92_1388_n1008_dari_title1" ;
+      <http://purl.org/dc/terms/date>
+              "2000"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.29171/acku_risalah_knf1270_kaaf92_1388_n1008_dari_title1" ;
+      <http://purl.org/dc/terms/publisher>
+              "Afghanistan Centre at Kabul University" ;
+      <http://purl.org/dc/terms/title>
+              """
+  کنوانسیون شماره (۱۳۸) سال ۱۹۷۳ در باره حد اقل سن در باره شمولیت به کار یا استخدام
+
+
+
+""" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.29171/acku_risalah_knf1270_kaaf92_1388_n1008_dari_title1" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.29171/acku_risalah_knf1270_kaaf92_1388_n1008_dari_title1> , <doi:10.29171/acku_risalah_knf1270_kaaf92_1388_n1008_dari_title1> .

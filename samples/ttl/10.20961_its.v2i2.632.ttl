@@ -1,0 +1,65 @@
+<http://dx.doi.org/10.20961/its.v2i2.632>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.20961/its.v2i2.632" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "43" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "2" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/anang-ashari-romdhoni-jixbzdit8yk> , <http://id.crossref.org/contributor/wiharto-jixbzdit8yk> , <http://id.crossref.org/contributor/esti-suryani-jixbzdit8yk> ;
+      <http://purl.org/dc/terms/date>
+              "2016-03-02"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.20961/its.v2i2.632" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/2301-7201> ;
+      <http://purl.org/dc/terms/publisher>
+              "Universitas Sebelas Maret" ;
+      <http://purl.org/dc/terms/title>
+              "Peramalan Nilai Tukar Mata Uang Dollar AS terhadap Rupiah Menggunakan Neural Network Ensemble Bagging" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.20961/its.v2i2.632" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "43" ;
+      <http://purl.org/ontology/bibo/volume>
+              "2" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.20961/its.v2i2.632> , <info:doi/10.20961/its.v2i2.632> .
+
+<http://id.crossref.org/contributor/anang-ashari-romdhoni-jixbzdit8yk>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Ashari Romdhoni" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Anang" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Anang Ashari Romdhoni" .
+
+<http://id.crossref.org/contributor/wiharto-jixbzdit8yk>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "," ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Wiharto" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Wiharto ," .
+
+<http://id.crossref.org/issn/2301-7201>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "2301-7201" ;
+      <http://purl.org/dc/terms/title>
+              "Jurnal Teknologi & Informasi ITSmart" ;
+      <http://purl.org/ontology/bibo/issn>
+              "2301-7201" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:2301-7201" .
+
+<http://id.crossref.org/contributor/esti-suryani-jixbzdit8yk>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Suryani" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Esti" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Esti Suryani" .

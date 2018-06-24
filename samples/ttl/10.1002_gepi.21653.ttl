@@ -1,0 +1,60 @@
+<http://id.crossref.org/issn/0741-0395>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0741-0395" ;
+      <http://purl.org/dc/terms/title>
+              "Genetic Epidemiology" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0741-0395" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0741-0395" .
+
+<http://id.crossref.org/contributor/ming-su-2tg4dwbhrwd1r>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Su" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Ming" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Ming Su" .
+
+<http://dx.doi.org/10.1002/gepi.21653>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1002/gepi.21653" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "611" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "602" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "36" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/ming-su-2tg4dwbhrwd1r> , <http://id.crossref.org/contributor/elizabeth-a-thompson-2tg4dwbhrwd1r> ;
+      <http://purl.org/dc/terms/date>
+              "2012-06-27"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1002/gepi.21653" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0741-0395> ;
+      <http://purl.org/dc/terms/publisher>
+              "Wiley" ;
+      <http://purl.org/dc/terms/title>
+              "Computationally Efficient Multipoint Linkage Analysis on Extended Pedigrees for Trait Models With Two Contributing Major Loci" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1002/gepi.21653" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "611" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "602" ;
+      <http://purl.org/ontology/bibo/volume>
+              "36" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1002/gepi.21653> , <doi:10.1002/gepi.21653> .
+
+<http://id.crossref.org/contributor/elizabeth-a-thompson-2tg4dwbhrwd1r>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Thompson" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Elizabeth A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Elizabeth A. Thompson" .

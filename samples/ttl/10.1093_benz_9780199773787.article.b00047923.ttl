@@ -1,0 +1,15 @@
+<http://dx.doi.org/10.1093/benz/9780199773787.article.b00047923>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1093/benz/9780199773787.article.b00047923" ;
+      <http://purl.org/dc/terms/date>
+              "2011-10-31"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1093/benz/9780199773787.article.b00047923" ;
+      <http://purl.org/dc/terms/publisher>
+              "Oxford University Press" ;
+      <http://purl.org/dc/terms/title>
+              "Deckers, Louis" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1093/benz/9780199773787.article.b00047923" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1093/benz/9780199773787.article.b00047923> , <doi:10.1093/benz/9780199773787.article.b00047923> .

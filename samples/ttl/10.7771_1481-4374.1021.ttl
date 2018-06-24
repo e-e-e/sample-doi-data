@@ -1,0 +1,43 @@
+<http://id.crossref.org/contributor/nicholas-manganas-1oeqq2y6k05e>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Manganas" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Nicholas" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Nicholas Manganas" .
+
+<http://dx.doi.org/10.7771/1481-4374.1021>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.7771/1481-4374.1021" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "9" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/nicholas-manganas-1oeqq2y6k05e> ;
+      <http://purl.org/dc/terms/date>
+              "2007-03-01"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.7771/1481-4374.1021" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1481-4374> ;
+      <http://purl.org/dc/terms/publisher>
+              "Purdue University (bepress)" ;
+      <http://purl.org/dc/terms/title>
+              "Mass-Mediated Social Terror in Spain" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.7771/1481-4374.1021" ;
+      <http://purl.org/ontology/bibo/volume>
+              "9" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.7771/1481-4374.1021> , <doi:10.7771/1481-4374.1021> .
+
+<http://id.crossref.org/issn/1481-4374>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1481-4374" ;
+      <http://purl.org/dc/terms/title>
+              "CLCWeb: Comparative Literature and Culture" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1481-4374" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1481-4374" .

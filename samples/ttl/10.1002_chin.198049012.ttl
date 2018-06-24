@@ -1,0 +1,52 @@
+<http://dx.doi.org/10.1002/chin.198049012>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1002/chin.198049012" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "11" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/e-j-baran-el2ijf5p9ujj> , <http://id.crossref.org/contributor/i-l-botto-el2ijf5p9ujj> ;
+      <http://purl.org/dc/terms/date>
+              "1980-12-09"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1002/chin.198049012" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0009-2975> ;
+      <http://purl.org/dc/terms/publisher>
+              "Wiley" ;
+      <http://purl.org/dc/terms/title>
+              "ChemInform Abstract: X-RAY AND SPECTROSCOPIC STUDY OF SOME TELLUROMOLYBDATES" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1002/chin.198049012" ;
+      <http://purl.org/ontology/bibo/volume>
+              "11" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1002/chin.198049012> , <info:doi/10.1002/chin.198049012> .
+
+<http://id.crossref.org/contributor/e-j-baran-el2ijf5p9ujj>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "BARAN" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "E. J." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "E. J. BARAN" .
+
+<http://id.crossref.org/issn/0009-2975>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0009-2975" ;
+      <http://purl.org/dc/terms/title>
+              "Chemischer Informationsdienst" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0009-2975" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0009-2975" .
+
+<http://id.crossref.org/contributor/i-l-botto-el2ijf5p9ujj>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "BOTTO" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "I. L." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "I. L. BOTTO" .

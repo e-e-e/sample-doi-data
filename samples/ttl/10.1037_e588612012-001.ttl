@@ -1,0 +1,15 @@
+<http://dx.doi.org/10.1037/e588612012-001>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1037/e588612012-001" ;
+      <http://purl.org/dc/terms/date>
+              "2010"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1037/e588612012-001" ;
+      <http://purl.org/dc/terms/publisher>
+              "American Psychological Association (APA)" ;
+      <http://purl.org/dc/terms/title>
+              "Abbott Laboratories Agrees to Withdraw Its Obesity Drug Meridia" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1037/e588612012-001" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1037/e588612012-001> , <doi:10.1037/e588612012-001> .

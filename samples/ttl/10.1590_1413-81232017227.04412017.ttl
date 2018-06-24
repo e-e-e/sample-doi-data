@@ -1,0 +1,60 @@
+<http://id.crossref.org/contributor/jose-roberto-ferreira-2sukns3shz4fe>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Ferreira" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "José Roberto" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "José Roberto Ferreira" .
+
+<http://dx.doi.org/10.1590/1413-81232017227.04412017>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1590/1413-81232017227.04412017" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "2133" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "2129" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "22" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/jose-roberto-ferreira-2sukns3shz4fe> , <http://id.crossref.org/contributor/luiz-eduardo-fonseca-2sukns3shz4fe> ;
+      <http://purl.org/dc/terms/date>
+              "2017-07"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1590/1413-81232017227.04412017" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1413-8123> ;
+      <http://purl.org/dc/terms/publisher>
+              "FapUNIFESP (SciELO)" ;
+      <http://purl.org/dc/terms/title>
+              "Cooperação estruturante, a experiência da Fiocruz Structural Cooperation, the Fiocruz experience" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1590/1413-81232017227.04412017" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "2133" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "2129" ;
+      <http://purl.org/ontology/bibo/volume>
+              "22" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1590/1413-81232017227.04412017> , <info:doi/10.1590/1413-81232017227.04412017> .
+
+<http://id.crossref.org/contributor/luiz-eduardo-fonseca-2sukns3shz4fe>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Fonseca" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Luiz Eduardo" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Luiz Eduardo Fonseca" .
+
+<http://id.crossref.org/issn/1413-8123>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1413-8123" ;
+      <http://purl.org/dc/terms/title>
+              "Ciência & Saúde Coletiva" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1413-8123" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1413-8123" .

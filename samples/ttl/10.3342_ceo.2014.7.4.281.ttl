@@ -1,0 +1,65 @@
+<http://id.crossref.org/issn/1976-8710>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "2005-0720" , "1976-8710" ;
+      <http://purl.org/dc/terms/title>
+              "Clinical and Experimental Otorhinolaryngology" ;
+      <http://purl.org/ontology/bibo/issn>
+              "2005-0720" , "1976-8710" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:2005-0720" , "urn:issn:1976-8710" .
+
+<http://id.crossref.org/contributor/kyung-hee-do-1ykluciuq7ash>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Do" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Kyung Hee" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Kyung Hee Do" .
+
+<http://dx.doi.org/10.3342/ceo.2014.7.4.281>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.3342/ceo.2014.7.4.281" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "281" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "7" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/kyung-hee-do-1ykluciuq7ash> , <http://id.crossref.org/contributor/minbum-kim-1ykluciuq7ash> , <http://id.crossref.org/contributor/kyu-sung-kim-1ykluciuq7ash> ;
+      <http://purl.org/dc/terms/date>
+              "2014"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.3342/ceo.2014.7.4.281" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1976-8710> ;
+      <http://purl.org/dc/terms/publisher>
+              "Korean Society of Otorhinolaryngology-Head and Neck Surgery" ;
+      <http://purl.org/dc/terms/title>
+              "Isosorbide Concentration in Perilymph of the Guinea Pig After Oral Administration Versus That After Round Window Perfusion" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.3342/ceo.2014.7.4.281" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "281" ;
+      <http://purl.org/ontology/bibo/volume>
+              "7" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.3342/ceo.2014.7.4.281> , <doi:10.3342/ceo.2014.7.4.281> .
+
+<http://id.crossref.org/contributor/minbum-kim-1ykluciuq7ash>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kim" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Minbum" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Minbum Kim" .
+
+<http://id.crossref.org/contributor/kyu-sung-kim-1ykluciuq7ash>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kim" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Kyu-Sung" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Kyu-Sung Kim" .

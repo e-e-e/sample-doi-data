@@ -1,0 +1,51 @@
+<http://id.crossref.org/issn/1471-6941>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0029-3970" , "1471-6941" ;
+      <http://purl.org/dc/terms/title>
+              "Notes and Queries" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0029-3970" , "1471-6941" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1471-6941" , "urn:issn:0029-3970" .
+
+<http://id.crossref.org/contributor/e-n-stanley-1jgjtaj6b99tc>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "STANLEY" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "E. N." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "E. N. STANLEY" .
+
+<http://dx.doi.org/10.1093/nq/32-1-85>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1093/nq/32-1-85" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "86" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "85" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "32" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/e-n-stanley-1jgjtaj6b99tc> ;
+      <http://purl.org/dc/terms/date>
+              "1985-03-01"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1093/nq/32-1-85" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1471-6941> ;
+      <http://purl.org/dc/terms/publisher>
+              "Oxford University Press (OUP)" ;
+      <http://purl.org/dc/terms/title>
+              "Reviews" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1093/nq/32-1-85" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "86" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "85" ;
+      <http://purl.org/ontology/bibo/volume>
+              "32" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1093/nq/32-1-85> , <info:doi/10.1093/nq/32-1-85> .

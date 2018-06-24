@@ -1,0 +1,20 @@
+<http://id.crossref.org/isbn/9780309323048>
+      a       <http://purl.org/ontology/bibo/Book> .
+
+<http://dx.doi.org/10.17226/19311>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.17226/19311" ;
+      <http://purl.org/dc/terms/date>
+              "1985-01-01"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.17226/19311" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9780309323048> ;
+      <http://purl.org/dc/terms/publisher>
+              "National Academies Press" ;
+      <http://purl.org/dc/terms/title>
+              "Tool to Assist in the Identification of Food Chemical Usage Trends" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.17226/19311" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.17226/19311> , <doi:10.17226/19311> .

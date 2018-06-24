@@ -1,0 +1,43 @@
+<http://dx.doi.org/10.4172/2161-069x.1000555>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.4172/2161-069x.1000555" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "08" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/abdelkader-boukerrouche-1w1vtd9qi6he> ;
+      <http://purl.org/dc/terms/date>
+              "2018"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.4172/2161-069x.1000555" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/2161-069X> ;
+      <http://purl.org/dc/terms/publisher>
+              "OMICS Publishing Group" ;
+      <http://purl.org/dc/terms/title>
+              "Late Complications of Colon Interposition for Esophageal Reconstruction" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.4172/2161-069x.1000555" ;
+      <http://purl.org/ontology/bibo/volume>
+              "08" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.4172/2161-069x.1000555> , <doi:10.4172/2161-069x.1000555> .
+
+<http://id.crossref.org/issn/2161-069X>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "2161-069X" ;
+      <http://purl.org/dc/terms/title>
+              "Journal of Gastrointestinal & Digestive System" ;
+      <http://purl.org/ontology/bibo/issn>
+              "2161-069X" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:2161-069X" .
+
+<http://id.crossref.org/contributor/abdelkader-boukerrouche-1w1vtd9qi6he>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Boukerrouche" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Abdelkader" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Abdelkader Boukerrouche" .

@@ -1,0 +1,83 @@
+<http://dx.doi.org/10.1093/pasj/psv090>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1093/pasj/psv090" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "103" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "67" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/ryuichi-takahashi-20j2rax1oo507> , <http://id.crossref.org/contributor/rossella-martino-20j2rax1oo507> , <http://id.crossref.org/contributor/nobuhiro-okabe-20j2rax1oo507> , <http://id.crossref.org/contributor/masahiro-takada-20j2rax1oo507> , <http://id.crossref.org/contributor/hiroko-niikura-20j2rax1oo507> ;
+      <http://purl.org/dc/terms/date>
+              "2015-10-10"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1093/pasj/psv090" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0004-6264> ;
+      <http://purl.org/dc/terms/publisher>
+              "Oxford University Press (OUP)" ;
+      <http://purl.org/dc/terms/title>
+              "Detection of universality of dark matter profile from Subaru weak lensing measurements of 50 massive clusters" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1093/pasj/psv090" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "103" ;
+      <http://purl.org/ontology/bibo/volume>
+              "67" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1093/pasj/psv090> , <doi:10.1093/pasj/psv090> .
+
+<http://id.crossref.org/contributor/ryuichi-takahashi-20j2rax1oo507>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Takahashi" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Ryuichi" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Ryuichi Takahashi" .
+
+<http://id.crossref.org/contributor/nobuhiro-okabe-20j2rax1oo507>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Okabe" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Nobuhiro" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Nobuhiro Okabe" .
+
+<http://id.crossref.org/contributor/rossella-martino-20j2rax1oo507>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Martino" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Rossella" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Rossella Martino" .
+
+<http://id.crossref.org/contributor/masahiro-takada-20j2rax1oo507>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Takada" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Masahiro" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Masahiro Takada" .
+
+<http://id.crossref.org/contributor/hiroko-niikura-20j2rax1oo507>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Niikura" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Hiroko" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Hiroko Niikura" .
+
+<http://id.crossref.org/issn/0004-6264>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "2053-051X" , "0004-6264" ;
+      <http://purl.org/dc/terms/title>
+              "Publications of the Astronomical Society of Japan" ;
+      <http://purl.org/ontology/bibo/issn>
+              "2053-051X" , "0004-6264" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0004-6264" , "urn:issn:2053-051X" .

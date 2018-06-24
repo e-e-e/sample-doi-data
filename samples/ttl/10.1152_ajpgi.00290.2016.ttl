@@ -1,0 +1,107 @@
+<http://id.crossref.org/contributor/sankar-addya-3qbn9viixfgxr>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Addya" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Sankar" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Sankar Addya" .
+
+<http://id.crossref.org/contributor/raymond-b-penn-3qbn9viixfgxr>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Penn" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Raymond B." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Raymond B. Penn" .
+
+<http://id.crossref.org/contributor/benjamin-phillips-3qbn9viixfgxr>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Phillips" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Benjamin" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Benjamin Phillips" .
+
+<http://dx.doi.org/10.1152/ajpgi.00290.2016>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1152/ajpgi.00290.2016" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "G973" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "G964" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "311" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/raymond-b-penn-3qbn9viixfgxr> , <http://id.crossref.org/contributor/sankar-addya-3qbn9viixfgxr> , <http://id.crossref.org/contributor/benjamin-phillips-3qbn9viixfgxr> , <http://id.crossref.org/contributor/jagmohan-singh-3qbn9viixfgxr> , <http://id.crossref.org/contributor/isidore-rigoutsos-3qbn9viixfgxr> , <http://id.crossref.org/contributor/satish-rattan-3qbn9viixfgxr> , <http://id.crossref.org/contributor/ettickan-boopathi-3qbn9viixfgxr> ;
+      <http://purl.org/dc/terms/date>
+              "2016-11"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1152/ajpgi.00290.2016" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0193-1857> ;
+      <http://purl.org/dc/terms/publisher>
+              "American Physiological Society" ;
+      <http://purl.org/dc/terms/title>
+              "Aging-associated changes in microRNA expression profile of internal anal sphincter smooth muscle: Role of microRNA-133a" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1152/ajpgi.00290.2016" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "G973" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "G964" ;
+      <http://purl.org/ontology/bibo/volume>
+              "311" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1152/ajpgi.00290.2016> , <doi:10.1152/ajpgi.00290.2016> .
+
+<http://id.crossref.org/contributor/jagmohan-singh-3qbn9viixfgxr>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Singh" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Jagmohan" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Jagmohan Singh" .
+
+<http://id.crossref.org/contributor/isidore-rigoutsos-3qbn9viixfgxr>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Rigoutsos" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Isidore" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Isidore Rigoutsos" .
+
+<http://id.crossref.org/issn/0193-1857>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1522-1547" , "0193-1857" ;
+      <http://purl.org/dc/terms/title>
+              "American Journal of Physiology-Gastrointestinal and Liver Physiology" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1522-1547" , "0193-1857" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0193-1857" , "urn:issn:1522-1547" .
+
+<http://id.crossref.org/contributor/satish-rattan-3qbn9viixfgxr>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <http://orcid.org/0000-0001-6731-6980> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Rattan" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Satish" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Satish Rattan" .
+
+<http://id.crossref.org/contributor/ettickan-boopathi-3qbn9viixfgxr>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Boopathi" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Ettickan" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Ettickan Boopathi" .

@@ -1,0 +1,53 @@
+<http://id.crossref.org/contributor/m-green-3hsocksgpahps>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Green" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "M" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "M Green" .
+
+<http://id.crossref.org/contributor/ed-amster-3hsocksgpahps>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Amster" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "ED" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "ED Amster" .
+
+<http://id.crossref.org/contributor/r-carel-3hsocksgpahps>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Carel" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "R" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "R Carel" .
+
+<http://id.crossref.org/contributor/ss-fertig-3hsocksgpahps>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Fertig" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "SS" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "SS Fertig" .
+
+<http://dx.doi.org/10.1136/oemed-2018-icohabstracts.1664>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1136/oemed-2018-icohabstracts.1664" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/m-green-3hsocksgpahps> , <http://id.crossref.org/contributor/ed-amster-3hsocksgpahps> , <http://id.crossref.org/contributor/r-carel-3hsocksgpahps> , <http://id.crossref.org/contributor/ss-fertig-3hsocksgpahps> ;
+      <http://purl.org/dc/terms/date>
+              "2018-04"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1136/oemed-2018-icohabstracts.1664" ;
+      <http://purl.org/dc/terms/publisher>
+              "BMJ Publishing Group Ltd" ;
+      <http://purl.org/dc/terms/title>
+              "589 Occupational exposures and psychological symptoms among fire fighters and police during a major wildfire: the carmel cohort study" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1136/oemed-2018-icohabstracts.1664" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1136/oemed-2018-icohabstracts.1664> , <doi:10.1136/oemed-2018-icohabstracts.1664> .

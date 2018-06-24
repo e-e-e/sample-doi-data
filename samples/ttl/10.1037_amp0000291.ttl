@@ -1,0 +1,40 @@
+<http://id.crossref.org/issn/0003-066X>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0003-066X" , "1935-990X" ;
+      <http://purl.org/dc/terms/title>
+              "American Psychologist" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0003-066X" , "1935-990X" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0003-066X" , "urn:issn:1935-990X" .
+
+<http://dx.doi.org/10.1037/amp0000291>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1037/amp0000291" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "101" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "101" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "73" ;
+      <http://purl.org/dc/terms/date>
+              "2018"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1037/amp0000291" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0003-066X> ;
+      <http://purl.org/dc/terms/publisher>
+              "American Psychological Association (APA)" ;
+      <http://purl.org/dc/terms/title>
+              "Paradise Trees by Delton Young" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1037/amp0000291" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "101" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "101" ;
+      <http://purl.org/ontology/bibo/volume>
+              "73" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1037/amp0000291> , <info:doi/10.1037/amp0000291> .

@@ -1,0 +1,65 @@
+<http://id.crossref.org/contributor/-3nicf9jqdna7v>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/name>
+              " " .
+
+<http://dx.doi.org/10.5840/iabsproc1998911>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.5840/iabsproc1998911" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "118" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "107" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "9" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/-3nicf9jqdna7v> , <http://id.crossref.org/contributor/elizabeth-d-scott-3nicf9jqdna7v> , <http://id.crossref.org/contributor/karen-a-jehn-3nicf9jqdna7v> ;
+      <http://purl.org/dc/terms/date>
+              "1998"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.5840/iabsproc1998911" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/2155-2568> ;
+      <http://purl.org/dc/terms/publisher>
+              "Philosophy Documentation Center" ;
+      <http://purl.org/dc/terms/title>
+              "Lies in the Skies" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.5840/iabsproc1998911" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "118" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "107" ;
+      <http://purl.org/ontology/bibo/volume>
+              "9" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.5840/iabsproc1998911> , <doi:10.5840/iabsproc1998911> .
+
+<http://id.crossref.org/contributor/elizabeth-d-scott-3nicf9jqdna7v>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Scott" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Elizabeth D." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Elizabeth D. Scott" .
+
+<http://id.crossref.org/issn/2155-2568>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "2155-2568" ;
+      <http://purl.org/dc/terms/title>
+              "Proceedings of the International Association for Business and Society" ;
+      <http://purl.org/ontology/bibo/issn>
+              "2155-2568" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:2155-2568" .
+
+<http://id.crossref.org/contributor/karen-a-jehn-3nicf9jqdna7v>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Jehn" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Karen A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Karen A. Jehn" .

@@ -1,0 +1,47 @@
+<http://dx.doi.org/10.3917/nqf.252.0082>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.3917/nqf.252.0082" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "82" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "25" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/irene-jonas-2qa7wwy3hrsqc> ;
+      <http://purl.org/dc/terms/date>
+              "2006"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.3917/nqf.252.0082" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0248-4951> ;
+      <http://purl.org/dc/terms/publisher>
+              "CAIRN" ;
+      <http://purl.org/dc/terms/title>
+              "L’antiféminisme des nouveaux « traités de savoir-vivre à l’usage des femmes »" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.3917/nqf.252.0082" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "82" ;
+      <http://purl.org/ontology/bibo/volume>
+              "25" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.3917/nqf.252.0082> , <doi:10.3917/nqf.252.0082> .
+
+<http://id.crossref.org/contributor/irene-jonas-2qa7wwy3hrsqc>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Jonas" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Irène" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Irène Jonas" .
+
+<http://id.crossref.org/issn/0248-4951>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "2297-3850" , "0248-4951" ;
+      <http://purl.org/dc/terms/title>
+              "Nouvelles Questions Féministes" ;
+      <http://purl.org/ontology/bibo/issn>
+              "2297-3850" , "0248-4951" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0248-4951" , "urn:issn:2297-3850" .

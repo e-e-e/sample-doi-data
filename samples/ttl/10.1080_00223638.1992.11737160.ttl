@@ -1,0 +1,60 @@
+<http://dx.doi.org/10.1080/00223638.1992.11737160>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1080/00223638.1992.11737160" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "13" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "11" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "40" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/h-hermel-3stl95tuel19s> , <http://id.crossref.org/contributor/a-jahn-3stl95tuel19s> ;
+      <http://purl.org/dc/terms/date>
+              "1992-01"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1080/00223638.1992.11737160" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0022-3638> ;
+      <http://purl.org/dc/terms/publisher>
+              "Informa UK Limited" ;
+      <http://purl.org/dc/terms/title>
+              "Studies on Gelatin Crosslinked with Substituted Triazine" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1080/00223638.1992.11737160" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "13" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "11" ;
+      <http://purl.org/ontology/bibo/volume>
+              "40" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1080/00223638.1992.11737160> , <info:doi/10.1080/00223638.1992.11737160> .
+
+<http://id.crossref.org/issn/0022-3638>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0022-3638" ;
+      <http://purl.org/dc/terms/title>
+              "The Journal of Photographic Science" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0022-3638" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0022-3638" .
+
+<http://id.crossref.org/contributor/h-hermel-3stl95tuel19s>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Hermel" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "H." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "H. Hermel" .
+
+<http://id.crossref.org/contributor/a-jahn-3stl95tuel19s>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Jahn" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "A. Jahn" .

@@ -1,0 +1,30 @@
+<http://id.crossref.org/isbn/9783504385217>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Steuerrecht international tätiger Unternehmen" .
+
+<http://dx.doi.org/10.9785/9783504385217-002>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.9785/9783504385217-002" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "VIII" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "VIII" ;
+      <http://purl.org/dc/terms/date>
+              "2018-12-31"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.9785/9783504385217-002" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9783504385217> ;
+      <http://purl.org/dc/terms/publisher>
+              "Verlag Dr. Otto Schmidt" ;
+      <http://purl.org/dc/terms/title>
+              "Vorwort zur 1. Auflage" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.9785/9783504385217-002" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "VIII" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "VIII" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.9785/9783504385217-002> , <doi:10.9785/9783504385217-002> .

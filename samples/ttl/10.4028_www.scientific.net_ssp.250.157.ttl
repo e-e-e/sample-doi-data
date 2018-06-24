@@ -1,0 +1,69 @@
+<http://id.crossref.org/contributor/dariusz-skibicki-10laox0qmon6u>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Skibicki" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Dariusz" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Dariusz Skibicki" .
+
+<http://id.crossref.org/contributor/mateusz-wirwicki-10laox0qmon6u>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Wirwicki" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Mateusz" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Mateusz Wirwicki" .
+
+<http://dx.doi.org/10.4028/www.scientific.net/ssp.250.157>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.4028/www.scientific.net/ssp.250.157" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "162" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "157" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "250" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/dariusz-skibicki-10laox0qmon6u> , <http://id.crossref.org/contributor/mateusz-wirwicki-10laox0qmon6u> , <http://id.crossref.org/contributor/lukasz-pejkowski-10laox0qmon6u> ;
+      <http://purl.org/dc/terms/date>
+              "2016-04"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.4028/www.scientific.net/ssp.250.157" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1662-9779> ;
+      <http://purl.org/dc/terms/publisher>
+              "Trans Tech Publications" ;
+      <http://purl.org/dc/terms/title>
+              "The Influence of Multiaxial Superimposed Static Mean Stress on High-Cycle Fatigue Life of Cu-ETP Copper" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.4028/www.scientific.net/ssp.250.157" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "162" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "157" ;
+      <http://purl.org/ontology/bibo/volume>
+              "250" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.4028/www.scientific.net/ssp.250.157> , <doi:10.4028/www.scientific.net/ssp.250.157> .
+
+<http://id.crossref.org/contributor/lukasz-pejkowski-10laox0qmon6u>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Pejkowski" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Lukasz" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Lukasz Pejkowski" .
+
+<http://id.crossref.org/issn/1662-9779>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1662-9779" ;
+      <http://purl.org/dc/terms/title>
+              "Solid State Phenomena" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1662-9779" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1662-9779" .

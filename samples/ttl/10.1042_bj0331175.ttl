@@ -1,0 +1,60 @@
+<http://id.crossref.org/contributor/c-v-ganapathy-1vge6fonlgymg>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Ganapathy" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "C. V." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "C. V. Ganapathy" .
+
+<http://id.crossref.org/issn/0264-6021>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1470-8728" , "0264-6021" ;
+      <http://purl.org/dc/terms/title>
+              "Biochemical Journal" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1470-8728" , "0264-6021" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0264-6021" , "urn:issn:1470-8728" .
+
+<http://dx.doi.org/10.1042/bj0331175>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1042/bj0331175" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "1179" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "1175" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "33" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/c-v-ganapathy-1vge6fonlgymg> , <http://id.crossref.org/contributor/b-n-sastri-1vge6fonlgymg> ;
+      <http://purl.org/dc/terms/date>
+              "1939-08"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1042/bj0331175" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0264-6021> ;
+      <http://purl.org/dc/terms/publisher>
+              "Portland Press Ltd." ;
+      <http://purl.org/dc/terms/title>
+              "The nature of papain" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1042/bj0331175" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "1179" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "1175" ;
+      <http://purl.org/ontology/bibo/volume>
+              "33" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1042/bj0331175> , <doi:10.1042/bj0331175> .
+
+<http://id.crossref.org/contributor/b-n-sastri-1vge6fonlgymg>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Sastri" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "B. N." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "B. N. Sastri" .

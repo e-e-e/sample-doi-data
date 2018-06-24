@@ -1,0 +1,41 @@
+<http://id.crossref.org/contributor/guillermo-trejo-2crrr2d8a93j2>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Trejo" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Guillermo" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Guillermo Trejo" .
+
+<http://id.crossref.org/isbn/9781139043250>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Popular Movements in Autocracies" .
+
+<http://dx.doi.org/10.1017/cbo9781139043250.016>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1017/cbo9781139043250.016" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "272" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "254" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/guillermo-trejo-2crrr2d8a93j2> ;
+      <http://purl.org/dc/terms/date>
+              ""^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1017/cbo9781139043250.016" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9781139043250> ;
+      <http://purl.org/dc/terms/publisher>
+              "Cambridge University Press" ;
+      <http://purl.org/dc/terms/title>
+              "Conclusion" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1017/cbo9781139043250.016" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "272" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "254" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1017/cbo9781139043250.016> , <info:doi/10.1017/cbo9781139043250.016> .

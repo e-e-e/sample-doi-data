@@ -1,0 +1,50 @@
+<http://dx.doi.org/10.1007/978-90-313-7023-8_12>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1007/978-90-313-7023-8_12" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "187" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "161" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/j-m-a-mens-ultshmtm65gc> , <http://id.crossref.org/contributor/a-n-de-wolf-ultshmtm65gc> ;
+      <http://purl.org/dc/terms/date>
+              "2001"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1007/978-90-313-7023-8_12" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9789031332977> ;
+      <http://purl.org/dc/terms/publisher>
+              "Bohn Stafleu van Loghum" ;
+      <http://purl.org/dc/terms/title>
+              "DE LUMBOSACRALE WERVELKOLOM" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1007/978-90-313-7023-8_12" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "187" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "161" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1007/978-90-313-7023-8_12> , <info:doi/10.1007/978-90-313-7023-8_12> .
+
+<http://id.crossref.org/contributor/j-m-a-mens-ultshmtm65gc>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Mens" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "J. M. A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "J. M. A. Mens" .
+
+<http://id.crossref.org/contributor/a-n-de-wolf-ultshmtm65gc>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "de Wolf" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "A. N." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "A. N. de Wolf" .
+
+<http://id.crossref.org/isbn/9789031332977>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Onderzoek van het bewegingsapparaat" .

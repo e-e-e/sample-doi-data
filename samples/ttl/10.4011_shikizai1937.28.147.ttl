@@ -1,0 +1,40 @@
+<http://id.crossref.org/issn/0010-180X>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0010-180X" ;
+      <http://purl.org/dc/terms/title>
+              "Journal of the Japan Society of Colour Material" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0010-180X" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0010-180X" .
+
+<http://dx.doi.org/10.4011/shikizai1937.28.147>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.4011/shikizai1937.28.147" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "149" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "147" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "28" ;
+      <http://purl.org/dc/terms/date>
+              "1955"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.4011/shikizai1937.28.147" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0010-180X> ;
+      <http://purl.org/dc/terms/publisher>
+              "Japan Society of Colour Material" ;
+      <http://purl.org/dc/terms/title>
+              "" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.4011/shikizai1937.28.147" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "149" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "147" ;
+      <http://purl.org/ontology/bibo/volume>
+              "28" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.4011/shikizai1937.28.147> , <info:doi/10.4011/shikizai1937.28.147> .

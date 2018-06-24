@@ -1,0 +1,74 @@
+<http://id.crossref.org/contributor/kartini-iskandar-2d061c9i581r>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Iskandar" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Kartini" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Kartini Iskandar" .
+
+<http://id.crossref.org/contributor/jonathan-chuan-han-foo-2d061c9i581r>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Foo" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Jonathan Chuan Han" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Jonathan Chuan Han Foo" .
+
+<http://id.crossref.org/contributor/sanjiv-yadav-2d061c9i581r>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Yadav" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Sanjiv" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Sanjiv Yadav" .
+
+<http://id.crossref.org/issn/0891-5849>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0891-5849" ;
+      <http://purl.org/dc/terms/title>
+              "Free Radical Biology and Medicine" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0891-5849" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0891-5849" .
+
+<http://dx.doi.org/10.1016/j.freeradbiomed.2016.10.315>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/j.freeradbiomed.2016.10.315" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "S122" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "100" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/kartini-iskandar-2d061c9i581r> , <http://id.crossref.org/contributor/sanjiv-yadav-2d061c9i581r> , <http://id.crossref.org/contributor/jonathan-chuan-han-foo-2d061c9i581r> , <http://id.crossref.org/contributor/shazib-pervaiz-2d061c9i581r> ;
+      <http://purl.org/dc/terms/date>
+              "2016-11"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/j.freeradbiomed.2016.10.315" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0891-5849> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Targeting of Mutant KRAS Driven Tumors by a Novel Small Molecule is Associated with ROS-Driven Mitophagy and Changes in Mitochondrial Morphology" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/j.freeradbiomed.2016.10.315" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "S122" ;
+      <http://purl.org/ontology/bibo/volume>
+              "100" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1016/j.freeradbiomed.2016.10.315> , <info:doi/10.1016/j.freeradbiomed.2016.10.315> .
+
+<http://id.crossref.org/contributor/shazib-pervaiz-2d061c9i581r>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Pervaiz" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Shazib" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Shazib Pervaiz" .

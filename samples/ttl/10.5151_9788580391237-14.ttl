@@ -1,0 +1,41 @@
+<http://dx.doi.org/10.5151/9788580391237-14>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.5151/9788580391237-14" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "310" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "283" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/anita-kon-349sl0lpyqqmu> ;
+      <http://purl.org/dc/terms/date>
+              "2015-12"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.5151/9788580391237-14" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9788580391237> ;
+      <http://purl.org/dc/terms/publisher>
+              "Editora Edgard Blücher" ;
+      <http://purl.org/dc/terms/title>
+              "Panorama da Informalidade do Trabalho no Brasil na Virada do Século" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.5151/9788580391237-14" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "310" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "283" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.5151/9788580391237-14> , <info:doi/10.5151/9788580391237-14> .
+
+<http://id.crossref.org/contributor/anita-kon-349sl0lpyqqmu>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kon" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Anita" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Anita Kon" .
+
+<http://id.crossref.org/isbn/9788580391237>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Aportes ao Desenvolvimento da Economia Brasileira" .

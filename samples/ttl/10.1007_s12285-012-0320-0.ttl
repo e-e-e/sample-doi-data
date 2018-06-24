@@ -1,0 +1,60 @@
+<http://id.crossref.org/contributor/d-felsenberg-2rvw9xwedu0m9>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Felsenberg" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "D." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "D. Felsenberg" .
+
+<http://dx.doi.org/10.1007/s12285-012-0320-0>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1007/s12285-012-0320-0" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "79" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "72" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "6" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/d-felsenberg-2rvw9xwedu0m9> , <http://id.crossref.org/contributor/f-jakob-2rvw9xwedu0m9> ;
+      <http://purl.org/dc/terms/date>
+              "2013-05"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1007/s12285-012-0320-0" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1865-9659> ;
+      <http://purl.org/dc/terms/publisher>
+              "Springer Nature" ;
+      <http://purl.org/dc/terms/title>
+              "Grundlagen des Knochenstoffwechsels und pharmakologische Daten" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1007/s12285-012-0320-0" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "79" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "72" ;
+      <http://purl.org/ontology/bibo/volume>
+              "6" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1007/s12285-012-0320-0> , <info:doi/10.1007/s12285-012-0320-0> .
+
+<http://id.crossref.org/contributor/f-jakob-2rvw9xwedu0m9>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Jakob" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "F." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "F. Jakob" .
+
+<http://id.crossref.org/issn/1865-9659>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1865-9667" , "1865-9659" ;
+      <http://purl.org/dc/terms/title>
+              "Der MKG-Chirurg" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1865-9667" , "1865-9659" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1865-9659" , "urn:issn:1865-9667" .

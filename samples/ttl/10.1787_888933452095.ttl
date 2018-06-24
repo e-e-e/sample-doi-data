@@ -1,0 +1,15 @@
+<http://dx.doi.org/10.1787/888933452095>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1787/888933452095" ;
+      <http://purl.org/dc/terms/date>
+              ""^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1787/888933452095" ;
+      <http://purl.org/dc/terms/publisher>
+              "Organisation for Economic Co-Operation and Development  (OECD)" ;
+      <http://purl.org/dc/terms/title>
+              "Table 1.2. Changes in the composition of the value of agricultural production, 1991-2013, %" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1787/888933452095" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1787/888933452095> , <info:doi/10.1787/888933452095> .

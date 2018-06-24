@@ -1,0 +1,42 @@
+<http://id.crossref.org/isbn/9789810975197>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Proceedings of the International Conference on Nanotechnology for Better Living" .
+
+<http://dx.doi.org/10.3850/978-981-09-7519-7nbl16-rps-312>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.3850/978-981-09-7519-7nbl16-rps-312" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/faheem-a-sheikh-38z22gdb7scao> , <http://id.crossref.org/contributor/mushtaq-ahmad-beigh-38z22gdb7scao> ;
+      <http://purl.org/dc/terms/date>
+              "2016"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.3850/978-981-09-7519-7nbl16-rps-312" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9789810975197> ;
+      <http://purl.org/dc/terms/publisher>
+              "Research Publishing Services" ;
+      <http://purl.org/dc/terms/title>
+              "Electrospun medical grade polyurethane nanofibers containing MWCNTs for future tendon and ligament regeneration" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.3850/978-981-09-7519-7nbl16-rps-312" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.3850/978-981-09-7519-7nbl16-rps-312> , <doi:10.3850/978-981-09-7519-7nbl16-rps-312> .
+
+<http://id.crossref.org/contributor/faheem-a-sheikh-38z22gdb7scao>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "A Sheikh" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Faheem" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Faheem A Sheikh" .
+
+<http://id.crossref.org/contributor/mushtaq-ahmad-beigh-38z22gdb7scao>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Ahmad Beigh" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Mushtaq" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Mushtaq Ahmad Beigh" .

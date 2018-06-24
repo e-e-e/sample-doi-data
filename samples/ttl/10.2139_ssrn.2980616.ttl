@@ -1,0 +1,48 @@
+<http://dx.doi.org/10.2139/ssrn.2980616>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.2139/ssrn.2980616" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/thomas-bourveau-1im65pnw2wryv> , <http://id.crossref.org/contributor/marc-sangnier-1im65pnw2wryv> ;
+      <http://purl.org/dc/terms/date>
+              "2016"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.2139/ssrn.2980616" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1556-5068> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Political Connections and White-Collar Crime: Evidence from Insider Trading in France" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.2139/ssrn.2980616" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.2139/ssrn.2980616> , <doi:10.2139/ssrn.2980616> .
+
+<http://id.crossref.org/contributor/thomas-bourveau-1im65pnw2wryv>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Bourveau" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Thomas" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Thomas Bourveau" .
+
+<http://id.crossref.org/contributor/marc-sangnier-1im65pnw2wryv>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Sangnier" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Marc" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Marc Sangnier" .
+
+<http://id.crossref.org/issn/1556-5068>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1556-5068" ;
+      <http://purl.org/dc/terms/title>
+              "SSRN Electronic Journal " ;
+      <http://purl.org/ontology/bibo/issn>
+              "1556-5068" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1556-5068" .

@@ -1,0 +1,60 @@
+<http://dx.doi.org/10.1016/j.surfrep.2018.01.001>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/j.surfrep.2018.01.001" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "391" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "369" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "72" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/huanhuan-tian-3rx3iaae2hx4p> , <http://id.crossref.org/contributor/moran-wang-3rx3iaae2hx4p> ;
+      <http://purl.org/dc/terms/date>
+              "2017-12"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/j.surfrep.2018.01.001" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0167-5729> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Electrokinetic mechanism of wettability alternation at oil-water-rock interface" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/j.surfrep.2018.01.001" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "391" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "369" ;
+      <http://purl.org/ontology/bibo/volume>
+              "72" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1016/j.surfrep.2018.01.001> , <info:doi/10.1016/j.surfrep.2018.01.001> .
+
+<http://id.crossref.org/contributor/huanhuan-tian-3rx3iaae2hx4p>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Tian" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Huanhuan" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Huanhuan Tian" .
+
+<http://id.crossref.org/contributor/moran-wang-3rx3iaae2hx4p>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Wang" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Moran" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Moran Wang" .
+
+<http://id.crossref.org/issn/0167-5729>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0167-5729" ;
+      <http://purl.org/dc/terms/title>
+              "Surface Science Reports" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0167-5729" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0167-5729" .

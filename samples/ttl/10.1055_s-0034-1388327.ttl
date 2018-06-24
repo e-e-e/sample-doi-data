@@ -1,0 +1,151 @@
+<http://id.crossref.org/contributor/f-kommoss-3digotbszggok>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kommoss" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "F" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "F Kommoss" .
+
+<http://id.crossref.org/contributor/s-kommoss-3digotbszggok>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kommoss" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "S" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "S Kommoss" .
+
+<http://id.crossref.org/contributor/dg-huntsman-3digotbszggok>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Huntsman" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "DG" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "DG Huntsman" .
+
+<http://id.crossref.org/contributor/m-maaen-3digotbszggok>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Maaßen" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "M" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "M Maaßen" .
+
+<http://id.crossref.org/contributor/a-karnezis-3digotbszggok>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Karnezis" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "A" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "A Karnezis" .
+
+<http://id.crossref.org/contributor/m-mcconechy-3digotbszggok>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "McConechy" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "M" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "M McConechy" .
+
+<http://id.crossref.org/contributor/fa-taran-3digotbszggok>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Taran" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "FA" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "FA Taran" .
+
+<http://id.crossref.org/contributor/d-wallwiener-3digotbszggok>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Wallwiener" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "D" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "D Wallwiener" .
+
+<http://id.crossref.org/contributor/hl-chang-3digotbszggok>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Chang" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "HL" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "HL Chang" .
+
+<http://id.crossref.org/issn/0016-5751>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1438-8804" , "0016-5751" ;
+      <http://purl.org/dc/terms/title>
+              "Geburtshilfe und Frauenheilkunde" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1438-8804" , "0016-5751" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0016-5751" , "urn:issn:1438-8804" .
+
+<http://id.crossref.org/contributor/s-brucker-3digotbszggok>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Brucker" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "S" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "S Brucker" .
+
+<http://id.crossref.org/contributor/a-staebler-3digotbszggok>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Staebler" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "A" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "A Staebler" .
+
+<http://dx.doi.org/10.1055/s-0034-1388327>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1055/s-0034-1388327" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "74" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/f-kommoss-3digotbszggok> , <http://id.crossref.org/contributor/s-kommoss-3digotbszggok> , <http://id.crossref.org/contributor/dg-huntsman-3digotbszggok> , <http://id.crossref.org/contributor/m-maaen-3digotbszggok> , <http://id.crossref.org/contributor/m-mcconechy-3digotbszggok> , <http://id.crossref.org/contributor/a-karnezis-3digotbszggok> , <http://id.crossref.org/contributor/fa-taran-3digotbszggok> , <http://id.crossref.org/contributor/d-wallwiener-3digotbszggok> , <http://id.crossref.org/contributor/hl-chang-3digotbszggok> , <http://id.crossref.org/contributor/s-brucker-3digotbszggok> , <http://id.crossref.org/contributor/a-staebler-3digotbszggok> , <http://id.crossref.org/contributor/cb-gilks-3digotbszggok> , <http://id.crossref.org/contributor/m-anglesio-3digotbszggok> ;
+      <http://purl.org/dc/terms/date>
+              "2014-09-05"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1055/s-0034-1388327" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0016-5751> ;
+      <http://purl.org/dc/terms/publisher>
+              "Georg Thieme Verlag KG" ;
+      <http://purl.org/dc/terms/title>
+              "Synchronous stage IA endometrial and ovarian carcinomas share common mutations: implications for tumour evolution and clinical staging" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1055/s-0034-1388327" ;
+      <http://purl.org/ontology/bibo/volume>
+              "74" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1055/s-0034-1388327> , <doi:10.1055/s-0034-1388327> .
+
+<http://id.crossref.org/contributor/cb-gilks-3digotbszggok>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Gilks" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "CB" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "CB Gilks" .
+
+<http://id.crossref.org/contributor/m-anglesio-3digotbszggok>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Anglesio" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "M" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "M Anglesio" .

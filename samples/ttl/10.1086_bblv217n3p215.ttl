@@ -1,0 +1,87 @@
+<http://id.crossref.org/contributor/hajime-nishimura-1z4d2pnnfmkbl>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Nishimura" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Hajime" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Hajime Nishimura" .
+
+<http://dx.doi.org/10.1086/bblv217n3p215>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1086/bblv217n3p215" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "221" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "215" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "217" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/hajime-nishimura-1z4d2pnnfmkbl> , <http://id.crossref.org/contributor/michihiro-nakano-1z4d2pnnfmkbl> , <http://id.crossref.org/contributor/chisato-kitazawa-1z4d2pnnfmkbl> , <http://id.crossref.org/contributor/akira-yamanaka-1z4d2pnnfmkbl> , <http://id.crossref.org/contributor/tadashi-yamaguchi-1z4d2pnnfmkbl> ;
+      <http://purl.org/dc/terms/date>
+              "2009-12"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1086/bblv217n3p215" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0006-3185> ;
+      <http://purl.org/dc/terms/publisher>
+              "University of Chicago Press" ;
+      <http://purl.org/dc/terms/title>
+              "Novel Morphological Traits in the Early Developmental Stages of Temnopleurus toreumaticus" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1086/bblv217n3p215" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "221" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "215" ;
+      <http://purl.org/ontology/bibo/volume>
+              "217" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1086/bblv217n3p215> , <info:doi/10.1086/bblv217n3p215> .
+
+<http://id.crossref.org/contributor/michihiro-nakano-1z4d2pnnfmkbl>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Nakano" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Michihiro" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Michihiro Nakano" .
+
+<http://id.crossref.org/issn/0006-3185>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1939-8697" , "0006-3185" ;
+      <http://purl.org/dc/terms/title>
+              "The Biological Bulletin" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1939-8697" , "0006-3185" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1939-8697" , "urn:issn:0006-3185" .
+
+<http://id.crossref.org/contributor/chisato-kitazawa-1z4d2pnnfmkbl>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kitazawa" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Chisato" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Chisato Kitazawa" .
+
+<http://id.crossref.org/contributor/akira-yamanaka-1z4d2pnnfmkbl>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Yamanaka" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Akira" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Akira Yamanaka" .
+
+<http://id.crossref.org/contributor/tadashi-yamaguchi-1z4d2pnnfmkbl>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Yamaguchi" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Tadashi" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Tadashi Yamaguchi" .

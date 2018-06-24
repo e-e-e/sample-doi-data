@@ -1,0 +1,65 @@
+<http://dx.doi.org/10.1044/ffd21.2.50>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1044/ffd21.2.50" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "50" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "21" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/rodney-gabel-46qslqm0a83i> , <http://id.crossref.org/contributor/charles-hughes-46qslqm0a83i> , <http://id.crossref.org/contributor/scott-palasik-46qslqm0a83i> ;
+      <http://purl.org/dc/terms/date>
+              "2011-05-01"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1044/ffd21.2.50" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1940-7599> ;
+      <http://purl.org/dc/terms/publisher>
+              "American Speech Language Hearing Association" ;
+      <http://purl.org/dc/terms/title>
+              "Talking About Stuttering With a Known Person Who Stutters: Impact on Perceptions Towards Stuttering" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1044/ffd21.2.50" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "50" ;
+      <http://purl.org/ontology/bibo/volume>
+              "21" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1044/ffd21.2.50> , <doi:10.1044/ffd21.2.50> .
+
+<http://id.crossref.org/contributor/rodney-gabel-46qslqm0a83i>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Gabel" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Rodney" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Rodney Gabel" .
+
+<http://id.crossref.org/issn/1940-7599>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1940-7599" ;
+      <http://purl.org/dc/terms/title>
+              "Perspectives on Fluency and Fluency Disorders" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1940-7599" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1940-7599" .
+
+<http://id.crossref.org/contributor/charles-hughes-46qslqm0a83i>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Hughes" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Charles" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Charles Hughes" .
+
+<http://id.crossref.org/contributor/scott-palasik-46qslqm0a83i>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Palasik" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Scott" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Scott Palasik" .

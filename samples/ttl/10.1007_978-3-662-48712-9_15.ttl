@@ -1,0 +1,50 @@
+<http://dx.doi.org/10.1007/978-3-662-48712-9_15>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1007/978-3-662-48712-9_15" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "154" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "145" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/j-hoppner-eho17n7czes1> , <http://id.crossref.org/contributor/t-glatz-eho17n7czes1> ;
+      <http://purl.org/dc/terms/date>
+              "2016"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1007/978-3-662-48712-9_15" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9783662487112> ;
+      <http://purl.org/dc/terms/publisher>
+              "Springer Berlin Heidelberg" ;
+      <http://purl.org/dc/terms/title>
+              "Chirurgie des Magenkarzinoms bei alten Patienten" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1007/978-3-662-48712-9_15" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "154" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "145" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1007/978-3-662-48712-9_15> , <doi:10.1007/978-3-662-48712-9_15> .
+
+<http://id.crossref.org/isbn/9783662487112>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Onkologische Chirurgie bei alten Patienten" .
+
+<http://id.crossref.org/contributor/j-hoppner-eho17n7czes1>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Höppner" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "J." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "J. Höppner" .
+
+<http://id.crossref.org/contributor/t-glatz-eho17n7czes1>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Glatz" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "T." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "T. Glatz" .

@@ -1,0 +1,102 @@
+<http://dx.doi.org/10.3791/56062>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.3791/56062" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/reinhard-dorner-248b9erta1l5y> , <http://id.crossref.org/contributor/martin-pitzer-248b9erta1l5y> , <http://id.crossref.org/contributor/kilian-fehre-248b9erta1l5y> , <http://id.crossref.org/contributor/horst-schmidt-bocking-248b9erta1l5y> , <http://id.crossref.org/contributor/maksim-kunitski-248b9erta1l5y> , <http://id.crossref.org/contributor/lothar-schmidt-248b9erta1l5y> , <http://id.crossref.org/contributor/till-jahnke-248b9erta1l5y> , <http://id.crossref.org/contributor/markus-schoffler-248b9erta1l5y> ;
+      <http://purl.org/dc/terms/date>
+              "2017-08-18"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.3791/56062" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1940-087X> ;
+      <http://purl.org/dc/terms/publisher>
+              "MyJove Corporation" ;
+      <http://purl.org/dc/terms/title>
+              "Coulomb Explosion Imaging as a Tool to Distinguish Between Stereoisomers" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.3791/56062" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.3791/56062> , <info:doi/10.3791/56062> .
+
+<http://id.crossref.org/contributor/reinhard-dorner-248b9erta1l5y>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Dörner" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Reinhard" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Reinhard Dörner" .
+
+<http://id.crossref.org/issn/1940-087X>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1940-087X" ;
+      <http://purl.org/dc/terms/title>
+              "Journal of Visualized Experiments" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1940-087X" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1940-087X" .
+
+<http://id.crossref.org/contributor/martin-pitzer-248b9erta1l5y>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Pitzer" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Martin" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Martin Pitzer" .
+
+<http://id.crossref.org/contributor/kilian-fehre-248b9erta1l5y>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Fehre" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Kilian" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Kilian Fehre" .
+
+<http://id.crossref.org/contributor/horst-schmidt-bocking-248b9erta1l5y>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Schmidt-Böcking" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Horst" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Horst Schmidt-Böcking" .
+
+<http://id.crossref.org/contributor/maksim-kunitski-248b9erta1l5y>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kunitski" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Maksim" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Maksim Kunitski" .
+
+<http://id.crossref.org/contributor/lothar-schmidt-248b9erta1l5y>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Schmidt" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Lothar" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Lothar Schmidt" .
+
+<http://id.crossref.org/contributor/till-jahnke-248b9erta1l5y>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Jahnke" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Till" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Till Jahnke" .
+
+<http://id.crossref.org/contributor/markus-schoffler-248b9erta1l5y>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Schöffler" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Markus" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Markus Schöffler" .

@@ -1,0 +1,51 @@
+<http://dx.doi.org/10.1080/00029890.1976.11994202>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1080/00029890.1976.11994202" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "647" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "647" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "83" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/frode-terkelsen-de7n2o2jtms5> ;
+      <http://purl.org/dc/terms/date>
+              "1976-10"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1080/00029890.1976.11994202" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0002-9890> ;
+      <http://purl.org/dc/terms/publisher>
+              "Informa UK Limited" ;
+      <http://purl.org/dc/terms/title>
+              "The Fundamental Theorem of Algebra" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1080/00029890.1976.11994202" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "647" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "647" ;
+      <http://purl.org/ontology/bibo/volume>
+              "83" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1080/00029890.1976.11994202> , <info:doi/10.1080/00029890.1976.11994202> .
+
+<http://id.crossref.org/issn/0002-9890>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0002-9890" , "1930-0972" ;
+      <http://purl.org/dc/terms/title>
+              "The American Mathematical Monthly" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0002-9890" , "1930-0972" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0002-9890" , "urn:issn:1930-0972" .
+
+<http://id.crossref.org/contributor/frode-terkelsen-de7n2o2jtms5>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Terkelsen" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Frode" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Frode Terkelsen" .

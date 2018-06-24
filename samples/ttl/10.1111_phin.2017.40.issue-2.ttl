@@ -1,0 +1,30 @@
+<http://id.crossref.org/issn/0190-0536>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0190-0536" ;
+      <http://purl.org/dc/terms/title>
+              "Philosophical Investigations" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0190-0536" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0190-0536" .
+
+<http://dx.doi.org/10.1111/phin.2017.40.issue-2>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1111/phin.2017.40.issue-2" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "40" ;
+      <http://purl.org/dc/terms/date>
+              "2017-04"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1111/phin.2017.40.issue-2" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0190-0536> ;
+      <http://purl.org/dc/terms/publisher>
+              "Wiley" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1111/phin.2017.40.issue-2" ;
+      <http://purl.org/ontology/bibo/volume>
+              "40" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1111/phin.2017.40.issue-2> , <doi:10.1111/phin.2017.40.issue-2> .

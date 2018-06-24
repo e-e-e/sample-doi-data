@@ -1,0 +1,87 @@
+<http://id.crossref.org/issn/1369-8001>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1369-8001" ;
+      <http://purl.org/dc/terms/title>
+              "Materials Science in Semiconductor Processing" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1369-8001" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1369-8001" .
+
+<http://dx.doi.org/10.1016/j.mssp.2017.12.010>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/j.mssp.2017.12.010" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "54" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "50" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "76" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/a-v-moholkar-sf63vkjpedy4> , <http://id.crossref.org/contributor/a-s-kamble-sf63vkjpedy4> , <http://id.crossref.org/contributor/g-l-agawane-sf63vkjpedy4> , <http://id.crossref.org/contributor/j-h-kim-sf63vkjpedy4> , <http://id.crossref.org/contributor/s-a-vanalakar-sf63vkjpedy4> ;
+      <http://purl.org/dc/terms/date>
+              "2018-03"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/j.mssp.2017.12.010" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1369-8001> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Fabrication of Cu 2 (Zn x Mg 1-x )SnS 4  thin films by pulsed laser deposition technique for solar cell applications" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/j.mssp.2017.12.010" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "54" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "50" ;
+      <http://purl.org/ontology/bibo/volume>
+              "76" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1016/j.mssp.2017.12.010> , <doi:10.1016/j.mssp.2017.12.010> .
+
+<http://id.crossref.org/contributor/a-v-moholkar-sf63vkjpedy4>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Moholkar" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "A.V." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "A.V. Moholkar" .
+
+<http://id.crossref.org/contributor/a-s-kamble-sf63vkjpedy4>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kamble" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "A.S." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "A.S. Kamble" .
+
+<http://id.crossref.org/contributor/g-l-agawane-sf63vkjpedy4>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Agawane" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "G.L." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "G.L. Agawane" .
+
+<http://id.crossref.org/contributor/j-h-kim-sf63vkjpedy4>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kim" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "J.H." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "J.H. Kim" .
+
+<http://id.crossref.org/contributor/s-a-vanalakar-sf63vkjpedy4>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Vanalakar" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "S.A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "S.A. Vanalakar" .

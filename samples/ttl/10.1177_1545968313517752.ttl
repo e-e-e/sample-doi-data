@@ -1,0 +1,60 @@
+<http://id.crossref.org/issn/1545-9683>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1545-9683" , "1552-6844" ;
+      <http://purl.org/dc/terms/title>
+              "Neurorehabilitation and Neural Repair" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1545-9683" , "1552-6844" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1552-6844" , "urn:issn:1545-9683" .
+
+<http://id.crossref.org/contributor/xia-shen-8ig89fk26tue>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Shen" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Xia" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Xia Shen" .
+
+<http://id.crossref.org/contributor/margaret-k-y-mak-8ig89fk26tue>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Mak" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Margaret K. Y." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Margaret K. Y. Mak" .
+
+<http://dx.doi.org/10.1177/1545968313517752>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1177/1545968313517752" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "535" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "524" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "28" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/xia-shen-8ig89fk26tue> , <http://id.crossref.org/contributor/margaret-k-y-mak-8ig89fk26tue> ;
+      <http://purl.org/dc/terms/date>
+              "2014-01-09"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1177/1545968313517752" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1545-9683> ;
+      <http://purl.org/dc/terms/publisher>
+              "SAGE Publications" ;
+      <http://purl.org/dc/terms/title>
+              "Balance and Gait Training With Augmented Feedback Improves Balance Confidence in People With Parkinson’s Disease" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1177/1545968313517752" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "535" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "524" ;
+      <http://purl.org/ontology/bibo/volume>
+              "28" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1177/1545968313517752> , <info:doi/10.1177/1545968313517752> .

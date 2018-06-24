@@ -1,0 +1,96 @@
+<http://id.crossref.org/contributor/gulsum-ozlem-elpek-8bvpa5m10nmj>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Elpek" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Gülsüm Özlem" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Gülsüm Özlem Elpek" .
+
+<http://id.crossref.org/contributor/cumhur-ibrahim-bassorgun-8bvpa5m10nmj>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Başsorgun" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Cumhur İbrahim" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Cumhur İbrahim Başsorgun" .
+
+<http://dx.doi.org/10.1155/2014/943175>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1155/2014/943175" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "6" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "1" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "2014" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/gulsum-ozlem-elpek-8bvpa5m10nmj> , <http://id.crossref.org/contributor/cumhur-ibrahim-bassorgun-8bvpa5m10nmj> , <http://id.crossref.org/contributor/nuray-erin-8bvpa5m10nmj> , <http://id.crossref.org/contributor/ozlem-ceren-uzun-8bvpa5m10nmj> , <http://id.crossref.org/contributor/betul-unal-8bvpa5m10nmj> , <http://id.crossref.org/contributor/anl-ozluk-8bvpa5m10nmj> ;
+      <http://purl.org/dc/terms/date>
+              "2014"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1155/2014/943175" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1687-6121> ;
+      <http://purl.org/dc/terms/publisher>
+              "Hindawi Limited" ;
+      <http://purl.org/dc/terms/title>
+              "S100A8 and S100A9 Positive Cells in Colorectal Carcinoma: Clinicopathological Analysis" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1155/2014/943175" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "6" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "1" ;
+      <http://purl.org/ontology/bibo/volume>
+              "2014" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1155/2014/943175> , <doi:10.1155/2014/943175> .
+
+<http://id.crossref.org/contributor/nuray-erin-8bvpa5m10nmj>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Erin" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Nuray" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Nuray Erin" .
+
+<http://id.crossref.org/issn/1687-6121>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1687-630X" , "1687-6121" ;
+      <http://purl.org/dc/terms/title>
+              "Gastroenterology Research and Practice" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1687-630X" , "1687-6121" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1687-6121" , "urn:issn:1687-630X" .
+
+<http://id.crossref.org/contributor/ozlem-ceren-uzun-8bvpa5m10nmj>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Uzun" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Özlem Ceren" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Özlem Ceren Uzun" .
+
+<http://id.crossref.org/contributor/betul-unal-8bvpa5m10nmj>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Ünal" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Betül" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Betül Ünal" .
+
+<http://id.crossref.org/contributor/anl-ozluk-8bvpa5m10nmj>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Özlük" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Anıl" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Anıl Özlük" .

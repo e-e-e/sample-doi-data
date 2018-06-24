@@ -1,0 +1,123 @@
+<http://id.crossref.org/contributor/martin-d-eastgate-eg85ev1myxul>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Eastgate" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Martin D." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Martin D. Eastgate" .
+
+<http://id.crossref.org/contributor/jacob-albrecht-eg85ev1myxul>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Albrecht" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Jacob" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Jacob Albrecht" .
+
+<http://id.crossref.org/contributor/yi-hsiao-eg85ev1myxul>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Hsiao" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Yi" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Yi Hsiao" .
+
+<http://id.crossref.org/contributor/carolyn-s-wei-eg85ev1myxul>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Wei" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Carolyn S." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Carolyn S. Wei" .
+
+<http://dx.doi.org/10.1002/ange.201210252>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1002/ange.201210252" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "5938" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "5934" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "125" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/martin-d-eastgate-eg85ev1myxul> , <http://id.crossref.org/contributor/jacob-albrecht-eg85ev1myxul> , <http://id.crossref.org/contributor/carolyn-s-wei-eg85ev1myxul> , <http://id.crossref.org/contributor/yi-hsiao-eg85ev1myxul> , <http://id.crossref.org/contributor/qi-gao-eg85ev1myxul> , <http://id.crossref.org/contributor/charles-pathirana-eg85ev1myxul> , <http://id.crossref.org/contributor/omid-soltani-eg85ev1myxul> , <http://id.crossref.org/contributor/srinivas-tummala-eg85ev1myxul> , <http://id.crossref.org/contributor/geraint-h-m-davies-eg85ev1myxul> ;
+      <http://purl.org/dc/terms/date>
+              "2013-04-22"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1002/ange.201210252" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0044-8249> ;
+      <http://purl.org/dc/terms/publisher>
+              "Wiley" ;
+      <http://purl.org/dc/terms/title>
+              "The Impact of Palladium(II) Reduction Pathways on the Structure and Activity of Palladium(0) Catalysts" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1002/ange.201210252" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "5938" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "5934" ;
+      <http://purl.org/ontology/bibo/volume>
+              "125" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1002/ange.201210252> , <info:doi/10.1002/ange.201210252> .
+
+<http://id.crossref.org/issn/0044-8249>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0044-8249" ;
+      <http://purl.org/dc/terms/title>
+              "Angewandte Chemie" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0044-8249" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0044-8249" .
+
+<http://id.crossref.org/contributor/qi-gao-eg85ev1myxul>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Gao" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Qi" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Qi Gao" .
+
+<http://id.crossref.org/contributor/charles-pathirana-eg85ev1myxul>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Pathirana" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Charles" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Charles Pathirana" .
+
+<http://id.crossref.org/contributor/omid-soltani-eg85ev1myxul>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Soltani" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Omid" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Omid Soltani" .
+
+<http://id.crossref.org/contributor/geraint-h-m-davies-eg85ev1myxul>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Davies" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Geraint H. M." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Geraint H. M. Davies" .
+
+<http://id.crossref.org/contributor/srinivas-tummala-eg85ev1myxul>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Tummala" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Srinivas" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Srinivas Tummala" .

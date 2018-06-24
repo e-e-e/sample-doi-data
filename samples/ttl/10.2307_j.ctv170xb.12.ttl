@@ -1,0 +1,50 @@
+<http://id.crossref.org/contributor/jean-luc-pilou-3n2ul48xythf6>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Pilou" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Jean-Luc" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Jean-Luc Pilou" .
+
+<http://id.crossref.org/contributor/janet-young-3n2ul48xythf6>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Young" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Janet" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Janet Young" .
+
+<http://dx.doi.org/10.2307/j.ctv170xb.12>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.2307/j.ctv170xb.12" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "212" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "181" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/jean-luc-pilou-3n2ul48xythf6> , <http://id.crossref.org/contributor/janet-young-3n2ul48xythf6> ;
+      <http://purl.org/dc/terms/date>
+              ""^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.2307/j.ctv170xb.12" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9781772821628> ;
+      <http://purl.org/dc/terms/publisher>
+              "Canadian Museum of History" ;
+      <http://purl.org/dc/terms/title>
+              "The Ottawa Valley Burial Patterns Spanning Six Millennia" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.2307/j.ctv170xb.12" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "212" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "181" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.2307/j.ctv170xb.12> , <doi:10.2307/j.ctv170xb.12> .
+
+<http://id.crossref.org/isbn/9781772821628>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Painting the Past with a Broad Brush" .

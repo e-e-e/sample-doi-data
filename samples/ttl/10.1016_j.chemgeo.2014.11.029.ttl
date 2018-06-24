@@ -1,0 +1,80 @@
+<http://id.crossref.org/contributor/chris-benn-2f53hyxm2s46r>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Benn" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Chris" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Chris Benn" .
+
+<http://id.crossref.org/contributor/matthew-leybourne-2f53hyxm2s46r>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <http://orcid.org/0000-0002-2361-6014> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Leybourne" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Matthew" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Matthew Leybourne" .
+
+<http://id.crossref.org/issn/0009-2541>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0009-2541" ;
+      <http://purl.org/dc/terms/title>
+              "Chemical Geology" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0009-2541" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0009-2541" .
+
+<http://id.crossref.org/contributor/bruce-christenson-2f53hyxm2s46r>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Christenson" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Bruce" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Bruce Christenson" .
+
+<http://id.crossref.org/contributor/clinton-rissmann-2f53hyxm2s46r>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Rissmann" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Clinton" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Clinton Rissmann" .
+
+<http://dx.doi.org/10.1016/j.chemgeo.2014.11.029>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/j.chemgeo.2014.11.029" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "181" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "164" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "396" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/chris-benn-2f53hyxm2s46r> , <http://id.crossref.org/contributor/matthew-leybourne-2f53hyxm2s46r> , <http://id.crossref.org/contributor/bruce-christenson-2f53hyxm2s46r> , <http://id.crossref.org/contributor/clinton-rissmann-2f53hyxm2s46r> ;
+      <http://purl.org/dc/terms/date>
+              "2015-03"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/j.chemgeo.2014.11.029" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0009-2541> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "The origin of solutes within the groundwaters of a high Andean aquifer" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/j.chemgeo.2014.11.029" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "181" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "164" ;
+      <http://purl.org/ontology/bibo/volume>
+              "396" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1016/j.chemgeo.2014.11.029> , <info:doi/10.1016/j.chemgeo.2014.11.029> .

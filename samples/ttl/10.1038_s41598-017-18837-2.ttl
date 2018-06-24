@@ -1,0 +1,79 @@
+<http://id.crossref.org/contributor/qian-sun-1ctj5aww40f2q>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Sun" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Qian" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Qian Sun" .
+
+<http://id.crossref.org/contributor/wei-zhong-1ctj5aww40f2q>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Zhong" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Wei" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Wei Zhong" .
+
+<http://dx.doi.org/10.1038/s41598-017-18837-2>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1038/s41598-017-18837-2" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "8" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/wei-zhong-1ctj5aww40f2q> , <http://id.crossref.org/contributor/qian-sun-1ctj5aww40f2q> , <http://id.crossref.org/contributor/wenliang-zhang-1ctj5aww40f2q> , <http://id.crossref.org/contributor/zhanxiang-zhou-1ctj5aww40f2q> , <http://id.crossref.org/contributor/xinguo-sun-1ctj5aww40f2q> ;
+      <http://purl.org/dc/terms/date>
+              "2018-01-11"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1038/s41598-017-18837-2" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/2045-2322> ;
+      <http://purl.org/dc/terms/publisher>
+              "Springer Nature" ;
+      <http://purl.org/dc/terms/title>
+              "Adipose-specific lipin1 overexpression in mice protects against alcohol-induced liver injury" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1038/s41598-017-18837-2" ;
+      <http://purl.org/ontology/bibo/volume>
+              "8" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1038/s41598-017-18837-2> , <doi:10.1038/s41598-017-18837-2> .
+
+<http://id.crossref.org/issn/2045-2322>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "2045-2322" ;
+      <http://purl.org/dc/terms/title>
+              "Scientific Reports" ;
+      <http://purl.org/ontology/bibo/issn>
+              "2045-2322" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:2045-2322" .
+
+<http://id.crossref.org/contributor/wenliang-zhang-1ctj5aww40f2q>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Zhang" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Wenliang" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Wenliang Zhang" .
+
+<http://id.crossref.org/contributor/zhanxiang-zhou-1ctj5aww40f2q>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Zhou" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Zhanxiang" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Zhanxiang Zhou" .
+
+<http://id.crossref.org/contributor/xinguo-sun-1ctj5aww40f2q>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Sun" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Xinguo" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Xinguo Sun" .

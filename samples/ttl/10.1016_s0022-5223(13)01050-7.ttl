@@ -1,0 +1,36 @@
+<http://dx.doi.org/10.1016/s0022-5223(13)01050-7>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/s0022-5223(13)01050-7" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "1313" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "146" ;
+      <http://purl.org/dc/terms/date>
+              "2013-11"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/s0022-5223(13)01050-7" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0022-5223> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "2014 AATS Summer Intern Scholarship Applications Now Available" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/s0022-5223(13)01050-7" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "1313" ;
+      <http://purl.org/ontology/bibo/volume>
+              "146" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1016/s0022-5223(13)01050-7> , <info:doi/10.1016/s0022-5223(13)01050-7> .
+
+<http://id.crossref.org/issn/0022-5223>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0022-5223" ;
+      <http://purl.org/dc/terms/title>
+              "The Journal of Thoracic and Cardiovascular Surgery" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0022-5223" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0022-5223" .

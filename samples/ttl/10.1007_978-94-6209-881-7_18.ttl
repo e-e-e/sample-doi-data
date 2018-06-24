@@ -1,0 +1,50 @@
+<http://id.crossref.org/contributor/xue-lan-rong-1birap8bs625x>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Rong" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Xue Lan" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Xue Lan Rong" .
+
+<http://id.crossref.org/isbn/9789462098817>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Spotlight on China" .
+
+<http://dx.doi.org/10.1007/978-94-6209-881-7_18>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1007/978-94-6209-881-7_18" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "327" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "311" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/xue-lan-rong-1birap8bs625x> , <http://id.crossref.org/contributor/hillary-parkhouse-1birap8bs625x> ;
+      <http://purl.org/dc/terms/date>
+              "2016"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1007/978-94-6209-881-7_18" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9789462098817> ;
+      <http://purl.org/dc/terms/publisher>
+              "SensePublishers" ;
+      <http://purl.org/dc/terms/title>
+              "Inequalities in China’s Compulsory Education" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1007/978-94-6209-881-7_18" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "327" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "311" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1007/978-94-6209-881-7_18> , <doi:10.1007/978-94-6209-881-7_18> .
+
+<http://id.crossref.org/contributor/hillary-parkhouse-1birap8bs625x>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "ParkHouse" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Hillary" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Hillary ParkHouse" .

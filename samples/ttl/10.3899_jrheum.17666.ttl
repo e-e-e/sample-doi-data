@@ -1,0 +1,124 @@
+<http://id.crossref.org/contributor/ennio-lubrano-1hsvizc0wov85>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Lubrano" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Ennio" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Ennio Lubrano" .
+
+<http://id.crossref.org/contributor/roberta-ramonda-1hsvizc0wov85>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Ramonda" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Roberta" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Roberta Ramonda" .
+
+<http://id.crossref.org/contributor/fabio-massimo-perrotta-1hsvizc0wov85>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Perrotta" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Fabio Massimo" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Fabio Massimo Perrotta" .
+
+<http://id.crossref.org/contributor/ignazio-olivieri-1hsvizc0wov85>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Olivieri" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Ignazio" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Ignazio Olivieri" .
+
+<http://id.crossref.org/contributor/leonardo-punzi-1hsvizc0wov85>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Punzi" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Leonardo" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Leonardo Punzi" .
+
+<http://id.crossref.org/contributor/maria-manara-1hsvizc0wov85>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Manara" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Maria" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Maria Manara" .
+
+<http://id.crossref.org/contributor/antonio-marchesoni-1hsvizc0wov85>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Marchesoni" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Antonio" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Antonio Marchesoni" .
+
+<http://id.crossref.org/contributor/olga-addimanda-1hsvizc0wov85>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Addimanda" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Olga" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Olga Addimanda" .
+
+<http://id.crossref.org/issn/0315-162X>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1499-2752" , "0315-162X" ;
+      <http://purl.org/dc/terms/title>
+              "The Journal of Rheumatology" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1499-2752" , "0315-162X" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1499-2752" , "urn:issn:0315-162X" .
+
+<http://dx.doi.org/10.3899/jrheum.17666>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.3899/jrheum.17666" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "jrheum.17666" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/ennio-lubrano-1hsvizc0wov85> , <http://id.crossref.org/contributor/roberta-ramonda-1hsvizc0wov85> , <http://id.crossref.org/contributor/fabio-massimo-perrotta-1hsvizc0wov85> , <http://id.crossref.org/contributor/ignazio-olivieri-1hsvizc0wov85> , <http://id.crossref.org/contributor/antonio-marchesoni-1hsvizc0wov85> , <http://id.crossref.org/contributor/maria-manara-1hsvizc0wov85> , <http://id.crossref.org/contributor/leonardo-punzi-1hsvizc0wov85> , <http://id.crossref.org/contributor/olga-addimanda-1hsvizc0wov85> , <http://id.crossref.org/contributor/salvatore-dangelo-1hsvizc0wov85> , <http://id.crossref.org/contributor/carlo-salvarani-1hsvizc0wov85> ;
+      <http://purl.org/dc/terms/date>
+              "2017-11-15"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.3899/jrheum.17666" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0315-162X> ;
+      <http://purl.org/dc/terms/publisher>
+              "The Journal of Rheumatology" ;
+      <http://purl.org/dc/terms/title>
+              "The Sex Influence on Response to Tumor Necrosis Factor-α Inhibitors and Remission in Axial Spondyloarthritis" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.3899/jrheum.17666" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "jrheum.17666" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.3899/jrheum.17666> , <info:doi/10.3899/jrheum.17666> .
+
+<http://id.crossref.org/contributor/salvatore-dangelo-1hsvizc0wov85>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "D’Angelo" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Salvatore" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Salvatore D’Angelo" .
+
+<http://id.crossref.org/contributor/carlo-salvarani-1hsvizc0wov85>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Salvarani" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Carlo" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Carlo Salvarani" .

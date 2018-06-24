@@ -1,0 +1,71 @@
+<http://dx.doi.org/10.1021/acs.langmuir.7b00971>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1021/acs.langmuir.7b00971" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "5536" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "5527" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "33" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/caroline-lievens-2gx3igtn65cry> , <http://id.crossref.org/contributor/johan-e-ten-elshof-2gx3igtn65cry> , <http://id.crossref.org/contributor/a-petra-dral-2gx3igtn65cry> ;
+      <http://purl.org/dc/terms/date>
+              "2017-05-25"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1021/acs.langmuir.7b00971" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0743-7463> ;
+      <http://purl.org/dc/terms/publisher>
+              "American Chemical Society (ACS)" ;
+      <http://purl.org/dc/terms/title>
+              "Influence of Monomer Connectivity, Network Flexibility, and Hydrophobicity on the Hydrothermal Stability of Organosilicas" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1021/acs.langmuir.7b00971" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "5536" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "5527" ;
+      <http://purl.org/ontology/bibo/volume>
+              "33" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1021/acs.langmuir.7b00971> , <doi:10.1021/acs.langmuir.7b00971> .
+
+<http://id.crossref.org/contributor/caroline-lievens-2gx3igtn65cry>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Lievens" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Caroline" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Caroline Lievens" .
+
+<http://id.crossref.org/contributor/johan-e-ten-elshof-2gx3igtn65cry>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <http://orcid.org/0000-0001-7995-6571> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "ten Elshof" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Johan E." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Johan E. ten Elshof" .
+
+<http://id.crossref.org/issn/0743-7463>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0743-7463" , "1520-5827" ;
+      <http://purl.org/dc/terms/title>
+              "Langmuir" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0743-7463" , "1520-5827" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0743-7463" , "urn:issn:1520-5827" .
+
+<http://id.crossref.org/contributor/a-petra-dral-2gx3igtn65cry>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Dral" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "A. Petra" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "A. Petra Dral" .

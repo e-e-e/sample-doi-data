@@ -1,0 +1,87 @@
+<http://id.crossref.org/contributor/t-a-belozerskaya-n3obag5t0da>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Belozerskaya" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "T. A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "T. A. Belozerskaya" .
+
+<http://id.crossref.org/contributor/t-v-kulakovskaya-n3obag5t0da>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kulakovskaya" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "T. V." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "T. V. Kulakovskaya" .
+
+<http://id.crossref.org/issn/0026-2617>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0026-2617" , "1608-3237" ;
+      <http://purl.org/dc/terms/title>
+              "Microbiology" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0026-2617" , "1608-3237" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0026-2617" , "urn:issn:1608-3237" .
+
+<http://id.crossref.org/contributor/n-n-gessler-n3obag5t0da>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Gessler" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "N. N." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "N. N. Gessler" .
+
+<http://dx.doi.org/10.1134/s0026261715020034>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1134/s0026261715020034" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "158" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "152" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "84" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/t-a-belozerskaya-n3obag5t0da> , <http://id.crossref.org/contributor/t-v-kulakovskaya-n3obag5t0da> , <http://id.crossref.org/contributor/n-n-gessler-n3obag5t0da> , <http://id.crossref.org/contributor/l-p-ryasanova-n3obag5t0da> , <http://id.crossref.org/contributor/a-s-egorova-n3obag5t0da> ;
+      <http://purl.org/dc/terms/date>
+              "2015-03"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1134/s0026261715020034" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0026-2617> ;
+      <http://purl.org/dc/terms/publisher>
+              "Pleiades Publishing Ltd" ;
+      <http://purl.org/dc/terms/title>
+              "Stress resistance mechanisms in the indicator fungi from highly radioactive Chernobyl zone sites" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1134/s0026261715020034" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "158" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "152" ;
+      <http://purl.org/ontology/bibo/volume>
+              "84" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1134/s0026261715020034> , <info:doi/10.1134/s0026261715020034> .
+
+<http://id.crossref.org/contributor/l-p-ryasanova-n3obag5t0da>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Ryasanova" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "L. P." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "L. P. Ryasanova" .
+
+<http://id.crossref.org/contributor/a-s-egorova-n3obag5t0da>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Egorova" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "A. S." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "A. S. Egorova" .

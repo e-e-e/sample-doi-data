@@ -1,0 +1,60 @@
+<http://dx.doi.org/10.4028/www.scientific.net/amr.787.721>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.4028/www.scientific.net/amr.787.721" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "725" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "721" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "787" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/yan-zhang-kyibi9xeuz5b> , <http://id.crossref.org/contributor/xin-li-kyibi9xeuz5b> ;
+      <http://purl.org/dc/terms/date>
+              "2013-09"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.4028/www.scientific.net/amr.787.721" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1662-8985> ;
+      <http://purl.org/dc/terms/publisher>
+              "Trans Tech Publications" ;
+      <http://purl.org/dc/terms/title>
+              "The Influence of Microscopic Pore Structure on Microscopic Residual Oil in Sandstone Reservoir" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.4028/www.scientific.net/amr.787.721" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "725" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "721" ;
+      <http://purl.org/ontology/bibo/volume>
+              "787" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.4028/www.scientific.net/amr.787.721> , <info:doi/10.4028/www.scientific.net/amr.787.721> .
+
+<http://id.crossref.org/issn/1662-8985>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1662-8985" ;
+      <http://purl.org/dc/terms/title>
+              "Advanced Materials Research" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1662-8985" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1662-8985" .
+
+<http://id.crossref.org/contributor/yan-zhang-kyibi9xeuz5b>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Zhang" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Yan" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Yan Zhang" .
+
+<http://id.crossref.org/contributor/xin-li-kyibi9xeuz5b>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Li" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Xin" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Xin Li" .

@@ -1,0 +1,69 @@
+<http://id.crossref.org/issn/1478-9949>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1478-9949" , "1478-9957" ;
+      <http://purl.org/dc/terms/title>
+              "The Journal of Forensic Psychiatry & Psychology" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1478-9949" , "1478-9957" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1478-9949" , "urn:issn:1478-9957" .
+
+<http://id.crossref.org/contributor/karen-ciclitira-3bh581yulaa58>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Ciclitira" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Karen" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Karen Ciclitira" .
+
+<http://id.crossref.org/contributor/lisa-marzano-3bh581yulaa58>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Marzano" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Lisa" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Lisa Marzano" .
+
+<http://dx.doi.org/10.1080/14789949.2016.1204465>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1080/14789949.2016.1204465" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "289" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "274" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "28" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/karen-ciclitira-3bh581yulaa58> , <http://id.crossref.org/contributor/lisa-marzano-3bh581yulaa58> , <http://id.crossref.org/contributor/claire-powell-3bh581yulaa58> ;
+      <http://purl.org/dc/terms/date>
+              "2016-07"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1080/14789949.2016.1204465" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1478-9949> ;
+      <http://purl.org/dc/terms/publisher>
+              "Informa UK Limited" ;
+      <http://purl.org/dc/terms/title>
+              "Mother–infant separations in prison. A systematic attachment-focused policy review" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1080/14789949.2016.1204465" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "289" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "274" ;
+      <http://purl.org/ontology/bibo/volume>
+              "28" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1080/14789949.2016.1204465> , <info:doi/10.1080/14789949.2016.1204465> .
+
+<http://id.crossref.org/contributor/claire-powell-3bh581yulaa58>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Powell" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Claire" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Claire Powell" .

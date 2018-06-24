@@ -1,0 +1,79 @@
+<http://id.crossref.org/contributor/carlos-a-camargo-30f6xds2tzszn>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Camargo" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Carlos A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Carlos A. Camargo" .
+
+<http://id.crossref.org/contributor/kohei-hasegawa-30f6xds2tzszn>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Hasegawa" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Kohei" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Kohei Hasegawa" .
+
+<http://id.crossref.org/contributor/tuomas-jartti-30f6xds2tzszn>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Jartti" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Tuomas" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Tuomas Jartti" .
+
+<http://id.crossref.org/contributor/laura-toivonen-30f6xds2tzszn>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Toivonen" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Laura" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Laura Toivonen" .
+
+<http://id.crossref.org/issn/0891-3668>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0891-3668" ;
+      <http://purl.org/dc/terms/title>
+              "The Pediatric Infectious Disease Journal" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0891-3668" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0891-3668" .
+
+<http://dx.doi.org/10.1097/inf.0000000000001888>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1097/inf.0000000000001888" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "1" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/carlos-a-camargo-30f6xds2tzszn> , <http://id.crossref.org/contributor/kohei-hasegawa-30f6xds2tzszn> , <http://id.crossref.org/contributor/tuomas-jartti-30f6xds2tzszn> , <http://id.crossref.org/contributor/laura-toivonen-30f6xds2tzszn> , <http://id.crossref.org/contributor/janice-a-espinola-30f6xds2tzszn> ;
+      <http://purl.org/dc/terms/date>
+              "2018-01"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1097/inf.0000000000001888" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0891-3668> ;
+      <http://purl.org/dc/terms/publisher>
+              "Ovid Technologies (Wolters Kluwer Health)" ;
+      <http://purl.org/dc/terms/title>
+              "Relapse Among Infants Hospitalized for Bronchiolitis in Finland" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1097/inf.0000000000001888" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "1" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1097/inf.0000000000001888> , <info:doi/10.1097/inf.0000000000001888> .
+
+<http://id.crossref.org/contributor/janice-a-espinola-30f6xds2tzszn>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Espinola" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Janice A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Janice A. Espinola" .

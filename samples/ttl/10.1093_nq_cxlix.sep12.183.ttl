@@ -1,0 +1,51 @@
+<http://dx.doi.org/10.1093/nq/cxlix.sep12.183>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1093/nq/cxlix.sep12.183" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "184" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "183" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "CXLIX" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/h-dugdale-sykes-1edcmfhovt3jx> ;
+      <http://purl.org/dc/terms/date>
+              "1925-09-12"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1093/nq/cxlix.sep12.183" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1471-6941> ;
+      <http://purl.org/dc/terms/publisher>
+              "Oxford University Press (OUP)" ;
+      <http://purl.org/dc/terms/title>
+              "Thomas Heywood's authorship of 'King Edward IV'" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1093/nq/cxlix.sep12.183" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "184" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "183" ;
+      <http://purl.org/ontology/bibo/volume>
+              "CXLIX" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1093/nq/cxlix.sep12.183> , <doi:10.1093/nq/cxlix.sep12.183> .
+
+<http://id.crossref.org/contributor/h-dugdale-sykes-1edcmfhovt3jx>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Sykes" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "H. Dugdale" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "H. Dugdale Sykes" .
+
+<http://id.crossref.org/issn/1471-6941>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0029-3970" , "1471-6941" ;
+      <http://purl.org/dc/terms/title>
+              "Notes and Queries" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0029-3970" , "1471-6941" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1471-6941" , "urn:issn:0029-3970" .

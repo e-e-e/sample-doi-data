@@ -1,0 +1,60 @@
+<http://id.crossref.org/issn/2150-5594>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "2150-5594" , "2150-5608" ;
+      <http://purl.org/dc/terms/title>
+              "Virulence" ;
+      <http://purl.org/ontology/bibo/issn>
+              "2150-5594" , "2150-5608" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:2150-5594" , "urn:issn:2150-5608" .
+
+<http://id.crossref.org/contributor/andrea-v-page-2wx6ke17uxnwy>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Page" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Andrea V" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Andrea V Page" .
+
+<http://id.crossref.org/contributor/w-conrad-liles-2wx6ke17uxnwy>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Liles" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "W Conrad" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "W Conrad Liles" .
+
+<http://dx.doi.org/10.4161/viru.24530>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.4161/viru.24530" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "516" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "507" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "4" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/w-conrad-liles-2wx6ke17uxnwy> , <http://id.crossref.org/contributor/andrea-v-page-2wx6ke17uxnwy> ;
+      <http://purl.org/dc/terms/date>
+              "2013-08-15"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.4161/viru.24530" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/2150-5594> ;
+      <http://purl.org/dc/terms/publisher>
+              "Informa UK Limited" ;
+      <http://purl.org/dc/terms/title>
+              "Biomarkers of endothelial activation/dysfunction in infectious diseases" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.4161/viru.24530" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "516" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "507" ;
+      <http://purl.org/ontology/bibo/volume>
+              "4" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.4161/viru.24530> , <info:doi/10.4161/viru.24530> .

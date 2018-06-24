@@ -1,0 +1,31 @@
+<http://id.crossref.org/contributor/allyson-booth-20iv5gtmquv2c>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Booth" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Allyson" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Allyson Booth" .
+
+<http://id.crossref.org/isbn/9781349695836>
+      a       <http://purl.org/ontology/bibo/Book> .
+
+<http://dx.doi.org/10.1057/9781137482846>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1057/9781137482846" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/allyson-booth-20iv5gtmquv2c> ;
+      <http://purl.org/dc/terms/date>
+              "2015"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1057/9781137482846" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9781349695836> ;
+      <http://purl.org/dc/terms/publisher>
+              "Palgrave Macmillan US" ;
+      <http://purl.org/dc/terms/title>
+              "Reading The Waste Land from the Bottom Up" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1057/9781137482846" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1057/9781137482846> , <info:doi/10.1057/9781137482846> .

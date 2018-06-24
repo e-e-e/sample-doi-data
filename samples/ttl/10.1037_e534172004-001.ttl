@@ -1,0 +1,15 @@
+<http://dx.doi.org/10.1037/e534172004-001>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1037/e534172004-001" ;
+      <http://purl.org/dc/terms/date>
+              ""^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1037/e534172004-001" ;
+      <http://purl.org/dc/terms/publisher>
+              "American Psychological Association (APA)" ;
+      <http://purl.org/dc/terms/title>
+              "The capital punishment industry" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1037/e534172004-001" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1037/e534172004-001> , <doi:10.1037/e534172004-001> .

@@ -1,0 +1,53 @@
+<http://id.crossref.org/contributor/walter-robinson-jxwrtnohfbov>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Robinson" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Walter" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Walter Robinson" .
+
+<http://id.crossref.org/contributor/marie-claude-gregoire-jxwrtnohfbov>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Gregoire" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Marie-Claude" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Marie-Claude Gregoire" .
+
+<http://id.crossref.org/contributor/thomas-lahiri-jxwrtnohfbov>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Lahiri" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Thomas" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Thomas Lahiri" .
+
+<http://dx.doi.org/10.1164/ajrccm-conference.2011.183.1_meetingabstracts.a5817>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1164/ajrccm-conference.2011.183.1_meetingabstracts.a5817" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/walter-robinson-jxwrtnohfbov> , <http://id.crossref.org/contributor/marie-claude-gregoire-jxwrtnohfbov> , <http://id.crossref.org/contributor/thomas-lahiri-jxwrtnohfbov> , <http://id.crossref.org/contributor/gordon-a-finley-jxwrtnohfbov> ;
+      <http://purl.org/dc/terms/date>
+              "2011-05"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1164/ajrccm-conference.2011.183.1_meetingabstracts.a5817" ;
+      <http://purl.org/dc/terms/publisher>
+              "American Thoracic Society" ;
+      <http://purl.org/dc/terms/title>
+              "What Do You Mean By \"Dyspnea\" Dyspnea Descriptors In Adolescents With Cystic Fibrosis, Asthma Or No Respiratory Diseases" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1164/ajrccm-conference.2011.183.1_meetingabstracts.a5817" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1164/ajrccm-conference.2011.183.1_meetingabstracts.a5817> , <info:doi/10.1164/ajrccm-conference.2011.183.1_meetingabstracts.a5817> .
+
+<http://id.crossref.org/contributor/gordon-a-finley-jxwrtnohfbov>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Finley" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Gordon A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Gordon A. Finley" .

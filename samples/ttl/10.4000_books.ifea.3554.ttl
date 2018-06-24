@@ -1,0 +1,41 @@
+<http://dx.doi.org/10.4000/books.ifea.3554>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.4000/books.ifea.3554" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "165" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "139" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/bernard-lavalle-20a1xlijq7o18> ;
+      <http://purl.org/dc/terms/date>
+              ""^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.4000/books.ifea.3554" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9789972510342> ;
+      <http://purl.org/dc/terms/publisher>
+              "Institut français d’études andines" ;
+      <http://purl.org/dc/terms/title>
+              "Cinco. Cerros, angustias y espejismos: ser cimarrón en los valles trujillanos durante el siglo XVII" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.4000/books.ifea.3554" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "165" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "139" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.4000/books.ifea.3554> , <doi:10.4000/books.ifea.3554> .
+
+<http://id.crossref.org/isbn/9789972510342>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Amor y opresión en los Andes coloniales" .
+
+<http://id.crossref.org/contributor/bernard-lavalle-20a1xlijq7o18>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Lavallé" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Bernard" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Bernard Lavallé" .

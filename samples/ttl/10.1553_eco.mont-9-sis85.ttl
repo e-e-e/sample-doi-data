@@ -1,0 +1,60 @@
+<http://id.crossref.org/contributor/gunter-kock-234umryuklqx5>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Köck" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Günter" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Günter Köck" .
+
+<http://id.crossref.org/contributor/arne-arnberger-234umryuklqx5>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Arnberger" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Arne" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Arne Arnberger" .
+
+<http://dx.doi.org/10.1553/eco.mont-9-sis85>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1553/eco.mont-9-sis85" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "92" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "85" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "9" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/gunter-kock-234umryuklqx5> , <http://id.crossref.org/contributor/arne-arnberger-234umryuklqx5> ;
+      <http://purl.org/dc/terms/date>
+              "2017"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1553/eco.mont-9-sis85" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/2073-106X> ;
+      <http://purl.org/dc/terms/publisher>
+              "Osterreichische Akademie der Wissenschaften" ;
+      <http://purl.org/dc/terms/title>
+              "The Austrian Biosphere Reserves in the light of changing MAB strategies" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1553/eco.mont-9-sis85" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "92" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "85" ;
+      <http://purl.org/ontology/bibo/volume>
+              "9" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1553/eco.mont-9-sis85> , <info:doi/10.1553/eco.mont-9-sis85> .
+
+<http://id.crossref.org/issn/2073-106X>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "2073-106X" , "2073-1558" ;
+      <http://purl.org/dc/terms/title>
+              "eco.mont (Journal on Protected Mountain Areas Research)" ;
+      <http://purl.org/ontology/bibo/issn>
+              "2073-106X" , "2073-1558" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:2073-1558" , "urn:issn:2073-106X" .

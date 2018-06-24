@@ -1,0 +1,56 @@
+<http://id.crossref.org/contributor/chun-wei-lin-oars1pmv72l1>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Lin" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Chun Wei" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Chun Wei Lin" .
+
+<http://id.crossref.org/contributor/chi-chung-lin-oars1pmv72l1>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Lin" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Chi Chung" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Chi Chung Lin" .
+
+<http://id.crossref.org/issn/1477-5360>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1741-8097" , "1477-5360" ;
+      <http://purl.org/dc/terms/title>
+              "International Journal of Integrated Supply Management" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1741-8097" , "1477-5360" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1477-5360" , "urn:issn:1741-8097" .
+
+<http://dx.doi.org/10.1504/ijism.2011.044889>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1504/ijism.2011.044889" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "254" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "6" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/chun-wei-lin-oars1pmv72l1> , <http://id.crossref.org/contributor/chi-chung-lin-oars1pmv72l1> ;
+      <http://purl.org/dc/terms/date>
+              "2011"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1504/ijism.2011.044889" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1477-5360> ;
+      <http://purl.org/dc/terms/publisher>
+              "Inderscience Publishers" ;
+      <http://purl.org/dc/terms/title>
+              "Defective item inventory model with remanufacturing or replenishing in an integrated supply chain" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1504/ijism.2011.044889" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "254" ;
+      <http://purl.org/ontology/bibo/volume>
+              "6" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1504/ijism.2011.044889> , <doi:10.1504/ijism.2011.044889> .

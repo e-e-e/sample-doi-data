@@ -1,0 +1,128 @@
+<http://dx.doi.org/10.1016/s0735-1097(18)31982-x>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/s0735-1097(18)31982-x" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "A1441" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "71" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/david-kandzari-2n4yle1hg43wm> , <http://id.crossref.org/contributor/michael-love-2n4yle1hg43wm> , <http://id.crossref.org/contributor/maayan-konigstein-2n4yle1hg43wm> , <http://id.crossref.org/contributor/gregg-stone-2n4yle1hg43wm> , <http://id.crossref.org/contributor/ori-ben-yehuda-2n4yle1hg43wm> , <http://id.crossref.org/contributor/shmuel-banai-2n4yle1hg43wm> , <http://id.crossref.org/contributor/gidon-perlman-2n4yle1hg43wm> , <http://id.crossref.org/contributor/melek-ozgu-ozan-2n4yle1hg43wm> , <http://id.crossref.org/contributor/pieter-smits-2n4yle1hg43wm> , <http://id.crossref.org/contributor/martin-b-leon-2n4yle1hg43wm> ;
+      <http://purl.org/dc/terms/date>
+              "2018-03"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/s0735-1097(18)31982-x" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0735-1097> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "OUTCOMES OF DIABETIC PATIENTS UNDERGOING PCI WITH CONTEMPORARY DRUG-ELUTING STENTS: ANALYSIS FROM THE BIONICS STUDY" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/s0735-1097(18)31982-x" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "A1441" ;
+      <http://purl.org/ontology/bibo/volume>
+              "71" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1016/s0735-1097(18)31982-x> , <doi:10.1016/s0735-1097(18)31982-x> .
+
+<http://id.crossref.org/contributor/david-kandzari-2n4yle1hg43wm>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kandzari" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "David" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "David Kandzari" .
+
+<http://id.crossref.org/contributor/michael-love-2n4yle1hg43wm>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Love" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Michael" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Michael Love" .
+
+<http://id.crossref.org/contributor/maayan-konigstein-2n4yle1hg43wm>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Konigstein" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Maayan" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Maayan Konigstein" .
+
+<http://id.crossref.org/contributor/gregg-stone-2n4yle1hg43wm>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Stone" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Gregg" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Gregg Stone" .
+
+<http://id.crossref.org/contributor/ori-ben-yehuda-2n4yle1hg43wm>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Ben-Yehuda" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Ori" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Ori Ben-Yehuda" .
+
+<http://id.crossref.org/contributor/shmuel-banai-2n4yle1hg43wm>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Banai" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Shmuel" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Shmuel Banai" .
+
+<http://id.crossref.org/contributor/gidon-perlman-2n4yle1hg43wm>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Perlman" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Gidon" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Gidon Perlman" .
+
+<http://id.crossref.org/issn/0735-1097>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0735-1097" ;
+      <http://purl.org/dc/terms/title>
+              "Journal of the American College of Cardiology" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0735-1097" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0735-1097" .
+
+<http://id.crossref.org/contributor/melek-ozgu-ozan-2n4yle1hg43wm>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Ozan" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Melek Ozgu" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Melek Ozgu Ozan" .
+
+<http://id.crossref.org/contributor/pieter-smits-2n4yle1hg43wm>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Smits" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Pieter" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Pieter Smits" .
+
+<http://id.crossref.org/contributor/martin-b-leon-2n4yle1hg43wm>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Leon" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Martin B." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Martin B. Leon" .

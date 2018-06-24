@@ -1,0 +1,51 @@
+<http://dx.doi.org/10.1177/1474474011429406>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1177/1474474011429406" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "383" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "365" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "19" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/john-wylie-3d9yno4ugacoe> ;
+      <http://purl.org/dc/terms/date>
+              "2012-05-03"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1177/1474474011429406" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1474-4740> ;
+      <http://purl.org/dc/terms/publisher>
+              "SAGE Publications" ;
+      <http://purl.org/dc/terms/title>
+              "Dwelling and displacement: Tim Robinson and the questions of landscape" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1177/1474474011429406" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "383" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "365" ;
+      <http://purl.org/ontology/bibo/volume>
+              "19" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1177/1474474011429406> , <doi:10.1177/1474474011429406> .
+
+<http://id.crossref.org/issn/1474-4740>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1477-0881" , "1474-4740" ;
+      <http://purl.org/dc/terms/title>
+              "cultural geographies" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1477-0881" , "1474-4740" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1477-0881" , "urn:issn:1474-4740" .
+
+<http://id.crossref.org/contributor/john-wylie-3d9yno4ugacoe>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Wylie" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "John" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "John Wylie" .

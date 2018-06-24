@@ -1,0 +1,123 @@
+<http://dx.doi.org/10.1109/jstqe.2014.2346617>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1109/jstqe.2014.2346617" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "11" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "1" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "21" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/hideaki-nakajima-2ay8o2onru9tr> , <http://id.crossref.org/contributor/hiroshi-irie-2ay8o2onru9tr> , <http://id.crossref.org/contributor/ikuo-suemune-2ay8o2onru9tr> , <http://id.crossref.org/contributor/kouichi-akahane-2ay8o2onru9tr> , <http://id.crossref.org/contributor/hiroyuki-kurosawa-2ay8o2onru9tr> , <http://id.crossref.org/contributor/hidekazu-kumano-2ay8o2onru9tr> , <http://id.crossref.org/contributor/sinthia-shabnam-mou-2ay8o2onru9tr> , <http://id.crossref.org/contributor/yasuhiro-asano-2ay8o2onru9tr> , <http://id.crossref.org/contributor/masahide-sasaki-2ay8o2onru9tr> ;
+      <http://purl.org/dc/terms/date>
+              "2015-03"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1109/jstqe.2014.2346617" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1077-260X> ;
+      <http://purl.org/dc/terms/publisher>
+              "Institute of Electrical and Electronics Engineers (IEEE)" ;
+      <http://purl.org/dc/terms/title>
+              "Superconducting Light-Emitting Diodes" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1109/jstqe.2014.2346617" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "11" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "1" ;
+      <http://purl.org/ontology/bibo/volume>
+              "21" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1109/jstqe.2014.2346617> , <info:doi/10.1109/jstqe.2014.2346617> .
+
+<http://id.crossref.org/contributor/hideaki-nakajima-2ay8o2onru9tr>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Nakajima" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Hideaki" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Hideaki Nakajima" .
+
+<http://id.crossref.org/issn/1077-260X>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1077-260X" , "1558-4542" ;
+      <http://purl.org/dc/terms/title>
+              "IEEE Journal of Selected Topics in Quantum Electronics" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1077-260X" , "1558-4542" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1558-4542" , "urn:issn:1077-260X" .
+
+<http://id.crossref.org/contributor/hiroshi-irie-2ay8o2onru9tr>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Irie" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Hiroshi" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Hiroshi Irie" .
+
+<http://id.crossref.org/contributor/ikuo-suemune-2ay8o2onru9tr>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Suemune" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Ikuo" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Ikuo Suemune" .
+
+<http://id.crossref.org/contributor/kouichi-akahane-2ay8o2onru9tr>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Akahane" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Kouichi" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Kouichi Akahane" .
+
+<http://id.crossref.org/contributor/hiroyuki-kurosawa-2ay8o2onru9tr>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kurosawa" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Hiroyuki" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Hiroyuki Kurosawa" .
+
+<http://id.crossref.org/contributor/hidekazu-kumano-2ay8o2onru9tr>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kumano" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Hidekazu" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Hidekazu Kumano" .
+
+<http://id.crossref.org/contributor/sinthia-shabnam-mou-2ay8o2onru9tr>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Mou" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Sinthia Shabnam" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Sinthia Shabnam Mou" .
+
+<http://id.crossref.org/contributor/yasuhiro-asano-2ay8o2onru9tr>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Asano" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Yasuhiro" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Yasuhiro Asano" .
+
+<http://id.crossref.org/contributor/masahide-sasaki-2ay8o2onru9tr>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Sasaki" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Masahide" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Masahide Sasaki" .

@@ -1,0 +1,32 @@
+<http://dx.doi.org/10.1163/9789004276185_019>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1163/9789004276185_019" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "414" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "399" ;
+      <http://purl.org/dc/terms/date>
+              ""^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1163/9789004276185_019" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9789004276185> ;
+      <http://purl.org/dc/terms/publisher>
+              "Brill" ;
+      <http://purl.org/dc/terms/title>
+              "Biblical Index" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1163/9789004276185_019" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "414" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "399" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1163/9789004276185_019> , <info:doi/10.1163/9789004276185_019> .
+
+<http://id.crossref.org/isbn/9789004276185>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              """
+         Congress Volume Basel 2001
+      """ .

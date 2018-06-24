@@ -1,0 +1,51 @@
+<http://id.crossref.org/issn/0735-1690>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0735-1690" , "1940-9133" ;
+      <http://purl.org/dc/terms/title>
+              "Psychoanalytic Inquiry" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0735-1690" , "1940-9133" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1940-9133" , "urn:issn:0735-1690" .
+
+<http://id.crossref.org/contributor/shoshana-ben-noam-1x3wmrtml87mk>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Ben-Noam" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Shoshana" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Shoshana Ben-Noam" .
+
+<http://dx.doi.org/10.1080/07351690.2018.1444856>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1080/07351690.2018.1444856" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "311" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "299" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "38" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/shoshana-ben-noam-1x3wmrtml87mk> ;
+      <http://purl.org/dc/terms/date>
+              "2018-05-19"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1080/07351690.2018.1444856" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0735-1690> ;
+      <http://purl.org/dc/terms/publisher>
+              "Informa UK Limited" ;
+      <http://purl.org/dc/terms/title>
+              "Cracking the Intrapsychic “Glass Ceiling” for Women in Leadership: Therapeutic Interventions" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1080/07351690.2018.1444856" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "311" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "299" ;
+      <http://purl.org/ontology/bibo/volume>
+              "38" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1080/07351690.2018.1444856> , <doi:10.1080/07351690.2018.1444856> .

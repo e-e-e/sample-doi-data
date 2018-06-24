@@ -1,0 +1,51 @@
+<http://id.crossref.org/issn/1226-8747>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1226-8747" ;
+      <http://purl.org/dc/terms/title>
+              "Korean Journal of Hospitality & Tourism" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1226-8747" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1226-8747" .
+
+<http://id.crossref.org/contributor/il-nak-sohn-svumdtylawj>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Sohn" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Il-Nak" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Il-Nak Sohn" .
+
+<http://dx.doi.org/10.24992/kjht.2017.04.26.03.101.>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.24992/kjht.2017.04.26.03.101." ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "112" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "101" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "26" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/il-nak-sohn-svumdtylawj> ;
+      <http://purl.org/dc/terms/date>
+              "2017-04-30"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.24992/kjht.2017.04.26.03.101." ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1226-8747> ;
+      <http://purl.org/dc/terms/publisher>
+              "Korean Hospitality and Tourism Academy" ;
+      <http://purl.org/dc/terms/title>
+              "Study on the consumer perception and factors of purchasing decision on focused on university students in Chungcheong areaconvenience food : Focused on university students in Chungcheong area" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.24992/kjht.2017.04.26.03.101." ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "112" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "101" ;
+      <http://purl.org/ontology/bibo/volume>
+              "26" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.24992/kjht.2017.04.26.03.101.> , <doi:10.24992/kjht.2017.04.26.03.101.> .

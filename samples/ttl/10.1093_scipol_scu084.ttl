@@ -1,0 +1,60 @@
+<http://id.crossref.org/issn/0302-3427>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1471-5430" , "0302-3427" ;
+      <http://purl.org/dc/terms/title>
+              "Science and Public Policy" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1471-5430" , "0302-3427" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1471-5430" , "urn:issn:0302-3427" .
+
+<http://id.crossref.org/contributor/cornelia-lawson-3uyd0aedwkpsl>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Lawson" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Cornelia" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Cornelia Lawson" .
+
+<http://dx.doi.org/10.1093/scipol/scu084>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1093/scipol/scu084" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "710" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "690" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "42" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/cornelia-lawson-3uyd0aedwkpsl> , <http://id.crossref.org/contributor/sotaro-shibayama-3uyd0aedwkpsl> ;
+      <http://purl.org/dc/terms/date>
+              "2015-02-11"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1093/scipol/scu084" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0302-3427> ;
+      <http://purl.org/dc/terms/publisher>
+              "Oxford University Press (OUP)" ;
+      <http://purl.org/dc/terms/title>
+              "International research visits and careers: An analysis of bioscience academics in Japan" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1093/scipol/scu084" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "710" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "690" ;
+      <http://purl.org/ontology/bibo/volume>
+              "42" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1093/scipol/scu084> , <info:doi/10.1093/scipol/scu084> .
+
+<http://id.crossref.org/contributor/sotaro-shibayama-3uyd0aedwkpsl>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Shibayama" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Sotaro" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Sotaro Shibayama" .

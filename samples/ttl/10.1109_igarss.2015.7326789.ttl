@@ -1,0 +1,51 @@
+<http://id.crossref.org/contributor/shu-tian-1u3b9jfkuy91q>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Tian" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Shu" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Shu Tian" .
+
+<http://id.crossref.org/contributor/ye-zhang-1u3b9jfkuy91q>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Zhang" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Ye" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Ye Zhang" .
+
+<http://id.crossref.org/isbn/9781479979295>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "2015 IEEE International Geoscience and Remote Sensing Symposium (IGARSS)" .
+
+<http://dx.doi.org/10.1109/igarss.2015.7326789>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1109/igarss.2015.7326789" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/shu-tian-1u3b9jfkuy91q> , <http://id.crossref.org/contributor/ye-zhang-1u3b9jfkuy91q> , <http://id.crossref.org/contributor/shupei-deng-1u3b9jfkuy91q> ;
+      <http://purl.org/dc/terms/date>
+              "2015-07"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1109/igarss.2015.7326789" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9781479979295> ;
+      <http://purl.org/dc/terms/publisher>
+              "IEEE" ;
+      <http://purl.org/dc/terms/title>
+              "Building surface texture segmentation in urban remote sensing image using improved ORTSEG algorithm" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1109/igarss.2015.7326789" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1109/igarss.2015.7326789> , <doi:10.1109/igarss.2015.7326789> .
+
+<http://id.crossref.org/contributor/shupei-deng-1u3b9jfkuy91q>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Deng" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Shupei" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Shupei Deng" .

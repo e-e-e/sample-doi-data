@@ -1,0 +1,51 @@
+<http://id.crossref.org/issn/0959-5287>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1758-1095" , "0959-5287" ;
+      <http://purl.org/dc/terms/title>
+              "Journal of the Royal Society of Medicine" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1758-1095" , "0959-5287" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0959-5287" , "urn:issn:1758-1095" .
+
+<http://id.crossref.org/contributor/wm-fergusson-27kzzupblvl2t>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Fergusson" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Wm." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Wm. Fergusson" .
+
+<http://dx.doi.org/10.1177/095952871300400101>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1177/095952871300400101" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "16" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "1" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "MCT-4" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/wm-fergusson-27kzzupblvl2t> ;
+      <http://purl.org/dc/terms/date>
+              "1813-01"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1177/095952871300400101" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0959-5287> ;
+      <http://purl.org/dc/terms/publisher>
+              "SAGE Publications" ;
+      <http://purl.org/dc/terms/title>
+              "Observations on the Venereal Disease in Portugal, as Affecting the Constitutions of the British Soldiery and Natives" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1177/095952871300400101" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "16" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "1" ;
+      <http://purl.org/ontology/bibo/volume>
+              "MCT-4" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1177/095952871300400101> , <info:doi/10.1177/095952871300400101> .

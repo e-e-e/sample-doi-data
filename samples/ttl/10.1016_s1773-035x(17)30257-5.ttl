@@ -1,0 +1,36 @@
+<http://dx.doi.org/10.1016/s1773-035x(17)30257-5>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/s1773-035x(17)30257-5" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "11" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "2017" ;
+      <http://purl.org/dc/terms/date>
+              "2017-07"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/s1773-035x(17)30257-5" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1773-035X> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Brèves : Tabagisme secondaire précoce : tremplin d’autres allergies" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/s1773-035x(17)30257-5" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "11" ;
+      <http://purl.org/ontology/bibo/volume>
+              "2017" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1016/s1773-035x(17)30257-5> , <info:doi/10.1016/s1773-035x(17)30257-5> .
+
+<http://id.crossref.org/issn/1773-035X>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1773-035X" ;
+      <http://purl.org/dc/terms/title>
+              "Revue Francophone des Laboratoires" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1773-035X" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1773-035X" .

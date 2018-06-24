@@ -1,0 +1,59 @@
+<http://id.crossref.org/contributor/burt-g-vd-boom-8sq61hozpyhn>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "vd Boom" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Burt G" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Burt G vd Boom" .
+
+<http://id.crossref.org/contributor/marieke-sj-schepers-8sq61hozpyhn>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Schepers" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Marieke SJ" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Marieke SJ Schepers" .
+
+<http://id.crossref.org/isbn/9781855735705>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Hyaluronan" .
+
+<http://dx.doi.org/10.1016/b978-1-85573-570-5.50251-7>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/b978-1-85573-570-5.50251-7" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "162" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "157" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/burt-g-vd-boom-8sq61hozpyhn> , <http://id.crossref.org/contributor/marieke-sj-schepers-8sq61hozpyhn> , <http://id.crossref.org/contributor/carl-f-verkoelen-8sq61hozpyhn> ;
+      <http://purl.org/dc/terms/date>
+              "2002"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/b978-1-85573-570-5.50251-7" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9781855735705> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier" ;
+      <http://purl.org/dc/terms/title>
+              "THE ROLE OF PERICELLULAR MATRIX FORMATION DURING WOUND HEALING IN RENAL STONE DISEASE" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/b978-1-85573-570-5.50251-7" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "162" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "157" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1016/b978-1-85573-570-5.50251-7> , <doi:10.1016/b978-1-85573-570-5.50251-7> .
+
+<http://id.crossref.org/contributor/carl-f-verkoelen-8sq61hozpyhn>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Verkoelen" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Carl F" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Carl F Verkoelen" .

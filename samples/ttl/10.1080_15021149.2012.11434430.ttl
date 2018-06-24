@@ -1,0 +1,51 @@
+<http://id.crossref.org/issn/1502-1149>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "2377-729X" , "1502-1149" ;
+      <http://purl.org/dc/terms/title>
+              "European Journal of Behavior Analysis" ;
+      <http://purl.org/ontology/bibo/issn>
+              "2377-729X" , "1502-1149" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:2377-729X" , "urn:issn:1502-1149" .
+
+<http://dx.doi.org/10.1080/15021149.2012.11434430>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1080/15021149.2012.11434430" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "233" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "231" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "13" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/robert-c-mellon-7e4lv34iqtnn> ;
+      <http://purl.org/dc/terms/date>
+              "2012-12"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1080/15021149.2012.11434430" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1502-1149> ;
+      <http://purl.org/dc/terms/publisher>
+              "Informa UK Limited" ;
+      <http://purl.org/dc/terms/title>
+              "The Fight for Experimental Analysis" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1080/15021149.2012.11434430" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "233" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "231" ;
+      <http://purl.org/ontology/bibo/volume>
+              "13" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1080/15021149.2012.11434430> , <doi:10.1080/15021149.2012.11434430> .
+
+<http://id.crossref.org/contributor/robert-c-mellon-7e4lv34iqtnn>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Mellon" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Robert C." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Robert C. Mellon" .

@@ -1,0 +1,33 @@
+<http://id.crossref.org/isbn/9782351593776>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "La vallée engloutie (Volume 2 : catalogue des sites)" .
+
+<http://id.crossref.org/contributor/justine-gaborit-v6a1xxjk3i9>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Gaborit" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Justine" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Justine Gaborit" .
+
+<http://dx.doi.org/10.4000/books.ifpo.7198>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.4000/books.ifpo.7198" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/justine-gaborit-v6a1xxjk3i9> ;
+      <http://purl.org/dc/terms/date>
+              ""^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.4000/books.ifpo.7198" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9782351593776> ;
+      <http://purl.org/dc/terms/publisher>
+              "Presses de l’Ifpo" ;
+      <http://purl.org/dc/terms/title>
+              "Tell Shioukh Tahtani (Syrie) – D03" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.4000/books.ifpo.7198" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.4000/books.ifpo.7198> , <doi:10.4000/books.ifpo.7198> .

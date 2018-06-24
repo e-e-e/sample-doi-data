@@ -1,0 +1,61 @@
+<http://id.crossref.org/contributor/martin-schmid-1mqnoymmmmw5n>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Schmid" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Martin" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Martin Schmid" .
+
+<http://id.crossref.org/contributor/alfred-wuest-1mqnoymmmmw5n>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Wüest" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Alfred" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Alfred Wüest" .
+
+<http://dx.doi.org/10.4081/jlimol.2012.e35>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.4081/jlimol.2012.e35" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "71" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/martin-schmid-1mqnoymmmmw5n> , <http://id.crossref.org/contributor/alfred-wuest-1mqnoymmmmw5n> , <http://id.crossref.org/contributor/kellyann-ross-1mqnoymmmmw5n> ;
+      <http://purl.org/dc/terms/date>
+              "2012-07-25"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.4081/jlimol.2012.e35" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1723-8633> ;
+      <http://purl.org/dc/terms/publisher>
+              "PAGEPress Publications" ;
+      <http://purl.org/dc/terms/title>
+              "Comment on An additional challenge of Lake Kivu in Central Africa – upward movement of the chemoclines by Finn Hirslund" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.4081/jlimol.2012.e35" ;
+      <http://purl.org/ontology/bibo/volume>
+              "71" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.4081/jlimol.2012.e35> , <doi:10.4081/jlimol.2012.e35> .
+
+<http://id.crossref.org/contributor/kellyann-ross-1mqnoymmmmw5n>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Ross" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "KellyAnn" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "KellyAnn Ross" .
+
+<http://id.crossref.org/issn/1723-8633>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1129-5767" , "1723-8633" ;
+      <http://purl.org/dc/terms/title>
+              "Journal of Limnology" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1129-5767" , "1723-8633" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1129-5767" , "urn:issn:1723-8633" .

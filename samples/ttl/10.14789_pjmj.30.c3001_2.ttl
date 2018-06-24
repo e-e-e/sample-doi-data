@@ -1,0 +1,40 @@
+<http://id.crossref.org/issn/0022-6769>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "2188-2134" , "0022-6769" ;
+      <http://purl.org/dc/terms/title>
+              "Juntendo Medical Journal" ;
+      <http://purl.org/ontology/bibo/issn>
+              "2188-2134" , "0022-6769" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0022-6769" , "urn:issn:2188-2134" .
+
+<http://dx.doi.org/10.14789/pjmj.30.c3001_2>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.14789/pjmj.30.c3001_2" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "C3001_2" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "C3001_2" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "30" ;
+      <http://purl.org/dc/terms/date>
+              "1984"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.14789/pjmj.30.c3001_2" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0022-6769> ;
+      <http://purl.org/dc/terms/publisher>
+              "The Jutendo Medical Journal" ;
+      <http://purl.org/dc/terms/title>
+              "Contents (English)" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.14789/pjmj.30.c3001_2" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "C3001_2" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "C3001_2" ;
+      <http://purl.org/ontology/bibo/volume>
+              "30" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.14789/pjmj.30.c3001_2> , <doi:10.14789/pjmj.30.c3001_2> .

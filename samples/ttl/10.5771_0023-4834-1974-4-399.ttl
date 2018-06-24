@@ -1,0 +1,51 @@
+<http://id.crossref.org/contributor/heidewig-frankhanel-g06at4ihr5id>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Frankhänel" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Heidewig" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Heidewig Frankhänel" .
+
+<http://dx.doi.org/10.5771/0023-4834-1974-4-399>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.5771/0023-4834-1974-4-399" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "401" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "399" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "7" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/heidewig-frankhanel-g06at4ihr5id> ;
+      <http://purl.org/dc/terms/date>
+              "1974"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.5771/0023-4834-1974-4-399" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0023-4834> ;
+      <http://purl.org/dc/terms/publisher>
+              "Nomos Verlag" ;
+      <http://purl.org/dc/terms/title>
+              "Schöffendienstverweigerung" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.5771/0023-4834-1974-4-399" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "401" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "399" ;
+      <http://purl.org/ontology/bibo/volume>
+              "7" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.5771/0023-4834-1974-4-399> , <doi:10.5771/0023-4834-1974-4-399> .
+
+<http://id.crossref.org/issn/0023-4834>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0023-4834" ;
+      <http://purl.org/dc/terms/title>
+              "Kritische Justiz" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0023-4834" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0023-4834" .

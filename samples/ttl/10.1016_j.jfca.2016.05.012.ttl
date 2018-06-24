@@ -1,0 +1,80 @@
+<http://id.crossref.org/contributor/liliana-vargas-murga-2a9hbpv1urlfd>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Vargas-Murga" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Liliana" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Liliana Vargas-Murga" .
+
+<http://id.crossref.org/contributor/begona-olmedilla-alonso-2a9hbpv1urlfd>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <http://orcid.org/0000-0002-4913-5171> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Olmedilla-Alonso" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Begoña" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Begoña Olmedilla-Alonso" .
+
+<http://id.crossref.org/contributor/adriana-z-mercadante-2a9hbpv1urlfd>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Mercadante" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Adriana Z." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Adriana Z. Mercadante" .
+
+<http://dx.doi.org/10.1016/j.jfca.2016.05.012>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/j.jfca.2016.05.012" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "96" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "88" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "50" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/liliana-vargas-murga-2a9hbpv1urlfd> , <http://id.crossref.org/contributor/begona-olmedilla-alonso-2a9hbpv1urlfd> , <http://id.crossref.org/contributor/adriana-z-mercadante-2a9hbpv1urlfd> , <http://id.crossref.org/contributor/veridiana-v-de-rosso-2a9hbpv1urlfd> ;
+      <http://purl.org/dc/terms/date>
+              "2016-07"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/j.jfca.2016.05.012" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0889-1575> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Fruits and vegetables in the Brazilian Household Budget Survey (2008–2009): carotenoid content and assessment of individual carotenoid intake" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/j.jfca.2016.05.012" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "96" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "88" ;
+      <http://purl.org/ontology/bibo/volume>
+              "50" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1016/j.jfca.2016.05.012> , <info:doi/10.1016/j.jfca.2016.05.012> .
+
+<http://id.crossref.org/issn/0889-1575>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0889-1575" ;
+      <http://purl.org/dc/terms/title>
+              "Journal of Food Composition and Analysis" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0889-1575" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0889-1575" .
+
+<http://id.crossref.org/contributor/veridiana-v-de-rosso-2a9hbpv1urlfd>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "de Rosso" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Veridiana V." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Veridiana V. de Rosso" .

@@ -1,0 +1,51 @@
+<http://id.crossref.org/contributor/kathleen-deagan-3r4ooca5mhlzs>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Deagan" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Kathleen" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Kathleen Deagan" .
+
+<http://dx.doi.org/10.1007/bf03373554>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1007/bf03373554" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "22" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "19" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "27" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/kathleen-deagan-3r4ooca5mhlzs> ;
+      <http://purl.org/dc/terms/date>
+              "1993-03"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1007/bf03373554" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0440-9213> ;
+      <http://purl.org/dc/terms/publisher>
+              "Springer Nature" ;
+      <http://purl.org/dc/terms/title>
+              "Retrospective on the society for historical archaeology, 1977–1982" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1007/bf03373554" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "22" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "19" ;
+      <http://purl.org/ontology/bibo/volume>
+              "27" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1007/bf03373554> , <doi:10.1007/bf03373554> .
+
+<http://id.crossref.org/issn/0440-9213>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0440-9213" , "2328-1103" ;
+      <http://purl.org/dc/terms/title>
+              "Historical Archaeology" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0440-9213" , "2328-1103" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:2328-1103" , "urn:issn:0440-9213" .

@@ -1,0 +1,51 @@
+<http://id.crossref.org/contributor/vijay-p-singh-1xna1jju89k7o>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Singh" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Vijay P." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Vijay P. Singh" .
+
+<http://id.crossref.org/issn/0029-1277>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "2224-7955" , "0029-1277" ;
+      <http://purl.org/dc/terms/title>
+              "Hydrology Research" ;
+      <http://purl.org/ontology/bibo/issn>
+              "2224-7955" , "0029-1277" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0029-1277" , "urn:issn:2224-7955" .
+
+<http://dx.doi.org/10.2166/nh.1977.0003>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.2166/nh.1977.0003" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "46" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "33" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "8" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/vijay-p-singh-1xna1jju89k7o> ;
+      <http://purl.org/dc/terms/date>
+              "1977-02"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.2166/nh.1977.0003" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0029-1277> ;
+      <http://purl.org/dc/terms/publisher>
+              "IWA Publishing" ;
+      <http://purl.org/dc/terms/title>
+              "Estimation of Parameters of a Uniformly Nonlinear Surface Runoff Model" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.2166/nh.1977.0003" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "46" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "33" ;
+      <http://purl.org/ontology/bibo/volume>
+              "8" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.2166/nh.1977.0003> , <info:doi/10.2166/nh.1977.0003> .

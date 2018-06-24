@@ -1,0 +1,101 @@
+<http://id.crossref.org/contributor/mayte-suarez-farinas-5kj75aykje2o>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Suárez-Fariñas" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Mayte" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Mayte Suárez-Fariñas" .
+
+<http://id.crossref.org/contributor/avner-shemer-5kj75aykje2o>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Shemer" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Avner" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Avner Shemer" .
+
+<http://id.crossref.org/contributor/james-g-krueger-5kj75aykje2o>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Krueger" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "James G." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "James G. Krueger" .
+
+<http://id.crossref.org/issn/1932-6203>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1932-6203" ;
+      <http://purl.org/dc/terms/title>
+              "PLOS ONE" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1932-6203" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1932-6203" .
+
+<http://id.crossref.org/contributor/emma-guttman-yassky-5kj75aykje2o>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Guttman-Yassky" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Emma" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Emma Guttman-Yassky" .
+
+<http://dx.doi.org/10.1371/journal.pone.0148450>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1371/journal.pone.0148450" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "e0148450" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "11" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/avner-shemer-5kj75aykje2o> , <http://id.crossref.org/contributor/mayte-suarez-farinas-5kj75aykje2o> , <http://id.crossref.org/contributor/james-g-krueger-5kj75aykje2o> , <http://id.crossref.org/contributor/emma-guttman-yassky-5kj75aykje2o> , <http://id.crossref.org/contributor/michel-simon-5kj75aykje2o> , <http://id.crossref.org/contributor/juan-ruano-5kj75aykje2o> , <http://id.crossref.org/contributor/margeaux-oliva-5kj75aykje2o> ;
+      <http://purl.org/dc/terms/date>
+              "2016-02-05"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1371/journal.pone.0148450" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1932-6203> ;
+      <http://purl.org/dc/terms/publisher>
+              "Public Library of Science (PLoS)" ;
+      <http://purl.org/dc/terms/title>
+              "Molecular and Cellular Profiling of Scalp Psoriasis Reveals Differences and Similarities Compared to Skin Psoriasis" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1371/journal.pone.0148450" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "e0148450" ;
+      <http://purl.org/ontology/bibo/volume>
+              "11" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1371/journal.pone.0148450> , <doi:10.1371/journal.pone.0148450> .
+
+<http://id.crossref.org/contributor/michel-simon-5kj75aykje2o>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Simon" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Michel" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Michel Simon" .
+
+<http://id.crossref.org/contributor/juan-ruano-5kj75aykje2o>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Ruano" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Juan" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Juan Ruano" .
+
+<http://id.crossref.org/contributor/margeaux-oliva-5kj75aykje2o>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Oliva" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Margeaux" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Margeaux Oliva" .

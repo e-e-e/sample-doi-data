@@ -1,0 +1,15 @@
+<http://dx.doi.org/10.13051/ee:bio/heanejames004783>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.13051/ee:bio/heanejames004783" ;
+      <http://purl.org/dc/terms/date>
+              "2000"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.13051/ee:bio/heanejames004783" ;
+      <http://purl.org/dc/terms/publisher>
+              "Bodleian Libraries, University of Oxford" ;
+      <http://purl.org/dc/terms/title>
+              "James Heane [heanejames004783]" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.13051/ee:bio/heanejames004783" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.13051/ee:bio/heanejames004783> , <doi:10.13051/ee:bio/heanejames004783> .

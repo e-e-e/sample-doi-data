@@ -1,0 +1,36 @@
+<http://id.crossref.org/issn/1759-9954>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1759-9954" , "1759-9962" ;
+      <http://purl.org/dc/terms/title>
+              "Polymer Chemistry" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1759-9954" , "1759-9962" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1759-9962" , "urn:issn:1759-9954" .
+
+<http://dx.doi.org/10.1039/c4py90047b>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1039/c4py90047b" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "4805" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "5" ;
+      <http://purl.org/dc/terms/date>
+              "2014-07-15"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1039/c4py90047b" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1759-9954> ;
+      <http://purl.org/dc/terms/publisher>
+              "Royal Society of Chemistry (RSC)" ;
+      <http://purl.org/dc/terms/title>
+              "Inside back cover" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1039/c4py90047b" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "4805" ;
+      <http://purl.org/ontology/bibo/volume>
+              "5" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1039/c4py90047b> , <info:doi/10.1039/c4py90047b> .

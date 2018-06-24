@@ -1,0 +1,70 @@
+<http://id.crossref.org/contributor/keith-dures-fsp5lj2j0eqq>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Dures" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Keith" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Keith Dures" .
+
+<http://id.crossref.org/contributor/frans-coenen-fsp5lj2j0eqq>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Coenen" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Frans" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Frans Coenen" .
+
+<http://id.crossref.org/issn/0302-9743>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0302-9743" , "1611-3349" ;
+      <http://purl.org/dc/terms/title>
+              "Machine Learning and Data Mining in Pattern Recognition" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0302-9743" , "1611-3349" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1611-3349" , "urn:issn:0302-9743" .
+
+<http://id.crossref.org/contributor/esraa-alshdaifat-fsp5lj2j0eqq>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Alshdaifat" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Esra’a" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Esra’a Alshdaifat" .
+
+<http://id.crossref.org/isbn/9783319089782>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Machine Learning and Data Mining in Pattern Recognition" .
+
+<http://dx.doi.org/10.1007/978-3-319-08979-9_16>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1007/978-3-319-08979-9_16" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "212" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "198" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/keith-dures-fsp5lj2j0eqq> , <http://id.crossref.org/contributor/frans-coenen-fsp5lj2j0eqq> , <http://id.crossref.org/contributor/esraa-alshdaifat-fsp5lj2j0eqq> ;
+      <http://purl.org/dc/terms/date>
+              "2014"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1007/978-3-319-08979-9_16" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0302-9743> , <http://id.crossref.org/isbn/9783319089782> ;
+      <http://purl.org/dc/terms/publisher>
+              "Springer International Publishing" ;
+      <http://purl.org/dc/terms/title>
+              "A Multi-path Strategy for Hierarchical Ensemble Classification" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1007/978-3-319-08979-9_16" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "212" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "198" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1007/978-3-319-08979-9_16> , <doi:10.1007/978-3-319-08979-9_16> .

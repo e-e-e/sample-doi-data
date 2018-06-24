@@ -1,0 +1,51 @@
+<http://id.crossref.org/contributor/christopher-nobes-1atmekhdinxyh>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Nobes" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Christopher" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Christopher Nobes" .
+
+<http://dx.doi.org/10.1080/17449480.2015.1114656>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1080/17449480.2015.1114656" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "170" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "153" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "12" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/christopher-nobes-1atmekhdinxyh> ;
+      <http://purl.org/dc/terms/date>
+              "2015-07-03"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1080/17449480.2015.1114656" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1744-9480> ;
+      <http://purl.org/dc/terms/publisher>
+              "Informa UK Limited" ;
+      <http://purl.org/dc/terms/title>
+              "IFRS Ten Years on: Has the IASB Imposed Extensive Use of Fair Value? Has the EU Learnt to Love IFRS? And Does the Use of Fair Value make IFRS Illegal in the EU?" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1080/17449480.2015.1114656" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "170" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "153" ;
+      <http://purl.org/ontology/bibo/volume>
+              "12" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1080/17449480.2015.1114656> , <info:doi/10.1080/17449480.2015.1114656> .
+
+<http://id.crossref.org/issn/1744-9480>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1744-9499" , "1744-9480" ;
+      <http://purl.org/dc/terms/title>
+              "Accounting in Europe" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1744-9499" , "1744-9480" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1744-9499" , "urn:issn:1744-9480" .

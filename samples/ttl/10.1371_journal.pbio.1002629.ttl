@@ -1,0 +1,43 @@
+<http://dx.doi.org/10.1371/journal.pbio.1002629>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1371/journal.pbio.1002629" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "e1002629" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "16" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/-2m60c1ezzipmo> ;
+      <http://purl.org/dc/terms/date>
+              "2018-04-25"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1371/journal.pbio.1002629" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1545-7885> ;
+      <http://purl.org/dc/terms/publisher>
+              "Public Library of Science (PLoS)" ;
+      <http://purl.org/dc/terms/title>
+              "Correction: Brain–Computer Interface–Based Communication in the Completely Locked-In State" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1371/journal.pbio.1002629" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "e1002629" ;
+      <http://purl.org/ontology/bibo/volume>
+              "16" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1371/journal.pbio.1002629> , <doi:10.1371/journal.pbio.1002629> .
+
+<http://id.crossref.org/issn/1545-7885>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1545-7885" ;
+      <http://purl.org/dc/terms/title>
+              "PLOS Biology" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1545-7885" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1545-7885" .
+
+<http://id.crossref.org/contributor/-2m60c1ezzipmo>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/name>
+              " " .

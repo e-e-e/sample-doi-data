@@ -1,0 +1,41 @@
+<http://dx.doi.org/10.1115/1.859919.paper260>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1115/1.859919.paper260" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "1583" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "1579" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/liu-rong-20jebi5totmtd> ;
+      <http://purl.org/dc/terms/date>
+              ""^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1115/1.859919.paper260" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9780791859919> ;
+      <http://purl.org/dc/terms/publisher>
+              "ASME" ;
+      <http://purl.org/dc/terms/title>
+              "A Comprehensive Partner Selection Evaluation System for Construction Project Alliance" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1115/1.859919.paper260" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "1583" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "1579" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1115/1.859919.paper260> , <doi:10.1115/1.859919.paper260> .
+
+<http://id.crossref.org/isbn/9780791859919>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "International Conference on Computer Technology and Development, 3rd (ICCTD 2011)" .
+
+<http://id.crossref.org/contributor/liu-rong-20jebi5totmtd>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Rong" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Liu" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Liu Rong" .

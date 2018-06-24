@@ -1,0 +1,83 @@
+<http://id.crossref.org/contributor/sylvia-foldi-1ml7l6dfzkbxa>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Foldi" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Sylvia" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Sylvia Foldi" .
+
+<http://id.crossref.org/contributor/erez-nadir-1ml7l6dfzkbxa>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Nadir" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Erez" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Erez Nadir" .
+
+<http://id.crossref.org/contributor/vered-nir-1ml7l6dfzkbxa>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Nir" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Vered" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Vered Nir" .
+
+<http://id.crossref.org/contributor/michael-feldman-1ml7l6dfzkbxa>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Feldman" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Michael" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Michael Feldman" .
+
+<http://id.crossref.org/contributor/amit-hochberg-1ml7l6dfzkbxa>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Hochberg" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Amit" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Amit Hochberg" .
+
+<http://dx.doi.org/10.5750/ejpch.v3i1.874>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.5750/ejpch.v3i1.874" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "71" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "3" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/sylvia-foldi-1ml7l6dfzkbxa> , <http://id.crossref.org/contributor/erez-nadir-1ml7l6dfzkbxa> , <http://id.crossref.org/contributor/vered-nir-1ml7l6dfzkbxa> , <http://id.crossref.org/contributor/michael-feldman-1ml7l6dfzkbxa> , <http://id.crossref.org/contributor/amit-hochberg-1ml7l6dfzkbxa> ;
+      <http://purl.org/dc/terms/date>
+              "2015-02-11"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.5750/ejpch.v3i1.874" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/2052-5656> ;
+      <http://purl.org/dc/terms/publisher>
+              "University of Buckingham Press" ;
+      <http://purl.org/dc/terms/title>
+              "Maternal non-compliance in a well-baby nursery: family characteristics and other reasons" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.5750/ejpch.v3i1.874" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "71" ;
+      <http://purl.org/ontology/bibo/volume>
+              "3" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.5750/ejpch.v3i1.874> , <doi:10.5750/ejpch.v3i1.874> .
+
+<http://id.crossref.org/issn/2052-5656>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "2052-5648" , "2052-5656" ;
+      <http://purl.org/dc/terms/title>
+              "European Journal for Person Centered Healthcare" ;
+      <http://purl.org/ontology/bibo/issn>
+              "2052-5648" , "2052-5656" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:2052-5648" , "urn:issn:2052-5656" .

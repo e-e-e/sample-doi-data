@@ -1,0 +1,70 @@
+<http://id.crossref.org/contributor/c-zhang-3mo6ozj7hdizr>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "C. Zhang" ;
+      <http://xmlns.com/foaf/0.1/name>
+              " C. Zhang" .
+
+<http://id.crossref.org/contributor/y-he-3mo6ozj7hdizr>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Y. He" ;
+      <http://xmlns.com/foaf/0.1/name>
+              " Y. He" .
+
+<http://id.crossref.org/issn/2151-0040>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "2151-0040" ;
+      <http://purl.org/dc/terms/title>
+              "Transactions of the ASABE" ;
+      <http://purl.org/ontology/bibo/issn>
+              "2151-0040" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:2151-0040" .
+
+<http://dx.doi.org/10.13031/2013.24504>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.13031/2013.24504" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "1139" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "1133" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "51" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/c-zhang-3mo6ozj7hdizr> , <http://id.crossref.org/contributor/y-he-3mo6ozj7hdizr> , <http://id.crossref.org/contributor/d-wu-3mo6ozj7hdizr> , <http://id.crossref.org/contributor/l-feng-3mo6ozj7hdizr> ;
+      <http://purl.org/dc/terms/date>
+              "2008"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.13031/2013.24504" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/2151-0040> ;
+      <http://purl.org/dc/terms/publisher>
+              "American Society of Agricultural and Biological Engineers (ASABE)" ;
+      <http://purl.org/dc/terms/title>
+              "Early Detection of Botrytis cinerea on Eggplant Leaves Based on Visible and Near-Infrared Spectroscopy" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.13031/2013.24504" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "1139" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "1133" ;
+      <http://purl.org/ontology/bibo/volume>
+              "51" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.13031/2013.24504> , <doi:10.13031/2013.24504> .
+
+<http://id.crossref.org/contributor/d-wu-3mo6ozj7hdizr>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "D. Wu" ;
+      <http://xmlns.com/foaf/0.1/name>
+              " D. Wu" .
+
+<http://id.crossref.org/contributor/l-feng-3mo6ozj7hdizr>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "L. Feng" ;
+      <http://xmlns.com/foaf/0.1/name>
+              " L. Feng" .

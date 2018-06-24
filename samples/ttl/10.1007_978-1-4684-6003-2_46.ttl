@@ -1,0 +1,70 @@
+<http://id.crossref.org/contributor/sandra-t-labak-pla2omnl2x59>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Labak" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Sandra T." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Sandra T. Labak" .
+
+<http://id.crossref.org/contributor/jacquelyn-m-smith-pla2omnl2x59>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Smith" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Jacquelyn M." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Jacquelyn M. Smith" .
+
+<http://id.crossref.org/issn/0065-2598>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0065-2598" ;
+      <http://purl.org/dc/terms/title>
+              "Advances in Experimental Medicine and Biology" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0065-2598" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0065-2598" .
+
+<http://dx.doi.org/10.1007/978-1-4684-6003-2_46>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1007/978-1-4684-6003-2_46" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "529" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "523" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/sandra-t-labak-pla2omnl2x59> , <http://id.crossref.org/contributor/jacquelyn-m-smith-pla2omnl2x59> , <http://id.crossref.org/contributor/dennis-j-paulson-pla2omnl2x59> ;
+      <http://purl.org/dc/terms/date>
+              "1991"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1007/978-1-4684-6003-2_46" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0065-2598> , <http://id.crossref.org/isbn/9781468460056> ;
+      <http://purl.org/dc/terms/publisher>
+              "Springer US" ;
+      <http://purl.org/dc/terms/title>
+              "The Effect of Calcium Antagonist on Norepinephrine-Induced 86Rb Efflux in Obese Zucker Rats" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1007/978-1-4684-6003-2_46" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "529" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "523" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1007/978-1-4684-6003-2_46> , <info:doi/10.1007/978-1-4684-6003-2_46> .
+
+<http://id.crossref.org/isbn/9781468460056>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Advances in Experimental Medicine and Biology" .
+
+<http://id.crossref.org/contributor/dennis-j-paulson-pla2omnl2x59>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Paulson" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Dennis J." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Dennis J. Paulson" .

@@ -1,0 +1,51 @@
+<http://dx.doi.org/10.1002/j.2161-4296.1957.tb01010.x>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1002/j.2161-4296.1957.tb01010.x" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "344" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "337" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "5" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/robert-k-polson-t1uwsxh3hslu> ;
+      <http://purl.org/dc/terms/date>
+              "1957-09"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1002/j.2161-4296.1957.tb01010.x" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0028-1522> ;
+      <http://purl.org/dc/terms/publisher>
+              "Wiley" ;
+      <http://purl.org/dc/terms/title>
+              "THE CASE FOR FLEXIBLE AIR NAVIGATIONAL TRACKS ON THE NORTH ATLANTIC*" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1002/j.2161-4296.1957.tb01010.x" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "344" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "337" ;
+      <http://purl.org/ontology/bibo/volume>
+              "5" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1002/j.2161-4296.1957.tb01010.x> , <doi:10.1002/j.2161-4296.1957.tb01010.x> .
+
+<http://id.crossref.org/contributor/robert-k-polson-t1uwsxh3hslu>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Polson" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Robert K." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Robert K. Polson" .
+
+<http://id.crossref.org/issn/0028-1522>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0028-1522" ;
+      <http://purl.org/dc/terms/title>
+              "Navigation" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0028-1522" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0028-1522" .

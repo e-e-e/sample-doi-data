@@ -1,0 +1,22 @@
+<http://dx.doi.org/10.1515/9783111445861-006>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1515/9783111445861-006" ;
+      <http://purl.org/dc/terms/date>
+              ""^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1515/9783111445861-006" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9783111445861> ;
+      <http://purl.org/dc/terms/publisher>
+              "DE GRUYTER" ;
+      <http://purl.org/dc/terms/title>
+              "Antrittsvorlesung [Die philosophischen Grundlagen der Pädagogik] (1910)" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1515/9783111445861-006" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1515/9783111445861-006> , <doi:10.1515/9783111445861-006> .
+
+<http://id.crossref.org/isbn/9783111445861>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Gesammelte Schriften, Band II, Philosophische Pädagogik" .

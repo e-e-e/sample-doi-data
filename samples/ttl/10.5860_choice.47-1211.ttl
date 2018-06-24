@@ -1,0 +1,40 @@
+<http://dx.doi.org/10.5860/choice.47-1211>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.5860/choice.47-1211" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "1211" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "47" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "47" ;
+      <http://purl.org/dc/terms/date>
+              "2009-11-01"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.5860/choice.47-1211" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0009-4978> ;
+      <http://purl.org/dc/terms/publisher>
+              "American Library Association" ;
+      <http://purl.org/dc/terms/title>
+              "Historical dictionary of Middle Eastern intelligence" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.5860/choice.47-1211" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "1211" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "47" ;
+      <http://purl.org/ontology/bibo/volume>
+              "47" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.5860/choice.47-1211> , <doi:10.5860/choice.47-1211> .
+
+<http://id.crossref.org/issn/0009-4978>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0009-4978" , "1523-8253" ;
+      <http://purl.org/dc/terms/title>
+              "Choice Reviews Online" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0009-4978" , "1523-8253" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0009-4978" , "urn:issn:1523-8253" .

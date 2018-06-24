@@ -1,0 +1,78 @@
+<http://id.crossref.org/contributor/lee-c-cadwallader-34ykm6xwuudv8>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Cadwallader" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Lee C." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Lee C. Cadwallader" .
+
+<http://id.crossref.org/issn/1536-1055>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1536-1055" , "1943-7641" ;
+      <http://purl.org/dc/terms/title>
+              "Fusion Science and Technology" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1536-1055" , "1943-7641" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1943-7641" , "urn:issn:1536-1055" .
+
+<http://dx.doi.org/10.1080/15361055.2016.1273696>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1080/15361055.2016.1273696" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "309" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "305" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "71" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/lee-c-cadwallader-34ykm6xwuudv8> , <http://id.crossref.org/contributor/l-shayne-loftus-34ykm6xwuudv8> , <http://id.crossref.org/contributor/brad-j-merrill-34ykm6xwuudv8> , <http://id.crossref.org/contributor/dean-a-stewart-34ykm6xwuudv8> ;
+      <http://purl.org/dc/terms/date>
+              "2017-03-31"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1080/15361055.2016.1273696" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1536-1055> ;
+      <http://purl.org/dc/terms/publisher>
+              "Informa UK Limited" ;
+      <http://purl.org/dc/terms/title>
+              "Recent Upgrades at the Safety and Tritium Applied Research Facility" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1080/15361055.2016.1273696" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "309" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "305" ;
+      <http://purl.org/ontology/bibo/volume>
+              "71" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1080/15361055.2016.1273696> , <info:doi/10.1080/15361055.2016.1273696> .
+
+<http://id.crossref.org/contributor/l-shayne-loftus-34ykm6xwuudv8>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Loftus" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "L. Shayne" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "L. Shayne Loftus" .
+
+<http://id.crossref.org/contributor/brad-j-merrill-34ykm6xwuudv8>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Merrill" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Brad J." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Brad J. Merrill" .
+
+<http://id.crossref.org/contributor/dean-a-stewart-34ykm6xwuudv8>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Stewart" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Dean A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Dean A. Stewart" .

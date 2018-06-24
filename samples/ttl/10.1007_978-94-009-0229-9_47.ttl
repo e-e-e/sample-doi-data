@@ -1,0 +1,41 @@
+<http://id.crossref.org/contributor/s-m-faber-1ino0hxldm175>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Faber" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "S. M." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "S. M. Faber" .
+
+<http://dx.doi.org/10.1007/978-94-009-0229-9_47>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1007/978-94-009-0229-9_47" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "317" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "313" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/s-m-faber-1ino0hxldm175> ;
+      <http://purl.org/dc/terms/date>
+              "1996"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1007/978-94-009-0229-9_47" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9780792339762> ;
+      <http://purl.org/dc/terms/publisher>
+              "Springer Netherlands" ;
+      <http://purl.org/dc/terms/title>
+              "Conference Summary: Glimpse of a New Future" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1007/978-94-009-0229-9_47" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "317" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "313" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1007/978-94-009-0229-9_47> , <info:doi/10.1007/978-94-009-0229-9_47> .
+
+<http://id.crossref.org/isbn/9780792339762>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "New Light on Galaxy Evolution" .

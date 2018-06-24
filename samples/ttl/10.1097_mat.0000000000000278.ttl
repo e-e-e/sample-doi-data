@@ -1,0 +1,87 @@
+<http://id.crossref.org/issn/1058-2916>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1058-2916" ;
+      <http://purl.org/dc/terms/title>
+              "ASAIO Journal" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1058-2916" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1058-2916" .
+
+<http://id.crossref.org/contributor/joel-schilling-3s2puuz9aamnf>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Schilling" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Joel" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Joel Schilling" .
+
+<http://id.crossref.org/contributor/jonathan-davis-3s2puuz9aamnf>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Davis" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Jonathan" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Jonathan Davis" .
+
+<http://id.crossref.org/contributor/dominic-sanford-3s2puuz9aamnf>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Sanford" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Dominic" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Dominic Sanford" .
+
+<http://id.crossref.org/contributor/angela-hardi-3s2puuz9aamnf>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Hardi" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Angela" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Angela Hardi" .
+
+<http://id.crossref.org/contributor/graham-colditz-3s2puuz9aamnf>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Colditz" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Graham" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Graham Colditz" .
+
+<http://dx.doi.org/10.1097/mat.0000000000000278>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1097/mat.0000000000000278" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "651" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "648" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "61" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/joel-schilling-3s2puuz9aamnf> , <http://id.crossref.org/contributor/jonathan-davis-3s2puuz9aamnf> , <http://id.crossref.org/contributor/angela-hardi-3s2puuz9aamnf> , <http://id.crossref.org/contributor/dominic-sanford-3s2puuz9aamnf> , <http://id.crossref.org/contributor/graham-colditz-3s2puuz9aamnf> ;
+      <http://purl.org/dc/terms/date>
+              "2015"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1097/mat.0000000000000278" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1058-2916> ;
+      <http://purl.org/dc/terms/publisher>
+              "Ovid Technologies (Wolters Kluwer Health)" ;
+      <http://purl.org/dc/terms/title>
+              "Systematic Review of Outcomes After Noncardiac Surgery in Patients with Implanted Left Ventricular Assist Devices" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1097/mat.0000000000000278" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "651" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "648" ;
+      <http://purl.org/ontology/bibo/volume>
+              "61" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1097/mat.0000000000000278> , <doi:10.1097/mat.0000000000000278> .

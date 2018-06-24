@@ -1,0 +1,51 @@
+<http://id.crossref.org/contributor/bastian-conrad-21470nqi6s6ih>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Conrad" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Bastian" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Bastian Conrad" .
+
+<http://id.crossref.org/isbn/9783131476227>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Das EMG-Buch" .
+
+<http://id.crossref.org/contributor/wilhelm-j-schulte-mattler-21470nqi6s6ih>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Schulte-Mattler" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Wilhelm J." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Wilhelm J. Schulte-Mattler" .
+
+<http://id.crossref.org/contributor/christian-bischoff-21470nqi6s6ih>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Bischoff" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Christian" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Christian Bischoff" .
+
+<http://dx.doi.org/10.1055/b-0034-31666>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1055/b-0034-31666" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/bastian-conrad-21470nqi6s6ih> , <http://id.crossref.org/contributor/wilhelm-j-schulte-mattler-21470nqi6s6ih> , <http://id.crossref.org/contributor/christian-bischoff-21470nqi6s6ih> ;
+      <http://purl.org/dc/terms/date>
+              "2005"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1055/b-0034-31666" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9783131476227> ;
+      <http://purl.org/dc/terms/publisher>
+              "Georg Thieme Verlag" ;
+      <http://purl.org/dc/terms/title>
+              "Fall Nr. 16 Neugeborenes bewegt linken Arm nicht" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1055/b-0034-31666" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1055/b-0034-31666> , <info:doi/10.1055/b-0034-31666> .

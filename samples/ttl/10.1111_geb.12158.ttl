@@ -1,0 +1,141 @@
+<http://id.crossref.org/contributor/dominique-gravel-863ypmn0kuja>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Gravel" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Dominique" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Dominique Gravel" .
+
+<http://id.crossref.org/contributor/nicolas-mouquet-863ypmn0kuja>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Mouquet" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Nicolas" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Nicolas Mouquet" .
+
+<http://id.crossref.org/contributor/jose-alexandre-felizola-diniz-filho-863ypmn0kuja>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Diniz-Filho" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "José Alexandre Felizola" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "José Alexandre Felizola Diniz-Filho" .
+
+<http://id.crossref.org/contributor/francois-guilhaumon-863ypmn0kuja>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Guilhaumon" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "François" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "François Guilhaumon" .
+
+<http://id.crossref.org/contributor/julien-renaud-863ypmn0kuja>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Renaud" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Julien" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Julien Renaud" .
+
+<http://id.crossref.org/contributor/david-mouillot-863ypmn0kuja>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Mouillot" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "David" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "David Mouillot" .
+
+<http://id.crossref.org/contributor/wilfried-thuiller-863ypmn0kuja>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Thuiller" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Wilfried" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Wilfried Thuiller" .
+
+<http://id.crossref.org/contributor/marcus-vinicius-cianciaruso-863ypmn0kuja>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Cianciaruso" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Marcus Vinicius" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Marcus Vinicius Cianciaruso" .
+
+<http://id.crossref.org/issn/1466-822X>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1466-822X" ;
+      <http://purl.org/dc/terms/title>
+              "Global Ecology and Biogeography" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1466-822X" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1466-822X" .
+
+<http://id.crossref.org/contributor/rafael-loyola-863ypmn0kuja>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Loyola" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Rafael" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Rafael Loyola" .
+
+<http://dx.doi.org/10.1111/geb.12158>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1111/geb.12158" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "847" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "836" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "23" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/dominique-gravel-863ypmn0kuja> , <http://id.crossref.org/contributor/jose-alexandre-felizola-diniz-filho-863ypmn0kuja> , <http://id.crossref.org/contributor/nicolas-mouquet-863ypmn0kuja> , <http://id.crossref.org/contributor/francois-guilhaumon-863ypmn0kuja> , <http://id.crossref.org/contributor/david-mouillot-863ypmn0kuja> , <http://id.crossref.org/contributor/julien-renaud-863ypmn0kuja> , <http://id.crossref.org/contributor/vincent-devictor-863ypmn0kuja> , <http://id.crossref.org/contributor/wilfried-thuiller-863ypmn0kuja> , <http://id.crossref.org/contributor/florent-mazel-863ypmn0kuja> , <http://id.crossref.org/contributor/marcus-vinicius-cianciaruso-863ypmn0kuja> , <http://id.crossref.org/contributor/rafael-loyola-863ypmn0kuja> ;
+      <http://purl.org/dc/terms/date>
+              "2014-03-31"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1111/geb.12158" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1466-822X> ;
+      <http://purl.org/dc/terms/publisher>
+              "Wiley" ;
+      <http://purl.org/dc/terms/title>
+              "Multifaceted diversity-area relationships reveal global hotspots of mammalian species, trait and lineage diversity" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1111/geb.12158" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "847" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "836" ;
+      <http://purl.org/ontology/bibo/volume>
+              "23" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1111/geb.12158> , <doi:10.1111/geb.12158> .
+
+<http://id.crossref.org/contributor/vincent-devictor-863ypmn0kuja>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Devictor" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Vincent" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Vincent Devictor" .
+
+<http://id.crossref.org/contributor/florent-mazel-863ypmn0kuja>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Mazel" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Florent" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Florent Mazel" .

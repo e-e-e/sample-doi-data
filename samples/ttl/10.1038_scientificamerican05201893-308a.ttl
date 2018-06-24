@@ -1,0 +1,40 @@
+<http://id.crossref.org/issn/0036-8733>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0036-8733" ;
+      <http://purl.org/dc/terms/title>
+              "Scientific American" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0036-8733" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0036-8733" .
+
+<http://dx.doi.org/10.1038/scientificamerican05201893-308a>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1038/scientificamerican05201893-308a" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "308" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "308" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "68" ;
+      <http://purl.org/dc/terms/date>
+              "1893-05-20"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1038/scientificamerican05201893-308a" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0036-8733> ;
+      <http://purl.org/dc/terms/publisher>
+              "Springer Nature" ;
+      <http://purl.org/dc/terms/title>
+              "The Crossing of Rivers by Means of Leathern Bottles" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1038/scientificamerican05201893-308a" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "308" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "308" ;
+      <http://purl.org/ontology/bibo/volume>
+              "68" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1038/scientificamerican05201893-308a> , <info:doi/10.1038/scientificamerican05201893-308a> .

@@ -1,0 +1,60 @@
+<http://dx.doi.org/10.1002/srin.193300056>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1002/srin.193300056" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "322" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "319" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "7" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/hans-majert-1hvees7nhc1xe> , <http://id.crossref.org/contributor/hans-esser-1hvees7nhc1xe> ;
+      <http://purl.org/dc/terms/date>
+              "1933-11"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1002/srin.193300056" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0003-8962> ;
+      <http://purl.org/dc/terms/publisher>
+              "Wiley" ;
+      <http://purl.org/dc/terms/title>
+              "Einfluß der Abschrecktemperatur auf die Stahlhärtungsvorgänge" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1002/srin.193300056" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "322" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "319" ;
+      <http://purl.org/ontology/bibo/volume>
+              "7" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1002/srin.193300056> , <info:doi/10.1002/srin.193300056> .
+
+<http://id.crossref.org/contributor/hans-majert-1hvees7nhc1xe>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Majert" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Hans" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Hans Majert" .
+
+<http://id.crossref.org/contributor/hans-esser-1hvees7nhc1xe>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Esser" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Hans" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Hans Esser" .
+
+<http://id.crossref.org/issn/0003-8962>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0003-8962" ;
+      <http://purl.org/dc/terms/title>
+              "Archiv für das Eisenhüttenwesen" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0003-8962" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0003-8962" .

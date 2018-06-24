@@ -1,0 +1,50 @@
+<http://id.crossref.org/contributor/karl-riesenhuber-3od7hfe9uilu>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Riesenhuber" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Karl" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Karl Riesenhuber" .
+
+<http://dx.doi.org/10.1515/9783110366792-206>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1515/9783110366792-206" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "XXII" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "XIX" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/karl-riesenhuber-3od7hfe9uilu> , <http://id.crossref.org/contributor/harald-heker-3od7hfe9uilu> ;
+      <http://purl.org/dc/terms/date>
+              "2018-06-11"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1515/9783110366792-206" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9783110366792> ;
+      <http://purl.org/dc/terms/publisher>
+              "De Gruyter" ;
+      <http://purl.org/dc/terms/title>
+              "Verzeichnis der abgekürzt zitierten Rechtsakte" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1515/9783110366792-206" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "XXII" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "XIX" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1515/9783110366792-206> , <doi:10.1515/9783110366792-206> .
+
+<http://id.crossref.org/isbn/9783110366792>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Recht und Praxis der GEMA" .
+
+<http://id.crossref.org/contributor/harald-heker-3od7hfe9uilu>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Heker" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Harald" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Harald Heker" .

@@ -1,0 +1,32 @@
+<http://dx.doi.org/10.1021/ie00010a700>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1021/ie00010a700" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "31" ;
+      <http://purl.org/dc/terms/date>
+              "1992-10"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1021/ie00010a700" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0888-5885> ;
+      <http://purl.org/dc/terms/publisher>
+              "American Chemical Society (ACS)" ;
+      <http://purl.org/dc/terms/title>
+              "Masthead" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1021/ie00010a700" ;
+      <http://purl.org/ontology/bibo/volume>
+              "31" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1021/ie00010a700> , <info:doi/10.1021/ie00010a700> .
+
+<http://id.crossref.org/issn/0888-5885>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0888-5885" , "1520-5045" ;
+      <http://purl.org/dc/terms/title>
+              "Industrial & Engineering Chemistry Research" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0888-5885" , "1520-5045" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0888-5885" , "urn:issn:1520-5045" .

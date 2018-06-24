@@ -1,0 +1,40 @@
+<http://id.crossref.org/issn/1079-5006>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1758-535X" , "1079-5006" ;
+      <http://purl.org/dc/terms/title>
+              "The Journals of Gerontology Series A: Biological Sciences and Medical Sciences" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1758-535X" , "1079-5006" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1079-5006" , "urn:issn:1758-535X" .
+
+<http://dx.doi.org/10.1093/gerona/gls036>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1093/gerona/gls036" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "NP" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "NP" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "67" ;
+      <http://purl.org/dc/terms/date>
+              "2012-10-12"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1093/gerona/gls036" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1079-5006> ;
+      <http://purl.org/dc/terms/publisher>
+              "Oxford University Press (OUP)" ;
+      <http://purl.org/dc/terms/title>
+              "Biological" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1093/gerona/gls036" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "NP" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "NP" ;
+      <http://purl.org/ontology/bibo/volume>
+              "67" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1093/gerona/gls036> , <info:doi/10.1093/gerona/gls036> .

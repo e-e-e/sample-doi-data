@@ -1,0 +1,75 @@
+<http://id.crossref.org/issn/1070-9622>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1875-9203" , "1070-9622" ;
+      <http://purl.org/dc/terms/title>
+              "Shock and Vibration" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1875-9203" , "1070-9622" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1070-9622" , "urn:issn:1875-9203" .
+
+<http://id.crossref.org/contributor/song-chunsheng-rr4bbd35wm0s>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <http://orcid.org/0000-0001-6811-8273> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Chunsheng" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Song" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Song Chunsheng" .
+
+<http://dx.doi.org/10.1155/2016/3486959>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1155/2016/3486959" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "15" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "1" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "2016" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/song-chunsheng-rr4bbd35wm0s> , <http://id.crossref.org/contributor/jiang-youliang-rr4bbd35wm0s> , <http://id.crossref.org/contributor/zhang-jinguang-rr4bbd35wm0s> ;
+      <http://purl.org/dc/terms/date>
+              "2016"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1155/2016/3486959" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1070-9622> ;
+      <http://purl.org/dc/terms/publisher>
+              "Hindawi Limited" ;
+      <http://purl.org/dc/terms/title>
+              "PID Control of Multisources Complex Excitations Active Vibration Isolation System: An Improved Particle Swarm Optimization Algorithm" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1155/2016/3486959" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "15" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "1" ;
+      <http://purl.org/ontology/bibo/volume>
+              "2016" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1155/2016/3486959> , <info:doi/10.1155/2016/3486959> .
+
+<http://id.crossref.org/contributor/jiang-youliang-rr4bbd35wm0s>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <http://orcid.org/0000-0001-7753-2396> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Youliang" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Jiang" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Jiang Youliang" .
+
+<http://id.crossref.org/contributor/zhang-jinguang-rr4bbd35wm0s>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <http://orcid.org/0000-0002-2503-1474> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Jinguang" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Zhang" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Zhang Jinguang" .

@@ -1,0 +1,105 @@
+<http://id.crossref.org/contributor/jesu-arockiaraj-3mtl629nlo4xe>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Arockiaraj" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Jesu" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Jesu Arockiaraj" .
+
+<http://id.crossref.org/issn/1050-4648>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1050-4648" ;
+      <http://purl.org/dc/terms/title>
+              "Fish & Shellfish Immunology" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1050-4648" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1050-4648" .
+
+<http://id.crossref.org/contributor/krishnan-vasanth-3mtl629nlo4xe>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Vasanth" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Krishnan" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Krishnan Vasanth" .
+
+<http://id.crossref.org/contributor/ramasamy-harikrishnan-3mtl629nlo4xe>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Harikrishnan" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Ramasamy" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Ramasamy Harikrishnan" .
+
+<http://id.crossref.org/contributor/chellam-balasundaram-3mtl629nlo4xe>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Balasundaram" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Chellam" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Chellam Balasundaram" .
+
+<http://dx.doi.org/10.1016/j.fsi.2016.02.019>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/j.fsi.2016.02.019" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "169" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "161" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "51" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/jesu-arockiaraj-3mtl629nlo4xe> , <http://id.crossref.org/contributor/krishnan-vasanth-3mtl629nlo4xe> , <http://id.crossref.org/contributor/chellam-balasundaram-3mtl629nlo4xe> , <http://id.crossref.org/contributor/ramasamy-harikrishnan-3mtl629nlo4xe> , <http://id.crossref.org/contributor/adil-nafar-3mtl629nlo4xe> , <http://id.crossref.org/contributor/suntharam-jawahar-3mtl629nlo4xe> , <http://id.crossref.org/contributor/mohamed-saiyad-musthafa-3mtl629nlo4xe> ;
+      <http://purl.org/dc/terms/date>
+              "2016-04"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/j.fsi.2016.02.019" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1050-4648> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Dietary supplementation of Zeolite on growth performance, immunological role, and disease resistance in  Channa striatus  against  Aphanomyces invadans" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/j.fsi.2016.02.019" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "169" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "161" ;
+      <http://purl.org/ontology/bibo/volume>
+              "51" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1016/j.fsi.2016.02.019> , <info:doi/10.1016/j.fsi.2016.02.019> .
+
+<http://id.crossref.org/contributor/adil-nafar-3mtl629nlo4xe>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Nafar" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Adil" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Adil Nafar" .
+
+<http://id.crossref.org/contributor/suntharam-jawahar-3mtl629nlo4xe>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Jawahar" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Suntharam" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Suntharam Jawahar" .
+
+<http://id.crossref.org/contributor/mohamed-saiyad-musthafa-3mtl629nlo4xe>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Musthafa" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Mohamed Saiyad" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Mohamed Saiyad Musthafa" .

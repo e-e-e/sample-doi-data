@@ -1,0 +1,51 @@
+<http://id.crossref.org/issn/1558-6766>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1558-6766" ;
+      <http://purl.org/dc/terms/title>
+              "Bulletin of the Center for Children's Books" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1558-6766" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1558-6766" .
+
+<http://dx.doi.org/10.1353/bcc.0.0623>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1353/bcc.0.0623" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "221" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "221" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "62" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/deborah-stevenson-1p8280i41i1hq> ;
+      <http://purl.org/dc/terms/date>
+              "2009"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1353/bcc.0.0623" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1558-6766> ;
+      <http://purl.org/dc/terms/publisher>
+              "Johns Hopkins University Press" ;
+      <http://purl.org/dc/terms/title>
+              "<i>Food Hates You, Too and Other Poems</i> (review)" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1353/bcc.0.0623" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "221" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "221" ;
+      <http://purl.org/ontology/bibo/volume>
+              "62" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1353/bcc.0.0623> , <info:doi/10.1353/bcc.0.0623> .
+
+<http://id.crossref.org/contributor/deborah-stevenson-1p8280i41i1hq>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Stevenson" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Deborah" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Deborah Stevenson" .

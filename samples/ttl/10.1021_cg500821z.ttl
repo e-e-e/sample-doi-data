@@ -1,0 +1,132 @@
+<http://id.crossref.org/contributor/yuichi-ikuhara-1w4sz1a42qb3t>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Ikuhara" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Yuichi" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Yuichi Ikuhara" .
+
+<http://id.crossref.org/contributor/takanari-togashi-1w4sz1a42qb3t>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Togashi" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Takanari" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Takanari Togashi" .
+
+<http://id.crossref.org/contributor/takeo-ohsawa-1w4sz1a42qb3t>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Ohsawa" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Takeo" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Takeo Ohsawa" .
+
+<http://dx.doi.org/10.1021/cg500821z>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1021/cg500821z" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "4720" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "4714" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "14" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/yuichi-ikuhara-1w4sz1a42qb3t> , <http://id.crossref.org/contributor/takanari-togashi-1w4sz1a42qb3t> , <http://id.crossref.org/contributor/takeo-ohsawa-1w4sz1a42qb3t> , <http://id.crossref.org/contributor/taro-hitosugi-1w4sz1a42qb3t> , <http://id.crossref.org/contributor/yusuke-sakuda-1w4sz1a42qb3t> , <http://id.crossref.org/contributor/daisuke-hojo-1w4sz1a42qb3t> , <http://id.crossref.org/contributor/zhongchang-wang-1w4sz1a42qb3t> , <http://id.crossref.org/contributor/tadafumi-adschiri-1w4sz1a42qb3t> , <http://id.crossref.org/contributor/shunsuke-asahina-1w4sz1a42qb3t> , <http://id.crossref.org/contributor/mitsuhiro-saito-1w4sz1a42qb3t> ;
+      <http://purl.org/dc/terms/date>
+              "2014-08-08"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1021/cg500821z" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1528-7483> ;
+      <http://purl.org/dc/terms/publisher>
+              "American Chemical Society (ACS)" ;
+      <http://purl.org/dc/terms/title>
+              "Nanoepitaxy of Anatase-type TiO2 on CeO2 Nanocubes Self-Assembled on a Si Substrate for Fabricating Well-Aligned Nanoscale Heterogeneous Interfaces" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1021/cg500821z" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "4720" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "4714" ;
+      <http://purl.org/ontology/bibo/volume>
+              "14" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1021/cg500821z> , <info:doi/10.1021/cg500821z> .
+
+<http://id.crossref.org/contributor/taro-hitosugi-1w4sz1a42qb3t>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Hitosugi" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Taro" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Taro Hitosugi" .
+
+<http://id.crossref.org/contributor/yusuke-sakuda-1w4sz1a42qb3t>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Sakuda" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Yusuke" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Yusuke Sakuda" .
+
+<http://id.crossref.org/contributor/zhongchang-wang-1w4sz1a42qb3t>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Wang" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Zhongchang" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Zhongchang Wang" .
+
+<http://id.crossref.org/contributor/daisuke-hojo-1w4sz1a42qb3t>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Hojo" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Daisuke" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Daisuke Hojo" .
+
+<http://id.crossref.org/contributor/shunsuke-asahina-1w4sz1a42qb3t>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Asahina" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Shunsuke" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Shunsuke Asahina" .
+
+<http://id.crossref.org/contributor/tadafumi-adschiri-1w4sz1a42qb3t>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Adschiri" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Tadafumi" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Tadafumi Adschiri" .
+
+<http://id.crossref.org/issn/1528-7483>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1528-7505" , "1528-7483" ;
+      <http://purl.org/dc/terms/title>
+              "Crystal Growth & Design" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1528-7505" , "1528-7483" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1528-7483" , "urn:issn:1528-7505" .
+
+<http://id.crossref.org/contributor/mitsuhiro-saito-1w4sz1a42qb3t>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Saito" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Mitsuhiro" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Mitsuhiro Saito" .

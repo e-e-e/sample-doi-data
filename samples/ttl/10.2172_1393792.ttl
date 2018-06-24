@@ -1,0 +1,62 @@
+<http://id.crossref.org/contributor/seshadri-srinivasa-raghavan-1ot2snlhfjca>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Srinivasa Raghavan" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Seshadri" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Seshadri Srinivasa Raghavan" .
+
+<http://id.crossref.org/contributor/eric-w-wood-1ot2snlhfjca>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Wood" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Eric W." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Eric W. Wood" .
+
+<http://dx.doi.org/10.2172/1393792>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.2172/1393792" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/seshadri-srinivasa-raghavan-1ot2snlhfjca> , <http://id.crossref.org/contributor/eric-w-wood-1ot2snlhfjca> , <http://id.crossref.org/contributor/marc-w-melaina-1ot2snlhfjca> , <http://id.crossref.org/contributor/matteo-muratori-1ot2snlhfjca> , <http://id.crossref.org/contributor/clement-l-rames-1ot2snlhfjca> ;
+      <http://purl.org/dc/terms/date>
+              "2017-09-15"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.2172/1393792" ;
+      <http://purl.org/dc/terms/publisher>
+              "Office of Scientific and Technical Information  (OSTI)" ;
+      <http://purl.org/dc/terms/title>
+              "National Plug-In Electric Vehicle Infrastructure Analysis" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.2172/1393792" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.2172/1393792> , <doi:10.2172/1393792> .
+
+<http://id.crossref.org/contributor/marc-w-melaina-1ot2snlhfjca>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Melaina" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Marc W." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Marc W. Melaina" .
+
+<http://id.crossref.org/contributor/clement-l-rames-1ot2snlhfjca>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Rames" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Clement L." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Clement L. Rames" .
+
+<http://id.crossref.org/contributor/matteo-muratori-1ot2snlhfjca>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Muratori" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Matteo" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Matteo Muratori" .

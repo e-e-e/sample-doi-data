@@ -1,0 +1,15 @@
+<http://dx.doi.org/10.4016/43466.01>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.4016/43466.01" ;
+      <http://purl.org/dc/terms/date>
+              "2012-03-15"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.4016/43466.01" ;
+      <http://purl.org/dc/terms/publisher>
+              "SciVee, Inc" ;
+      <http://purl.org/dc/terms/title>
+              "Gültepe Demirdöküm Servis ..444\"1\"494.. Demirdöküm Gültepe Servis Özel Tamir Servisi" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.4016/43466.01" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.4016/43466.01> , <info:doi/10.4016/43466.01> .

@@ -1,0 +1,60 @@
+<http://dx.doi.org/10.1136/injuryprev-2012-040590e.12>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1136/injuryprev-2012-040590e.12" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "A122" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "A122.2" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "18" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/harvey-lara-6ut3bqvgqtmy> , <http://id.crossref.org/contributor/close-jacqueline-6ut3bqvgqtmy> ;
+      <http://purl.org/dc/terms/date>
+              "2012-10"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1136/injuryprev-2012-040590e.12" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1353-8047> ;
+      <http://purl.org/dc/terms/publisher>
+              "BMJ" ;
+      <http://purl.org/dc/terms/title>
+              "Characteristics, causes and consequences of hospitalised Traumatic Brain Injury in older adults" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1136/injuryprev-2012-040590e.12" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "A122" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "A122.2" ;
+      <http://purl.org/ontology/bibo/volume>
+              "18" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1136/injuryprev-2012-040590e.12> , <doi:10.1136/injuryprev-2012-040590e.12> .
+
+<http://id.crossref.org/issn/1353-8047>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1353-8047" , "1475-5785" ;
+      <http://purl.org/dc/terms/title>
+              "Injury Prevention" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1353-8047" , "1475-5785" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1353-8047" , "urn:issn:1475-5785" .
+
+<http://id.crossref.org/contributor/harvey-lara-6ut3bqvgqtmy>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Lara" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Harvey" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Harvey Lara" .
+
+<http://id.crossref.org/contributor/close-jacqueline-6ut3bqvgqtmy>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Jacqueline" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Close" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Close Jacqueline" .

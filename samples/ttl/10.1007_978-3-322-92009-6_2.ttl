@@ -1,0 +1,41 @@
+<http://id.crossref.org/contributor/lutz-r-becker-2yq673rvisy23>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Becker" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Lutz R." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Lutz R. Becker" .
+
+<http://id.crossref.org/isbn/9783409188067>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Die neuen Beteiligungs- und Anlagemöglichkeiten für Versicherungsunternehmen nach dem novellierten § 54a Versicherungsaufsichtsgesetz" .
+
+<http://dx.doi.org/10.1007/978-3-322-92009-6_2>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1007/978-3-322-92009-6_2" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "41" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "7" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/lutz-r-becker-2yq673rvisy23> ;
+      <http://purl.org/dc/terms/date>
+              "1992"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1007/978-3-322-92009-6_2" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9783409188067> ;
+      <http://purl.org/dc/terms/publisher>
+              "Gabler Verlag" ;
+      <http://purl.org/dc/terms/title>
+              "Historische Entwicklung" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1007/978-3-322-92009-6_2" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "41" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "7" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1007/978-3-322-92009-6_2> , <info:doi/10.1007/978-3-322-92009-6_2> .

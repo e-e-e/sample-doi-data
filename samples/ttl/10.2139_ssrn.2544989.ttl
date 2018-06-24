@@ -1,0 +1,39 @@
+<http://id.crossref.org/contributor/myroslav-pidkuyko-1fdjibyzoy6ix>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Pidkuyko" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Myroslav" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Myroslav Pidkuyko" .
+
+<http://dx.doi.org/10.2139/ssrn.2544989>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.2139/ssrn.2544989" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/myroslav-pidkuyko-1fdjibyzoy6ix> ;
+      <http://purl.org/dc/terms/date>
+              "2015"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.2139/ssrn.2544989" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1556-5068> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Dynamics of Consumption and Dividends Over the Business Cycle" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.2139/ssrn.2544989" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.2139/ssrn.2544989> , <doi:10.2139/ssrn.2544989> .
+
+<http://id.crossref.org/issn/1556-5068>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1556-5068" ;
+      <http://purl.org/dc/terms/title>
+              "SSRN Electronic Journal" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1556-5068" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1556-5068" .

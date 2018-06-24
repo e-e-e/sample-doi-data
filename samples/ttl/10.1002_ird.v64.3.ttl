@@ -1,0 +1,30 @@
+<http://id.crossref.org/issn/1531-0353>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1531-0353" ;
+      <http://purl.org/dc/terms/title>
+              "Irrigation and Drainage" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1531-0353" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1531-0353" .
+
+<http://dx.doi.org/10.1002/ird.v64.3>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1002/ird.v64.3" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "64" ;
+      <http://purl.org/dc/terms/date>
+              "2015-07"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1002/ird.v64.3" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1531-0353> ;
+      <http://purl.org/dc/terms/publisher>
+              "Wiley" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1002/ird.v64.3" ;
+      <http://purl.org/ontology/bibo/volume>
+              "64" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1002/ird.v64.3> , <info:doi/10.1002/ird.v64.3> .

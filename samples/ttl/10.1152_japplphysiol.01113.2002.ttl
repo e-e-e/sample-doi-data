@@ -1,0 +1,87 @@
+<http://id.crossref.org/contributor/v-r-edgerton-1dlzi4wangss>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Edgerton" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "V. R." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "V. R. Edgerton" .
+
+<http://id.crossref.org/contributor/f-haddad-1dlzi4wangss>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Haddad" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "F." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "F. Haddad" .
+
+<http://dx.doi.org/10.1152/japplphysiol.01113.2002>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1152/japplphysiol.01113.2002" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "802" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "791" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "95" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/v-r-edgerton-1dlzi4wangss> , <http://id.crossref.org/contributor/f-haddad-1dlzi4wangss> , <http://id.crossref.org/contributor/k-m-baldwin-1dlzi4wangss> , <http://id.crossref.org/contributor/h-zhong-1dlzi4wangss> , <http://id.crossref.org/contributor/r-r-roy-1dlzi4wangss> ;
+      <http://purl.org/dc/terms/date>
+              "2003-08"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1152/japplphysiol.01113.2002" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/8750-7587> ;
+      <http://purl.org/dc/terms/publisher>
+              "American Physiological Society" ;
+      <http://purl.org/dc/terms/title>
+              "Atrophy responses to muscle inactivity. II. Molecular markers of protein  deficits" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1152/japplphysiol.01113.2002" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "802" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "791" ;
+      <http://purl.org/ontology/bibo/volume>
+              "95" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1152/japplphysiol.01113.2002> , <doi:10.1152/japplphysiol.01113.2002> .
+
+<http://id.crossref.org/issn/8750-7587>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1522-1601" , "8750-7587" ;
+      <http://purl.org/dc/terms/title>
+              "Journal of Applied Physiology" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1522-1601" , "8750-7587" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:8750-7587" , "urn:issn:1522-1601" .
+
+<http://id.crossref.org/contributor/k-m-baldwin-1dlzi4wangss>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Baldwin" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "K. M." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "K. M. Baldwin" .
+
+<http://id.crossref.org/contributor/h-zhong-1dlzi4wangss>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Zhong" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "H." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "H. Zhong" .
+
+<http://id.crossref.org/contributor/r-r-roy-1dlzi4wangss>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Roy" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "R. R." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "R. R. Roy" .

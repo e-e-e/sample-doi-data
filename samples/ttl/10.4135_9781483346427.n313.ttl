@@ -1,0 +1,22 @@
+<http://dx.doi.org/10.4135/9781483346427.n313>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.4135/9781483346427.n313" ;
+      <http://purl.org/dc/terms/date>
+              ""^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.4135/9781483346427.n313" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9781452258751> ;
+      <http://purl.org/dc/terms/publisher>
+              "SAGE Publications, Inc." ;
+      <http://purl.org/dc/terms/title>
+              "Media: Quality of Health Information" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.4135/9781483346427.n313" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.4135/9781483346427.n313> , <doi:10.4135/9781483346427.n313> .
+
+<http://id.crossref.org/isbn/9781452258751>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Encyclopedia of Health Communication" .

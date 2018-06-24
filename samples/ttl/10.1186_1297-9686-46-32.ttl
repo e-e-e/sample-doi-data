@@ -1,0 +1,83 @@
+<http://id.crossref.org/contributor/jack-cm-dekkers-lv8vqi93kxkr>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Dekkers" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Jack CM" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Jack CM Dekkers" .
+
+<http://dx.doi.org/10.1186/1297-9686-46-32>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1186/1297-9686-46-32" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "32" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "46" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/jack-cm-dekkers-lv8vqi93kxkr> , <http://id.crossref.org/contributor/john-w-mabry-lv8vqi93kxkr> , <http://id.crossref.org/contributor/max-f-rothschild-lv8vqi93kxkr> , <http://id.crossref.org/contributor/kenneth-j-stalder-lv8vqi93kxkr> , <http://id.crossref.org/contributor/caitlyn-e-abell-lv8vqi93kxkr> ;
+      <http://purl.org/dc/terms/date>
+              "2014"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1186/1297-9686-46-32" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1297-9686> ;
+      <http://purl.org/dc/terms/publisher>
+              "Springer Nature" ;
+      <http://purl.org/dc/terms/title>
+              "Total cost estimation for implementing genome-enabled selection in a multi-level swine production system" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1186/1297-9686-46-32" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "32" ;
+      <http://purl.org/ontology/bibo/volume>
+              "46" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1186/1297-9686-46-32> , <info:doi/10.1186/1297-9686-46-32> .
+
+<http://id.crossref.org/contributor/john-w-mabry-lv8vqi93kxkr>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Mabry" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "John W" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "John W Mabry" .
+
+<http://id.crossref.org/contributor/max-f-rothschild-lv8vqi93kxkr>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Rothschild" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Max F" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Max F Rothschild" .
+
+<http://id.crossref.org/issn/1297-9686>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1297-9686" ;
+      <http://purl.org/dc/terms/title>
+              "Genetics Selection Evolution" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1297-9686" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1297-9686" .
+
+<http://id.crossref.org/contributor/caitlyn-e-abell-lv8vqi93kxkr>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Abell" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Caitlyn E" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Caitlyn E Abell" .
+
+<http://id.crossref.org/contributor/kenneth-j-stalder-lv8vqi93kxkr>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Stalder" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Kenneth J" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Kenneth J Stalder" .

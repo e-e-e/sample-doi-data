@@ -1,0 +1,42 @@
+<http://dx.doi.org/10.5772/55116>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.5772/55116" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/birendra-p-33wa66jjvjmf1> , <http://id.crossref.org/contributor/michael-c-33wa66jjvjmf1> ;
+      <http://purl.org/dc/terms/date>
+              "2013-03-13"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.5772/55116" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9789535110279> ;
+      <http://purl.org/dc/terms/publisher>
+              "InTech" ;
+      <http://purl.org/dc/terms/title>
+              "Genetic Factors Involved in Sarcoidosis" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.5772/55116" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.5772/55116> , <doi:10.5772/55116> .
+
+<http://id.crossref.org/contributor/birendra-p-33wa66jjvjmf1>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "P." ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Birendra" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Birendra P." .
+
+<http://id.crossref.org/contributor/michael-c-33wa66jjvjmf1>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "C." ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Michael" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Michael C." .
+
+<http://id.crossref.org/isbn/9789535110279>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Sarcoidosis" .

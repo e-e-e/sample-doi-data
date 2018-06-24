@@ -1,0 +1,47 @@
+<http://id.crossref.org/issn/1267-4982>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1267-4982" , "1965-0256" ;
+      <http://purl.org/dc/terms/title>
+              "Innovations" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1267-4982" , "1965-0256" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1267-4982" , "urn:issn:1965-0256" .
+
+<http://id.crossref.org/contributor/genevieve-schmeder-2a9d8ji449lsc>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Schméder" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Geneviève" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Geneviève Schméder" .
+
+<http://dx.doi.org/10.3917/inno.042.0017>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.3917/inno.042.0017" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "17" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "42" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/genevieve-schmeder-2a9d8ji449lsc> ;
+      <http://purl.org/dc/terms/date>
+              "2013"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.3917/inno.042.0017" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1267-4982> ;
+      <http://purl.org/dc/terms/publisher>
+              "CAIRN" ;
+      <http://purl.org/dc/terms/title>
+              "Le casse-tête économique des dépenses militaires" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.3917/inno.042.0017" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "17" ;
+      <http://purl.org/ontology/bibo/volume>
+              "42" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.3917/inno.042.0017> , <doi:10.3917/inno.042.0017> .

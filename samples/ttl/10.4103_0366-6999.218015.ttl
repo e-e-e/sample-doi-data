@@ -1,0 +1,74 @@
+<http://id.crossref.org/contributor/kun-ling-shen-2cjjs2eqsqbcw>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Shen" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Kun-Ling" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Kun-Ling Shen" .
+
+<http://id.crossref.org/contributor/bao-ping-xu-2cjjs2eqsqbcw>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Xu" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Bao-Ping" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Bao-Ping Xu" .
+
+<http://id.crossref.org/contributor/xue-li-feng-2cjjs2eqsqbcw>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Feng" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Xue-Li" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Xue-Li Feng" .
+
+<http://id.crossref.org/contributor/yao-yao-2cjjs2eqsqbcw>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Yao" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Yao" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Yao Yao" .
+
+<http://id.crossref.org/issn/0366-6999>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0366-6999" ;
+      <http://purl.org/dc/terms/title>
+              "Chinese Medical Journal" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0366-6999" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0366-6999" .
+
+<http://dx.doi.org/10.4103/0366-6999.218015>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.4103/0366-6999.218015" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "2771" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "130" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/kun-ling-shen-2cjjs2eqsqbcw> , <http://id.crossref.org/contributor/xue-li-feng-2cjjs2eqsqbcw> , <http://id.crossref.org/contributor/bao-ping-xu-2cjjs2eqsqbcw> , <http://id.crossref.org/contributor/yao-yao-2cjjs2eqsqbcw> ;
+      <http://purl.org/dc/terms/date>
+              "2017"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.4103/0366-6999.218015" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0366-6999> ;
+      <http://purl.org/dc/terms/publisher>
+              "Medknow" ;
+      <http://purl.org/dc/terms/title>
+              "Pseudo-Bartter Syndrome in a Chinese Infant with Cystic Fibrosis Caused by c.532G>A Mutation in CFTR" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.4103/0366-6999.218015" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "2771" ;
+      <http://purl.org/ontology/bibo/volume>
+              "130" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.4103/0366-6999.218015> , <info:doi/10.4103/0366-6999.218015> .

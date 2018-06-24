@@ -1,0 +1,87 @@
+<http://dx.doi.org/10.1021/jp502898a>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1021/jp502898a" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "7439" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "7430" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "118" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/patrick-g-hartley-3v9pvxy0vksql> , <http://id.crossref.org/contributor/terence-e-hartnett-3v9pvxy0vksql> , <http://id.crossref.org/contributor/katharina-ladewig-3v9pvxy0vksql> , <http://id.crossref.org/contributor/keith-m-mclean-3v9pvxy0vksql> , <http://id.crossref.org/contributor/andrea-j-oconnor-3v9pvxy0vksql> ;
+      <http://purl.org/dc/terms/date>
+              "2014-06-24"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1021/jp502898a" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1520-6106> ;
+      <http://purl.org/dc/terms/publisher>
+              "American Chemical Society (ACS)" ;
+      <http://purl.org/dc/terms/title>
+              "Size and Phase Control of Cubic Lyotropic Liquid Crystal Nanoparticles" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1021/jp502898a" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "7439" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "7430" ;
+      <http://purl.org/ontology/bibo/volume>
+              "118" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1021/jp502898a> , <info:doi/10.1021/jp502898a> .
+
+<http://id.crossref.org/contributor/terence-e-hartnett-3v9pvxy0vksql>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Hartnett" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Terence E." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Terence E. Hartnett" .
+
+<http://id.crossref.org/contributor/patrick-g-hartley-3v9pvxy0vksql>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Hartley" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Patrick G." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Patrick G. Hartley" .
+
+<http://id.crossref.org/contributor/katharina-ladewig-3v9pvxy0vksql>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Ladewig" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Katharina" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Katharina Ladewig" .
+
+<http://id.crossref.org/issn/1520-6106>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1520-5207" , "1520-6106" ;
+      <http://purl.org/dc/terms/title>
+              "The Journal of Physical Chemistry B" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1520-5207" , "1520-6106" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1520-5207" , "urn:issn:1520-6106" .
+
+<http://id.crossref.org/contributor/andrea-j-oconnor-3v9pvxy0vksql>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "O’Connor" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Andrea J." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Andrea J. O’Connor" .
+
+<http://id.crossref.org/contributor/keith-m-mclean-3v9pvxy0vksql>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "McLean" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Keith M." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Keith M. McLean" .

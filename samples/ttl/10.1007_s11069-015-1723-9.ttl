@@ -1,0 +1,96 @@
+<http://id.crossref.org/contributor/fei-zhou-287whxqzlq2ts>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Zhou" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Fei" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Fei Zhou" .
+
+<http://id.crossref.org/contributor/jinxiu-li-287whxqzlq2ts>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Li" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Jinxiu" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Jinxiu Li" .
+
+<http://id.crossref.org/contributor/long-yan-287whxqzlq2ts>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Yan" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Long" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Long Yan" .
+
+<http://id.crossref.org/contributor/minjian-chen-287whxqzlq2ts>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Chen" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Minjian" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Minjian Chen" .
+
+<http://id.crossref.org/contributor/yajie-hu-287whxqzlq2ts>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Hu" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Yajie" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Yajie Hu" .
+
+<http://dx.doi.org/10.1007/s11069-015-1723-9>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1007/s11069-015-1723-9" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "515" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "497" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "78" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/fei-zhou-287whxqzlq2ts> , <http://id.crossref.org/contributor/jinxiu-li-287whxqzlq2ts> , <http://id.crossref.org/contributor/long-yan-287whxqzlq2ts> , <http://id.crossref.org/contributor/yajie-hu-287whxqzlq2ts> , <http://id.crossref.org/contributor/minjian-chen-287whxqzlq2ts> , <http://id.crossref.org/contributor/jing-ma-287whxqzlq2ts> ;
+      <http://purl.org/dc/terms/date>
+              "2015-04-26"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1007/s11069-015-1723-9" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0921-030X> ;
+      <http://purl.org/dc/terms/publisher>
+              "Springer Nature" ;
+      <http://purl.org/dc/terms/title>
+              "Is the S-shaped curve a general law? An application to evaluate the damage resulting from water-induced disasters" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1007/s11069-015-1723-9" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "515" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "497" ;
+      <http://purl.org/ontology/bibo/volume>
+              "78" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1007/s11069-015-1723-9> , <doi:10.1007/s11069-015-1723-9> .
+
+<http://id.crossref.org/issn/0921-030X>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0921-030X" , "1573-0840" ;
+      <http://purl.org/dc/terms/title>
+              "Natural Hazards" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0921-030X" , "1573-0840" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0921-030X" , "urn:issn:1573-0840" .
+
+<http://id.crossref.org/contributor/jing-ma-287whxqzlq2ts>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Ma" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Jing" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Jing Ma" .

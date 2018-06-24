@@ -1,0 +1,40 @@
+<http://id.crossref.org/issn/0114-9954>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1179-2051" , "0114-9954" ;
+      <http://purl.org/dc/terms/title>
+              "Reactions Weekly" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1179-2051" , "0114-9954" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0114-9954" , "urn:issn:1179-2051" .
+
+<http://dx.doi.org/10.1007/s40278-014-2557-z>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1007/s40278-014-2557-z" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "8" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "8" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "1514" ;
+      <http://purl.org/dc/terms/date>
+              "2014-08"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1007/s40278-014-2557-z" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0114-9954> ;
+      <http://purl.org/dc/terms/publisher>
+              "Springer Nature" ;
+      <http://purl.org/dc/terms/title>
+              "Agomelatine" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1007/s40278-014-2557-z" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "8" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "8" ;
+      <http://purl.org/ontology/bibo/volume>
+              "1514" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1007/s40278-014-2557-z> , <doi:10.1007/s40278-014-2557-z> .

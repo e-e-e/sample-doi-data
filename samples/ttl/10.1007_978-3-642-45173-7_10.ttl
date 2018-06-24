@@ -1,0 +1,41 @@
+<http://id.crossref.org/contributor/fabiano-compagnucci-3lpxwdddesnlf>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Compagnucci" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Fabiano" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Fabiano Compagnucci" .
+
+<http://id.crossref.org/isbn/9783642451720>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Knowledge-creating Milieus in Europe" .
+
+<http://dx.doi.org/10.1007/978-3-642-45173-7_10>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1007/978-3-642-45173-7_10" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "244" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "215" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/fabiano-compagnucci-3lpxwdddesnlf> ;
+      <http://purl.org/dc/terms/date>
+              "2016"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1007/978-3-642-45173-7_10" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9783642451720> ;
+      <http://purl.org/dc/terms/publisher>
+              "Springer Berlin Heidelberg" ;
+      <http://purl.org/dc/terms/title>
+              "Localisation Patterns of Knowledge-Creating Services in Paris Metropolitan Region" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1007/978-3-642-45173-7_10" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "244" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "215" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1007/978-3-642-45173-7_10> , <doi:10.1007/978-3-642-45173-7_10> .

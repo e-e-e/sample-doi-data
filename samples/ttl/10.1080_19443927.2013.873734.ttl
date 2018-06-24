@@ -1,0 +1,51 @@
+<http://id.crossref.org/contributor/mark-james-hamilton-3irnr5uwvl7si>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Hamilton" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Mark James" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Mark James Hamilton" .
+
+<http://id.crossref.org/issn/1944-3927>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1944-3919" , "1944-3927" ;
+      <http://purl.org/dc/terms/title>
+              "Theatre, Dance and Performance Training" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1944-3919" , "1944-3927" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1944-3919" , "urn:issn:1944-3927" .
+
+<http://dx.doi.org/10.1080/19443927.2013.873734>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1080/19443927.2013.873734" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "58" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "45" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "5" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/mark-james-hamilton-3irnr5uwvl7si> ;
+      <http://purl.org/dc/terms/date>
+              "2014-01-02"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1080/19443927.2013.873734" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1944-3927> ;
+      <http://purl.org/dc/terms/publisher>
+              "Informa UK Limited" ;
+      <http://purl.org/dc/terms/title>
+              "A queer and permissive text: towards situated knowledge of CVN-kalarippayattu" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1080/19443927.2013.873734" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "58" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "45" ;
+      <http://purl.org/ontology/bibo/volume>
+              "5" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1080/19443927.2013.873734> , <info:doi/10.1080/19443927.2013.873734> .

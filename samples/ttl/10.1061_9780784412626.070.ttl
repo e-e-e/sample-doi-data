@@ -1,0 +1,42 @@
+<http://id.crossref.org/isbn/9780784412626>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Advances in Hurricane Engineering" .
+
+<http://id.crossref.org/contributor/james-snow-3ta44dfae46mk>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Snow" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "James" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "James Snow" .
+
+<http://id.crossref.org/contributor/regan-milam-3ta44dfae46mk>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Milam" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Regan" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Regan Milam" .
+
+<http://dx.doi.org/10.1061/9780784412626.070>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1061/9780784412626.070" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/james-snow-3ta44dfae46mk> , <http://id.crossref.org/contributor/regan-milam-3ta44dfae46mk> ;
+      <http://purl.org/dc/terms/date>
+              "2012-11-13"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1061/9780784412626.070" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9780784412626> ;
+      <http://purl.org/dc/terms/publisher>
+              "American Society of Civil Engineers" ;
+      <http://purl.org/dc/terms/title>
+              "Challenges Encountered Retrofitting an Existing Concrete Building Classified As an Essential Facility" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1061/9780784412626.070" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1061/9780784412626.070> , <doi:10.1061/9780784412626.070> .

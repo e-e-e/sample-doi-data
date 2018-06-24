@@ -1,0 +1,28 @@
+<http://id.crossref.org/issn/1349-9157>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1349-9157" ;
+      <http://purl.org/dc/terms/title>
+              "Journal of Radiation Research" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1349-9157" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1349-9157" .
+
+<http://dx.doi.org/10.1269/jrr.33.suppl_1.171>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1269/jrr.33.suppl_1.171" ;
+      <http://purl.org/dc/terms/date>
+              "1992-03"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1269/jrr.33.suppl_1.171" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1349-9157> ;
+      <http://purl.org/dc/terms/publisher>
+              "Oxford University Press (OUP)" ;
+      <http://purl.org/dc/terms/title>
+              "Chromosome Analysis by Image Processing in a Computerized Environment. Clinical Applications" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1269/jrr.33.suppl_1.171" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1269/jrr.33.suppl_1.171> , <doi:10.1269/jrr.33.suppl_1.171> .

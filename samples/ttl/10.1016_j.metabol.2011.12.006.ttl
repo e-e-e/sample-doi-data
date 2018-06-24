@@ -1,0 +1,51 @@
+<http://dx.doi.org/10.1016/j.metabol.2011.12.006>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/j.metabol.2011.12.006" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "610" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "603" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "61" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/ghada-el-hajj-fuleihan-k8o7vzp5cv7j> ;
+      <http://purl.org/dc/terms/date>
+              "2012-05"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/j.metabol.2011.12.006" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0026-0495> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Can the sunshine vitamin melt the fat?" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/j.metabol.2011.12.006" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "610" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "603" ;
+      <http://purl.org/ontology/bibo/volume>
+              "61" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1016/j.metabol.2011.12.006> , <doi:10.1016/j.metabol.2011.12.006> .
+
+<http://id.crossref.org/contributor/ghada-el-hajj-fuleihan-k8o7vzp5cv7j>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "El-Hajj Fuleihan" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Ghada" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Ghada El-Hajj Fuleihan" .
+
+<http://id.crossref.org/issn/0026-0495>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0026-0495" ;
+      <http://purl.org/dc/terms/title>
+              "Metabolism" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0026-0495" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0026-0495" .

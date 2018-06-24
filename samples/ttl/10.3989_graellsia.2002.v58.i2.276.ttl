@@ -1,0 +1,78 @@
+<http://dx.doi.org/10.3989/graellsia.2002.v58.i2.276>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.3989/graellsia.2002.v58.i2.276" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "34" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "21" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "58" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/a-i-rial-12rb2bjwp0n5d> , <http://id.crossref.org/contributor/c-a-lasso-12rb2bjwp0n5d> , <http://id.crossref.org/contributor/i-de-la-riva-12rb2bjwp0n5d> , <http://id.crossref.org/contributor/j-castroviejo-12rb2bjwp0n5d> ;
+      <http://purl.org/dc/terms/date>
+              "2002-12-30"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.3989/graellsia.2002.v58.i2.276" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1989-953X> ;
+      <http://purl.org/dc/terms/publisher>
+              "Departmento de Publicaciones del CSIC" ;
+      <http://purl.org/dc/terms/title>
+              "Herpetofauna del Parque Nacional de Monte Alén (Río Muni, Guinea Ecuatorial)" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.3989/graellsia.2002.v58.i2.276" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "34" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "21" ;
+      <http://purl.org/ontology/bibo/volume>
+              "58" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.3989/graellsia.2002.v58.i2.276> , <doi:10.3989/graellsia.2002.v58.i2.276> .
+
+<http://id.crossref.org/issn/1989-953X>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0367-5041" , "1989-953X" ;
+      <http://purl.org/dc/terms/title>
+              "Graellsia" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0367-5041" , "1989-953X" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1989-953X" , "urn:issn:0367-5041" .
+
+<http://id.crossref.org/contributor/a-i-rial-12rb2bjwp0n5d>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Rial" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "A. I." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "A. I. Rial" .
+
+<http://id.crossref.org/contributor/i-de-la-riva-12rb2bjwp0n5d>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "De la Riva" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "I." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "I. De la Riva" .
+
+<http://id.crossref.org/contributor/c-a-lasso-12rb2bjwp0n5d>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Lasso" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "C. A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "C. A. Lasso" .
+
+<http://id.crossref.org/contributor/j-castroviejo-12rb2bjwp0n5d>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Castroviejo" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "J." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "J. Castroviejo" .

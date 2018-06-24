@@ -1,0 +1,30 @@
+<http://dx.doi.org/10.1002/asi.v31:3>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1002/asi.v31:3" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "31" ;
+      <http://purl.org/dc/terms/date>
+              "1980-05"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1002/asi.v31:3" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0002-8231> ;
+      <http://purl.org/dc/terms/publisher>
+              "Wiley" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1002/asi.v31:3" ;
+      <http://purl.org/ontology/bibo/volume>
+              "31" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1002/asi.v31:3> , <doi:10.1002/asi.v31:3> .
+
+<http://id.crossref.org/issn/0002-8231>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1097-4571" , "0002-8231" ;
+      <http://purl.org/dc/terms/title>
+              "Journal of the American Society for Information Science" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1097-4571" , "0002-8231" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0002-8231" , "urn:issn:1097-4571" .

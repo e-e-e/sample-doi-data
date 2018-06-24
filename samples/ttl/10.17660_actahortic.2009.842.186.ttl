@@ -1,0 +1,56 @@
+<http://id.crossref.org/contributor/s-j-mackenzie-2ftgpq540cj9x>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "MacKenzie" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "S.J." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "S.J. MacKenzie" .
+
+<http://id.crossref.org/contributor/c-k-chandler-2ftgpq540cj9x>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Chandler" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "C.K." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "C.K. Chandler" .
+
+<http://id.crossref.org/issn/0567-7572>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0567-7572" , "2406-6168" ;
+      <http://purl.org/dc/terms/title>
+              "Acta Horticulturae" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0567-7572" , "2406-6168" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:2406-6168" , "urn:issn:0567-7572" .
+
+<http://dx.doi.org/10.17660/actahortic.2009.842.186>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.17660/actahortic.2009.842.186" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "846" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "843" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/s-j-mackenzie-2ftgpq540cj9x> , <http://id.crossref.org/contributor/c-k-chandler-2ftgpq540cj9x> ;
+      <http://purl.org/dc/terms/date>
+              "2009-08"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.17660/actahortic.2009.842.186" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0567-7572> ;
+      <http://purl.org/dc/terms/publisher>
+              "International Society for Horticultural Science (ISHS)" ;
+      <http://purl.org/dc/terms/title>
+              "THE LATE SEASON DECLINE IN STRAWBERRY FRUIT SOLUBLE SOLID CONTENT OBSERVED IN FLORIDA IS CAUSED BY RISING TEMPERATURES" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.17660/actahortic.2009.842.186" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "846" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "843" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.17660/actahortic.2009.842.186> , <doi:10.17660/actahortic.2009.842.186> .

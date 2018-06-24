@@ -1,0 +1,89 @@
+<http://id.crossref.org/contributor/georgios-koutsis-lqjk3brinl27>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <http://orcid.org/0000-0002-8980-8377> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Koutsis" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Georgios" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Georgios Koutsis" .
+
+<http://id.crossref.org/contributor/paraskewi-floroskoufi-lqjk3brinl27>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Floroskoufi" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Paraskewi" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Paraskewi Floroskoufi" .
+
+<http://id.crossref.org/contributor/maria-raftopoulou-lqjk3brinl27>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Raftopoulou" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Maria" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Maria Raftopoulou" .
+
+<http://id.crossref.org/issn/2090-6668>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "2090-6668" , "2090-6676" ;
+      <http://purl.org/dc/terms/title>
+              "Case Reports in Neurological Medicine" ;
+      <http://purl.org/ontology/bibo/issn>
+              "2090-6668" , "2090-6676" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:2090-6668" , "urn:issn:2090-6676" .
+
+<http://dx.doi.org/10.1155/2015/841897>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1155/2015/841897" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "3" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "1" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "2015" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/georgios-koutsis-lqjk3brinl27> , <http://id.crossref.org/contributor/paraskewi-floroskoufi-lqjk3brinl27> , <http://id.crossref.org/contributor/maria-raftopoulou-lqjk3brinl27> , <http://id.crossref.org/contributor/georgia-karadima-lqjk3brinl27> , <http://id.crossref.org/contributor/marios-panas-lqjk3brinl27> ;
+      <http://purl.org/dc/terms/date>
+              "2015"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1155/2015/841897" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/2090-6668> ;
+      <http://purl.org/dc/terms/publisher>
+              "Hindawi Limited" ;
+      <http://purl.org/dc/terms/title>
+              "Relapsing Remitting Multiple Sclerosis in X-Linked Charcot-Marie-Tooth Disease with Central Nervous System Involvement" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1155/2015/841897" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "3" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "1" ;
+      <http://purl.org/ontology/bibo/volume>
+              "2015" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1155/2015/841897> , <doi:10.1155/2015/841897> .
+
+<http://id.crossref.org/contributor/georgia-karadima-lqjk3brinl27>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Karadima" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Georgia" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Georgia Karadima" .
+
+<http://id.crossref.org/contributor/marios-panas-lqjk3brinl27>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Panas" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Marios" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Marios Panas" .

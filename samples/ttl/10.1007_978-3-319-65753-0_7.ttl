@@ -1,0 +1,59 @@
+<http://id.crossref.org/isbn/9783319657523>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Deindustrialization and Reindustrialization in Romania" .
+
+<http://id.crossref.org/contributor/constantin-ciutacu-u9np0iynx0cm>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Ciutacu" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Constantin" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Constantin Ciutacu" .
+
+<http://id.crossref.org/contributor/george-georgescu-u9np0iynx0cm>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Georgescu" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "George" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "George Georgescu" .
+
+<http://dx.doi.org/10.1007/978-3-319-65753-0_7>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1007/978-3-319-65753-0_7" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "173" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "155" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/constantin-ciutacu-u9np0iynx0cm> , <http://id.crossref.org/contributor/george-georgescu-u9np0iynx0cm> , <http://id.crossref.org/contributor/luminita-chivu-u9np0iynx0cm> ;
+      <http://purl.org/dc/terms/date>
+              "2017"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1007/978-3-319-65753-0_7" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9783319657523> ;
+      <http://purl.org/dc/terms/publisher>
+              "Springer International Publishing" ;
+      <http://purl.org/dc/terms/title>
+              "Conclusions on How the Industrial Economy in Romania Should Be Supported" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1007/978-3-319-65753-0_7" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "173" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "155" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1007/978-3-319-65753-0_7> , <info:doi/10.1007/978-3-319-65753-0_7> .
+
+<http://id.crossref.org/contributor/luminita-chivu-u9np0iynx0cm>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Chivu" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Luminiţa" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Luminiţa Chivu" .

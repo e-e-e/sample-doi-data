@@ -1,0 +1,57 @@
+<http://id.crossref.org/contributor/dennis-matusch-3mlujwozbyelu>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Matusch" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Dennis" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Dennis Matusch" .
+
+<http://id.crossref.org/contributor/jochen-thiele-3mlujwozbyelu>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Thiele" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Jochen" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Jochen Thiele" .
+
+<http://dx.doi.org/10.1055/a-0581-8645>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1055/a-0581-8645" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/dennis-matusch-3mlujwozbyelu> , <http://id.crossref.org/contributor/jochen-thiele-3mlujwozbyelu> , <http://id.crossref.org/contributor/florian-reifferscheid-3mlujwozbyelu> ;
+      <http://purl.org/dc/terms/date>
+              "2018-05-03"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1055/a-0581-8645" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0177-2309> ;
+      <http://purl.org/dc/terms/publisher>
+              "Georg Thieme Verlag KG" ;
+      <http://purl.org/dc/terms/title>
+              "Reanimation unter besonderen Umständen: Kreislaufstillstand bei implantiertem Linksherzassist-Device (LVAD)" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1055/a-0581-8645" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1055/a-0581-8645> , <doi:10.1055/a-0581-8645> .
+
+<http://id.crossref.org/contributor/florian-reifferscheid-3mlujwozbyelu>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Reifferscheid" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Florian" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Florian Reifferscheid" .
+
+<http://id.crossref.org/issn/0177-2309>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0177-2309" , "1438-8693" ;
+      <http://purl.org/dc/terms/title>
+              "Der Notarzt" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0177-2309" , "1438-8693" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1438-8693" , "urn:issn:0177-2309" .

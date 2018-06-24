@@ -1,0 +1,75 @@
+@prefix bibo:    <http://purl.org/ontology/bibo/> .
+@prefix prism:   <http://prismstandard.org/namespaces/basic/2.1/> .
+@prefix foaf:    <http://xmlns.com/foaf/0.1/> .
+@prefix dc:      <http://purl.org/dc/terms/> .
+
+<http://id.medra.org/contributor/Giuseppe+Carrus-10.7358%2Fecps-2017-015-pirc-2>
+      a       foaf:Person ;
+      foaf:familyName "Carrus" ;
+      foaf:givenName "Giuseppe" ;
+      foaf:name "Giuseppe Carrus" .
+
+<http://id.medra.org/contributor/Fridanna+Maricchiolo-10.7358%2Fecps-2017-015-pirc-3>
+      a       foaf:Person ;
+      foaf:familyName "Maricchiolo" ;
+      foaf:givenName "Fridanna" ;
+      foaf:name "Fridanna Maricchiolo" .
+
+<http://id.medra.org/issn/2037-7924>
+      a       bibo:Journal ;
+      prism:eIssn "2037-7924" ;
+      dc:hasPart <https://doi.org/10.7358/ecps-2017-015-pirc> ;
+      dc:identifier "2037-7924" ;
+      dc:title "ECPS - Educational, Cultural and Psychological Studies" ;
+      bibo:eissn "2037-7924" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:2037-7924" .
+
+<http://id.medra.org/contributor/Traute+Taeschner-10.7358%2Fecps-2017-015-pirc-4>
+      a       foaf:Person ;
+      foaf:familyName "Taeschner" ;
+      foaf:givenName "Traute" ;
+      foaf:name "Traute Taeschner" .
+
+<https://doi.org/10.7358/ecps-2017-015-pirc>
+      a       bibo:Article ;
+      prism:doi "10.7358/ecps-2017-015-pirc" ;
+      prism:volume "1" ;
+      dc:creator <http://id.medra.org/contributor/Giuseppe+Carrus-10.7358%2Fecps-2017-015-pirc-2> , <http://id.medra.org/contributor/Fridanna+Maricchiolo-10.7358%2Fecps-2017-015-pirc-3> , <http://id.medra.org/contributor/Traute+Taeschner-10.7358%2Fecps-2017-015-pirc-4> , <http://id.medra.org/contributor/Ylenia+Passiatore-10.7358%2Fecps-2017-015-pirc-1> , <http://id.medra.org/contributor/Sabine+Pirchio-10.7358%2Fecps-2017-015-pirc-0> , <http://id.medra.org/contributor/Francesco+Arcidiacono-10.7358%2Fecps-2017-015-pirc-5> ;
+      dc:date "2017-06-19" ;
+      dc:identifier "10.7358/ecps-2017-015-pirc" ;
+      dc:isPartOf <http://id.medra.org/issn/2037-7924> , <http://id.medra.org/issn/2037-7932> ;
+      dc:publisher "LED Edizioni Universitarie" ;
+      dc:title "Teachers and Parents Involvement for a Good School Experience of Native and Immigrant Children" ;
+      bibo:doi "10.7358/ecps-2017-015-pirc" ;
+      bibo:volume "1" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "info:doi/10.7358/ecps-2017-015-pirc" , "doi:10.7358/ecps-2017-015-pirc" .
+
+<http://id.medra.org/issn/2037-7932>
+      a       bibo:Journal ;
+      prism:issn "2037-7932" ;
+      dc:hasPart <https://doi.org/10.7358/ecps-2017-015-pirc> ;
+      dc:identifier "2037-7932" ;
+      dc:title "ECPS - Educational, Cultural and Psychological Studies" ;
+      bibo:issn "2037-7932" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:2037-7932" .
+
+<http://id.medra.org/contributor/Sabine+Pirchio-10.7358%2Fecps-2017-015-pirc-0>
+      a       foaf:Person ;
+      foaf:familyName "Pirchio" ;
+      foaf:givenName "Sabine" ;
+      foaf:name "Sabine Pirchio" .
+
+<http://id.medra.org/contributor/Francesco+Arcidiacono-10.7358%2Fecps-2017-015-pirc-5>
+      a       foaf:Person ;
+      foaf:familyName "Arcidiacono" ;
+      foaf:givenName "Francesco" ;
+      foaf:name "Francesco Arcidiacono" .
+
+<http://id.medra.org/contributor/Ylenia+Passiatore-10.7358%2Fecps-2017-015-pirc-1>
+      a       foaf:Person ;
+      foaf:familyName "Passiatore" ;
+      foaf:givenName "Ylenia" ;
+      foaf:name "Ylenia Passiatore" .

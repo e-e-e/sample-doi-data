@@ -1,0 +1,49 @@
+<http://dx.doi.org/10.1007/978-3-0348-8853-0>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1007/978-3-0348-8853-0" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/bruno-streit-1bs4edeqqp8ww> , <http://id.crossref.org/contributor/thomas-braunbeck-1bs4edeqqp8ww> , <http://id.crossref.org/contributor/david-e-hinton-1bs4edeqqp8ww> ;
+      <http://purl.org/dc/terms/date>
+              "1998"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1007/978-3-0348-8853-0" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9783034898027> ;
+      <http://purl.org/dc/terms/publisher>
+              "Birkhäuser Basel" ;
+      <http://purl.org/dc/terms/title>
+              "Fish Ecotoxicology" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1007/978-3-0348-8853-0" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1007/978-3-0348-8853-0> , <info:doi/10.1007/978-3-0348-8853-0> .
+
+<http://id.crossref.org/isbn/9783034898027>
+      a       <http://purl.org/ontology/bibo/Book> .
+
+<http://id.crossref.org/contributor/bruno-streit-1bs4edeqqp8ww>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Streit" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Bruno" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Bruno Streit" .
+
+<http://id.crossref.org/contributor/thomas-braunbeck-1bs4edeqqp8ww>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Braunbeck" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Thomas" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Thomas Braunbeck" .
+
+<http://id.crossref.org/contributor/david-e-hinton-1bs4edeqqp8ww>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Hinton" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "David E." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "David E. Hinton" .

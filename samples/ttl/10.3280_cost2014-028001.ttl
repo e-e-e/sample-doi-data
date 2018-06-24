@@ -1,0 +1,47 @@
+@prefix bibo:    <http://purl.org/ontology/bibo/> .
+@prefix prism:   <http://prismstandard.org/namespaces/basic/2.1/> .
+@prefix foaf:    <http://xmlns.com/foaf/0.1/> .
+@prefix dc:      <http://purl.org/dc/terms/> .
+
+<http://id.medra.org/issn/1972-5744>
+      a       bibo:Journal ;
+      prism:eIssn "1972-5744" ;
+      dc:hasPart <https://doi.org/10.3280/COST2014-028001> ;
+      dc:identifier "1972-5744" ;
+      dc:title "COSTRUZIONI PSICOANALITICHE" ;
+      bibo:eissn "1972-5744" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1972-5744" .
+
+<https://doi.org/10.3280/COST2014-028001>
+      a       bibo:Article ;
+      prism:doi "10.3280/COST2014-028001" ;
+      prism:endingPage " 22" ;
+      prism:startingPage " 9" ;
+      dc:creator <http://id.medra.org/contributor/Adriano+Voltolin-10.3280%2FCOST2014-028001-0> ;
+      dc:date "2014" ;
+      dc:identifier "10.3280/COST2014-028001" ;
+      dc:isPartOf <http://id.medra.org/issn/1972-5744> , <http://id.medra.org/issn/1721-9612> ;
+      dc:publisher "FrancoAngeli" ;
+      dc:title "Franz Fanon: La clinica" ;
+      bibo:doi "10.3280/COST2014-028001" ;
+      bibo:pageEnd " 22" ;
+      bibo:pageStart " 9" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "doi:10.3280/COST2014-028001" , "info:doi/10.3280/COST2014-028001" .
+
+<http://id.medra.org/contributor/Adriano+Voltolin-10.3280%2FCOST2014-028001-0>
+      a       foaf:Person ;
+      foaf:familyName "Voltolin" ;
+      foaf:givenName "Adriano" ;
+      foaf:name "Adriano Voltolin" .
+
+<http://id.medra.org/issn/1721-9612>
+      a       bibo:Journal ;
+      prism:issn "1721-9612" ;
+      dc:hasPart <https://doi.org/10.3280/COST2014-028001> ;
+      dc:identifier "1721-9612" ;
+      dc:title "COSTRUZIONI PSICOANALITICHE" ;
+      bibo:issn "1721-9612" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1721-9612" .

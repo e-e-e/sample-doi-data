@@ -1,0 +1,61 @@
+<http://id.crossref.org/contributor/christian-rentschler-10py7x4rezmhw>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Rentschler" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Christian" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Christian Rentschler" .
+
+<http://id.crossref.org/issn/1439-3107>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1439-3107" ;
+      <http://purl.org/dc/terms/title>
+              "Emotion@Web" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1439-3107" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1439-3107" .
+
+<http://dx.doi.org/10.1007/978-3-642-13993-2_5>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1007/978-3-642-13993-2_5" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "74" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "59" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/christian-rentschler-10py7x4rezmhw> , <http://id.crossref.org/contributor/pierre-hansch-10py7x4rezmhw> ;
+      <http://purl.org/dc/terms/date>
+              "2012"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1007/978-3-642-13993-2_5" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1439-3107> , <http://id.crossref.org/isbn/9783642139925> ;
+      <http://purl.org/dc/terms/publisher>
+              "Springer Berlin Heidelberg" ;
+      <http://purl.org/dc/terms/title>
+              "Analyse" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1007/978-3-642-13993-2_5" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "74" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "59" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1007/978-3-642-13993-2_5> , <info:doi/10.1007/978-3-642-13993-2_5> .
+
+<http://id.crossref.org/isbn/9783642139925>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Emotion@Web" .
+
+<http://id.crossref.org/contributor/pierre-hansch-10py7x4rezmhw>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Hansch" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Pierre" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Pierre Hansch" .

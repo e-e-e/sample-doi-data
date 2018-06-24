@@ -1,0 +1,51 @@
+<http://id.crossref.org/contributor/jonathan-woolley-343xptsmgys3u>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Woolley" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Jonathan" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Jonathan Woolley" .
+
+<http://dx.doi.org/10.1177/0022526617698155>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1177/0022526617698155" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "140" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "137" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "38" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/jonathan-woolley-343xptsmgys3u> ;
+      <http://purl.org/dc/terms/date>
+              "2017-03-15"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1177/0022526617698155" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0022-5266> ;
+      <http://purl.org/dc/terms/publisher>
+              "SAGE Publications" ;
+      <http://purl.org/dc/terms/title>
+              "Five Cents to Dreamland: A trip to Coney Island New York Transit Museum" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1177/0022526617698155" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "140" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "137" ;
+      <http://purl.org/ontology/bibo/volume>
+              "38" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1177/0022526617698155> , <info:doi/10.1177/0022526617698155> .
+
+<http://id.crossref.org/issn/0022-5266>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1759-3999" , "0022-5266" ;
+      <http://purl.org/dc/terms/title>
+              "The Journal of Transport History" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1759-3999" , "0022-5266" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1759-3999" , "urn:issn:0022-5266" .

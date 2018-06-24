@@ -1,0 +1,51 @@
+<http://id.crossref.org/issn/0026-3184>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "2329-3233" , "0026-3184" ;
+      <http://purl.org/dc/terms/title>
+              "Middle East Studies Association Bulletin" ;
+      <http://purl.org/ontology/bibo/issn>
+              "2329-3233" , "0026-3184" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:2329-3233" , "urn:issn:0026-3184" .
+
+<http://dx.doi.org/10.1017/s0026318400034830>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1017/s0026318400034830" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "16" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "11" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "31" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/sabra-j-webber-36gtn4wiswjjs> ;
+      <http://purl.org/dc/terms/date>
+              "1997-07"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1017/s0026318400034830" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0026-3184> ;
+      <http://purl.org/dc/terms/publisher>
+              "Cambridge University Press (CUP)" ;
+      <http://purl.org/dc/terms/title>
+              "Middle East Studies & Subaltern Studies" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1017/s0026318400034830" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "16" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "11" ;
+      <http://purl.org/ontology/bibo/volume>
+              "31" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1017/s0026318400034830> , <doi:10.1017/s0026318400034830> .
+
+<http://id.crossref.org/contributor/sabra-j-webber-36gtn4wiswjjs>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Webber" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Sabra J." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Sabra J. Webber" .

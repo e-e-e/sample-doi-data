@@ -1,0 +1,65 @@
+<http://id.crossref.org/issn/0090-3493>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0090-3493" ;
+      <http://purl.org/dc/terms/title>
+              "Critical Care Medicine" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0090-3493" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0090-3493" .
+
+<http://id.crossref.org/contributor/lifei-pan-5u1gzufpgpdv>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Pan" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Lifei" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Lifei Pan" .
+
+<http://id.crossref.org/contributor/hongying-ni-5u1gzufpgpdv>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Ni" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Hongying" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Hongying Ni" .
+
+<http://id.crossref.org/contributor/zhongheng-zhang-5u1gzufpgpdv>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Zhang" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Zhongheng" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Zhongheng Zhang" .
+
+<http://dx.doi.org/10.1097/ccm.0b013e31826324e8>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1097/ccm.0b013e31826324e8" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "3108" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "40" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/lifei-pan-5u1gzufpgpdv> , <http://id.crossref.org/contributor/hongying-ni-5u1gzufpgpdv> , <http://id.crossref.org/contributor/zhongheng-zhang-5u1gzufpgpdv> ;
+      <http://purl.org/dc/terms/date>
+              "2012-11"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1097/ccm.0b013e31826324e8" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0090-3493> ;
+      <http://purl.org/dc/terms/publisher>
+              "Ovid Technologies (Wolters Kluwer Health)" ;
+      <http://purl.org/dc/terms/title>
+              "Lumen nonpatency in the presence of competing risks" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1097/ccm.0b013e31826324e8" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "3108" ;
+      <http://purl.org/ontology/bibo/volume>
+              "40" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1097/ccm.0b013e31826324e8> , <info:doi/10.1097/ccm.0b013e31826324e8> .

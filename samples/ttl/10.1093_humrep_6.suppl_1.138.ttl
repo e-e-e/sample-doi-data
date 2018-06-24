@@ -1,0 +1,40 @@
+<http://dx.doi.org/10.1093/humrep/6.suppl_1.138>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1093/humrep/6.suppl_1.138" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "141" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "138" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "6" ;
+      <http://purl.org/dc/terms/date>
+              "1991-01-01"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1093/humrep/6.suppl_1.138" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0268-1161> ;
+      <http://purl.org/dc/terms/publisher>
+              "Oxford University Press (OUP)" ;
+      <http://purl.org/dc/terms/title>
+              "Session 11: Outcome and psychological aspects" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1093/humrep/6.suppl_1.138" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "141" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "138" ;
+      <http://purl.org/ontology/bibo/volume>
+              "6" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1093/humrep/6.suppl_1.138> , <doi:10.1093/humrep/6.suppl_1.138> .
+
+<http://id.crossref.org/issn/0268-1161>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1460-2350" , "0268-1161" ;
+      <http://purl.org/dc/terms/title>
+              "Human Reproduction" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1460-2350" , "0268-1161" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1460-2350" , "urn:issn:0268-1161" .

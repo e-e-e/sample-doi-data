@@ -1,0 +1,26 @@
+<http://id.crossref.org/contributor/syvil-marquit-3401p6x7xd05u>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Marquit" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Syvil" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Syvil Marquit" .
+
+<http://dx.doi.org/10.1037/e543582009-020>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1037/e543582009-020" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/syvil-marquit-3401p6x7xd05u> ;
+      <http://purl.org/dc/terms/date>
+              "1962"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1037/e543582009-020" ;
+      <http://purl.org/dc/terms/publisher>
+              "American Psychological Association (APA)" ;
+      <http://purl.org/dc/terms/title>
+              "Which way, clinician? A discussion of the Kelley-Holt Letter Interchange" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1037/e543582009-020" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1037/e543582009-020> , <info:doi/10.1037/e543582009-020> .

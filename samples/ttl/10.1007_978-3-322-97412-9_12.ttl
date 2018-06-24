@@ -1,0 +1,41 @@
+<http://id.crossref.org/isbn/9783810020420>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Länderbericht Frankreich" .
+
+<http://id.crossref.org/contributor/alfred-pletsch-1d3h7bulqyp55>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Pletsch" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Alfred" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Alfred Pletsch" .
+
+<http://dx.doi.org/10.1007/978-3-322-97412-9_12>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1007/978-3-322-97412-9_12" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "251" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "228" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/alfred-pletsch-1d3h7bulqyp55> ;
+      <http://purl.org/dc/terms/date>
+              "1999"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1007/978-3-322-97412-9_12" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9783810020420> ;
+      <http://purl.org/dc/terms/publisher>
+              "VS Verlag für Sozialwissenschaften" ;
+      <http://purl.org/dc/terms/title>
+              "Wirtschaftsräumliche Strukturen und Raumordnung in Frankreich" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1007/978-3-322-97412-9_12" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "251" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "228" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1007/978-3-322-97412-9_12> , <info:doi/10.1007/978-3-322-97412-9_12> .

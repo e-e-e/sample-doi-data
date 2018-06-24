@@ -1,0 +1,123 @@
+<http://id.crossref.org/contributor/dorian-didier-tz4ymg6ohkwt>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Didier" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Dorian" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Dorian Didier" .
+
+<http://id.crossref.org/contributor/paul-knochel-tz4ymg6ohkwt>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Knochel" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Paul" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Paul Knochel" .
+
+<http://id.crossref.org/contributor/guillaume-berionni-tz4ymg6ohkwt>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Berionni" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Guillaume" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Guillaume Berionni" .
+
+<http://id.crossref.org/contributor/meike-simon-tz4ymg6ohkwt>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Simon" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Meike" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Meike Simon" .
+
+<http://id.crossref.org/issn/1433-7851>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1433-7851" ;
+      <http://purl.org/dc/terms/title>
+              "Angewandte Chemie International Edition" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1433-7851" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1433-7851" .
+
+<http://id.crossref.org/contributor/kohei-moriya-tz4ymg6ohkwt>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Moriya" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Kohei" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Kohei Moriya" .
+
+<http://id.crossref.org/contributor/hendrik-zipse-tz4ymg6ohkwt>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Zipse" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Hendrik" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Hendrik Zipse" .
+
+<http://id.crossref.org/contributor/jeffrey-m-hammann-tz4ymg6ohkwt>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Hammann" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Jeffrey M." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Jeffrey M. Hammann" .
+
+<http://dx.doi.org/10.1002/anie.201409165>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1002/anie.201409165" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "2757" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "2754" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "54" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/dorian-didier-tz4ymg6ohkwt> , <http://id.crossref.org/contributor/paul-knochel-tz4ymg6ohkwt> , <http://id.crossref.org/contributor/guillaume-berionni-tz4ymg6ohkwt> , <http://id.crossref.org/contributor/meike-simon-tz4ymg6ohkwt> , <http://id.crossref.org/contributor/hendrik-zipse-tz4ymg6ohkwt> , <http://id.crossref.org/contributor/jeffrey-m-hammann-tz4ymg6ohkwt> , <http://id.crossref.org/contributor/kohei-moriya-tz4ymg6ohkwt> , <http://id.crossref.org/contributor/herbert-mayr-tz4ymg6ohkwt> , <http://id.crossref.org/contributor/konstantin-karaghiosoff-tz4ymg6ohkwt> ;
+      <http://purl.org/dc/terms/date>
+              "2015-01-12"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1002/anie.201409165" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1433-7851> ;
+      <http://purl.org/dc/terms/publisher>
+              "Wiley" ;
+      <http://purl.org/dc/terms/title>
+              "Stereoselective Synthesis and Reactions of Secondary Alkyllithium Reagents Functionalized at the 3-Position" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1002/anie.201409165" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "2757" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "2754" ;
+      <http://purl.org/ontology/bibo/volume>
+              "54" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1002/anie.201409165> , <info:doi/10.1002/anie.201409165> .
+
+<http://id.crossref.org/contributor/konstantin-karaghiosoff-tz4ymg6ohkwt>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Karaghiosoff" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Konstantin" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Konstantin Karaghiosoff" .
+
+<http://id.crossref.org/contributor/herbert-mayr-tz4ymg6ohkwt>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Mayr" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Herbert" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Herbert Mayr" .

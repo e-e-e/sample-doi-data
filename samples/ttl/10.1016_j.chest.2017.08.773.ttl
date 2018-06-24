@@ -1,0 +1,83 @@
+<http://id.crossref.org/contributor/jorge-pascual-18afb52cnvvxw>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Pascual" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Jorge" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Jorge Pascual" .
+
+<http://id.crossref.org/contributor/vichaya-arunthari-18afb52cnvvxw>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Arunthari" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Vichaya" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Vichaya Arunthari" .
+
+<http://id.crossref.org/issn/0012-3692>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0012-3692" ;
+      <http://purl.org/dc/terms/title>
+              "Chest" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0012-3692" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0012-3692" .
+
+<http://id.crossref.org/contributor/karthika-linga-18afb52cnvvxw>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Linga" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Karthika" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Karthika Linga" .
+
+<http://id.crossref.org/contributor/minkyung-kwon-18afb52cnvvxw>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kwon" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Minkyung" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Minkyung Kwon" .
+
+<http://id.crossref.org/contributor/brendon-colaco-18afb52cnvvxw>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Colaco" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Brendon" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Brendon Colaco" .
+
+<http://dx.doi.org/10.1016/j.chest.2017.08.773>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/j.chest.2017.08.773" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "A743" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "152" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/jorge-pascual-18afb52cnvvxw> , <http://id.crossref.org/contributor/vichaya-arunthari-18afb52cnvvxw> , <http://id.crossref.org/contributor/karthika-linga-18afb52cnvvxw> , <http://id.crossref.org/contributor/minkyung-kwon-18afb52cnvvxw> , <http://id.crossref.org/contributor/brendon-colaco-18afb52cnvvxw> ;
+      <http://purl.org/dc/terms/date>
+              "2017-10"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/j.chest.2017.08.773" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0012-3692> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "An Unusual Differential for Intractable Cough and Hoarseness: Tracheocele" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/j.chest.2017.08.773" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "A743" ;
+      <http://purl.org/ontology/bibo/volume>
+              "152" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1016/j.chest.2017.08.773> , <info:doi/10.1016/j.chest.2017.08.773> .

@@ -1,0 +1,69 @@
+<http://id.crossref.org/contributor/e-c-meslow-1wa0vs82vvm0z>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "MESLOW" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "E. C." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "E. C. MESLOW" .
+
+<http://id.crossref.org/contributor/m-f-andrews-1wa0vs82vvm0z>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "ANDREWS" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "M. F." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "M. F. ANDREWS" .
+
+<http://id.crossref.org/contributor/m-d-burkel-1wa0vs82vvm0z>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "BURKEL" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "M. D." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "M. D. BURKEL" .
+
+<http://dx.doi.org/10.7589/0090-3558-6.4.496>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.7589/0090-3558-6.4.496" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "499" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "496" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "6" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/e-c-meslow-1wa0vs82vvm0z> , <http://id.crossref.org/contributor/m-f-andrews-1wa0vs82vvm0z> , <http://id.crossref.org/contributor/m-d-burkel-1wa0vs82vvm0z> ;
+      <http://purl.org/dc/terms/date>
+              "1970-10"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.7589/0090-3558-6.4.496" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0090-3558> ;
+      <http://purl.org/dc/terms/publisher>
+              "Wildlife Disease Association" ;
+      <http://purl.org/dc/terms/title>
+              "Rabies Detection in Road-killed Skunks (Mephitis mephitis)" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.7589/0090-3558-6.4.496" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "499" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "496" ;
+      <http://purl.org/ontology/bibo/volume>
+              "6" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.7589/0090-3558-6.4.496> , <doi:10.7589/0090-3558-6.4.496> .
+
+<http://id.crossref.org/issn/0090-3558>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0090-3558" ;
+      <http://purl.org/dc/terms/title>
+              "Journal of Wildlife Diseases" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0090-3558" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0090-3558" .

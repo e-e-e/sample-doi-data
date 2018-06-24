@@ -1,0 +1,68 @@
+<http://id.crossref.org/contributor/mike-mcconville-2378soohfqzft>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "McConville" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Mike" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Mike McConville" .
+
+<http://id.crossref.org/contributor/jacqueline-hodgson-2378soohfqzft>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Hodgson" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Jacqueline" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Jacqueline Hodgson" .
+
+<http://dx.doi.org/10.1093/acprof:oso/9780198258681.003.0004>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1093/acprof:oso/9780198258681.003.0004" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "100" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "72" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/mike-mcconville-2378soohfqzft> , <http://id.crossref.org/contributor/jacqueline-hodgson-2378soohfqzft> , <http://id.crossref.org/contributor/lee-bridges-2378soohfqzft> , <http://id.crossref.org/contributor/anita-pavlovic-2378soohfqzft> ;
+      <http://purl.org/dc/terms/date>
+              "1994-02-17"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1093/acprof:oso/9780198258681.003.0004" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9780198258681> ;
+      <http://purl.org/dc/terms/publisher>
+              "Oxford University Press" ;
+      <http://purl.org/dc/terms/title>
+              "Pre-Interrogation Advice" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1093/acprof:oso/9780198258681.003.0004" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "100" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "72" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1093/acprof:oso/9780198258681.003.0004> , <info:doi/10.1093/acprof:oso/9780198258681.003.0004> .
+
+<http://id.crossref.org/contributor/lee-bridges-2378soohfqzft>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Bridges" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Lee" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Lee Bridges" .
+
+<http://id.crossref.org/contributor/anita-pavlovic-2378soohfqzft>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Pavlovic" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Anita" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Anita Pavlovic" .
+
+<http://id.crossref.org/isbn/9780198258681>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Standing Accused" .

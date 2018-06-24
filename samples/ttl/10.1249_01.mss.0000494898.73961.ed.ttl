@@ -1,0 +1,74 @@
+<http://id.crossref.org/contributor/diane-l-elliot-3u8engbwkl1jo>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Elliot" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Diane L." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Diane L. Elliot" .
+
+<http://id.crossref.org/contributor/michelle-kaye-otis-3u8engbwkl1jo>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Otis" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Michelle Kaye" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Michelle Kaye Otis" .
+
+<http://id.crossref.org/issn/0195-9131>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0195-9131" ;
+      <http://purl.org/dc/terms/title>
+              "Medicine & Science in Sports & Exercise" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0195-9131" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0195-9131" .
+
+<http://id.crossref.org/contributor/bharti-garg-3u8engbwkl1jo>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Garg" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Bharti" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Bharti Garg" .
+
+<http://dx.doi.org/10.1249/01.mss.0000494898.73961.ed>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1249/01.mss.0000494898.73961.ed" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "478" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "46" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/diane-l-elliot-3u8engbwkl1jo> , <http://id.crossref.org/contributor/michelle-kaye-otis-3u8engbwkl1jo> , <http://id.crossref.org/contributor/bharti-garg-3u8engbwkl1jo> , <http://id.crossref.org/contributor/linn-goldberg-3u8engbwkl1jo> ;
+      <http://purl.org/dc/terms/date>
+              "2014-05"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1249/01.mss.0000494898.73961.ed" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0195-9131> ;
+      <http://purl.org/dc/terms/publisher>
+              "Ovid Technologies (Wolters Kluwer Health)" ;
+      <http://purl.org/dc/terms/title>
+              "National Dissemination of ATLAS" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1249/01.mss.0000494898.73961.ed" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "478" ;
+      <http://purl.org/ontology/bibo/volume>
+              "46" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1249/01.mss.0000494898.73961.ed> , <info:doi/10.1249/01.mss.0000494898.73961.ed> .
+
+<http://id.crossref.org/contributor/linn-goldberg-3u8engbwkl1jo>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Goldberg" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Linn" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Linn Goldberg" .

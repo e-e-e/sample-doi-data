@@ -1,0 +1,60 @@
+<http://id.crossref.org/contributor/milton-keynes-1igc5czfe8njr>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Keynes" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Milton" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Milton Keynes" .
+
+<http://dx.doi.org/10.7748/ns.26.46.48.s51>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.7748/ns.26.46.48.s51" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "58" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "48" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "26" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/milton-keynes-1igc5czfe8njr> , <http://id.crossref.org/contributor/anna-kent-1igc5czfe8njr> ;
+      <http://purl.org/dc/terms/date>
+              "2012-07-18"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.7748/ns.26.46.48.s51" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0029-6570> ;
+      <http://purl.org/dc/terms/publisher>
+              "RCN Publishing Ltd." ;
+      <http://purl.org/dc/terms/title>
+              "Motor neurone disease: an overview" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.7748/ns.26.46.48.s51" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "58" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "48" ;
+      <http://purl.org/ontology/bibo/volume>
+              "26" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.7748/ns.26.46.48.s51> , <info:doi/10.7748/ns.26.46.48.s51> .
+
+<http://id.crossref.org/issn/0029-6570>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0029-6570" , "2047-9018" ;
+      <http://purl.org/dc/terms/title>
+              "Nursing Standard" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0029-6570" , "2047-9018" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:2047-9018" , "urn:issn:0029-6570" .
+
+<http://id.crossref.org/contributor/anna-kent-1igc5czfe8njr>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kent" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Anna" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Anna Kent" .

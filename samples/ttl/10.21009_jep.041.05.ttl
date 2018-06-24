@@ -1,0 +1,47 @@
+<http://id.crossref.org/issn/2086-7425>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "2086-7425" ;
+      <http://purl.org/dc/terms/title>
+              "Jurnal Evaluasi Pendidikan" ;
+      <http://purl.org/ontology/bibo/issn>
+              "2086-7425" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:2086-7425" .
+
+<http://id.crossref.org/contributor/ferdy-dungus-188wbmqx6l80s>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "DUNGUS" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "FERDY" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "FERDY DUNGUS" .
+
+<http://dx.doi.org/10.21009/jep.041.05>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.21009/jep.041.05" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "52" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "4" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/ferdy-dungus-188wbmqx6l80s> ;
+      <http://purl.org/dc/terms/date>
+              "2013-03-19"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.21009/jep.041.05" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/2086-7425> ;
+      <http://purl.org/dc/terms/publisher>
+              "Universitas Negeri Jakarta" ;
+      <http://purl.org/dc/terms/title>
+              " PENGARUH PENERAPAN LESSON STUDY DAN PENILAIAN KINERJA TERHADAP HASIL BELAJAR FISIKA DASAR I DENGAN MENGONTROL INTELIGENSI MAHASISWA" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.21009/jep.041.05" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "52" ;
+      <http://purl.org/ontology/bibo/volume>
+              "4" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.21009/jep.041.05> , <doi:10.21009/jep.041.05> .

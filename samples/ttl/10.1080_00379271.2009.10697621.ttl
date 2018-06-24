@@ -1,0 +1,78 @@
+<http://id.crossref.org/issn/0037-9271>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "2168-6351" , "0037-9271" ;
+      <http://purl.org/dc/terms/title>
+              "Annales de la Société entomologique de France (N.S.)" ;
+      <http://purl.org/ontology/bibo/issn>
+              "2168-6351" , "0037-9271" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0037-9271" , "urn:issn:2168-6351" .
+
+<http://id.crossref.org/contributor/pierre-rasmont-16ix0jbjfmat0>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Rasmont" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Pierre" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Pierre Rasmont" .
+
+<http://id.crossref.org/contributor/denis-michez-16ix0jbjfmat0>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Michez" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Denis" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Denis Michez" .
+
+<http://id.crossref.org/contributor/michael-terzo-16ix0jbjfmat0>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Terzo" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Michaël" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Michaël Terzo" .
+
+<http://dx.doi.org/10.1080/00379271.2009.10697621>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1080/00379271.2009.10697621" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "375" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "365" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "45" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/pierre-rasmont-16ix0jbjfmat0> , <http://id.crossref.org/contributor/denis-michez-16ix0jbjfmat0> , <http://id.crossref.org/contributor/michael-terzo-16ix0jbjfmat0> , <http://id.crossref.org/contributor/nicolas-j-vereecken-16ix0jbjfmat0> ;
+      <http://purl.org/dc/terms/date>
+              "2009-01"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1080/00379271.2009.10697621" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0037-9271> ;
+      <http://purl.org/dc/terms/publisher>
+              "Informa UK Limited" ;
+      <http://purl.org/dc/terms/title>
+              "A synthesis of gynandromorphy among wild bees (Hymenoptera: Apoidea), with an annotated description of several new cases" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1080/00379271.2009.10697621" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "375" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "365" ;
+      <http://purl.org/ontology/bibo/volume>
+              "45" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1080/00379271.2009.10697621> , <doi:10.1080/00379271.2009.10697621> .
+
+<http://id.crossref.org/contributor/nicolas-j-vereecken-16ix0jbjfmat0>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Vereecken" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Nicolas J." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Nicolas J. Vereecken" .

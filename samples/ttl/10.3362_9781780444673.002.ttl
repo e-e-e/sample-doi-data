@@ -1,0 +1,95 @@
+<http://id.crossref.org/contributor/robert-trietsch-3d4nuhb8rzu5e>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Trietsch" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Robert" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Robert Trietsch" .
+
+<http://id.crossref.org/contributor/bob-mani-3d4nuhb8rzu5e>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Mani" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Bob" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Bob Mani" .
+
+<http://id.crossref.org/contributor/bill-wood-3d4nuhb8rzu5e>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Wood" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Bill" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Bill Wood" .
+
+<http://id.crossref.org/contributor/derrick-knight-3d4nuhb8rzu5e>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Knight" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Derrick" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Derrick Knight" .
+
+<http://id.crossref.org/isbn/9780946688234>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Community Water Development" .
+
+<http://id.crossref.org/contributor/simon-watt-3d4nuhb8rzu5e>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Watt" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Simon" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Simon Watt" .
+
+<http://id.crossref.org/contributor/marc-raeymaekers-3d4nuhb8rzu5e>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Raeymaekers" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Marc" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Marc Raeymaekers" .
+
+<http://id.crossref.org/contributor/john-allsebrook-3d4nuhb8rzu5e>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Allsebrook" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "John" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "John Allsebrook" .
+
+<http://dx.doi.org/10.3362/9781780444673.002>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.3362/9781780444673.002" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "46" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "23" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/robert-trietsch-3d4nuhb8rzu5e> , <http://id.crossref.org/contributor/bob-mani-3d4nuhb8rzu5e> , <http://id.crossref.org/contributor/bill-wood-3d4nuhb8rzu5e> , <http://id.crossref.org/contributor/derrick-knight-3d4nuhb8rzu5e> , <http://id.crossref.org/contributor/simon-watt-3d4nuhb8rzu5e> , <http://id.crossref.org/contributor/marc-raeymaekers-3d4nuhb8rzu5e> , <http://id.crossref.org/contributor/john-allsebrook-3d4nuhb8rzu5e> ;
+      <http://purl.org/dc/terms/date>
+              "1989-01"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.3362/9781780444673.002" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9780946688234> ;
+      <http://purl.org/dc/terms/publisher>
+              "Practical Action Publishing" ;
+      <http://purl.org/dc/terms/title>
+              "2. Shallow Wells" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.3362/9781780444673.002" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "46" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "23" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.3362/9781780444673.002> , <doi:10.3362/9781780444673.002> .

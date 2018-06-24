@@ -1,0 +1,51 @@
+<http://id.crossref.org/contributor/robin-j-bremmer-3un5dg24jwukg>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Bremmer" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Robin J." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Robin J. Bremmer" .
+
+<http://id.crossref.org/contributor/daniel-b-olsen-3un5dg24jwukg>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Olsen" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Daniel B." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Daniel B. Olsen" .
+
+<http://id.crossref.org/isbn/9780791844427>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "ASME 2011 Internal Combustion Engine Division Fall Technical Conference" .
+
+<http://dx.doi.org/10.1115/icef2011-60071>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1115/icef2011-60071" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/robin-j-bremmer-3un5dg24jwukg> , <http://id.crossref.org/contributor/daniel-b-olsen-3un5dg24jwukg> , <http://id.crossref.org/contributor/cory-j-kreutzer-3un5dg24jwukg> ;
+      <http://purl.org/dc/terms/date>
+              "2011"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1115/icef2011-60071" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9780791844427> ;
+      <http://purl.org/dc/terms/publisher>
+              "ASME" ;
+      <http://purl.org/dc/terms/title>
+              "Evaluation of a Lean-Burn Natural Gas Engine Operating on Variable Methane Number Fuel" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1115/icef2011-60071" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1115/icef2011-60071> , <info:doi/10.1115/icef2011-60071> .
+
+<http://id.crossref.org/contributor/cory-j-kreutzer-3un5dg24jwukg>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kreutzer" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Cory J." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Cory J. Kreutzer" .

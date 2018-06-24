@@ -1,0 +1,22 @@
+<http://dx.doi.org/10.1787/na_ma_dt-v2014-2-table287-en>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1787/na_ma_dt-v2014-2-table287-en" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/-31mwwgyd0npgq> ;
+      <http://purl.org/dc/terms/date>
+              "2014-07-31"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1787/na_ma_dt-v2014-2-table287-en" ;
+      <http://purl.org/dc/terms/publisher>
+              "Organisation for Economic Co-Operation and Development  (OECD)" ;
+      <http://purl.org/dc/terms/title>
+              "Simplified non-financial accounts for households and NPISH: United Kingdom" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1787/na_ma_dt-v2014-2-table287-en" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1787/na_ma_dt-v2014-2-table287-en> , <doi:10.1787/na_ma_dt-v2014-2-table287-en> .
+
+<http://id.crossref.org/contributor/-31mwwgyd0npgq>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/name>
+              " " .

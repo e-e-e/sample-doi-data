@@ -1,0 +1,15 @@
+<http://dx.doi.org/10.1163/1874-6772_seg_a60_59>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1163/1874-6772_seg_a60_59" ;
+      <http://purl.org/dc/terms/date>
+              ""^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1163/1874-6772_seg_a60_59" ;
+      <http://purl.org/dc/terms/publisher>
+              "Brill Academic Publishers" ;
+      <http://purl.org/dc/terms/title>
+              "Athens. Signatures of the sculptor Demetrios of Alopeke, ca. 400-350 B.C." ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1163/1874-6772_seg_a60_59" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1163/1874-6772_seg_a60_59> , <doi:10.1163/1874-6772_seg_a60_59> .

@@ -1,0 +1,30 @@
+<http://id.crossref.org/isbn/9780813216515>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Uncharted Territory" .
+
+<http://dx.doi.org/10.2307/j.ctt284tv4.12>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.2307/j.ctt284tv4.12" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "172" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "145" ;
+      <http://purl.org/dc/terms/date>
+              ""^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.2307/j.ctt284tv4.12" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9780813216515> ;
+      <http://purl.org/dc/terms/publisher>
+              "Catholic University of America Press" ;
+      <http://purl.org/dc/terms/title>
+              "The East-West Conflict:" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.2307/j.ctt284tv4.12" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "172" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "145" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.2307/j.ctt284tv4.12> , <info:doi/10.2307/j.ctt284tv4.12> .

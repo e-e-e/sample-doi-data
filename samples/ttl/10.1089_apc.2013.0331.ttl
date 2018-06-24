@@ -1,0 +1,74 @@
+<http://id.crossref.org/contributor/sybil-g-hosek-3qsojfq4lg004>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Hosek" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Sybil G." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Sybil G. Hosek" .
+
+<http://id.crossref.org/issn/1087-2914>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1087-2914" , "1557-7449" ;
+      <http://purl.org/dc/terms/title>
+              "AIDS Patient Care and STDs" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1087-2914" , "1557-7449" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1087-2914" , "urn:issn:1557-7449" .
+
+<http://id.crossref.org/contributor/-3qsojfq4lg004>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/name>
+              " " .
+
+<http://id.crossref.org/contributor/diana-lemos-3qsojfq4lg004>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Lemos" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Diana" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Diana Lemos" .
+
+<http://id.crossref.org/contributor/gary-w-harper-3qsojfq4lg004>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Harper" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Gary W." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Gary W. Harper" .
+
+<http://dx.doi.org/10.1089/apc.2013.0331>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1089/apc.2013.0331" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "554" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "543" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "28" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/sybil-g-hosek-3qsojfq4lg004> , <http://id.crossref.org/contributor/-3qsojfq4lg004> , <http://id.crossref.org/contributor/diana-lemos-3qsojfq4lg004> , <http://id.crossref.org/contributor/gary-w-harper-3qsojfq4lg004> ;
+      <http://purl.org/dc/terms/date>
+              "2014-10"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1089/apc.2013.0331" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1087-2914> ;
+      <http://purl.org/dc/terms/publisher>
+              "Mary Ann Liebert Inc" ;
+      <http://purl.org/dc/terms/title>
+              "Stigma Reduction in Adolescents and Young Adults Newly Diagnosed with HIV: Findings from the Project ACCEPT Intervention" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1089/apc.2013.0331" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "554" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "543" ;
+      <http://purl.org/ontology/bibo/volume>
+              "28" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1089/apc.2013.0331> , <doi:10.1089/apc.2013.0331> .

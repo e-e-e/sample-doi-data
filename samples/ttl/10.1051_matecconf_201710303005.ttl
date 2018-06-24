@@ -1,0 +1,110 @@
+<http://id.crossref.org/contributor/l-yee-yong-2kvv23372t4ck>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Yee Yong" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "L." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "L. Yee Yong" .
+
+<http://id.crossref.org/contributor/ismail-abdul-rahman-2kvv23372t4ck>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Rahman" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Ismail Abdul" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Ismail Abdul Rahman" .
+
+<http://id.crossref.org/contributor/a-mohd-shalahuddin-2kvv23372t4ck>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Mohd Shalahuddin" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "A. Mohd Shalahuddin" .
+
+<http://id.crossref.org/issn/2261-236X>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "2261-236X" ;
+      <http://purl.org/dc/terms/title>
+              "MATEC Web of Conferences" ;
+      <http://purl.org/ontology/bibo/issn>
+              "2261-236X" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:2261-236X" .
+
+<http://id.crossref.org/contributor/nur-ain-ngah-nasaruddin-2kvv23372t4ck>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Nasaruddin" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Nur Ain Ngah" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Nur Ain Ngah Nasaruddin" .
+
+<http://id.crossref.org/contributor/o-mohamad-hanifi-2kvv23372t4ck>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Mohamad Hanifi" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "O." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "O. Mohamad Hanifi" .
+
+<http://dx.doi.org/10.1051/matecconf/201710303005>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1051/matecconf/201710303005" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "03005" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "103" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/ismail-abdul-rahman-2kvv23372t4ck> , <http://id.crossref.org/contributor/l-yee-yong-2kvv23372t4ck> , <http://id.crossref.org/contributor/a-mohd-shalahuddin-2kvv23372t4ck> , <http://id.crossref.org/contributor/nur-ain-ngah-nasaruddin-2kvv23372t4ck> , <http://id.crossref.org/contributor/o-mohamad-hanifi-2kvv23372t4ck> , <http://id.crossref.org/contributor/m-j-zainorizuan-2kvv23372t4ck> , <http://id.crossref.org/contributor/r-siti-nazahiyah-2kvv23372t4ck> , <http://id.crossref.org/contributor/l-alvin-john-meng-siang-2kvv23372t4ck> ;
+      <http://purl.org/dc/terms/date>
+              "2017"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1051/matecconf/201710303005" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/2261-236X> ;
+      <http://purl.org/dc/terms/publisher>
+              "EDP Sciences" ;
+      <http://purl.org/dc/terms/title>
+              "Exploratory Study on Malaysia Construction Leadership" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1051/matecconf/201710303005" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "03005" ;
+      <http://purl.org/ontology/bibo/volume>
+              "103" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1051/matecconf/201710303005> , <doi:10.1051/matecconf/201710303005> .
+
+<http://id.crossref.org/contributor/m-j-zainorizuan-2kvv23372t4ck>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Zainorizuan" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "M.J." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "M.J. Zainorizuan" .
+
+<http://id.crossref.org/contributor/r-siti-nazahiyah-2kvv23372t4ck>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Siti Nazahiyah" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "R." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "R. Siti Nazahiyah" .
+
+<http://id.crossref.org/contributor/l-alvin-john-meng-siang-2kvv23372t4ck>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Alvin John Meng Siang" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "L." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "L. Alvin John Meng Siang" .

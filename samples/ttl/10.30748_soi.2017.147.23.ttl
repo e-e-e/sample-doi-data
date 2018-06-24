@@ -1,0 +1,47 @@
+<http://id.crossref.org/issn/1681-7710>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "2518-1696" , "1681-7710" ;
+      <http://purl.org/dc/terms/title>
+              "Системи обробки інформації" ;
+      <http://purl.org/ontology/bibo/issn>
+              "2518-1696" , "1681-7710" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1681-7710" , "urn:issn:2518-1696" .
+
+<http://id.crossref.org/contributor/-1q9iufq916jnt>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Мазурова" , "Вакуленко" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "О.О." , "Я.О." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "О.О. Мазурова" , "Я.О. Вакуленко" .
+
+<http://dx.doi.org/10.30748/soi.2017.147.23>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.30748/soi.2017.147.23" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "130" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "127" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/-1q9iufq916jnt> ;
+      <http://purl.org/dc/terms/date>
+              "2017-01-24"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.30748/soi.2017.147.23" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1681-7710> ;
+      <http://purl.org/dc/terms/publisher>
+              "Ivan Kozhedub Kharkiv National Air Force University KNAFU" ;
+      <http://purl.org/dc/terms/title>
+              "Застосування методів аналізу текстів для підтримки концептуального моделювання баз даних" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.30748/soi.2017.147.23" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "130" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "127" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.30748/soi.2017.147.23> , <info:doi/10.30748/soi.2017.147.23> .

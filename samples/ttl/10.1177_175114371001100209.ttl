@@ -1,0 +1,51 @@
+<http://id.crossref.org/issn/1751-1437>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1751-1437" ;
+      <http://purl.org/dc/terms/title>
+              "Journal of the Intensive Care Society" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1751-1437" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1751-1437" .
+
+<http://id.crossref.org/contributor/justin-healy-dxul95h2uo3c>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Healy" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Justin" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Justin Healy" .
+
+<http://dx.doi.org/10.1177/175114371001100209>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1177/175114371001100209" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "123" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "118" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "11" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/justin-healy-dxul95h2uo3c> ;
+      <http://purl.org/dc/terms/date>
+              "2010-04"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1177/175114371001100209" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1751-1437> ;
+      <http://purl.org/dc/terms/publisher>
+              "SAGE Publications" ;
+      <http://purl.org/dc/terms/title>
+              "The Vegetative State: Life, Death and Consciousness" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1177/175114371001100209" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "123" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "118" ;
+      <http://purl.org/ontology/bibo/volume>
+              "11" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1177/175114371001100209> , <info:doi/10.1177/175114371001100209> .

@@ -1,0 +1,69 @@
+<http://dx.doi.org/10.1159/000339077>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1159/000339077" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "46" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "40" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "90" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/willi-cawello-2k5ke5opthi75> , <http://id.crossref.org/contributor/hilmar-boekens-2k5ke5opthi75> , <http://id.crossref.org/contributor/rainer-bonn-2k5ke5opthi75> ;
+      <http://purl.org/dc/terms/date>
+              "2012"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1159/000339077" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1423-0313> ;
+      <http://purl.org/dc/terms/publisher>
+              "S. Karger AG" ;
+      <http://purl.org/dc/terms/title>
+              "Bioequivalence of Intravenous and Oral Formulations of the Antiepileptic Drug Lacosamide" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1159/000339077" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "46" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "40" ;
+      <http://purl.org/ontology/bibo/volume>
+              "90" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1159/000339077> , <info:doi/10.1159/000339077> .
+
+<http://id.crossref.org/contributor/willi-cawello-2k5ke5opthi75>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Cawello" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Willi" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Willi Cawello" .
+
+<http://id.crossref.org/contributor/hilmar-boekens-2k5ke5opthi75>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Boekens" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Hilmar" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Hilmar Boekens" .
+
+<http://id.crossref.org/contributor/rainer-bonn-2k5ke5opthi75>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Bonn" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Rainer" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Rainer Bonn" .
+
+<http://id.crossref.org/issn/1423-0313>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1423-0313" , "0031-7012" ;
+      <http://purl.org/dc/terms/title>
+              "Pharmacology" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1423-0313" , "0031-7012" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1423-0313" , "urn:issn:0031-7012" .

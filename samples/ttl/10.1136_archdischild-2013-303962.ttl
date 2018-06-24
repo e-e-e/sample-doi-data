@@ -1,0 +1,69 @@
+<http://id.crossref.org/contributor/richard-h-scott-dhbqqryhphyy>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Scott" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Richard H" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Richard H Scott" .
+
+<http://id.crossref.org/contributor/deborah-morrogh-dhbqqryhphyy>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Morrogh" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Deborah" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Deborah Morrogh" .
+
+<http://id.crossref.org/issn/1743-0585>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1743-0585" , "1743-0593" ;
+      <http://purl.org/dc/terms/title>
+              "Archives of disease in childhood - Education & practice edition" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1743-0585" , "1743-0593" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1743-0593" , "urn:issn:1743-0585" .
+
+<http://id.crossref.org/contributor/shereen-tadros-dhbqqryhphyy>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Tadros" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Shereen" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Shereen Tadros" .
+
+<http://dx.doi.org/10.1136/archdischild-2013-303962>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1136/archdischild-2013-303962" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "135" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "134" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "98" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/richard-h-scott-dhbqqryhphyy> , <http://id.crossref.org/contributor/deborah-morrogh-dhbqqryhphyy> , <http://id.crossref.org/contributor/shereen-tadros-dhbqqryhphyy> ;
+      <http://purl.org/dc/terms/date>
+              "2013-05-30"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1136/archdischild-2013-303962" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1743-0585> ;
+      <http://purl.org/dc/terms/publisher>
+              "BMJ" ;
+      <http://purl.org/dc/terms/title>
+              "What is array CGH?" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1136/archdischild-2013-303962" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "135" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "134" ;
+      <http://purl.org/ontology/bibo/volume>
+              "98" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1136/archdischild-2013-303962> , <doi:10.1136/archdischild-2013-303962> .

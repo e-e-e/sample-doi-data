@@ -1,0 +1,51 @@
+<http://id.crossref.org/issn/0307-1375>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0307-1375" , "2168-1074" ;
+      <http://purl.org/dc/terms/title>
+              "Arboricultural Journal" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0307-1375" , "2168-1074" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0307-1375" , "urn:issn:2168-1074" .
+
+<http://dx.doi.org/10.1080/03071375.1979.10590574>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1080/03071375.1979.10590574" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "541" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "540" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "3" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/j-h-kenyon-2tww1f24yf6vm> ;
+      <http://purl.org/dc/terms/date>
+              "1979-10"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1080/03071375.1979.10590574" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0307-1375> ;
+      <http://purl.org/dc/terms/publisher>
+              "Informa UK Limited" ;
+      <http://purl.org/dc/terms/title>
+              "A CLIMBING AID. The Kenyon Prussik Knot Lift" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1080/03071375.1979.10590574" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "541" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "540" ;
+      <http://purl.org/ontology/bibo/volume>
+              "3" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1080/03071375.1979.10590574> , <info:doi/10.1080/03071375.1979.10590574> .
+
+<http://id.crossref.org/contributor/j-h-kenyon-2tww1f24yf6vm>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kenyon" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "J H" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "J H Kenyon" .

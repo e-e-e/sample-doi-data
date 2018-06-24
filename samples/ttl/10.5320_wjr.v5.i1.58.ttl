@@ -1,0 +1,74 @@
+<http://id.crossref.org/contributor/wei-tao-liang-2r5d9pu1x00xl>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Liang" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Wei-Tao" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Wei-Tao Liang" .
+
+<http://id.crossref.org/issn/2218-6255>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "2218-6255" ;
+      <http://purl.org/dc/terms/title>
+              "World Journal of Respirology" ;
+      <http://purl.org/ontology/bibo/issn>
+              "2218-6255" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:2218-6255" .
+
+<http://id.crossref.org/contributor/ji-min-wu-2r5d9pu1x00xl>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Wu" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Ji-Min" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Ji-Min Wu" .
+
+<http://id.crossref.org/contributor/zhi-wei-hu-2r5d9pu1x00xl>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Hu" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Zhi-Wei" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Zhi-Wei Hu" .
+
+<http://dx.doi.org/10.5320/wjr.v5.i1.58>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.5320/wjr.v5.i1.58" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "58" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "5" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/wei-tao-liang-2r5d9pu1x00xl> , <http://id.crossref.org/contributor/ji-min-wu-2r5d9pu1x00xl> , <http://id.crossref.org/contributor/zhi-wei-hu-2r5d9pu1x00xl> , <http://id.crossref.org/contributor/zhong-gao-wang-2r5d9pu1x00xl> ;
+      <http://purl.org/dc/terms/date>
+              "2015"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.5320/wjr.v5.i1.58" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/2218-6255> ;
+      <http://purl.org/dc/terms/publisher>
+              "Baishideng Publishing Group Inc." ;
+      <http://purl.org/dc/terms/title>
+              "Gastroesophageal reflux disease related asthma: From preliminary studies to clinical practice" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.5320/wjr.v5.i1.58" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "58" ;
+      <http://purl.org/ontology/bibo/volume>
+              "5" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.5320/wjr.v5.i1.58> , <doi:10.5320/wjr.v5.i1.58> .
+
+<http://id.crossref.org/contributor/zhong-gao-wang-2r5d9pu1x00xl>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Wang" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Zhong-Gao" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Zhong-Gao Wang" .

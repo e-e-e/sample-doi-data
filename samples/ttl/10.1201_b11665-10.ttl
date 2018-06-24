@@ -1,0 +1,30 @@
+<http://id.crossref.org/isbn/9781578087372>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "The Chromosomal Imbalance Theory of Cancer" .
+
+<http://dx.doi.org/10.1201/b11665-10>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1201/b11665-10" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "316" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "240" ;
+      <http://purl.org/dc/terms/date>
+              "2011-12-20"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1201/b11665-10" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9781578087372> ;
+      <http://purl.org/dc/terms/publisher>
+              "Science Publishers" ;
+      <http://purl.org/dc/terms/title>
+              "References" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1201/b11665-10" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "316" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "240" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1201/b11665-10> , <doi:10.1201/b11665-10> .

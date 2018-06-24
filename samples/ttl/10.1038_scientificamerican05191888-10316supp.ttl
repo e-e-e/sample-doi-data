@@ -1,0 +1,51 @@
+<http://dx.doi.org/10.1038/scientificamerican05191888-10316supp>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1038/scientificamerican05191888-10316supp" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "10319" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "10316" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "25" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/h-h-statham-3ggeh6kt5zpif> ;
+      <http://purl.org/dc/terms/date>
+              "1888-05-19"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1038/scientificamerican05191888-10316supp" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0036-8733> ;
+      <http://purl.org/dc/terms/publisher>
+              "Springer Nature" ;
+      <http://purl.org/dc/terms/title>
+              "Elements of Architectural Design" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1038/scientificamerican05191888-10316supp" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "10319" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "10316" ;
+      <http://purl.org/ontology/bibo/volume>
+              "25" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1038/scientificamerican05191888-10316supp> , <info:doi/10.1038/scientificamerican05191888-10316supp> .
+
+<http://id.crossref.org/contributor/h-h-statham-3ggeh6kt5zpif>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Statham" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "H. H." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "H. H. Statham" .
+
+<http://id.crossref.org/issn/0036-8733>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0036-8733" ;
+      <http://purl.org/dc/terms/title>
+              "Scientific American" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0036-8733" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0036-8733" .

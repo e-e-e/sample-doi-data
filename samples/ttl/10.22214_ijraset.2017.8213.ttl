@@ -1,0 +1,51 @@
+<http://id.crossref.org/issn/2321-9653>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "2321-9653" ;
+      <http://purl.org/dc/terms/title>
+              "International Journal for Research in Applied Science and Engineering Technology" ;
+      <http://purl.org/ontology/bibo/issn>
+              "2321-9653" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:2321-9653" .
+
+<http://id.crossref.org/contributor/t-tejaswi-b0yfiprprxgd>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Tejaswi" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "T." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "T. Tejaswi" .
+
+<http://dx.doi.org/10.22214/ijraset.2017.8213>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.22214/ijraset.2017.8213" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "1510" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "1506" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "V" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/t-tejaswi-b0yfiprprxgd> ;
+      <http://purl.org/dc/terms/date>
+              "2017-08-30"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.22214/ijraset.2017.8213" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/2321-9653> ;
+      <http://purl.org/dc/terms/publisher>
+              "International Journal for Research in Applied Science and Engineering Technology (IJRASET)" ;
+      <http://purl.org/dc/terms/title>
+              "Analysis of Physico- Chemical Parameters of Water in Madduvalsa Reservoir, India" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.22214/ijraset.2017.8213" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "1510" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "1506" ;
+      <http://purl.org/ontology/bibo/volume>
+              "V" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.22214/ijraset.2017.8213> , <info:doi/10.22214/ijraset.2017.8213> .

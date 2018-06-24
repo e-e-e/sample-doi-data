@@ -1,0 +1,146 @@
+<http://id.crossref.org/contributor/kazumi-taguchi-27zl28ppf9ugz>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Taguchi" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Kazumi" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Kazumi Taguchi" .
+
+<http://id.crossref.org/issn/0022-5347>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0022-5347" ;
+      <http://purl.org/dc/terms/title>
+              "The Journal of Urology" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0022-5347" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0022-5347" .
+
+<http://id.crossref.org/contributor/ryosuke-ando-27zl28ppf9ugz>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Ando" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Ryosuke" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Ryosuke Ando" .
+
+<http://id.crossref.org/contributor/shuzo-hamamoto-27zl28ppf9ugz>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Hamamoto" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Shuzo" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Shuzo Hamamoto" .
+
+<http://id.crossref.org/contributor/keiichi-tozawa-27zl28ppf9ugz>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Tozawa" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Keiichi" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Keiichi Tozawa" .
+
+<http://id.crossref.org/contributor/yasunori-itoh-27zl28ppf9ugz>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Itoh" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Yasunori" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Yasunori Itoh" .
+
+<http://id.crossref.org/contributor/takahiro-kobayashi-27zl28ppf9ugz>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kobayashi" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Takahiro" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Takahiro Kobayashi" .
+
+<http://id.crossref.org/contributor/kenjiro-kohri-27zl28ppf9ugz>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kohri" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Kenjiro" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Kenjiro Kohri" .
+
+<http://id.crossref.org/contributor/yasuhiro-hirose-27zl28ppf9ugz>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Hirose" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Yasuhiro" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Yasuhiro Hirose" .
+
+<http://id.crossref.org/contributor/atsushi-okada-27zl28ppf9ugz>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Okada" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Atsushi" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Atsushi Okada" .
+
+<http://id.crossref.org/contributor/rei-unno-27zl28ppf9ugz>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Unno" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Rei" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Rei Unno" .
+
+<http://id.crossref.org/contributor/yutaro-hayashi-27zl28ppf9ugz>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Hayashi" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Yutaro" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Yutaro Hayashi" .
+
+<http://dx.doi.org/10.1016/j.juro.2015.02.1309>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/j.juro.2015.02.1309" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "e415" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "193" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/kazumi-taguchi-27zl28ppf9ugz> , <http://id.crossref.org/contributor/kenjiro-kohri-27zl28ppf9ugz> , <http://id.crossref.org/contributor/yasuhiro-hirose-27zl28ppf9ugz> , <http://id.crossref.org/contributor/ryosuke-ando-27zl28ppf9ugz> , <http://id.crossref.org/contributor/atsushi-okada-27zl28ppf9ugz> , <http://id.crossref.org/contributor/shuzo-hamamoto-27zl28ppf9ugz> , <http://id.crossref.org/contributor/rei-unno-27zl28ppf9ugz> , <http://id.crossref.org/contributor/yutaro-hayashi-27zl28ppf9ugz> , <http://id.crossref.org/contributor/keiichi-tozawa-27zl28ppf9ugz> , <http://id.crossref.org/contributor/yasunori-itoh-27zl28ppf9ugz> , <http://id.crossref.org/contributor/takahiro-yasui-27zl28ppf9ugz> , <http://id.crossref.org/contributor/takahiro-kobayashi-27zl28ppf9ugz> ;
+      <http://purl.org/dc/terms/date>
+              "2015-04"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/j.juro.2015.02.1309" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0022-5347> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "MP34-13 PPAR-α/γ AGONISTS HAVE DIFFERENT EFFECTS ON RENAL CRYSTAL FORMATION IN HYPEROXALURIC ANIMAL MODELS" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/j.juro.2015.02.1309" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "e415" ;
+      <http://purl.org/ontology/bibo/volume>
+              "193" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1016/j.juro.2015.02.1309> , <info:doi/10.1016/j.juro.2015.02.1309> .
+
+<http://id.crossref.org/contributor/takahiro-yasui-27zl28ppf9ugz>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Yasui" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Takahiro" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Takahiro Yasui" .

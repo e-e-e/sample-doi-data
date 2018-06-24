@@ -1,0 +1,65 @@
+<http://id.crossref.org/contributor/p-p-javedani-fqz7uwocigq>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Javedani" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "P.P." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "P.P. Javedani" .
+
+<http://id.crossref.org/issn/0196-0644>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0196-0644" ;
+      <http://purl.org/dc/terms/title>
+              "Annals of Emergency Medicine" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0196-0644" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0196-0644" .
+
+<http://id.crossref.org/contributor/j-c-sakles-fqz7uwocigq>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Sakles" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "J.C." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "J.C. Sakles" .
+
+<http://id.crossref.org/contributor/a-patanwala-fqz7uwocigq>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Patanwala" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "A. Patanwala" .
+
+<http://dx.doi.org/10.1016/j.annemergmed.2013.07.031>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/j.annemergmed.2013.07.031" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "S77" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "62" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/p-p-javedani-fqz7uwocigq> , <http://id.crossref.org/contributor/j-c-sakles-fqz7uwocigq> , <http://id.crossref.org/contributor/a-patanwala-fqz7uwocigq> ;
+      <http://purl.org/dc/terms/date>
+              "2013-10"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/j.annemergmed.2013.07.031" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0196-0644> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Failed First Attempt Intubations in the Emergency Department: Efficacy of Video Laryngoscopy as Rescue Device" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/j.annemergmed.2013.07.031" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "S77" ;
+      <http://purl.org/ontology/bibo/volume>
+              "62" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1016/j.annemergmed.2013.07.031> , <doi:10.1016/j.annemergmed.2013.07.031> .

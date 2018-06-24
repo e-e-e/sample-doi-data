@@ -1,0 +1,40 @@
+<http://dx.doi.org/10.7748/ns2013.02.27.25.16.s5>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.7748/ns2013.02.27.25.16.s5" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "17" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "16" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "27" ;
+      <http://purl.org/dc/terms/date>
+              "2013-02-20"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.7748/ns2013.02.27.25.16.s5" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0029-6570> ;
+      <http://purl.org/dc/terms/publisher>
+              "RCN Publishing Ltd." ;
+      <http://purl.org/dc/terms/title>
+              "Levonorgestrel beneficial in women who have had surgery for endometriosis" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.7748/ns2013.02.27.25.16.s5" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "17" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "16" ;
+      <http://purl.org/ontology/bibo/volume>
+              "27" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.7748/ns2013.02.27.25.16.s5> , <info:doi/10.7748/ns2013.02.27.25.16.s5> .
+
+<http://id.crossref.org/issn/0029-6570>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0029-6570" , "2047-9018" ;
+      <http://purl.org/dc/terms/title>
+              "Nursing Standard" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0029-6570" , "2047-9018" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:2047-9018" , "urn:issn:0029-6570" .

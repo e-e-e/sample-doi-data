@@ -1,0 +1,40 @@
+<http://id.crossref.org/issn/0305-7453>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0305-7453" , "1460-2091" ;
+      <http://purl.org/dc/terms/title>
+              "Journal of Antimicrobial Chemotherapy" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0305-7453" , "1460-2091" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1460-2091" , "urn:issn:0305-7453" .
+
+<http://dx.doi.org/10.1093/jac/27.suppl_d.30>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1093/jac/27.suppl_d.30" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "35" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "30" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "27" ;
+      <http://purl.org/dc/terms/date>
+              "1991-01-01"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1093/jac/27.suppl_d.30" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0305-7453> ;
+      <http://purl.org/dc/terms/publisher>
+              "Oxford University Press (OUP)" ;
+      <http://purl.org/dc/terms/title>
+              "3.2 Break-Point sensitivity testing" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1093/jac/27.suppl_d.30" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "35" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "30" ;
+      <http://purl.org/ontology/bibo/volume>
+              "27" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1093/jac/27.suppl_d.30> , <doi:10.1093/jac/27.suppl_d.30> .

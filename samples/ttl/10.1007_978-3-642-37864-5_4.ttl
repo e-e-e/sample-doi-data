@@ -1,0 +1,70 @@
+<http://id.crossref.org/issn/0937-7433>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0937-7433" ;
+      <http://purl.org/dc/terms/title>
+              "Springer-Lehrbuch" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0937-7433" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0937-7433" .
+
+<http://id.crossref.org/contributor/matthias-schumann-1r2l55u7zsvad>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Schumann" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Matthias" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Matthias Schumann" .
+
+<http://id.crossref.org/contributor/thomas-hess-1r2l55u7zsvad>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Hess" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Thomas" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Thomas Hess" .
+
+<http://id.crossref.org/contributor/svenja-hagenhoff-1r2l55u7zsvad>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Hagenhoff" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Svenja" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Svenja Hagenhoff" .
+
+<http://dx.doi.org/10.1007/978-3-642-37864-5_4>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1007/978-3-642-37864-5_4" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "161" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "107" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/matthias-schumann-1r2l55u7zsvad> , <http://id.crossref.org/contributor/svenja-hagenhoff-1r2l55u7zsvad> , <http://id.crossref.org/contributor/thomas-hess-1r2l55u7zsvad> ;
+      <http://purl.org/dc/terms/date>
+              "2014"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1007/978-3-642-37864-5_4" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0937-7433> , <http://id.crossref.org/isbn/9783642378638> ;
+      <http://purl.org/dc/terms/publisher>
+              "Springer Berlin Heidelberg" ;
+      <http://purl.org/dc/terms/title>
+              "Die kaufmännische Perspektive" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1007/978-3-642-37864-5_4" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "161" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "107" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1007/978-3-642-37864-5_4> , <doi:10.1007/978-3-642-37864-5_4> .
+
+<http://id.crossref.org/isbn/9783642378638>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Springer-Lehrbuch" .

@@ -1,0 +1,51 @@
+<http://id.crossref.org/contributor/sunny-sea-gold-1vjzs0vis6v67>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Sea Gold" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Sunny" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Sunny Sea Gold" .
+
+<http://dx.doi.org/10.1038/scientificamericanmind0716-15>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1038/scientificamericanmind0716-15" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "15" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "15" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "27" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/sunny-sea-gold-1vjzs0vis6v67> ;
+      <http://purl.org/dc/terms/date>
+              "2016-06-09"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1038/scientificamericanmind0716-15" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1555-2284> ;
+      <http://purl.org/dc/terms/publisher>
+              "Springer Nature" ;
+      <http://purl.org/dc/terms/title>
+              "How to Be a Better Patient" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1038/scientificamericanmind0716-15" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "15" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "15" ;
+      <http://purl.org/ontology/bibo/volume>
+              "27" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1038/scientificamericanmind0716-15> , <info:doi/10.1038/scientificamericanmind0716-15> .
+
+<http://id.crossref.org/issn/1555-2284>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1555-2284" ;
+      <http://purl.org/dc/terms/title>
+              "Scientific American Mind" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1555-2284" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1555-2284" .

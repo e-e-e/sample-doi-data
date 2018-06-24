@@ -1,0 +1,39 @@
+<http://id.crossref.org/contributor/ben-fletcher-watson-3gogbe63o79tu>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Fletcher-Watson" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Ben" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Ben Fletcher-Watson" .
+
+<http://id.crossref.org/issn/2054-1961>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "2054-1961" ;
+      <http://purl.org/dc/terms/title>
+              "The Scottish Journal of Performance" ;
+      <http://purl.org/ontology/bibo/issn>
+              "2054-1961" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:2054-1961" .
+
+<http://dx.doi.org/10.14439/sjop.2016.0301.11>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.14439/sjop.2016.0301.11" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/ben-fletcher-watson-3gogbe63o79tu> ;
+      <http://purl.org/dc/terms/date>
+              "2016-06-29"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.14439/sjop.2016.0301.11" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/2054-1961> ;
+      <http://purl.org/dc/terms/publisher>
+              "Royal Conservatoire of Scotland" ;
+      <http://purl.org/dc/terms/title>
+              "Book review: Theatre for youth third space: performance, democracy, and community cultural development, by Stephani Etheridge Woodson" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.14439/sjop.2016.0301.11" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.14439/sjop.2016.0301.11> , <info:doi/10.14439/sjop.2016.0301.11> .

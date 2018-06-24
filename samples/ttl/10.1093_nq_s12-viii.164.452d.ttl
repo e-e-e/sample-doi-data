@@ -1,0 +1,51 @@
+<http://id.crossref.org/issn/1471-6941>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0029-3970" , "1471-6941" ;
+      <http://purl.org/dc/terms/title>
+              "Notes and Queries" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0029-3970" , "1471-6941" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1471-6941" , "urn:issn:0029-3970" .
+
+<http://id.crossref.org/contributor/peter-catmell-1dcuny5bu4h0s>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Catmell" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Peter" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Peter Catmell" .
+
+<http://dx.doi.org/10.1093/nq/s12-viii.164.452d>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1093/nq/s12-viii.164.452d" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "453" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "452" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "s12-VIII" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/peter-catmell-1dcuny5bu4h0s> ;
+      <http://purl.org/dc/terms/date>
+              "1921-06-04"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1093/nq/s12-viii.164.452d" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1471-6941> ;
+      <http://purl.org/dc/terms/publisher>
+              "Oxford University Press (OUP)" ;
+      <http://purl.org/dc/terms/title>
+              "Sir Hans Sloane's Bloomsbury House" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1093/nq/s12-viii.164.452d" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "453" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "452" ;
+      <http://purl.org/ontology/bibo/volume>
+              "s12-VIII" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1093/nq/s12-viii.164.452d> , <info:doi/10.1093/nq/s12-viii.164.452d> .

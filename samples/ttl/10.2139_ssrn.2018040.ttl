@@ -1,0 +1,39 @@
+<http://id.crossref.org/contributor/john-g-dawes-8f34apkem21t>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Dawes" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "John G." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "John G. Dawes" .
+
+<http://dx.doi.org/10.2139/ssrn.2018040>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.2139/ssrn.2018040" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/john-g-dawes-8f34apkem21t> ;
+      <http://purl.org/dc/terms/date>
+              "2012"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.2139/ssrn.2018040" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1556-5068> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Competing Brands Do Not Have Different 'Personality' Profiles" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.2139/ssrn.2018040" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.2139/ssrn.2018040> , <info:doi/10.2139/ssrn.2018040> .
+
+<http://id.crossref.org/issn/1556-5068>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1556-5068" ;
+      <http://purl.org/dc/terms/title>
+              "SSRN Electronic Journal" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1556-5068" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1556-5068" .

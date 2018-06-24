@@ -1,0 +1,78 @@
+<http://id.crossref.org/contributor/dario-bruneo-1irwr6i5yurds>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Bruneo" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Dario" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Dario Bruneo" .
+
+<http://id.crossref.org/contributor/salvatore-distefano-1irwr6i5yurds>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Distefano" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Salvatore" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Salvatore Distefano" .
+
+<http://id.crossref.org/contributor/rustem-dautov-1irwr6i5yurds>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Dautov" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Rustem" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Rustem Dautov" .
+
+<http://id.crossref.org/isbn/9781538630662>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "2017 IEEE International Conference on Internet of Things (iThings) and IEEE Green Computing and Communications (GreenCom) and IEEE Cyber, Physical and Social Computing (CPSCom) and IEEE Smart Data (SmartData)" .
+
+<http://id.crossref.org/contributor/giovani-merlino-1irwr6i5yurds>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Merlino" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Giovani" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Giovani Merlino" .
+
+<http://id.crossref.org/contributor/antonio-puliafito-1irwr6i5yurds>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Puliafito" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Antonio" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Antonio Puliafito" .
+
+<http://dx.doi.org/10.1109/ithings-greencom-cpscom-smartdata.2017.121>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1109/ithings-greencom-cpscom-smartdata.2017.121" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/dario-bruneo-1irwr6i5yurds> , <http://id.crossref.org/contributor/salvatore-distefano-1irwr6i5yurds> , <http://id.crossref.org/contributor/rustem-dautov-1irwr6i5yurds> , <http://id.crossref.org/contributor/antonio-puliafito-1irwr6i5yurds> , <http://id.crossref.org/contributor/giovani-merlino-1irwr6i5yurds> , <http://id.crossref.org/contributor/francesco-longo-1irwr6i5yurds> ;
+      <http://purl.org/dc/terms/date>
+              "2017-06"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1109/ithings-greencom-cpscom-smartdata.2017.121" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9781538630662> ;
+      <http://purl.org/dc/terms/publisher>
+              "IEEE" ;
+      <http://purl.org/dc/terms/title>
+              "Pushing Intelligence to the Edge with a Stream Processing Architecture" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1109/ithings-greencom-cpscom-smartdata.2017.121" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1109/ithings-greencom-cpscom-smartdata.2017.121> , <info:doi/10.1109/ithings-greencom-cpscom-smartdata.2017.121> .
+
+<http://id.crossref.org/contributor/francesco-longo-1irwr6i5yurds>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Longo" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Francesco" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Francesco Longo" .

@@ -1,0 +1,99 @@
+<http://id.crossref.org/contributor/g-evans-256azbj2oge7a>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              " Evans" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              " G." ;
+      <http://xmlns.com/foaf/0.1/name>
+              " G.  Evans" .
+
+<http://id.crossref.org/contributor/g-sutton-256azbj2oge7a>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              " Sutton" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              " G." ;
+      <http://xmlns.com/foaf/0.1/name>
+              " G.  Sutton" .
+
+<http://dx.doi.org/10.2210/pdb4zqx/pdb>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.2210/pdb4zqx/pdb" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/g-evans-256azbj2oge7a> , <http://id.crossref.org/contributor/g-sutton-256azbj2oge7a> , <http://id.crossref.org/contributor/n-k-sauter-256azbj2oge7a> , <http://id.crossref.org/contributor/j-grimes-256azbj2oge7a> , <http://id.crossref.org/contributor/h-m-ginn-256azbj2oge7a> , <http://id.crossref.org/contributor/a-wagner-256azbj2oge7a> , <http://id.crossref.org/contributor/a-s-brewster-256azbj2oge7a> , <http://id.crossref.org/contributor/d-i-stuart-256azbj2oge7a> , <http://id.crossref.org/contributor/j-hattne-256azbj2oge7a> ;
+      <http://purl.org/dc/terms/date>
+              "2015-06-03"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.2210/pdb4zqx/pdb" ;
+      <http://purl.org/dc/terms/publisher>
+              "Protein Data Bank, Rutgers University" ;
+      <http://purl.org/dc/terms/title>
+              """A revised partiality model and post-refinement algorithm for X-ray free-electron laser data
+          """ ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.2210/pdb4zqx/pdb" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.2210/pdb4zqx/pdb> , <info:doi/10.2210/pdb4zqx/pdb> .
+
+<http://id.crossref.org/contributor/n-k-sauter-256azbj2oge7a>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              " Sauter" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              " N.K." ;
+      <http://xmlns.com/foaf/0.1/name>
+              " N.K.  Sauter" .
+
+<http://id.crossref.org/contributor/j-grimes-256azbj2oge7a>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              " Grimes" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              " J." ;
+      <http://xmlns.com/foaf/0.1/name>
+              " J.  Grimes" .
+
+<http://id.crossref.org/contributor/h-m-ginn-256azbj2oge7a>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Ginn" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              " H.M." ;
+      <http://xmlns.com/foaf/0.1/name>
+              " H.M. Ginn" .
+
+<http://id.crossref.org/contributor/a-wagner-256azbj2oge7a>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              " Wagner" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              " A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              " A.  Wagner" .
+
+<http://id.crossref.org/contributor/a-s-brewster-256azbj2oge7a>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              " Brewster" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              " A.S." ;
+      <http://xmlns.com/foaf/0.1/name>
+              " A.S.  Brewster" .
+
+<http://id.crossref.org/contributor/j-hattne-256azbj2oge7a>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              " Hattne" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              " J." ;
+      <http://xmlns.com/foaf/0.1/name>
+              " J.  Hattne" .
+
+<http://id.crossref.org/contributor/d-i-stuart-256azbj2oge7a>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              " Stuart" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              " D.I." ;
+      <http://xmlns.com/foaf/0.1/name>
+              " D.I.  Stuart" .

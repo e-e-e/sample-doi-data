@@ -1,0 +1,22 @@
+<http://dx.doi.org/10.1515/9783110334678-014>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1515/9783110334678-014" ;
+      <http://purl.org/dc/terms/date>
+              ""^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1515/9783110334678-014" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9783110334678> ;
+      <http://purl.org/dc/terms/publisher>
+              "DE GRUYTER" ;
+      <http://purl.org/dc/terms/title>
+              "Handbook of Inorganic Substances 2016. References. Part 1" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1515/9783110334678-014" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1515/9783110334678-014> , <doi:10.1515/9783110334678-014> .
+
+<http://id.crossref.org/isbn/9783110334678>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Handbook" .

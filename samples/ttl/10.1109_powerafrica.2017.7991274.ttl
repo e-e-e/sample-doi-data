@@ -1,0 +1,60 @@
+<http://dx.doi.org/10.1109/powerafrica.2017.7991274>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1109/powerafrica.2017.7991274" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/steven-nolan-88hrqpvghc50> , <http://id.crossref.org/contributor/puran-rakhra-88hrqpvghc50> , <http://id.crossref.org/contributor/damien-frame-88hrqpvghc50> , <http://id.crossref.org/contributor/scott-strachan-88hrqpvghc50> ;
+      <http://purl.org/dc/terms/date>
+              "2017-06"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1109/powerafrica.2017.7991274" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9781509047468> ;
+      <http://purl.org/dc/terms/publisher>
+              "IEEE" ;
+      <http://purl.org/dc/terms/title>
+              "Optimized network planning of mini-grids for the rural electrification of developing countries" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1109/powerafrica.2017.7991274" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1109/powerafrica.2017.7991274> , <info:doi/10.1109/powerafrica.2017.7991274> .
+
+<http://id.crossref.org/isbn/9781509047468>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "2017 IEEE PES PowerAfrica" .
+
+<http://id.crossref.org/contributor/steven-nolan-88hrqpvghc50>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Nolan" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Steven" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Steven Nolan" .
+
+<http://id.crossref.org/contributor/puran-rakhra-88hrqpvghc50>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Rakhra" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Puran" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Puran Rakhra" .
+
+<http://id.crossref.org/contributor/damien-frame-88hrqpvghc50>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Frame" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Damien" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Damien Frame" .
+
+<http://id.crossref.org/contributor/scott-strachan-88hrqpvghc50>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Strachan" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Scott" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Scott Strachan" .

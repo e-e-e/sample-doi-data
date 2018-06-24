@@ -1,0 +1,52 @@
+<http://id.crossref.org/issn/0172-6056>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0172-6056" ;
+      <http://purl.org/dc/terms/title>
+              "Undergraduate Texts in Mathematics" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0172-6056" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0172-6056" .
+
+<http://id.crossref.org/contributor/theodore-w-gamelin-2dbf3txse5knl>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Gamelin" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Theodore W." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Theodore W. Gamelin" .
+
+<http://id.crossref.org/isbn/9780387950693>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Undergraduate Texts in Mathematics" .
+
+<http://dx.doi.org/10.1007/978-0-387-21607-2_4>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1007/978-0-387-21607-2_4" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "129" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "102" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/theodore-w-gamelin-2dbf3txse5knl> ;
+      <http://purl.org/dc/terms/date>
+              "2001"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1007/978-0-387-21607-2_4" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0172-6056> , <http://id.crossref.org/isbn/9780387950693> ;
+      <http://purl.org/dc/terms/publisher>
+              "Springer New York" ;
+      <http://purl.org/dc/terms/title>
+              "Complex Integration and Analyticity" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1007/978-0-387-21607-2_4" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "129" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "102" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1007/978-0-387-21607-2_4> , <info:doi/10.1007/978-0-387-21607-2_4> .

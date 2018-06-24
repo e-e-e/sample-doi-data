@@ -1,0 +1,51 @@
+<http://dx.doi.org/10.2340/16501977-1017>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.2340/16501977-1017" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "613" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "613" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "44" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/b-sjolund-nw2weophypz3> ;
+      <http://purl.org/dc/terms/date>
+              "2012"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.2340/16501977-1017" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1650-1977> ;
+      <http://purl.org/dc/terms/publisher>
+              "Acta Dermato-Venereologica" ;
+      <http://purl.org/dc/terms/title>
+              "On Becoming Editor-in-Chief" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.2340/16501977-1017" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "613" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "613" ;
+      <http://purl.org/ontology/bibo/volume>
+              "44" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.2340/16501977-1017> , <info:doi/10.2340/16501977-1017> .
+
+<http://id.crossref.org/contributor/b-sjolund-nw2weophypz3>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Sjölund" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "B" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "B Sjölund" .
+
+<http://id.crossref.org/issn/1650-1977>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1650-1977" ;
+      <http://purl.org/dc/terms/title>
+              "Journal of Rehabilitation Medicine" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1650-1977" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1650-1977" .

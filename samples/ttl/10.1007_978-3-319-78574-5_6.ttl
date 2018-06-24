@@ -1,0 +1,70 @@
+<http://id.crossref.org/contributor/mario-ventim-neves-2ks7m3wrvj9c8>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Ventim-Neves" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Mário" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Mário Ventim-Neves" .
+
+<http://id.crossref.org/contributor/svetlana-chemetova-2ks7m3wrvj9c8>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Chemetova" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Svetlana" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Svetlana Chemetova" .
+
+<http://id.crossref.org/issn/1868-4238>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1868-4238" , "1868-422X" ;
+      <http://purl.org/dc/terms/title>
+              "IFIP Advances in Information and Communication Technology" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1868-4238" , "1868-422X" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1868-422X" , "urn:issn:1868-4238" .
+
+<http://dx.doi.org/10.1007/978-3-319-78574-5_6>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1007/978-3-319-78574-5_6" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "70" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "62" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/mario-ventim-neves-2ks7m3wrvj9c8> , <http://id.crossref.org/contributor/svetlana-chemetova-2ks7m3wrvj9c8> , <http://id.crossref.org/contributor/paulo-santos-2ks7m3wrvj9c8> ;
+      <http://purl.org/dc/terms/date>
+              "2018"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1007/978-3-319-78574-5_6" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1868-4238> , <http://id.crossref.org/isbn/9783319785738> ;
+      <http://purl.org/dc/terms/publisher>
+              "Springer International Publishing" ;
+      <http://purl.org/dc/terms/title>
+              "Next Day Load Forecast: A Case Study for the City of Lisbon" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1007/978-3-319-78574-5_6" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "70" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "62" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1007/978-3-319-78574-5_6> , <doi:10.1007/978-3-319-78574-5_6> .
+
+<http://id.crossref.org/isbn/9783319785738>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "IFIP Advances in Information and Communication Technology" .
+
+<http://id.crossref.org/contributor/paulo-santos-2ks7m3wrvj9c8>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Santos" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Paulo" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Paulo Santos" .

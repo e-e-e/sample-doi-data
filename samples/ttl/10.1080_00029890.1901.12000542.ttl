@@ -1,0 +1,40 @@
+<http://id.crossref.org/issn/0002-9890>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0002-9890" , "1930-0972" ;
+      <http://purl.org/dc/terms/title>
+              "The American Mathematical Monthly" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0002-9890" , "1930-0972" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0002-9890" , "urn:issn:1930-0972" .
+
+<http://dx.doi.org/10.1080/00029890.1901.12000542>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1080/00029890.1901.12000542" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "102" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "87" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "8" ;
+      <http://purl.org/dc/terms/date>
+              "1901-04"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1080/00029890.1901.12000542" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0002-9890> ;
+      <http://purl.org/dc/terms/publisher>
+              "Informa UK Limited" ;
+      <http://purl.org/dc/terms/title>
+              "Departments" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1080/00029890.1901.12000542" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "102" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "87" ;
+      <http://purl.org/ontology/bibo/volume>
+              "8" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1080/00029890.1901.12000542> , <doi:10.1080/00029890.1901.12000542> .

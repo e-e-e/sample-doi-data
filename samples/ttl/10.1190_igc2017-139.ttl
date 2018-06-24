@@ -1,0 +1,62 @@
+<http://id.crossref.org/contributor/junjun-li-3muwegp59dytx>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Li" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Junjun" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Junjun Li" .
+
+<http://id.crossref.org/contributor/zhiguo-ma-3muwegp59dytx>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Ma" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Zhiguo" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Zhiguo Ma" .
+
+<http://id.crossref.org/contributor/xiaodong-pu-3muwegp59dytx>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Pu" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Xiaodong" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Xiaodong Pu" .
+
+<http://id.crossref.org/contributor/dan-jiang-3muwegp59dytx>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Jiang" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Dan" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Dan Jiang" .
+
+<http://dx.doi.org/10.1190/igc2017-139>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1190/igc2017-139" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/junjun-li-3muwegp59dytx> , <http://id.crossref.org/contributor/zhiguo-ma-3muwegp59dytx> , <http://id.crossref.org/contributor/xiaodong-pu-3muwegp59dytx> , <http://id.crossref.org/contributor/dan-jiang-3muwegp59dytx> , <http://id.crossref.org/contributor/mengchang-shi-3muwegp59dytx> ;
+      <http://purl.org/dc/terms/date>
+              "2017-05-31"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1190/igc2017-139" ;
+      <http://purl.org/dc/terms/publisher>
+              "Society of Exploration Geophysicists and Chinese Petroleum Society" ;
+      <http://purl.org/dc/terms/title>
+              "Application of deghosting based on wavelet method in Gulf of Mexico" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1190/igc2017-139" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1190/igc2017-139> , <doi:10.1190/igc2017-139> .
+
+<http://id.crossref.org/contributor/mengchang-shi-3muwegp59dytx>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Shi" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Mengchang" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Mengchang Shi" .

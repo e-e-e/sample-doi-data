@@ -1,0 +1,47 @@
+@prefix bibo:    <http://purl.org/ontology/bibo/> .
+@prefix prism:   <http://prismstandard.org/namespaces/basic/2.1/> .
+@prefix foaf:    <http://xmlns.com/foaf/0.1/> .
+@prefix dc:      <http://purl.org/dc/terms/> .
+
+<http://id.medra.org/contributor/Ernest+W.+Burgess-10.3280%2FSR2014-103001-0>
+      a       foaf:Person ;
+      foaf:familyName "Burgess" ;
+      foaf:givenName "Ernest W." ;
+      foaf:name "Ernest W. Burgess" .
+
+<http://id.medra.org/issn/1121-1148>
+      a       bibo:Journal ;
+      prism:issn "1121-1148" ;
+      dc:hasPart <https://doi.org/10.3280/SR2014-103001> ;
+      dc:identifier "1121-1148" ;
+      dc:title "SOCIOLOGIA E RICERCA SOCIALE" ;
+      bibo:issn "1121-1148" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1121-1148" .
+
+<https://doi.org/10.3280/SR2014-103001>
+      a       bibo:Article ;
+      prism:doi "10.3280/SR2014-103001" ;
+      prism:endingPage " 17" ;
+      prism:startingPage " 5" ;
+      dc:creator <http://id.medra.org/contributor/Ernest+W.+Burgess-10.3280%2FSR2014-103001-0> ;
+      dc:date "2014" ;
+      dc:identifier "10.3280/SR2014-103001" ;
+      dc:isPartOf <http://id.medra.org/issn/1121-1148> , <http://id.medra.org/issn/1971-8446> ;
+      dc:publisher "FrancoAngeli" ;
+      dc:title "I metodi della ricerca sociologica" ;
+      bibo:doi "10.3280/SR2014-103001" ;
+      bibo:pageEnd " 17" ;
+      bibo:pageStart " 5" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "doi:10.3280/SR2014-103001" , "info:doi/10.3280/SR2014-103001" .
+
+<http://id.medra.org/issn/1971-8446>
+      a       bibo:Journal ;
+      prism:eIssn "1971-8446" ;
+      dc:hasPart <https://doi.org/10.3280/SR2014-103001> ;
+      dc:identifier "1971-8446" ;
+      dc:title "SOCIOLOGIA E RICERCA SOCIALE" ;
+      bibo:eissn "1971-8446" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1971-8446" .

@@ -1,0 +1,78 @@
+<http://id.crossref.org/isbn/9781624101281>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "46th AIAA Aerospace Sciences Meeting and Exhibit" .
+
+<http://id.crossref.org/contributor/sharon-swartz-1zldgi9ie8z8x>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Swartz" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Sharon" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Sharon Swartz" .
+
+<http://id.crossref.org/contributor/jaime-peraire-1zldgi9ie8z8x>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Peraire" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Jaime" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Jaime Peraire" .
+
+<http://dx.doi.org/10.2514/6.2008-518>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.2514/6.2008-518" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/jaime-peraire-1zldgi9ie8z8x> , <http://id.crossref.org/contributor/sharon-swartz-1zldgi9ie8z8x> , <http://id.crossref.org/contributor/emily-israeli-1zldgi9ie8z8x> , <http://id.crossref.org/contributor/david-willis-1zldgi9ie8z8x> , <http://id.crossref.org/contributor/per-olof-persson-1zldgi9ie8z8x> , <http://id.crossref.org/contributor/kenneth-breuer-1zldgi9ie8z8x> ;
+      <http://purl.org/dc/terms/date>
+              "2008-01-07"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.2514/6.2008-518" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9781624101281> ;
+      <http://purl.org/dc/terms/publisher>
+              "American Institute of Aeronautics and Astronautics" ;
+      <http://purl.org/dc/terms/title>
+              "Multifidelity Approaches for the Computational Analysis and Design of Effective Flapping Wing Vehicles" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.2514/6.2008-518" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.2514/6.2008-518> , <doi:10.2514/6.2008-518> .
+
+<http://id.crossref.org/contributor/emily-israeli-1zldgi9ie8z8x>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Israeli" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Emily" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Emily Israeli" .
+
+<http://id.crossref.org/contributor/david-willis-1zldgi9ie8z8x>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Willis" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "David" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "David Willis" .
+
+<http://id.crossref.org/contributor/per-olof-persson-1zldgi9ie8z8x>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Persson" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Per Olof" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Per Olof Persson" .
+
+<http://id.crossref.org/contributor/kenneth-breuer-1zldgi9ie8z8x>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Breuer" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Kenneth" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Kenneth Breuer" .

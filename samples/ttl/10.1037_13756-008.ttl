@@ -1,0 +1,52 @@
+<http://id.crossref.org/contributor/george-varian-aiduhpqunqht>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Varian" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "George" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "George Varian" .
+
+<http://id.crossref.org/contributor/thomas-fogarty-aiduhpqunqht>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Fogarty" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Thomas" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Thomas Fogarty" .
+
+<http://id.crossref.org/contributor/joshua-slocum-aiduhpqunqht>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Slocum" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Joshua" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Joshua Slocum" .
+
+<http://dx.doi.org/10.1037/13756-008>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1037/13756-008" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "109" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "98" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/george-varian-aiduhpqunqht> , <http://id.crossref.org/contributor/thomas-fogarty-aiduhpqunqht> , <http://id.crossref.org/contributor/joshua-slocum-aiduhpqunqht> ;
+      <http://purl.org/dc/terms/date>
+              ""^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1037/13756-008" ;
+      <http://purl.org/dc/terms/publisher>
+              "The Century Co" ;
+      <http://purl.org/dc/terms/title>
+              "Chapter VIII." ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1037/13756-008" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "109" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "98" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1037/13756-008> , <info:doi/10.1037/13756-008> .

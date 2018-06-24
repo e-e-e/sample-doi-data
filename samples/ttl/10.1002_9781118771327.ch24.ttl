@@ -1,0 +1,113 @@
+<http://id.crossref.org/contributor/a-v-efimov-8gnjqrbuipbe>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Efimov" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "A.V." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "A.V. Efimov" .
+
+<http://id.crossref.org/contributor/i-a-knyazev-8gnjqrbuipbe>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Knyazev" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "I.A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "I.A. Knyazev" .
+
+<http://id.crossref.org/contributor/o-i-stefanovsky-8gnjqrbuipbe>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Stefanovsky" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "O.I." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "O.I. Stefanovsky" .
+
+<http://id.crossref.org/contributor/a-v-lekontsev-8gnjqrbuipbe>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Lekontsev" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "A.V." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "A.V. Lekontsev" .
+
+<http://id.crossref.org/contributor/v-v-gorbunov-8gnjqrbuipbe>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Gorbunov" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "V.V." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "V.V. Gorbunov" .
+
+<http://id.crossref.org/contributor/m-s-zenkovskaya-8gnjqrbuipbe>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Zen'kovskaya" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "M.S." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "M.S. Zen'kovskaya" .
+
+<http://id.crossref.org/contributor/s-y-shvetsov-8gnjqrbuipbe>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Shvetsov" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "S.Y." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "S.Y. Shvetsov" .
+
+<http://dx.doi.org/10.1002/9781118771327.ch24>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1002/9781118771327.ch24" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "264" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "251" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/a-v-efimov-8gnjqrbuipbe> , <http://id.crossref.org/contributor/i-a-knyazev-8gnjqrbuipbe> , <http://id.crossref.org/contributor/o-i-stefanovsky-8gnjqrbuipbe> , <http://id.crossref.org/contributor/a-v-lekontsev-8gnjqrbuipbe> , <http://id.crossref.org/contributor/v-v-gorbunov-8gnjqrbuipbe> , <http://id.crossref.org/contributor/m-s-zenkovskaya-8gnjqrbuipbe> , <http://id.crossref.org/contributor/s-y-shvetsov-8gnjqrbuipbe> , <http://id.crossref.org/contributor/s-v-stefanovsky-8gnjqrbuipbe> , <http://id.crossref.org/contributor/j-a-roach-8gnjqrbuipbe> ;
+      <http://purl.org/dc/terms/date>
+              "2014-03-01"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1002/9781118771327.ch24" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9781118771327> ;
+      <http://purl.org/dc/terms/publisher>
+              "John Wiley & Sons, Inc." ;
+      <http://purl.org/dc/terms/title>
+              "Cold Crucible Vitrification of Hanford HLW Surrogates in Aluminumiron- Phosphate Glass" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1002/9781118771327.ch24" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "264" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "251" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1002/9781118771327.ch24> , <info:doi/10.1002/9781118771327.ch24> .
+
+<http://id.crossref.org/contributor/s-v-stefanovsky-8gnjqrbuipbe>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Stefanovsky" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "S.V." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "S.V. Stefanovsky" .
+
+<http://id.crossref.org/contributor/j-a-roach-8gnjqrbuipbe>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Roach" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "J.A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "J.A. Roach" .
+
+<http://id.crossref.org/isbn/9781118771327>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Ceramics for Environmental and Energy Applications II" .

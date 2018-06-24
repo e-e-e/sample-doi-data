@@ -1,0 +1,26 @@
+<http://id.crossref.org/contributor/hugh-davies-3dv95mkr6065k>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Davies" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Hugh" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Hugh Davies" .
+
+<http://dx.doi.org/10.1093/gmo/9781561592630.article.l2291143>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1093/gmo/9781561592630.article.l2291143" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/hugh-davies-3dv95mkr6065k> ;
+      <http://purl.org/dc/terms/date>
+              "2016-01-20"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1093/gmo/9781561592630.article.l2291143" ;
+      <http://purl.org/dc/terms/publisher>
+              "Oxford University Press" ;
+      <http://purl.org/dc/terms/title>
+              "Martin, Constant" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1093/gmo/9781561592630.article.l2291143" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1093/gmo/9781561592630.article.l2291143> , <info:doi/10.1093/gmo/9781561592630.article.l2291143> .

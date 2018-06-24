@@ -1,0 +1,41 @@
+<http://dx.doi.org/10.1007/978-3-319-39095-6_16>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1007/978-3-319-39095-6_16" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "276" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "275" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/george-n-barakos-1jdg3zorwycua> ;
+      <http://purl.org/dc/terms/date>
+              "2016"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1007/978-3-319-39095-6_16" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9783319390949> ;
+      <http://purl.org/dc/terms/publisher>
+              "Springer International Publishing" ;
+      <http://purl.org/dc/terms/title>
+              "An Overview of the CFD Analyses in the MARE-WINT Project" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1007/978-3-319-39095-6_16" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "276" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "275" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1007/978-3-319-39095-6_16> , <doi:10.1007/978-3-319-39095-6_16> .
+
+<http://id.crossref.org/isbn/9783319390949>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "MARE-WINT" .
+
+<http://id.crossref.org/contributor/george-n-barakos-1jdg3zorwycua>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Barakos" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "George N." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "George N. Barakos" .

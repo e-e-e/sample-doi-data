@@ -1,0 +1,35 @@
+<http://id.crossref.org/contributor/morgan-hynes-2v4ycvjxwlc14>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Hynes" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Morgan" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Morgan Hynes" .
+
+<http://dx.doi.org/10.18260/p.23633>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.18260/p.23633" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/morgan-hynes-2v4ycvjxwlc14> , <http://id.crossref.org/contributor/avneet-hira-2v4ycvjxwlc14> ;
+      <http://purl.org/dc/terms/date>
+              ""^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.18260/p.23633" ;
+      <http://purl.org/dc/terms/publisher>
+              "ASEE Conferences" ;
+      <http://purl.org/dc/terms/title>
+              "Broadening Participation in Engineering: Making in the K-12 Classroom Following an Interest-Based Framework (RTP, Strand 4)" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.18260/p.23633" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.18260/p.23633> , <info:doi/10.18260/p.23633> .
+
+<http://id.crossref.org/contributor/avneet-hira-2v4ycvjxwlc14>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Hira" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Avneet" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Avneet Hira" .

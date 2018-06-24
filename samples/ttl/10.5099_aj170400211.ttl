@@ -1,0 +1,57 @@
+<http://id.crossref.org/contributor/ajayi-od-2o84m06flhuib>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "OD" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Ajayi" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Ajayi OD" .
+
+<http://id.crossref.org/contributor/fasakin-ka-2o84m06flhuib>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "KA" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Fasakin" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Fasakin KA" .
+
+<http://id.crossref.org/issn/1937-9080>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1937-9080" ;
+      <http://purl.org/dc/terms/title>
+              "American Journal of Biomedical Sciences" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1937-9080" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1937-9080" .
+
+<http://dx.doi.org/10.5099/aj170400211>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.5099/aj170400211" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "224" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "211" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/ajayi-od-2o84m06flhuib> , <http://id.crossref.org/contributor/fasakin-ka-2o84m06flhuib> ;
+      <http://purl.org/dc/terms/date>
+              "2017-10"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.5099/aj170400211" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1937-9080> ;
+      <http://purl.org/dc/terms/publisher>
+              "New World Publishing International, Inc." ;
+      <http://purl.org/dc/terms/title>
+              """Hepatitis B Vaccination Outcomes and Broad Spectrum of Hepatitis B Infections in Nigeria: An Evidence-Based Picture 
+  """ ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.5099/aj170400211" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "224" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "211" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.5099/aj170400211> , <doi:10.5099/aj170400211> .

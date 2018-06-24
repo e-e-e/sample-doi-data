@@ -1,0 +1,52 @@
+<http://id.crossref.org/contributor/sabba-stefanescu-vzz51oxmdenr>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Stefânescu" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Sabba" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Sabba Stefânescu" .
+
+<http://dx.doi.org/10.1016/b978-0-444-99705-0.50004-6>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/b978-0-444-99705-0.50004-6" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "6" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "5" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/sabba-stefanescu-vzz51oxmdenr> ;
+      <http://purl.org/dc/terms/date>
+              "1982"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/b978-0-444-99705-0.50004-6" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0419-0297> , <http://id.crossref.org/isbn/9780444997050> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier" ;
+      <http://purl.org/dc/terms/title>
+              "Preface" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/b978-0-444-99705-0.50004-6" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "6" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "5" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1016/b978-0-444-99705-0.50004-6> , <doi:10.1016/b978-0-444-99705-0.50004-6> .
+
+<http://id.crossref.org/issn/0419-0297>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0419-0297" ;
+      <http://purl.org/dc/terms/title>
+              "Developments in Solid Earth Geophysics" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0419-0297" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0419-0297" .
+
+<http://id.crossref.org/isbn/9780444997050>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Developments in Solid Earth Geophysics" .

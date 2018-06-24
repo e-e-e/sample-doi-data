@@ -1,0 +1,92 @@
+<http://id.crossref.org/issn/2162-402X>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "2162-402X" ;
+      <http://purl.org/dc/terms/title>
+              "OncoImmunology" ;
+      <http://purl.org/ontology/bibo/issn>
+              "2162-402X" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:2162-402X" .
+
+<http://id.crossref.org/contributor/stuart-dunn-387oxtunufw3a>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Dunn" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Stuart" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Stuart Dunn" .
+
+<http://id.crossref.org/contributor/toby-mellows-387oxtunufw3a>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Mellows" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Toby" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Toby Mellows" .
+
+<http://id.crossref.org/contributor/simon-mitchell-387oxtunufw3a>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Mitchell" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Simon" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Simon Mitchell" .
+
+<http://id.crossref.org/contributor/juliet-c-gray-387oxtunufw3a>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Gray" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Juliet C" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Juliet C Gray" .
+
+<http://dx.doi.org/10.1080/2162402x.2015.1029701>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1080/2162402x.2015.1029701" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "e1029701" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "4" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/stuart-dunn-387oxtunufw3a> , <http://id.crossref.org/contributor/toby-mellows-387oxtunufw3a> , <http://id.crossref.org/contributor/simon-mitchell-387oxtunufw3a> , <http://id.crossref.org/contributor/juliet-c-gray-387oxtunufw3a> , <http://id.crossref.org/contributor/margaret-ashton-key-387oxtunufw3a> , <http://id.crossref.org/contributor/ferdousi-chowdhury-387oxtunufw3a> ;
+      <http://purl.org/dc/terms/date>
+              "2015-05-27"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1080/2162402x.2015.1029701" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/2162-402X> ;
+      <http://purl.org/dc/terms/publisher>
+              "Informa UK Limited" ;
+      <http://purl.org/dc/terms/title>
+              "PD-L1 and CD8+PD1+lymphocytes exist as targets in the pediatric tumor microenvironment for immunomodulatory therapy" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1080/2162402x.2015.1029701" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "e1029701" ;
+      <http://purl.org/ontology/bibo/volume>
+              "4" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1080/2162402x.2015.1029701> , <info:doi/10.1080/2162402x.2015.1029701> .
+
+<http://id.crossref.org/contributor/margaret-ashton-key-387oxtunufw3a>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Ashton-Key" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Margaret" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Margaret Ashton-Key" .
+
+<http://id.crossref.org/contributor/ferdousi-chowdhury-387oxtunufw3a>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Chowdhury" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Ferdousi" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Ferdousi Chowdhury" .

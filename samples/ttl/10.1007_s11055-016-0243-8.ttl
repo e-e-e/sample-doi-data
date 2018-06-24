@@ -1,0 +1,78 @@
+<http://id.crossref.org/contributor/e-v-ponomareva-3h70wd51ufxsh>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Ponomareva" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "E. V." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "E. V. Ponomareva" .
+
+<http://id.crossref.org/contributor/n-d-selezneva-3h70wd51ufxsh>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Selezneva" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "N. D." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "N. D. Selezneva" .
+
+<http://id.crossref.org/contributor/i-v-kolykhalov-3h70wd51ufxsh>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kolykhalov" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "I. V." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "I. V. Kolykhalov" .
+
+<http://id.crossref.org/contributor/s-i-gavrilova-3h70wd51ufxsh>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Gavrilova" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "S. I." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "S. I. Gavrilova" .
+
+<http://id.crossref.org/issn/0097-0549>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1573-899X" , "0097-0549" ;
+      <http://purl.org/dc/terms/title>
+              "Neuroscience and Behavioral Physiology" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1573-899X" , "0097-0549" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0097-0549" , "urn:issn:1573-899X" .
+
+<http://dx.doi.org/10.1007/s11055-016-0243-8>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1007/s11055-016-0243-8" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "370" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "365" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "46" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/e-v-ponomareva-3h70wd51ufxsh> , <http://id.crossref.org/contributor/n-d-selezneva-3h70wd51ufxsh> , <http://id.crossref.org/contributor/i-v-kolykhalov-3h70wd51ufxsh> , <http://id.crossref.org/contributor/s-i-gavrilova-3h70wd51ufxsh> ;
+      <http://purl.org/dc/terms/date>
+              "2016-01-25"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1007/s11055-016-0243-8" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0097-0549> ;
+      <http://purl.org/dc/terms/publisher>
+              "Springer Nature" ;
+      <http://purl.org/dc/terms/title>
+              "A Clinical Trial of the Use of Agomelatine for the Treatment of Depression in Elderly Patients in Out-Patient Conditions" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1007/s11055-016-0243-8" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "370" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "365" ;
+      <http://purl.org/ontology/bibo/volume>
+              "46" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1007/s11055-016-0243-8> , <doi:10.1007/s11055-016-0243-8> .

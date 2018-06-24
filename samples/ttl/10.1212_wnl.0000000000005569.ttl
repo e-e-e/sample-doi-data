@@ -1,0 +1,60 @@
+<http://id.crossref.org/contributor/steven-galetta-2wzjlyd2s0a64>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Galetta" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Steven" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Steven Galetta" .
+
+<http://id.crossref.org/issn/0028-3878>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1526-632X" , "0028-3878" ;
+      <http://purl.org/dc/terms/title>
+              "Neurology" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1526-632X" , "0028-3878" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1526-632X" , "urn:issn:0028-3878" .
+
+<http://dx.doi.org/10.1212/wnl.0000000000005569>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1212/wnl.0000000000005569" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "989" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "989.2" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "90" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/steven-galetta-2wzjlyd2s0a64> , <http://id.crossref.org/contributor/chafic-karam-2wzjlyd2s0a64> ;
+      <http://purl.org/dc/terms/date>
+              "2018-05-21"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1212/wnl.0000000000005569" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0028-3878> ;
+      <http://purl.org/dc/terms/publisher>
+              "Ovid Technologies (Wolters Kluwer Health)" ;
+      <http://purl.org/dc/terms/title>
+              "Editors' note: Anti-cytosolic 5′-nucleotidase 1A (cN1A) autoantibodies in motor neuron diseases" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1212/wnl.0000000000005569" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "989" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "989.2" ;
+      <http://purl.org/ontology/bibo/volume>
+              "90" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1212/wnl.0000000000005569> , <doi:10.1212/wnl.0000000000005569> .
+
+<http://id.crossref.org/contributor/chafic-karam-2wzjlyd2s0a64>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Karam" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Chafic" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Chafic Karam" .

@@ -1,0 +1,60 @@
+<http://dx.doi.org/10.1016/0016-5085(89)90400-9>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/0016-5085(89)90400-9" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "1543" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "1534" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "97" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/naohiro-furukawa-1vgud62nktxy8> , <http://id.crossref.org/contributor/hiromasa-okada-1vgud62nktxy8> ;
+      <http://purl.org/dc/terms/date>
+              "1989-12"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/0016-5085(89)90400-9" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0016-5085> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Effects of stimulation of the hypothalamic area on pancreatic exocrine secretion in dogs" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/0016-5085(89)90400-9" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "1543" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "1534" ;
+      <http://purl.org/ontology/bibo/volume>
+              "97" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1016/0016-5085(89)90400-9> , <doi:10.1016/0016-5085(89)90400-9> .
+
+<http://id.crossref.org/contributor/naohiro-furukawa-1vgud62nktxy8>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Furukawa" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Naohiro" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Naohiro Furukawa" .
+
+<http://id.crossref.org/contributor/hiromasa-okada-1vgud62nktxy8>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Okada" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Hiromasa" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Hiromasa Okada" .
+
+<http://id.crossref.org/issn/0016-5085>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0016-5085" ;
+      <http://purl.org/dc/terms/title>
+              "Gastroenterology" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0016-5085" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0016-5085" .

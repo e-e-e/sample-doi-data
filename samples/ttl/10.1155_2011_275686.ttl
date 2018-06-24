@@ -1,0 +1,60 @@
+<http://id.crossref.org/issn/1024-123X>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1563-5147" , "1024-123X" ;
+      <http://purl.org/dc/terms/title>
+              "Mathematical Problems in Engineering" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1563-5147" , "1024-123X" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1563-5147" , "urn:issn:1024-123X" .
+
+<http://dx.doi.org/10.1155/2011/275686>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1155/2011/275686" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "20" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "1" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "2011" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/habshah-midi-mf90blb0a15i> , <http://id.crossref.org/contributor/ng-kooi-huat-mf90blb0a15i> ;
+      <http://purl.org/dc/terms/date>
+              "2011"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1155/2011/275686" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1024-123X> ;
+      <http://purl.org/dc/terms/publisher>
+              "Hindawi Limited" ;
+      <http://purl.org/dc/terms/title>
+              "Change Point Detection with Robust Control Chart" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1155/2011/275686" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "20" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "1" ;
+      <http://purl.org/ontology/bibo/volume>
+              "2011" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1155/2011/275686> , <doi:10.1155/2011/275686> .
+
+<http://id.crossref.org/contributor/habshah-midi-mf90blb0a15i>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Midi" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Habshah" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Habshah Midi" .
+
+<http://id.crossref.org/contributor/ng-kooi-huat-mf90blb0a15i>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kooi Huat" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Ng" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Ng Kooi Huat" .

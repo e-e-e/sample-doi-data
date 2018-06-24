@@ -1,0 +1,52 @@
+<http://id.crossref.org/isbn/9780821808078>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Topics in Singularity Theory" .
+
+<http://id.crossref.org/issn/0065-9290>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0065-9290" , "2472-3193" ;
+      <http://purl.org/dc/terms/title>
+              "Topics in Singularity Theory" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0065-9290" , "2472-3193" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:2472-3193" , "urn:issn:0065-9290" .
+
+<http://id.crossref.org/contributor/yu-ilyashenko-1jvoxt3imw9q0>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Ilyashenko" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Yu." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Yu. Ilyashenko" .
+
+<http://dx.doi.org/10.1090/trans2/180/09>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1090/trans2/180/09" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "139" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "127" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/yu-ilyashenko-1jvoxt3imw9q0> ;
+      <http://purl.org/dc/terms/date>
+              "1997-07-08"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1090/trans2/180/09" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9780821808078> , <http://id.crossref.org/issn/0065-9290> ;
+      <http://purl.org/dc/terms/publisher>
+              "American Mathematical Society" ;
+      <http://purl.org/dc/terms/title>
+              "Embedding theorems for local maps, slow-fast systems and bifurcation from Morse-Smale to Smale-Williams" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1090/trans2/180/09" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "139" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "127" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1090/trans2/180/09> , <doi:10.1090/trans2/180/09> .

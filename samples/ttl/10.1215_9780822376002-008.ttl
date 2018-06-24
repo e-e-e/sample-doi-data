@@ -1,0 +1,41 @@
+<http://dx.doi.org/10.1215/9780822376002-008>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1215/9780822376002-008" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "233" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "217" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/carla-freeman-3r8hk7e19j8hq> ;
+      <http://purl.org/dc/terms/date>
+              "2014-11-12"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1215/9780822376002-008" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9780822376002> ;
+      <http://purl.org/dc/terms/publisher>
+              "Duke University Press" ;
+      <http://purl.org/dc/terms/title>
+              "Notes" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1215/9780822376002-008" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "233" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "217" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1215/9780822376002-008> , <info:doi/10.1215/9780822376002-008> .
+
+<http://id.crossref.org/isbn/9780822376002>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Entrepreneurial Selves" .
+
+<http://id.crossref.org/contributor/carla-freeman-3r8hk7e19j8hq>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Freeman" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Carla" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Carla Freeman" .

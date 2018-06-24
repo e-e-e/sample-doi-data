@@ -1,0 +1,50 @@
+<http://id.crossref.org/contributor/ralph-u-esposito-5h5c9lz5ywtm>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Esposito" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Ralph U." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Ralph U. Esposito" .
+
+<http://id.crossref.org/contributor/conan-kornetsky-5h5c9lz5ywtm>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kornetsky" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Conan" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Conan Kornetsky" .
+
+<http://dx.doi.org/10.1016/b978-1-4832-8363-0.50550-4>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/b978-1-4832-8363-0.50550-4" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "1785" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "1783" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/ralph-u-esposito-5h5c9lz5ywtm> , <http://id.crossref.org/contributor/conan-kornetsky-5h5c9lz5ywtm> ;
+      <http://purl.org/dc/terms/date>
+              "1979"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/b978-1-4832-8363-0.50550-4" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9781483283630> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier" ;
+      <http://purl.org/dc/terms/title>
+              "CENTRAL REWARD SYSTEMS AND SUBSTANCE ABUSE" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/b978-1-4832-8363-0.50550-4" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "1785" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "1783" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1016/b978-1-4832-8363-0.50550-4> , <info:doi/10.1016/b978-1-4832-8363-0.50550-4> .
+
+<http://id.crossref.org/isbn/9781483283630>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Catecholamines: Basic and Clinical Frontiers" .

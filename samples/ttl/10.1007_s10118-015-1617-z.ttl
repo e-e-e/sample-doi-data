@@ -1,0 +1,96 @@
+<http://id.crossref.org/contributor/xue-qin-gao-3sp71kiqo33p5>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Gao" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Xue-qin" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Xue-qin Gao" .
+
+<http://id.crossref.org/contributor/cong-deng-3sp71kiqo33p5>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Deng" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Cong" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Cong Deng" .
+
+<http://id.crossref.org/contributor/jun-lei-3sp71kiqo33p5>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Lei" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Jun" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Jun Lei" .
+
+<http://id.crossref.org/contributor/fang-zhen-an-3sp71kiqo33p5>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "An" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Fang-zhen" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Fang-zhen An" .
+
+<http://id.crossref.org/contributor/zhong-ming-li-3sp71kiqo33p5>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Li" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Zhong-ming" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Zhong-ming Li" .
+
+<http://id.crossref.org/contributor/kai-zhi-shen-3sp71kiqo33p5>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Shen" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Kai-zhi" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Kai-zhi Shen" .
+
+<http://dx.doi.org/10.1007/s10118-015-1617-z>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1007/s10118-015-1617-z" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "696" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "688" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "33" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/xue-qin-gao-3sp71kiqo33p5> , <http://id.crossref.org/contributor/jun-lei-3sp71kiqo33p5> , <http://id.crossref.org/contributor/cong-deng-3sp71kiqo33p5> , <http://id.crossref.org/contributor/fang-zhen-an-3sp71kiqo33p5> , <http://id.crossref.org/contributor/zhong-ming-li-3sp71kiqo33p5> , <http://id.crossref.org/contributor/kai-zhi-shen-3sp71kiqo33p5> ;
+      <http://purl.org/dc/terms/date>
+              "2015-03-19"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1007/s10118-015-1617-z" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0256-7679> ;
+      <http://purl.org/dc/terms/publisher>
+              "Springer Nature" ;
+      <http://purl.org/dc/terms/title>
+              "Vibration assisted extrusion of polypropylene" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1007/s10118-015-1617-z" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "696" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "688" ;
+      <http://purl.org/ontology/bibo/volume>
+              "33" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1007/s10118-015-1617-z> , <doi:10.1007/s10118-015-1617-z> .
+
+<http://id.crossref.org/issn/0256-7679>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1439-6203" , "0256-7679" ;
+      <http://purl.org/dc/terms/title>
+              "Chinese Journal of Polymer Science" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1439-6203" , "0256-7679" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1439-6203" , "urn:issn:0256-7679" .

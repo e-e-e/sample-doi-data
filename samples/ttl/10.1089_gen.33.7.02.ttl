@@ -1,0 +1,51 @@
+<http://id.crossref.org/issn/1935-472X>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1937-8661" , "1935-472X" ;
+      <http://purl.org/dc/terms/title>
+              "Genetic Engineering & Biotechnology News" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1937-8661" , "1935-472X" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1935-472X" , "urn:issn:1937-8661" .
+
+<http://id.crossref.org/contributor/jay-pattumudi-nbv1xd4qpcuq>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Pattumudi" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Jay" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Jay Pattumudi" .
+
+<http://dx.doi.org/10.1089/gen.33.7.02>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1089/gen.33.7.02" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "11" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "10" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "33" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/jay-pattumudi-nbv1xd4qpcuq> ;
+      <http://purl.org/dc/terms/date>
+              "2013-04"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1089/gen.33.7.02" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1935-472X> ;
+      <http://purl.org/dc/terms/publisher>
+              "Mary Ann Liebert Inc" ;
+      <http://purl.org/dc/terms/title>
+              "The Scope of Prior Art Under AIA" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1089/gen.33.7.02" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "11" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "10" ;
+      <http://purl.org/ontology/bibo/volume>
+              "33" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1089/gen.33.7.02> , <info:doi/10.1089/gen.33.7.02> .

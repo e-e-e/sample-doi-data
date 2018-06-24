@@ -1,0 +1,65 @@
+<http://id.crossref.org/contributor/andrew-macallister-21fpg5ubgoj80>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Macallister" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Andrew" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Andrew Macallister" .
+
+<http://id.crossref.org/contributor/michael-shere-21fpg5ubgoj80>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Shere" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Michael" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Michael Shere" .
+
+<http://id.crossref.org/issn/0748-7983>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0748-7983" ;
+      <http://purl.org/dc/terms/title>
+              "European Journal of Surgical Oncology (EJSO)" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0748-7983" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0748-7983" .
+
+<http://dx.doi.org/10.1016/j.ejso.2012.02.065>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/j.ejso.2012.02.065" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "428" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "38" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/andrew-macallister-21fpg5ubgoj80> , <http://id.crossref.org/contributor/michael-shere-21fpg5ubgoj80> , <http://id.crossref.org/contributor/simon-cawthorn-21fpg5ubgoj80> ;
+      <http://purl.org/dc/terms/date>
+              "2012-05"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/j.ejso.2012.02.065" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0748-7983> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Air bubble “ductoscan”: A novel method of localisation of intraductal papilloma prior to ultrasound guided mammatome excision" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/j.ejso.2012.02.065" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "428" ;
+      <http://purl.org/ontology/bibo/volume>
+              "38" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1016/j.ejso.2012.02.065> , <doi:10.1016/j.ejso.2012.02.065> .
+
+<http://id.crossref.org/contributor/simon-cawthorn-21fpg5ubgoj80>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Cawthorn" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Simon" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Simon Cawthorn" .

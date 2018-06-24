@@ -1,0 +1,31 @@
+<http://id.crossref.org/contributor/j-e-bergtholdt-3t0t1cpf6xl1o>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Bergtholdt" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "J. E." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "J. E. Bergtholdt" .
+
+<http://id.crossref.org/contributor/-3t0t1cpf6xl1o>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/name>
+              " " .
+
+<http://dx.doi.org/10.5962/bhl.title.125232>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.5962/bhl.title.125232" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/j-e-bergtholdt-3t0t1cpf6xl1o> , <http://id.crossref.org/contributor/-3t0t1cpf6xl1o> ;
+      <http://purl.org/dc/terms/date>
+              "1921"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.5962/bhl.title.125232" ;
+      <http://purl.org/dc/terms/publisher>
+              "Silva-Bergtholdt Company," ;
+      <http://purl.org/dc/terms/title>
+              "Price catalogue of California fruits for fall of 1921 /" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.5962/bhl.title.125232" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.5962/bhl.title.125232> , <doi:10.5962/bhl.title.125232> .

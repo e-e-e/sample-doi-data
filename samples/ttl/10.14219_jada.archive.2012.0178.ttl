@@ -1,0 +1,87 @@
+<http://id.crossref.org/contributor/maria-rosaria-antonella-gatto-3oylkwio9ioxd>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Gatto" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Maria Rosaria Antonella" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Maria Rosaria Antonella Gatto" .
+
+<http://id.crossref.org/contributor/giuseppe-corinaldesi-3oylkwio9ioxd>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Corinaldesi" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Giuseppe" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Giuseppe Corinaldesi" .
+
+<http://id.crossref.org/contributor/giselle-de-santis-3oylkwio9ioxd>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "de Santis" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Giselle" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Giselle de Santis" .
+
+<http://id.crossref.org/contributor/claudio-marchetti-3oylkwio9ioxd>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Marchetti" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Claudio" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Claudio Marchetti" .
+
+<http://id.crossref.org/issn/0002-8177>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0002-8177" ;
+      <http://purl.org/dc/terms/title>
+              "The Journal of the American Dental Association" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0002-8177" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0002-8177" .
+
+<http://dx.doi.org/10.14219/jada.archive.2012.0178>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.14219/jada.archive.2012.0178" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "369" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "363" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "143" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/maria-rosaria-antonella-gatto-3oylkwio9ioxd> , <http://id.crossref.org/contributor/giuseppe-corinaldesi-3oylkwio9ioxd> , <http://id.crossref.org/contributor/giselle-de-santis-3oylkwio9ioxd> , <http://id.crossref.org/contributor/claudio-marchetti-3oylkwio9ioxd> , <http://id.crossref.org/contributor/giuseppe-monaco-3oylkwio9ioxd> ;
+      <http://purl.org/dc/terms/date>
+              "2012-04"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.14219/jada.archive.2012.0178" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0002-8177> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Coronectomy" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.14219/jada.archive.2012.0178" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "369" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "363" ;
+      <http://purl.org/ontology/bibo/volume>
+              "143" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.14219/jada.archive.2012.0178> , <doi:10.14219/jada.archive.2012.0178> .
+
+<http://id.crossref.org/contributor/giuseppe-monaco-3oylkwio9ioxd>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Monaco" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Giuseppe" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Giuseppe Monaco" .

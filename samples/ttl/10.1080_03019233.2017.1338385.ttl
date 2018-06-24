@@ -1,0 +1,47 @@
+<http://id.crossref.org/issn/0301-9233>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1743-2812" , "0301-9233" ;
+      <http://purl.org/dc/terms/title>
+              "Ironmaking & Steelmaking" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1743-2812" , "0301-9233" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0301-9233" , "urn:issn:1743-2812" .
+
+<http://dx.doi.org/10.1080/03019233.2017.1338385>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1080/03019233.2017.1338385" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "6" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "1" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/mriganshu-guha-1t2nui5q34sem> ;
+      <http://purl.org/dc/terms/date>
+              "2017-06-11"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1080/03019233.2017.1338385" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0301-9233> ;
+      <http://purl.org/dc/terms/publisher>
+              "Informa UK Limited" ;
+      <http://purl.org/dc/terms/title>
+              "Revealing cohesive zone shape and location inside blast furnace" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1080/03019233.2017.1338385" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "6" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "1" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1080/03019233.2017.1338385> , <info:doi/10.1080/03019233.2017.1338385> .
+
+<http://id.crossref.org/contributor/mriganshu-guha-1t2nui5q34sem>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Guha" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Mriganshu" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Mriganshu Guha" .

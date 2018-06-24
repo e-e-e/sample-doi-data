@@ -1,0 +1,69 @@
+<http://id.crossref.org/issn/1089-5639>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1089-5639" , "1520-5215" ;
+      <http://purl.org/dc/terms/title>
+              "The Journal of Physical Chemistry A" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1089-5639" , "1520-5215" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1520-5215" , "urn:issn:1089-5639" .
+
+<http://dx.doi.org/10.1021/jp405530j>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1021/jp405530j" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "7736" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "7721" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "117" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/sergey-i-druzhinin-1oyl30n54fm42> , <http://id.crossref.org/contributor/klaas-a-zachariasse-1oyl30n54fm42> , <http://id.crossref.org/contributor/attila-demeter-1oyl30n54fm42> ;
+      <http://purl.org/dc/terms/date>
+              "2013-07-31"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1021/jp405530j" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1089-5639> ;
+      <http://purl.org/dc/terms/publisher>
+              "American Chemical Society (ACS)" ;
+      <http://purl.org/dc/terms/title>
+              "Intramolecular Charge Transfer with Crystal Violet Lactone in Acetonitrile As a Function of Temperature: Reaction Is Not Solvent-Controlled" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1021/jp405530j" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "7736" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "7721" ;
+      <http://purl.org/ontology/bibo/volume>
+              "117" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1021/jp405530j> , <info:doi/10.1021/jp405530j> .
+
+<http://id.crossref.org/contributor/sergey-i-druzhinin-1oyl30n54fm42>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Druzhinin" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Sergey I." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Sergey I. Druzhinin" .
+
+<http://id.crossref.org/contributor/klaas-a-zachariasse-1oyl30n54fm42>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Zachariasse" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Klaas A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Klaas A. Zachariasse" .
+
+<http://id.crossref.org/contributor/attila-demeter-1oyl30n54fm42>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Demeter" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Attila" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Attila Demeter" .

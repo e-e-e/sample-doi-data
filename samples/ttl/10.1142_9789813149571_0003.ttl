@@ -1,0 +1,61 @@
+<http://id.crossref.org/contributor/hiroshi-shinokubo-1u7npls1s1n95>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Shinokubo" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Hiroshi" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Hiroshi Shinokubo" .
+
+<http://id.crossref.org/issn/1793-9518>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1793-9518" ;
+      <http://purl.org/dc/terms/title>
+              "Handbook of Porphyrin Science" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1793-9518" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1793-9518" .
+
+<http://id.crossref.org/contributor/satoru-hiroto-1u7npls1s1n95>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Hiroto" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Satoru" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Satoru Hiroto" .
+
+<http://dx.doi.org/10.1142/9789813149571_0003>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1142/9789813149571_0003" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "302" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "233" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/hiroshi-shinokubo-1u7npls1s1n95> , <http://id.crossref.org/contributor/satoru-hiroto-1u7npls1s1n95> ;
+      <http://purl.org/dc/terms/date>
+              "2016-07-07"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1142/9789813149571_0003" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1793-9518> , <http://id.crossref.org/isbn/9789813140806> ;
+      <http://purl.org/dc/terms/publisher>
+              "World Scientific Publishing Company" ;
+      <http://purl.org/dc/terms/title>
+              "Syntheses and Properties of Antiaromatic Porphyrinoids" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1142/9789813149571_0003" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "302" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "233" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1142/9789813149571_0003> , <info:doi/10.1142/9789813149571_0003> .
+
+<http://id.crossref.org/isbn/9789813140806>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Handbook of Porphyrin Science" .

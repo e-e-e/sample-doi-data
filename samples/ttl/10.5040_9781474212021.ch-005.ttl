@@ -1,0 +1,22 @@
+<http://id.crossref.org/isbn/9781441158239>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Translation, Humour and Literature : Translation and Humour Volume 1" .
+
+<http://dx.doi.org/10.5040/9781474212021.ch-005>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.5040/9781474212021.ch-005" ;
+      <http://purl.org/dc/terms/date>
+              ""^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.5040/9781474212021.ch-005" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9781441158239> ;
+      <http://purl.org/dc/terms/publisher>
+              "Bloomsbury Academic" ;
+      <http://purl.org/dc/terms/title>
+              "Translating Greece to Rome: Humour and the Re-invention of Popular Culture" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.5040/9781474212021.ch-005" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.5040/9781474212021.ch-005> , <doi:10.5040/9781474212021.ch-005> .

@@ -1,0 +1,78 @@
+<http://id.crossref.org/contributor/juhani-tuominen-34tglj1s6gp31>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Tuominen" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Juhani" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Juhani Tuominen" .
+
+<http://id.crossref.org/contributor/pekka-lahteenmaki-34tglj1s6gp31>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Lähteenmäki" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Pekka" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Pekka Lähteenmäki" .
+
+<http://dx.doi.org/10.1016/s0015-0282(16)56209-8>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/s0015-0282(16)56209-8" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "615" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "610" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "60" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/juhani-tuominen-34tglj1s6gp31> , <http://id.crossref.org/contributor/pekka-lahteenmaki-34tglj1s6gp31> , <http://id.crossref.org/contributor/tapani-luukkainen-34tglj1s6gp31> , <http://id.crossref.org/contributor/raimo-kekkonen-34tglj1s6gp31> ;
+      <http://purl.org/dc/terms/date>
+              "1993-10"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/s0015-0282(16)56209-8" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0015-0282> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Sequential regimen of the antiprogesterone RU486 and synthetic progestin for contraception * †" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/s0015-0282(16)56209-8" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "615" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "610" ;
+      <http://purl.org/ontology/bibo/volume>
+              "60" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1016/s0015-0282(16)56209-8> , <info:doi/10.1016/s0015-0282(16)56209-8> .
+
+<http://id.crossref.org/contributor/tapani-luukkainen-34tglj1s6gp31>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Luukkainen" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Tapani" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Tapani Luukkainen" .
+
+<http://id.crossref.org/contributor/raimo-kekkonen-34tglj1s6gp31>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kekkonen" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Raimo" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Raimo Kekkonen" .
+
+<http://id.crossref.org/issn/0015-0282>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0015-0282" ;
+      <http://purl.org/dc/terms/title>
+              "Fertility and Sterility" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0015-0282" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0015-0282" .

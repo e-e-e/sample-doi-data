@@ -1,0 +1,47 @@
+<http://id.crossref.org/contributor/sander-lenferink-24t0culgr6vuf>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Lenferink" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Sander" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Sander Lenferink" .
+
+<http://dx.doi.org/10.21825/agora.v25i3.2570>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.21825/agora.v25i3.2570" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "37" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "25" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/sander-lenferink-24t0culgr6vuf> ;
+      <http://purl.org/dc/terms/date>
+              "2009-07-01"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.21825/agora.v25i3.2570" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1380-6319> ;
+      <http://purl.org/dc/terms/publisher>
+              "Ghent University" ;
+      <http://purl.org/dc/terms/title>
+              "Een allesomvattende aanpak voor infrastructuursectoren" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.21825/agora.v25i3.2570" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "37" ;
+      <http://purl.org/ontology/bibo/volume>
+              "25" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.21825/agora.v25i3.2570> , <info:doi/10.21825/agora.v25i3.2570> .
+
+<http://id.crossref.org/issn/1380-6319>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1380-6319" ;
+      <http://purl.org/dc/terms/title>
+              "AGORA Magazine" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1380-6319" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1380-6319" .

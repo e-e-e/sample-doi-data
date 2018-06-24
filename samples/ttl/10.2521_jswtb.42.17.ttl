@@ -1,0 +1,69 @@
+<http://id.crossref.org/issn/0910-6758>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0910-6758" , "1881-0438" ;
+      <http://purl.org/dc/terms/title>
+              "Japanese Journal of Water Treatment Biology" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0910-6758" , "1881-0438" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1881-0438" , "urn:issn:0910-6758" .
+
+<http://id.crossref.org/contributor/kenji-furukawa-26gat3lw3ehec>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "FURUKAWA" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "KENJI" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "KENJI FURUKAWA" .
+
+<http://id.crossref.org/contributor/urara-imajo-26gat3lw3ehec>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "IMAJO" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "URARA" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "URARA IMAJO" .
+
+<http://id.crossref.org/contributor/yohei-kawano-26gat3lw3ehec>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "KAWANO" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "YOHEI" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "YOHEI KAWANO" .
+
+<http://dx.doi.org/10.2521/jswtb.42.17>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.2521/jswtb.42.17" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "25" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "17" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "42" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/kenji-furukawa-26gat3lw3ehec> , <http://id.crossref.org/contributor/urara-imajo-26gat3lw3ehec> , <http://id.crossref.org/contributor/yohei-kawano-26gat3lw3ehec> ;
+      <http://purl.org/dc/terms/date>
+              "2006"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.2521/jswtb.42.17" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0910-6758> ;
+      <http://purl.org/dc/terms/publisher>
+              "Japanese Society of Water Treatment Biology" ;
+      <http://purl.org/dc/terms/title>
+              "Start-up of the Single Stage Nitrogen Removal System Using Anammox Granules and Its Affecting Factors" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.2521/jswtb.42.17" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "25" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "17" ;
+      <http://purl.org/ontology/bibo/volume>
+              "42" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.2521/jswtb.42.17> , <info:doi/10.2521/jswtb.42.17> .

@@ -1,0 +1,41 @@
+<http://id.crossref.org/isbn/9789971696771>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Crossing Borders" .
+
+<http://id.crossref.org/contributor/johannes-moser-65ejj3cqo0dn>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Moser" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Johannes" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Johannes Moser" .
+
+<http://dx.doi.org/10.2307/j.ctv1nthm4.6>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.2307/j.ctv1nthm4.6" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "12" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "3" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/johannes-moser-65ejj3cqo0dn> ;
+      <http://purl.org/dc/terms/date>
+              ""^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.2307/j.ctv1nthm4.6" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9789971696771> ;
+      <http://purl.org/dc/terms/publisher>
+              "NUS Press" ;
+      <http://purl.org/dc/terms/title>
+              "The Hoabinhian Definition — In the Past and Today:" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.2307/j.ctv1nthm4.6" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "12" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "3" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.2307/j.ctv1nthm4.6> , <doi:10.2307/j.ctv1nthm4.6> .

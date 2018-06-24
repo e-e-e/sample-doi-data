@@ -1,0 +1,78 @@
+<http://id.crossref.org/contributor/sung-young-hong-4h8mi98i2bh0>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Hong" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Sung-Young" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Sung-Young Hong" .
+
+<http://id.crossref.org/contributor/po-chun-yeh-4h8mi98i2bh0>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Yeh" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Po-Chun" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Po-Chun Yeh" .
+
+<http://dx.doi.org/10.1021/nn303715d>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1021/nn303715d" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "10631" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "10622" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "6" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/sung-young-hong-4h8mi98i2bh0> , <http://id.crossref.org/contributor/po-chun-yeh-4h8mi98i2bh0> , <http://id.crossref.org/contributor/jerry-i-dadap-4h8mi98i2bh0> , <http://id.crossref.org/contributor/richard-m-osgood-4h8mi98i2bh0> ;
+      <http://purl.org/dc/terms/date>
+              "2012-11-26"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1021/nn303715d" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1936-0851> ;
+      <http://purl.org/dc/terms/publisher>
+              "American Chemical Society (ACS)" ;
+      <http://purl.org/dc/terms/title>
+              "Interfacial Dipole Formation and Surface-Electron Confinement in Low-Coverage Self-Assembled Thiol Layers: Thiophenol and p-Fluorothiophenol on Cu(111)" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1021/nn303715d" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "10631" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "10622" ;
+      <http://purl.org/ontology/bibo/volume>
+              "6" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1021/nn303715d> , <doi:10.1021/nn303715d> .
+
+<http://id.crossref.org/contributor/jerry-i-dadap-4h8mi98i2bh0>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Dadap" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Jerry I." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Jerry I. Dadap" .
+
+<http://id.crossref.org/issn/1936-0851>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1936-086X" , "1936-0851" ;
+      <http://purl.org/dc/terms/title>
+              "ACS Nano" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1936-086X" , "1936-0851" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1936-086X" , "urn:issn:1936-0851" .
+
+<http://id.crossref.org/contributor/richard-m-osgood-4h8mi98i2bh0>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Osgood" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Richard. M." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Richard. M. Osgood" .

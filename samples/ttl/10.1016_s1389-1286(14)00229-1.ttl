@@ -1,0 +1,36 @@
+<http://dx.doi.org/10.1016/s1389-1286(14)00229-1>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/s1389-1286(14)00229-1" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "IFC" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "69" ;
+      <http://purl.org/dc/terms/date>
+              "2014-08"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/s1389-1286(14)00229-1" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1389-1286> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Editorial Board" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/s1389-1286(14)00229-1" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "IFC" ;
+      <http://purl.org/ontology/bibo/volume>
+              "69" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1016/s1389-1286(14)00229-1> , <info:doi/10.1016/s1389-1286(14)00229-1> .
+
+<http://id.crossref.org/issn/1389-1286>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1389-1286" ;
+      <http://purl.org/dc/terms/title>
+              "Computer Networks" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1389-1286" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1389-1286" .

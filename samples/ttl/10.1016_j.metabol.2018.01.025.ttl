@@ -1,0 +1,78 @@
+<http://id.crossref.org/contributor/gerard-t-berry-2spd19un8dner>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Berry" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Gerard T." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Gerard T. Berry" .
+
+<http://dx.doi.org/10.1016/j.metabol.2018.01.025>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/j.metabol.2018.01.025" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "196" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "188" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "83" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/gerard-t-berry-2spd19un8dner> , <http://id.crossref.org/contributor/ana-i-coelho-2spd19un8dner> , <http://id.crossref.org/contributor/m-estela-rubio-gozalbo-2spd19un8dner> , <http://id.crossref.org/contributor/didem-demirbas-2spd19un8dner> ;
+      <http://purl.org/dc/terms/date>
+              "2018-06"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/j.metabol.2018.01.025" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0026-0495> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Hereditary galactosemia" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/j.metabol.2018.01.025" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "196" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "188" ;
+      <http://purl.org/ontology/bibo/volume>
+              "83" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1016/j.metabol.2018.01.025> , <info:doi/10.1016/j.metabol.2018.01.025> .
+
+<http://id.crossref.org/contributor/ana-i-coelho-2spd19un8dner>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Coelho" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Ana I." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Ana I. Coelho" .
+
+<http://id.crossref.org/contributor/m-estela-rubio-gozalbo-2spd19un8dner>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Rubio-Gozalbo" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "M. Estela" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "M. Estela Rubio-Gozalbo" .
+
+<http://id.crossref.org/contributor/didem-demirbas-2spd19un8dner>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Demirbas" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Didem" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Didem Demirbas" .
+
+<http://id.crossref.org/issn/0026-0495>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0026-0495" ;
+      <http://purl.org/dc/terms/title>
+              "Metabolism" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0026-0495" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0026-0495" .

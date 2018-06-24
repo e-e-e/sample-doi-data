@@ -1,0 +1,30 @@
+<http://id.crossref.org/isbn/9781599101569>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Medieval Renaissance Baroque" .
+
+<http://dx.doi.org/10.2307/j.ctt1t88txt.2>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.2307/j.ctt1t88txt.2" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "viii" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "vii" ;
+      <http://purl.org/dc/terms/date>
+              ""^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.2307/j.ctt1t88txt.2" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9781599101569> ;
+      <http://purl.org/dc/terms/publisher>
+              "Italica Press, Inc." ;
+      <http://purl.org/dc/terms/title>
+              "Table of Contents" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.2307/j.ctt1t88txt.2" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "viii" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "vii" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.2307/j.ctt1t88txt.2> , <doi:10.2307/j.ctt1t88txt.2> .

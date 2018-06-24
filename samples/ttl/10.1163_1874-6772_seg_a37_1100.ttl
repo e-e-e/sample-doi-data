@@ -1,0 +1,15 @@
+<http://dx.doi.org/10.1163/1874-6772_seg_a37_1100>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1163/1874-6772_seg_a37_1100" ;
+      <http://purl.org/dc/terms/date>
+              ""^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1163/1874-6772_seg_a37_1100" ;
+      <http://purl.org/dc/terms/publisher>
+              "Brill Academic Publishers" ;
+      <http://purl.org/dc/terms/title>
+              "Supplementum Epigraphicum GraecumApollonia (area of Çapali). Boundary stone dedicated to the Theoi Enorioi, 134/5 A.D." ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1163/1874-6772_seg_a37_1100" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1163/1874-6772_seg_a37_1100> , <info:doi/10.1163/1874-6772_seg_a37_1100> .

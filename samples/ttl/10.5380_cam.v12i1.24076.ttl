@@ -1,0 +1,43 @@
+<http://id.crossref.org/issn/1519-5538>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1519-5538" ;
+      <http://purl.org/dc/terms/title>
+              "CAMPOS - Revista de Antropologia Social" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1519-5538" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1519-5538" .
+
+<http://dx.doi.org/10.5380/cam.v12i1.24076>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.5380/cam.v12i1.24076" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "12" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/lecy-sartori-3cayvdiwkauyv> ;
+      <http://purl.org/dc/terms/date>
+              "2011-06-30"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.5380/cam.v12i1.24076" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1519-5538> ;
+      <http://purl.org/dc/terms/publisher>
+              "Universidade Federal do Parana" ;
+      <http://purl.org/dc/terms/title>
+              "O Manejo da Cidadania e a Democracia do Cuidado" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.5380/cam.v12i1.24076" ;
+      <http://purl.org/ontology/bibo/volume>
+              "12" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.5380/cam.v12i1.24076> , <doi:10.5380/cam.v12i1.24076> .
+
+<http://id.crossref.org/contributor/lecy-sartori-3cayvdiwkauyv>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Sartori" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Lecy" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Lecy Sartori" .

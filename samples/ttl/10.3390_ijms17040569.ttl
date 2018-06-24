@@ -1,0 +1,119 @@
+<http://id.crossref.org/contributor/hye-choi-2214kwk2fj198>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Choi" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Hye" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Hye Choi" .
+
+<http://id.crossref.org/contributor/kyeongseok-kim-2214kwk2fj198>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kim" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Kyeongseok" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Kyeongseok Kim" .
+
+<http://id.crossref.org/contributor/ahmed-abdal-dayem-2214kwk2fj198>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Abdal Dayem" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Ahmed" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Ahmed Abdal Dayem" .
+
+<http://dx.doi.org/10.3390/ijms17040569>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.3390/ijms17040569" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "569" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "17" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/hye-choi-2214kwk2fj198> , <http://id.crossref.org/contributor/kyeongseok-kim-2214kwk2fj198> , <http://id.crossref.org/contributor/ahmed-abdal-dayem-2214kwk2fj198> , <http://id.crossref.org/contributor/ssang-goo-cho-2214kwk2fj198> , <http://id.crossref.org/contributor/mohammed-kawser-hossain-2214kwk2fj198> , <http://id.crossref.org/contributor/yingfu-yin-2214kwk2fj198> , <http://id.crossref.org/contributor/jihae-han-2214kwk2fj198> , <http://id.crossref.org/contributor/subbroto-kumar-saha-2214kwk2fj198> , <http://id.crossref.org/contributor/gwang-mo-yang-2214kwk2fj198> ;
+      <http://purl.org/dc/terms/date>
+              "2016-04-15"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.3390/ijms17040569" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1422-0067> ;
+      <http://purl.org/dc/terms/publisher>
+              "MDPI AG" ;
+      <http://purl.org/dc/terms/title>
+              "Molecular Mechanisms of the Anti-Obesity and Anti-Diabetic Properties of Flavonoids" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.3390/ijms17040569" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "569" ;
+      <http://purl.org/ontology/bibo/volume>
+              "17" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.3390/ijms17040569> , <info:doi/10.3390/ijms17040569> .
+
+<http://id.crossref.org/contributor/ssang-goo-cho-2214kwk2fj198>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Cho" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Ssang-Goo" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Ssang-Goo Cho" .
+
+<http://id.crossref.org/contributor/mohammed-kawser-hossain-2214kwk2fj198>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kawser Hossain" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Mohammed" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Mohammed Kawser Hossain" .
+
+<http://id.crossref.org/contributor/yingfu-yin-2214kwk2fj198>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Yin" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Yingfu" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Yingfu Yin" .
+
+<http://id.crossref.org/contributor/jihae-han-2214kwk2fj198>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Han" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Jihae" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Jihae Han" .
+
+<http://id.crossref.org/issn/1422-0067>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1422-0067" ;
+      <http://purl.org/dc/terms/title>
+              "International Journal of Molecular Sciences" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1422-0067" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1422-0067" .
+
+<http://id.crossref.org/contributor/subbroto-kumar-saha-2214kwk2fj198>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kumar Saha" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Subbroto" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Subbroto Kumar Saha" .
+
+<http://id.crossref.org/contributor/gwang-mo-yang-2214kwk2fj198>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Yang" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Gwang-Mo" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Gwang-Mo Yang" .

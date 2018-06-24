@@ -1,0 +1,51 @@
+<http://id.crossref.org/contributor/tawei-ho-2medmfdj8ds36>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Ho" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Tawei" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Tawei Ho" .
+
+<http://id.crossref.org/isbn/1557527970>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Frontiers in Optics" .
+
+<http://id.crossref.org/contributor/alexander-a-sawchuk-2medmfdj8ds36>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Sawchuk" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Alexander A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Alexander A. Sawchuk" .
+
+<http://dx.doi.org/10.1364/fio.2005.ftuy3>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1364/fio.2005.ftuy3" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/tawei-ho-2medmfdj8ds36> , <http://id.crossref.org/contributor/alexander-a-sawchuk-2medmfdj8ds36> , <http://id.crossref.org/contributor/nopparit-intharasombat-2medmfdj8ds36> ;
+      <http://purl.org/dc/terms/date>
+              "2005"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1364/fio.2005.ftuy3" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/1557527970> ;
+      <http://purl.org/dc/terms/publisher>
+              "OSA" ;
+      <http://purl.org/dc/terms/title>
+              "Fixed-Point Variable Threshold Equalization for Hexagonal Format Page-Oriented Optical Data Storage" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1364/fio.2005.ftuy3" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1364/fio.2005.ftuy3> , <doi:10.1364/fio.2005.ftuy3> .
+
+<http://id.crossref.org/contributor/nopparit-intharasombat-2medmfdj8ds36>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Intharasombat" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Nopparit" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Nopparit Intharasombat" .

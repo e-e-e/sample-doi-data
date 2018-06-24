@@ -1,0 +1,123 @@
+<http://id.crossref.org/contributor/hirokazu-taniguchi-2v3w5a3pqlquv>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Taniguchi" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Hirokazu" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Hirokazu Taniguchi" .
+
+<http://id.crossref.org/contributor/ayaka-nakai-2v3w5a3pqlquv>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Nakai" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Ayaka" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Ayaka Nakai" .
+
+<http://id.crossref.org/contributor/hideki-shinno-2v3w5a3pqlquv>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Shinno" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Hideki" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Hideki Shinno" .
+
+<http://dx.doi.org/10.2169/internalmedicine.56.7596>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.2169/internalmedicine.56.7596" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "694" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "691" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "56" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/ayaka-nakai-2v3w5a3pqlquv> , <http://id.crossref.org/contributor/hirokazu-taniguchi-2v3w5a3pqlquv> , <http://id.crossref.org/contributor/hideki-shinno-2v3w5a3pqlquv> , <http://id.crossref.org/contributor/yasuaki-masaki-2v3w5a3pqlquv> , <http://id.crossref.org/contributor/takeshi-tsuda-2v3w5a3pqlquv> , <http://id.crossref.org/contributor/hideaki-furuse-2v3w5a3pqlquv> , <http://id.crossref.org/contributor/yoshitaka-ito-2v3w5a3pqlquv> , <http://id.crossref.org/contributor/hideki-miyazawa-2v3w5a3pqlquv> , <http://id.crossref.org/contributor/kensuke-suzuki-2v3w5a3pqlquv> ;
+      <http://purl.org/dc/terms/date>
+              "2017"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.2169/internalmedicine.56.7596" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0918-2918> ;
+      <http://purl.org/dc/terms/publisher>
+              "Japanese Society of Internal Medicine" ;
+      <http://purl.org/dc/terms/title>
+              "Multiple Metastasizing Pleomorphic Adenomas of the Lung" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.2169/internalmedicine.56.7596" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "694" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "691" ;
+      <http://purl.org/ontology/bibo/volume>
+              "56" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.2169/internalmedicine.56.7596> , <info:doi/10.2169/internalmedicine.56.7596> .
+
+<http://id.crossref.org/issn/0918-2918>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1349-7235" , "0918-2918" ;
+      <http://purl.org/dc/terms/title>
+              "Internal Medicine" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1349-7235" , "0918-2918" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1349-7235" , "urn:issn:0918-2918" .
+
+<http://id.crossref.org/contributor/yasuaki-masaki-2v3w5a3pqlquv>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Masaki" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Yasuaki" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Yasuaki Masaki" .
+
+<http://id.crossref.org/contributor/takeshi-tsuda-2v3w5a3pqlquv>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Tsuda" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Takeshi" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Takeshi Tsuda" .
+
+<http://id.crossref.org/contributor/hideaki-furuse-2v3w5a3pqlquv>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Furuse" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Hideaki" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Hideaki Furuse" .
+
+<http://id.crossref.org/contributor/yoshitaka-ito-2v3w5a3pqlquv>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Ito" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Yoshitaka" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Yoshitaka Ito" .
+
+<http://id.crossref.org/contributor/hideki-miyazawa-2v3w5a3pqlquv>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Miyazawa" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Hideki" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Hideki Miyazawa" .
+
+<http://id.crossref.org/contributor/kensuke-suzuki-2v3w5a3pqlquv>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Suzuki" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Kensuke" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Kensuke Suzuki" .

@@ -1,0 +1,40 @@
+<http://id.crossref.org/issn/1439-5142>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1439-5142" , "1439-9008" ;
+      <http://purl.org/dc/terms/title>
+              "Balint Journal" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1439-5142" , "1439-9008" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1439-9008" , "urn:issn:1439-5142" .
+
+<http://dx.doi.org/10.1055/s-0042-114215>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1055/s-0042-114215" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "97" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "96" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "17" ;
+      <http://purl.org/dc/terms/date>
+              "2016-09-29"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1055/s-0042-114215" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1439-5142> ;
+      <http://purl.org/dc/terms/publisher>
+              "Georg Thieme Verlag KG" ;
+      <http://purl.org/dc/terms/title>
+              "Zum Tod von Marieke van Schie (Leiden, Niederlande)" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1055/s-0042-114215" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "97" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "96" ;
+      <http://purl.org/ontology/bibo/volume>
+              "17" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1055/s-0042-114215> , <doi:10.1055/s-0042-114215> .

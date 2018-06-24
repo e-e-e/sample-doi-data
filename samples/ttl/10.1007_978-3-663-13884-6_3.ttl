@@ -1,0 +1,41 @@
+<http://id.crossref.org/contributor/richard-dedekind-3ir4cpnohqvpa>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Dedekind" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Richard" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Richard Dedekind" .
+
+<http://id.crossref.org/isbn/9783528089023>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Vorlesung über Differential- und Integralrechnung 1861/62" .
+
+<http://dx.doi.org/10.1007/978-3-663-13884-6_3>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1007/978-3-663-13884-6_3" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "108" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "51" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/richard-dedekind-3ir4cpnohqvpa> ;
+      <http://purl.org/dc/terms/date>
+              "1985"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1007/978-3-663-13884-6_3" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9783528089023> ;
+      <http://purl.org/dc/terms/publisher>
+              "Vieweg+Teubner Verlag" ;
+      <http://purl.org/dc/terms/title>
+              "Grundbegriffe der Differentialrechnung" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1007/978-3-663-13884-6_3" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "108" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "51" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1007/978-3-663-13884-6_3> , <doi:10.1007/978-3-663-13884-6_3> .

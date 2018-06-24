@@ -1,0 +1,96 @@
+<http://id.crossref.org/contributor/p-reichenbach-3aygdpaietbnl>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Reichenbach" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "P." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "P. Reichenbach" .
+
+<http://id.crossref.org/contributor/r-schlogel-3aygdpaietbnl>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Schlögel" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "R." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "R. Schlögel" .
+
+<http://id.crossref.org/issn/0169-555X>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0169-555X" ;
+      <http://purl.org/dc/terms/title>
+              "Geomorphology" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0169-555X" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0169-555X" .
+
+<http://id.crossref.org/contributor/m-alvioli-3aygdpaietbnl>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Alvioli" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "M." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "M. Alvioli" .
+
+<http://id.crossref.org/contributor/m-rossi-3aygdpaietbnl>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Rossi" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "M." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "M. Rossi" .
+
+<http://dx.doi.org/10.1016/j.geomorph.2017.10.018>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/j.geomorph.2017.10.018" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "20" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "10" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "301" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/p-reichenbach-3aygdpaietbnl> , <http://id.crossref.org/contributor/r-schlogel-3aygdpaietbnl> , <http://id.crossref.org/contributor/m-alvioli-3aygdpaietbnl> , <http://id.crossref.org/contributor/m-rossi-3aygdpaietbnl> , <http://id.crossref.org/contributor/i-marchesini-3aygdpaietbnl> , <http://id.crossref.org/contributor/j-p-malet-3aygdpaietbnl> ;
+      <http://purl.org/dc/terms/date>
+              "2018-01"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/j.geomorph.2017.10.018" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0169-555X> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Optimizing landslide susceptibility zonation: Effects of DEM spatial resolution and slope unit delineation on logistic regression models" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/j.geomorph.2017.10.018" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "20" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "10" ;
+      <http://purl.org/ontology/bibo/volume>
+              "301" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1016/j.geomorph.2017.10.018> , <info:doi/10.1016/j.geomorph.2017.10.018> .
+
+<http://id.crossref.org/contributor/i-marchesini-3aygdpaietbnl>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Marchesini" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "I." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "I. Marchesini" .
+
+<http://id.crossref.org/contributor/j-p-malet-3aygdpaietbnl>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Malet" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "J.-P." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "J.-P. Malet" .

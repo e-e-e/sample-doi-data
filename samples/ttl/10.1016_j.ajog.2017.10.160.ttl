@@ -1,0 +1,159 @@
+<http://id.crossref.org/contributor/sean-daly-2z0tled3zqu24>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Daly" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Sean" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Sean Daly" .
+
+<http://id.crossref.org/contributor/fergal-d-malone-2z0tled3zqu24>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Malone" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Fergal D." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Fergal D. Malone" .
+
+<http://id.crossref.org/contributor/shane-higgins-2z0tled3zqu24>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Higgins" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Shane" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Shane Higgins" .
+
+<http://dx.doi.org/10.1016/j.ajog.2017.10.160>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/j.ajog.2017.10.160" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "S152" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "S151" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "218" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/sean-daly-2z0tled3zqu24> , <http://id.crossref.org/contributor/fergal-d-malone-2z0tled3zqu24> , <http://id.crossref.org/contributor/shane-higgins-2z0tled3zqu24> , <http://id.crossref.org/contributor/patrick-dicker-2z0tled3zqu24> , <http://id.crossref.org/contributor/fionnuala-breathnach-2z0tled3zqu24> , <http://id.crossref.org/contributor/fionnuala-mcauliffe-2z0tled3zqu24> , <http://id.crossref.org/contributor/rhona-mahony-2z0tled3zqu24> , <http://id.crossref.org/contributor/elizabeth-tully-2z0tled3zqu24> , <http://id.crossref.org/contributor/john-j-morrison-2z0tled3zqu24> , <http://id.crossref.org/contributor/john-higgins-2z0tled3zqu24> , <http://id.crossref.org/contributor/michael-geary-2z0tled3zqu24> , <http://id.crossref.org/contributor/gerard-burke-2z0tled3zqu24> , <http://id.crossref.org/contributor/alyson-hunter-2z0tled3zqu24> ;
+      <http://purl.org/dc/terms/date>
+              "2018-01"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/j.ajog.2017.10.160" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0002-9378> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "232: Low resistance in umbilical artery vascular flow is associated with antepartum hemorrhage and PPROM- Results of the Multicenter ESPRiT twin study" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/j.ajog.2017.10.160" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "S152" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "S151" ;
+      <http://purl.org/ontology/bibo/volume>
+              "218" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1016/j.ajog.2017.10.160> , <info:doi/10.1016/j.ajog.2017.10.160> .
+
+<http://id.crossref.org/contributor/patrick-dicker-2z0tled3zqu24>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Dicker" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Patrick" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Patrick Dicker" .
+
+<http://id.crossref.org/contributor/fionnuala-breathnach-2z0tled3zqu24>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Breathnach" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Fionnuala" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Fionnuala Breathnach" .
+
+<http://id.crossref.org/contributor/fionnuala-mcauliffe-2z0tled3zqu24>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "McAuliffe" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Fionnuala" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Fionnuala McAuliffe" .
+
+<http://id.crossref.org/contributor/rhona-mahony-2z0tled3zqu24>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Mahony" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Rhona" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Rhona Mahony" .
+
+<http://id.crossref.org/contributor/elizabeth-tully-2z0tled3zqu24>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Tully" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Elizabeth" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Elizabeth Tully" .
+
+<http://id.crossref.org/contributor/john-j-morrison-2z0tled3zqu24>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Morrison" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "John J." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "John J. Morrison" .
+
+<http://id.crossref.org/issn/0002-9378>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0002-9378" ;
+      <http://purl.org/dc/terms/title>
+              "American Journal of Obstetrics and Gynecology" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0002-9378" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0002-9378" .
+
+<http://id.crossref.org/contributor/michael-geary-2z0tled3zqu24>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Geary" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Michael" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Michael Geary" .
+
+<http://id.crossref.org/contributor/john-higgins-2z0tled3zqu24>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Higgins" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "John" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "John Higgins" .
+
+<http://id.crossref.org/contributor/gerard-burke-2z0tled3zqu24>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Burke" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Gerard" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Gerard Burke" .
+
+<http://id.crossref.org/contributor/alyson-hunter-2z0tled3zqu24>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Hunter" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Alyson" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Alyson Hunter" .

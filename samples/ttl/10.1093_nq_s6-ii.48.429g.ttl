@@ -1,0 +1,51 @@
+<http://id.crossref.org/contributor/shirley-w-1pw5se5g09q0b>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "W." ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Shirley" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Shirley W." .
+
+<http://id.crossref.org/issn/1471-6941>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0029-3970" , "1471-6941" ;
+      <http://purl.org/dc/terms/title>
+              "Notes and Queries" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0029-3970" , "1471-6941" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1471-6941" , "urn:issn:0029-3970" .
+
+<http://dx.doi.org/10.1093/nq/s6-ii.48.429g>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1093/nq/s6-ii.48.429g" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "429" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "429" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "s6-II" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/shirley-w-1pw5se5g09q0b> ;
+      <http://purl.org/dc/terms/date>
+              "1880-11-27"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1093/nq/s6-ii.48.429g" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1471-6941> ;
+      <http://purl.org/dc/terms/publisher>
+              "Oxford University Press (OUP)" ;
+      <http://purl.org/dc/terms/title>
+              "“Plaidoyers historiques. Par M. Tristan.”" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1093/nq/s6-ii.48.429g" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "429" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "429" ;
+      <http://purl.org/ontology/bibo/volume>
+              "s6-II" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1093/nq/s6-ii.48.429g> , <info:doi/10.1093/nq/s6-ii.48.429g> .

@@ -1,0 +1,96 @@
+<http://id.crossref.org/contributor/maria-gonzalez-rodriguez-2oqn3kykccasw>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "González-Rodríguez" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "María" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "María González-Rodríguez" .
+
+<http://dx.doi.org/10.1016/j.endonu.2012.02.005>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/j.endonu.2012.02.005" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "253" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "246" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "59" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/maria-gonzalez-rodriguez-2oqn3kykccasw> , <http://id.crossref.org/contributor/rocio-villar-taibo-2oqn3kykccasw> , <http://id.crossref.org/contributor/marcos-pazos-couselo-2oqn3kykccasw> , <http://id.crossref.org/contributor/alma-prieto-tenreiro-2oqn3kykccasw> , <http://id.crossref.org/contributor/jose-manuel-garcia-lopez-2oqn3kykccasw> , <http://id.crossref.org/contributor/felipe-casanueva-2oqn3kykccasw> ;
+      <http://purl.org/dc/terms/date>
+              "2012-04"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/j.endonu.2012.02.005" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1575-0922> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Beneficios de la terapia con infusión subcutánea continua de insulina en pacientes diabéticos tipo 1 que presentan gran variabilidad glucémica" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/j.endonu.2012.02.005" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "253" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "246" ;
+      <http://purl.org/ontology/bibo/volume>
+              "59" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1016/j.endonu.2012.02.005> , <doi:10.1016/j.endonu.2012.02.005> .
+
+<http://id.crossref.org/contributor/rocio-villar-taibo-2oqn3kykccasw>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Villar-Taibo" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Rocío" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Rocío Villar-Taibo" .
+
+<http://id.crossref.org/contributor/marcos-pazos-couselo-2oqn3kykccasw>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Pazos-Couselo" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Marcos" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Marcos Pazos-Couselo" .
+
+<http://id.crossref.org/contributor/alma-prieto-tenreiro-2oqn3kykccasw>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Prieto-Tenreiro" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Alma" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Alma Prieto-Tenreiro" .
+
+<http://id.crossref.org/contributor/jose-manuel-garcia-lopez-2oqn3kykccasw>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "García-López" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "José Manuel" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "José Manuel García-López" .
+
+<http://id.crossref.org/issn/1575-0922>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1575-0922" ;
+      <http://purl.org/dc/terms/title>
+              "Endocrinología y Nutrición" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1575-0922" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1575-0922" .
+
+<http://id.crossref.org/contributor/felipe-casanueva-2oqn3kykccasw>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Casanueva" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Felipe" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Felipe Casanueva" .

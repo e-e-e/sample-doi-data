@@ -1,0 +1,52 @@
+<http://dx.doi.org/10.1007/978-3-642-54506-1_36>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1007/978-3-642-54506-1_36" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "250" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "243" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/manfred-munzert-3hi9cswit08cn> ;
+      <http://purl.org/dc/terms/date>
+              "2015"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1007/978-3-642-54506-1_36" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0937-7433> , <http://id.crossref.org/isbn/9783642545054> ;
+      <http://purl.org/dc/terms/publisher>
+              "Springer Berlin Heidelberg" ;
+      <http://purl.org/dc/terms/title>
+              "Auswertung dreifaktorieller Block-, Spalt- und Streifenanlagen" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1007/978-3-642-54506-1_36" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "250" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "243" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1007/978-3-642-54506-1_36> , <doi:10.1007/978-3-642-54506-1_36> .
+
+<http://id.crossref.org/issn/0937-7433>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0937-7433" ;
+      <http://purl.org/dc/terms/title>
+              "Landwirtschaftliche und gartenbauliche Versuche mit SAS" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0937-7433" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0937-7433" .
+
+<http://id.crossref.org/contributor/manfred-munzert-3hi9cswit08cn>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Munzert" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Manfred" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Manfred Munzert" .
+
+<http://id.crossref.org/isbn/9783642545054>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Landwirtschaftliche und gartenbauliche Versuche mit SAS" .

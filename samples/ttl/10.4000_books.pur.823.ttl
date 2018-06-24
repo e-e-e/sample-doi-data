@@ -1,0 +1,31 @@
+<http://id.crossref.org/isbn/9782753505308>
+      a       <http://purl.org/ontology/bibo/Book> .
+
+<http://id.crossref.org/contributor/nicole-cloarec-1uca0drminogu>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Cloarec" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Nicole" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Nicole Cloarec" .
+
+<http://dx.doi.org/10.4000/books.pur.823>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.4000/books.pur.823" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/nicole-cloarec-1uca0drminogu> ;
+      <http://purl.org/dc/terms/date>
+              "2007"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.4000/books.pur.823" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9782753505308> ;
+      <http://purl.org/dc/terms/publisher>
+              "Presses universitaires de Rennes" ;
+      <http://purl.org/dc/terms/title>
+              "Lettres de cinéma" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.4000/books.pur.823" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.4000/books.pur.823> , <info:doi/10.4000/books.pur.823> .

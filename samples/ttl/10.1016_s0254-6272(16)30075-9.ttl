@@ -1,0 +1,96 @@
+<http://id.crossref.org/contributor/lu-yan-2l2wovwg23flj>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Yan" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Lu" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Lu Yan" .
+
+<http://id.crossref.org/contributor/wang-yue-2l2wovwg23flj>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Yue" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Wang" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Wang Yue" .
+
+<http://id.crossref.org/contributor/liu-weiwei-2l2wovwg23flj>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Weiwei" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Liu" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Liu Weiwei" .
+
+<http://id.crossref.org/contributor/wei-gang-2l2wovwg23flj>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Gang" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Wei" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Wei Gang" .
+
+<http://id.crossref.org/issn/0254-6272>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0254-6272" ;
+      <http://purl.org/dc/terms/title>
+              "Journal of Traditional Chinese Medicine" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0254-6272" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0254-6272" .
+
+<http://dx.doi.org/10.1016/s0254-6272(16)30075-9>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/s0254-6272(16)30075-9" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "577" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "564" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "36" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/lu-yan-2l2wovwg23flj> , <http://id.crossref.org/contributor/liu-weiwei-2l2wovwg23flj> , <http://id.crossref.org/contributor/wang-yue-2l2wovwg23flj> , <http://id.crossref.org/contributor/wei-gang-2l2wovwg23flj> , <http://id.crossref.org/contributor/qian-xian-2l2wovwg23flj> , <http://id.crossref.org/contributor/ji-wei-2l2wovwg23flj> ;
+      <http://purl.org/dc/terms/date>
+              "2016-10"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/s0254-6272(16)30075-9" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0254-6272> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Effects and safety of Sinomenine in treatment of rheumatoid arthritis contrast to methotrexate: a systematic review and Meta-analysis" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/s0254-6272(16)30075-9" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "577" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "564" ;
+      <http://purl.org/ontology/bibo/volume>
+              "36" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1016/s0254-6272(16)30075-9> , <info:doi/10.1016/s0254-6272(16)30075-9> .
+
+<http://id.crossref.org/contributor/qian-xian-2l2wovwg23flj>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Xian" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Qian" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Qian Xian" .
+
+<http://id.crossref.org/contributor/ji-wei-2l2wovwg23flj>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Wei" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Ji" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Ji Wei" .

@@ -1,0 +1,74 @@
+<http://id.crossref.org/contributor/aleksandra-antovic-nrhtafdkqjvb>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Antovic" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Aleksandra" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Aleksandra Antovic" .
+
+<http://dx.doi.org/10.2298/sarh180309033m>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.2298/sarh180309033m" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "33" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "33" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/aleksandra-antovic-nrhtafdkqjvb> , <http://id.crossref.org/contributor/miroslav-milic-nrhtafdkqjvb> , <http://id.crossref.org/contributor/miodrag-zdravkovic-nrhtafdkqjvb> , <http://id.crossref.org/contributor/milena-trandafilovic-nrhtafdkqjvb> ;
+      <http://purl.org/dc/terms/date>
+              "2018"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.2298/sarh180309033m" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0370-8179> ;
+      <http://purl.org/dc/terms/publisher>
+              "National Library of Serbia" ;
+      <http://purl.org/dc/terms/title>
+              "Fatal consequences caused by prolonged chloroform inhalation in a child" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.2298/sarh180309033m" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "33" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "33" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.2298/sarh180309033m> , <info:doi/10.2298/sarh180309033m> .
+
+<http://id.crossref.org/contributor/miroslav-milic-nrhtafdkqjvb>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Milic" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Miroslav" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Miroslav Milic" .
+
+<http://id.crossref.org/issn/0370-8179>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "2406-0895" , "0370-8179" ;
+      <http://purl.org/dc/terms/title>
+              "Srpski arhiv za celokupno lekarstvo" ;
+      <http://purl.org/ontology/bibo/issn>
+              "2406-0895" , "0370-8179" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:2406-0895" , "urn:issn:0370-8179" .
+
+<http://id.crossref.org/contributor/miodrag-zdravkovic-nrhtafdkqjvb>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Zdravkovic" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Miodrag" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Miodrag Zdravkovic" .
+
+<http://id.crossref.org/contributor/milena-trandafilovic-nrhtafdkqjvb>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Trandafilovic" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Milena" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Milena Trandafilovic" .

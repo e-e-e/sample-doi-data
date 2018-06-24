@@ -1,0 +1,40 @@
+<http://id.crossref.org/issn/1471-6941>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0029-3970" , "1471-6941" ;
+      <http://purl.org/dc/terms/title>
+              "Notes and Queries" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0029-3970" , "1471-6941" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1471-6941" , "urn:issn:0029-3970" .
+
+<http://dx.doi.org/10.1093/nq/s6-ii.50.466e>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1093/nq/s6-ii.50.466e" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "466" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "466" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "s6-II" ;
+      <http://purl.org/dc/terms/date>
+              "1880-12-11"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1093/nq/s6-ii.50.466e" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1471-6941> ;
+      <http://purl.org/dc/terms/publisher>
+              "Oxford University Press (OUP)" ;
+      <http://purl.org/dc/terms/title>
+              "The philological society's dictionary" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1093/nq/s6-ii.50.466e" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "466" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "466" ;
+      <http://purl.org/ontology/bibo/volume>
+              "s6-II" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1093/nq/s6-ii.50.466e> , <doi:10.1093/nq/s6-ii.50.466e> .

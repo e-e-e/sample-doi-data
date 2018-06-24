@@ -1,0 +1,74 @@
+<http://dx.doi.org/10.1142/s0219525918500029>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1142/s0219525918500029" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "1850002" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "21" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/marco-lamieri-3221xi1sj8zbc> , <http://id.crossref.org/contributor/eran-manes-3221xi1sj8zbc> , <http://id.crossref.org/contributor/david-s-bree-3221xi1sj8zbc> , <http://id.crossref.org/contributor/guy-kelman-3221xi1sj8zbc> ;
+      <http://purl.org/dc/terms/date>
+              "2018-02"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1142/s0219525918500029" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0219-5259> ;
+      <http://purl.org/dc/terms/publisher>
+              "World Scientific Pub Co Pte Lt" ;
+      <http://purl.org/dc/terms/title>
+              "MISSING DATA AS PART OF THE SOCIAL BEHAVIOR IN REAL-WORLD FINANCIAL COMPLEX SYSTEMS" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1142/s0219525918500029" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "1850002" ;
+      <http://purl.org/ontology/bibo/volume>
+              "21" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1142/s0219525918500029> , <doi:10.1142/s0219525918500029> .
+
+<http://id.crossref.org/contributor/marco-lamieri-3221xi1sj8zbc>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "LAMIERI" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "MARCO" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "MARCO LAMIERI" .
+
+<http://id.crossref.org/issn/0219-5259>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0219-5259" , "1793-6802" ;
+      <http://purl.org/dc/terms/title>
+              "Advances in Complex Systems" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0219-5259" , "1793-6802" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0219-5259" , "urn:issn:1793-6802" .
+
+<http://id.crossref.org/contributor/eran-manes-3221xi1sj8zbc>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "MANES" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "ERAN" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "ERAN MANES" .
+
+<http://id.crossref.org/contributor/david-s-bree-3221xi1sj8zbc>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "BRÉE" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "DAVID S." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "DAVID S. BRÉE" .
+
+<http://id.crossref.org/contributor/guy-kelman-3221xi1sj8zbc>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "KELMAN" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "GUY" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "GUY KELMAN" .

@@ -1,0 +1,26 @@
+<http://dx.doi.org/10.1515/iupac.55.0002>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1515/iupac.55.0002" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/w-h-powell-14wudmncmnvgm> ;
+      <http://purl.org/dc/terms/date>
+              "2016-02-24"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1515/iupac.55.0002" ;
+      <http://purl.org/dc/terms/publisher>
+              "De Gruyter" ;
+      <http://purl.org/dc/terms/title>
+              "Revision of the Extended Hantzsch-Widman System of Nomenclature for HeteromonocyclesThese recommendations replace entirely Rule B-1. Extension of the Hantzsch-Widman System, in Section B: Fundamental Heterocyclic Systems, of the IUPAC Rules for Nomenclature of Organic ChemistryInternational Union of Pure and Applied Chemistry, “Nomenclature of Organic Chemistry”, Sections A, B, C, D, E, F, and H, 1979 edition, Pergamon Press, Oxford, 1979: [a] p. 53–55; [b] Rule B-1.1, Tables I and II, footnotes, p. 53; [c] Rule B-1.1, Table II, footnote (d), p. 53; [d] Rule B-1.1, Table I, footnote, p. 53; [e] Rule B-1.1, Table I, footnote, and Table II, footnote (b), p. 53; [f] Rule B-1.2, exception, p. 54; [g] Rules 1.51–1.53, p. 55; [h] pp. 55–63; [i] p. 68.a)." ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1515/iupac.55.0002" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1515/iupac.55.0002> , <doi:10.1515/iupac.55.0002> .
+
+<http://id.crossref.org/contributor/w-h-powell-14wudmncmnvgm>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Powell" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "W. H." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "W. H. Powell" .

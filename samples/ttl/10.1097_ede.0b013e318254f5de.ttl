@@ -1,0 +1,87 @@
+<http://id.crossref.org/contributor/jan-debeij-25v5sit0syan7>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Debeij" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Jan" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Jan Debeij" .
+
+<http://id.crossref.org/issn/1044-3983>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1044-3983" ;
+      <http://purl.org/dc/terms/title>
+              "Epidemiology" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1044-3983" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1044-3983" .
+
+<http://dx.doi.org/10.1097/ede.0b013e318254f5de>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1097/ede.0b013e318254f5de" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "560" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "551" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "23" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/jan-debeij-25v5sit0syan7> , <http://id.crossref.org/contributor/frits-r-rosendaal-25v5sit0syan7> , <http://id.crossref.org/contributor/saskia-le-cessie-25v5sit0syan7> , <http://id.crossref.org/contributor/jan-p-vandenbroucke-25v5sit0syan7> , <http://id.crossref.org/contributor/suzanne-c-cannegieter-25v5sit0syan7> ;
+      <http://purl.org/dc/terms/date>
+              "2012-07"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1097/ede.0b013e318254f5de" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1044-3983> ;
+      <http://purl.org/dc/terms/publisher>
+              "Ovid Technologies (Wolters Kluwer Health)" ;
+      <http://purl.org/dc/terms/title>
+              "Quantification of Bias in Direct Effects Estimates Due to Different Types of Measurement Error in the Mediator" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1097/ede.0b013e318254f5de" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "560" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "551" ;
+      <http://purl.org/ontology/bibo/volume>
+              "23" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1097/ede.0b013e318254f5de> , <doi:10.1097/ede.0b013e318254f5de> .
+
+<http://id.crossref.org/contributor/frits-r-rosendaal-25v5sit0syan7>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Rosendaal" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Frits R." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Frits R. Rosendaal" .
+
+<http://id.crossref.org/contributor/saskia-le-cessie-25v5sit0syan7>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "le Cessie" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Saskia" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Saskia le Cessie" .
+
+<http://id.crossref.org/contributor/jan-p-vandenbroucke-25v5sit0syan7>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Vandenbroucke" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Jan P." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Jan P. Vandenbroucke" .
+
+<http://id.crossref.org/contributor/suzanne-c-cannegieter-25v5sit0syan7>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Cannegieter" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Suzanne C." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Suzanne C. Cannegieter" .

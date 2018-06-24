@@ -1,0 +1,51 @@
+<http://dx.doi.org/10.1177/014107680710000302>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1177/014107680710000302" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "115" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "114" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "100" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/richard-smith-3s4t1c6kvmr50> ;
+      <http://purl.org/dc/terms/date>
+              "2007-03"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1177/014107680710000302" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0141-0768> ;
+      <http://purl.org/dc/terms/publisher>
+              "SAGE Publications" ;
+      <http://purl.org/dc/terms/title>
+              "Reed-Elsevier's hypocrisy in selling arms and health" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1177/014107680710000302" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "115" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "114" ;
+      <http://purl.org/ontology/bibo/volume>
+              "100" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1177/014107680710000302> , <info:doi/10.1177/014107680710000302> .
+
+<http://id.crossref.org/contributor/richard-smith-3s4t1c6kvmr50>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Smith" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Richard" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Richard Smith" .
+
+<http://id.crossref.org/issn/0141-0768>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1758-1095" , "0141-0768" ;
+      <http://purl.org/dc/terms/title>
+              "Journal of the Royal Society of Medicine" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1758-1095" , "0141-0768" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0141-0768" , "urn:issn:1758-1095" .

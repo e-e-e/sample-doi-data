@@ -1,0 +1,69 @@
+<http://id.crossref.org/issn/0363-6135>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0363-6135" , "1522-1539" ;
+      <http://purl.org/dc/terms/title>
+              "American Journal of Physiology-Heart and Circulatory Physiology" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0363-6135" , "1522-1539" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1522-1539" , "urn:issn:0363-6135" .
+
+<http://id.crossref.org/contributor/p-d-harris-3lqr6xo6pwja>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Harris" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "P. D." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "P. D. Harris" .
+
+<http://id.crossref.org/contributor/f-n-miller-3lqr6xo6pwja>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Miller" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "F. N." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "F. N. Miller" .
+
+<http://dx.doi.org/10.1152/ajpheart.1982.243.6.h844>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1152/ajpheart.1982.243.6.h844" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "H851" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "H844" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "243" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/p-d-harris-3lqr6xo6pwja> , <http://id.crossref.org/contributor/f-n-miller-3lqr6xo6pwja> , <http://id.crossref.org/contributor/j-e-faber-3lqr6xo6pwja> ;
+      <http://purl.org/dc/terms/date>
+              "1982-12"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1152/ajpheart.1982.243.6.h844" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0363-6135> ;
+      <http://purl.org/dc/terms/publisher>
+              "American Physiological Society" ;
+      <http://purl.org/dc/terms/title>
+              "Microvascular sensitivity to PGE2 and PGI2 in skeletal muscle of decerebrate rat" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1152/ajpheart.1982.243.6.h844" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "H851" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "H844" ;
+      <http://purl.org/ontology/bibo/volume>
+              "243" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1152/ajpheart.1982.243.6.h844> , <info:doi/10.1152/ajpheart.1982.243.6.h844> .
+
+<http://id.crossref.org/contributor/j-e-faber-3lqr6xo6pwja>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Faber" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "J. E." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "J. E. Faber" .

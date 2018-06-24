@@ -1,0 +1,54 @@
+<http://id.crossref.org/contributor/matthias-engelmann-1urd6ty10w56s>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Engelmann" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Matthias" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Matthias Engelmann" .
+
+<http://id.crossref.org/contributor/morten-grud-rasmussen-1urd6ty10w56s>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <http://orcid.org/0000-0002-1274-4141> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Rasmussen" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Morten Grud" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Morten Grud Rasmussen" .
+
+<http://id.crossref.org/issn/1385-0172>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1385-0172" , "1572-9656" ;
+      <http://purl.org/dc/terms/title>
+              "Mathematical Physics, Analysis and Geometry" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1385-0172" , "1572-9656" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1385-0172" , "urn:issn:1572-9656" .
+
+<http://dx.doi.org/10.1007/s11040-016-9229-6>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1007/s11040-016-9229-6" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "19" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/matthias-engelmann-1urd6ty10w56s> , <http://id.crossref.org/contributor/morten-grud-rasmussen-1urd6ty10w56s> ;
+      <http://purl.org/dc/terms/date>
+              "2016-11-21"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1007/s11040-016-9229-6" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1385-0172> ;
+      <http://purl.org/dc/terms/publisher>
+              "Springer Nature" ;
+      <http://purl.org/dc/terms/title>
+              "Spectral Deformation for Two-Body Dispersive Systems with e.g. the Yukawa Potential" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1007/s11040-016-9229-6" ;
+      <http://purl.org/ontology/bibo/volume>
+              "19" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1007/s11040-016-9229-6> , <info:doi/10.1007/s11040-016-9229-6> .

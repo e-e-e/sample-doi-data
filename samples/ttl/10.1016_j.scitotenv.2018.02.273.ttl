@@ -1,0 +1,69 @@
+<http://dx.doi.org/10.1016/j.scitotenv.2018.02.273>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/j.scitotenv.2018.02.273" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "1501" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "1492" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "630" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/rob-ten-broek-l3ffhor4pcy4> , <http://id.crossref.org/contributor/abraham-brouwer-l3ffhor4pcy4> , <http://id.crossref.org/contributor/corine-j-houtman-l3ffhor4pcy4> ;
+      <http://purl.org/dc/terms/date>
+              "2018-07"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/j.scitotenv.2018.02.273" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0048-9697> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Steroid hormonal bioactivities, culprit natural and synthetic hormones and other emerging contaminants in waste water measured using bioassays and UPLC-tQ-MS" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/j.scitotenv.2018.02.273" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "1501" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "1492" ;
+      <http://purl.org/ontology/bibo/volume>
+              "630" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1016/j.scitotenv.2018.02.273> , <info:doi/10.1016/j.scitotenv.2018.02.273> .
+
+<http://id.crossref.org/contributor/rob-ten-broek-l3ffhor4pcy4>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "ten Broek" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Rob" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Rob ten Broek" .
+
+<http://id.crossref.org/issn/0048-9697>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0048-9697" ;
+      <http://purl.org/dc/terms/title>
+              "Science of The Total Environment" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0048-9697" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0048-9697" .
+
+<http://id.crossref.org/contributor/abraham-brouwer-l3ffhor4pcy4>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Brouwer" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Abraham" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Abraham Brouwer" .
+
+<http://id.crossref.org/contributor/corine-j-houtman-l3ffhor4pcy4>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Houtman" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Corine J." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Corine J. Houtman" .

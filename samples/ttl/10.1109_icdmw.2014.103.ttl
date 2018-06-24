@@ -1,0 +1,42 @@
+<http://id.crossref.org/contributor/yiu-ming-cheung-248vcbox5z0t>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Cheung" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Yiu-Ming" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Yiu-Ming Cheung" .
+
+<http://dx.doi.org/10.1109/icdmw.2014.103>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1109/icdmw.2014.103" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/yiu-ming-cheung-248vcbox5z0t> , <http://id.crossref.org/contributor/yiqun-zhang-248vcbox5z0t> ;
+      <http://purl.org/dc/terms/date>
+              "2014-12"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1109/icdmw.2014.103" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9781479942749> ;
+      <http://purl.org/dc/terms/publisher>
+              "IEEE" ;
+      <http://purl.org/dc/terms/title>
+              "Discretizing Numerical Attributes in Decision Tree for Big Data Analysis" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1109/icdmw.2014.103" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1109/icdmw.2014.103> , <doi:10.1109/icdmw.2014.103> .
+
+<http://id.crossref.org/isbn/9781479942749>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "2014 IEEE International Conference on Data Mining Workshop" .
+
+<http://id.crossref.org/contributor/yiqun-zhang-248vcbox5z0t>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Zhang" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Yiqun" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Yiqun Zhang" .

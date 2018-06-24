@@ -1,0 +1,88 @@
+<http://id.crossref.org/contributor/yingshuan-song-1r7p0gi89vp53>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Song" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Yingshuan" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Yingshuan Song" .
+
+<http://id.crossref.org/contributor/heli-zhang-1r7p0gi89vp53>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Zhang" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Heli" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Heli Zhang" .
+
+<http://id.crossref.org/contributor/xi-li-1r7p0gi89vp53>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Li" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Xi" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Xi Li" .
+
+<http://id.crossref.org/contributor/hong-ji-1r7p0gi89vp53>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Ji" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Hong" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Hong Ji" .
+
+<http://id.crossref.org/issn/1867-8211>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1867-8211" , "1867-822X" ;
+      <http://purl.org/dc/terms/title>
+              "Communications and Networking" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1867-8211" , "1867-822X" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1867-822X" , "urn:issn:1867-8211" .
+
+<http://id.crossref.org/isbn/9783319781389>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Communications and Networking" .
+
+<http://dx.doi.org/10.1007/978-3-319-78139-6_35>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1007/978-3-319-78139-6_35" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "351" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "341" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/yingshuan-song-1r7p0gi89vp53> , <http://id.crossref.org/contributor/heli-zhang-1r7p0gi89vp53> , <http://id.crossref.org/contributor/xi-li-1r7p0gi89vp53> , <http://id.crossref.org/contributor/hong-ji-1r7p0gi89vp53> , <http://id.crossref.org/contributor/chunsheng-zhu-1r7p0gi89vp53> ;
+      <http://purl.org/dc/terms/date>
+              "2018"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1007/978-3-319-78139-6_35" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1867-8211> , <http://id.crossref.org/isbn/9783319781389> ;
+      <http://purl.org/dc/terms/publisher>
+              "Springer International Publishing" ;
+      <http://purl.org/dc/terms/title>
+              "Intelligent Access Scheme for Internet of Things Supported by 5G Wireless Network" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1007/978-3-319-78139-6_35" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "351" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "341" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1007/978-3-319-78139-6_35> , <info:doi/10.1007/978-3-319-78139-6_35> .
+
+<http://id.crossref.org/contributor/chunsheng-zhu-1r7p0gi89vp53>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Zhu" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Chunsheng" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Chunsheng Zhu" .

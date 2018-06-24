@@ -1,0 +1,83 @@
+<http://id.crossref.org/contributor/mykhailo-klymash-14xzh3tkgbagq>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Klymash" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Mykhailo" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Mykhailo Klymash" .
+
+<http://id.crossref.org/issn/1753-0822>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1753-0830" , "1753-0822" ;
+      <http://purl.org/dc/terms/title>
+              "International Journal of Services, Economics and Management" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1753-0830" , "1753-0822" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1753-0830" , "urn:issn:1753-0822" .
+
+<http://dx.doi.org/10.1504/ijsem.2013.059576>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1504/ijsem.2013.059576" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "291" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "5" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/mykhailo-klymash-14xzh3tkgbagq> , <http://id.crossref.org/contributor/orest-lavriv-14xzh3tkgbagq> , <http://id.crossref.org/contributor/yasser-hayali-14xzh3tkgbagq> , <http://id.crossref.org/contributor/bohdan-buhyl-14xzh3tkgbagq> , <http://id.crossref.org/contributor/roman-bak-14xzh3tkgbagq> ;
+      <http://purl.org/dc/terms/date>
+              "2013"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1504/ijsem.2013.059576" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1753-0822> ;
+      <http://purl.org/dc/terms/publisher>
+              "Inderscience Publishers" ;
+      <http://purl.org/dc/terms/title>
+              "Models and mechanisms for traffic balancing of IPTV VoD service" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1504/ijsem.2013.059576" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "291" ;
+      <http://purl.org/ontology/bibo/volume>
+              "5" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1504/ijsem.2013.059576> , <doi:10.1504/ijsem.2013.059576> .
+
+<http://id.crossref.org/contributor/orest-lavriv-14xzh3tkgbagq>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Lavriv" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Orest" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Orest Lavriv" .
+
+<http://id.crossref.org/contributor/yasser-hayali-14xzh3tkgbagq>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Hayali" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Yasser" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Yasser Hayali" .
+
+<http://id.crossref.org/contributor/roman-bak-14xzh3tkgbagq>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Bak" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Roman" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Roman Bak" .
+
+<http://id.crossref.org/contributor/bohdan-buhyl-14xzh3tkgbagq>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Buhyl" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Bohdan" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Bohdan Buhyl" .

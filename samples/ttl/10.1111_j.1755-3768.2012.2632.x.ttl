@@ -1,0 +1,87 @@
+<http://id.crossref.org/contributor/hm-jauhonen-1v9lw2z4sqhrd>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "JAUHONEN" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "HM" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "HM JAUHONEN" .
+
+<http://dx.doi.org/10.1111/j.1755-3768.2012.2632.x>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1111/j.1755-3768.2012.2632.x" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "0" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "0" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "90" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/hm-jauhonen-1v9lw2z4sqhrd> , <http://id.crossref.org/contributor/j-viiri-1v9lw2z4sqhrd> , <http://id.crossref.org/contributor/k-kaarniranta-1v9lw2z4sqhrd> , <http://id.crossref.org/contributor/l-leino-1v9lw2z4sqhrd> , <http://id.crossref.org/contributor/jk-laihia-1v9lw2z4sqhrd> ;
+      <http://purl.org/dc/terms/date>
+              "2012-08-06"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1111/j.1755-3768.2012.2632.x" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1755-375X> ;
+      <http://purl.org/dc/terms/publisher>
+              "Wiley" ;
+      <http://purl.org/dc/terms/title>
+              "Cis-urocanic acid inhibits conjunctivitis and blepharitis in rat model of acute eye irritation" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1111/j.1755-3768.2012.2632.x" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "0" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "0" ;
+      <http://purl.org/ontology/bibo/volume>
+              "90" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1111/j.1755-3768.2012.2632.x> , <info:doi/10.1111/j.1755-3768.2012.2632.x> .
+
+<http://id.crossref.org/contributor/j-viiri-1v9lw2z4sqhrd>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "VIIRI" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "J" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "J VIIRI" .
+
+<http://id.crossref.org/contributor/k-kaarniranta-1v9lw2z4sqhrd>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "KAARNIRANTA" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "K" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "K KAARNIRANTA" .
+
+<http://id.crossref.org/contributor/jk-laihia-1v9lw2z4sqhrd>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "LAIHIA" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "JK" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "JK LAIHIA" .
+
+<http://id.crossref.org/contributor/l-leino-1v9lw2z4sqhrd>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "LEINO" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "L" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "L LEINO" .
+
+<http://id.crossref.org/issn/1755-375X>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1755-375X" ;
+      <http://purl.org/dc/terms/title>
+              "Acta Ophthalmologica" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1755-375X" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1755-375X" .

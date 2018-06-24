@@ -1,0 +1,33 @@
+<http://dx.doi.org/10.31519/conferencearticle_5b1b9395017261.04858617>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.31519/conferencearticle_5b1b9395017261.04858617" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/homayoun-khoshravan-qyhrv116eknp> ;
+      <http://purl.org/dc/terms/date>
+              "2017-10-14"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.31519/conferencearticle_5b1b9395017261.04858617" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9785369008294> ;
+      <http://purl.org/dc/terms/publisher>
+              "Academus Publishing" ;
+      <http://purl.org/dc/terms/title>
+              "GLOBAL WARMING IMPACT ON URMIA LAKE VULNERABILITY AND HAZARD" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.31519/conferencearticle_5b1b9395017261.04858617" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.31519/conferencearticle_5b1b9395017261.04858617> , <doi:10.31519/conferencearticle_5b1b9395017261.04858617> .
+
+<http://id.crossref.org/isbn/9785369008294>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Proceedings of International Conference \"Managinag risks to coastal regions and communities in a changinag world\" (EMECS'11 - SeaCoasts XXVI)" .
+
+<http://id.crossref.org/contributor/homayoun-khoshravan-qyhrv116eknp>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Khoshravan" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Homayoun" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Homayoun Khoshravan" .

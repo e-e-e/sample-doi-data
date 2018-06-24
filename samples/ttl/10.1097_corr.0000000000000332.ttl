@@ -1,0 +1,88 @@
+<http://dx.doi.org/10.1097/corr.0000000000000332>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1097/corr.0000000000000332" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "1" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/sachin-ranvir-29qnbu6nfwwvc> , <http://id.crossref.org/contributor/ganesh-navaneedhan-29qnbu6nfwwvc> , <http://id.crossref.org/contributor/aniruddh-agrawal-29qnbu6nfwwvc> , <http://id.crossref.org/contributor/adit-r-maniar-29qnbu6nfwwvc> , <http://id.crossref.org/contributor/rajesh-n-maniar-29qnbu6nfwwvc> , <http://id.crossref.org/contributor/ankur-dhiman-29qnbu6nfwwvc> ;
+      <http://purl.org/dc/terms/date>
+              "2018-05"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1097/corr.0000000000000332" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0009-921X> ;
+      <http://purl.org/dc/terms/publisher>
+              "Ovid Technologies (Wolters Kluwer Health)" ;
+      <http://purl.org/dc/terms/title>
+              "What Is the Normal Trajectory of Interleukin-6 and C-reactive Protein in the Hours and Days Immediately After TKA?" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1097/corr.0000000000000332" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "1" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1097/corr.0000000000000332> , <info:doi/10.1097/corr.0000000000000332> .
+
+<http://id.crossref.org/contributor/sachin-ranvir-29qnbu6nfwwvc>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Ranvir" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Sachin" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Sachin Ranvir" .
+
+<http://id.crossref.org/contributor/ganesh-navaneedhan-29qnbu6nfwwvc>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Navaneedhan" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Ganesh" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Ganesh Navaneedhan" .
+
+<http://id.crossref.org/issn/0009-921X>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0009-921X" ;
+      <http://purl.org/dc/terms/title>
+              "Clinical Orthopaedics and Related Research" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0009-921X" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0009-921X" .
+
+<http://id.crossref.org/contributor/aniruddh-agrawal-29qnbu6nfwwvc>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Agrawal" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Aniruddh" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Aniruddh Agrawal" .
+
+<http://id.crossref.org/contributor/adit-r-maniar-29qnbu6nfwwvc>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Maniar" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Adit R." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Adit R. Maniar" .
+
+<http://id.crossref.org/contributor/rajesh-n-maniar-29qnbu6nfwwvc>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Maniar" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Rajesh N." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Rajesh N. Maniar" .
+
+<http://id.crossref.org/contributor/ankur-dhiman-29qnbu6nfwwvc>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Dhiman" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Ankur" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Ankur Dhiman" .

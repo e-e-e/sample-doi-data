@@ -1,0 +1,15 @@
+<http://dx.doi.org/10.5962/bhl.title.135474>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.5962/bhl.title.135474" ;
+      <http://purl.org/dc/terms/date>
+              "1972"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.5962/bhl.title.135474" ;
+      <http://purl.org/dc/terms/publisher>
+              "U.S. Dept. of Agriculture, Forest Service," ;
+      <http://purl.org/dc/terms/title>
+              "Your water supply and forests." ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.5962/bhl.title.135474" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.5962/bhl.title.135474> , <doi:10.5962/bhl.title.135474> .

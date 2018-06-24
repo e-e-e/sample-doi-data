@@ -1,0 +1,60 @@
+<http://id.crossref.org/contributor/yuta-moriya-3jk46t003yzwh>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "MORIYA" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Yuta" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Yuta MORIYA" .
+
+<http://id.crossref.org/contributor/hirotsugu-inoue-3jk46t003yzwh>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "INOUE" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Hirotsugu" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Hirotsugu INOUE" .
+
+<http://id.crossref.org/issn/2424-2845>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "2424-2845" ;
+      <http://purl.org/dc/terms/title>
+              "The Proceedings of the Materials and Mechanics Conference" ;
+      <http://purl.org/ontology/bibo/issn>
+              "2424-2845" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:2424-2845" .
+
+<http://dx.doi.org/10.1299/jsmemm.2007.76>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1299/jsmemm.2007.76" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "77" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "76" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "2007" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/yuta-moriya-3jk46t003yzwh> , <http://id.crossref.org/contributor/hirotsugu-inoue-3jk46t003yzwh> ;
+      <http://purl.org/dc/terms/date>
+              "2007"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1299/jsmemm.2007.76" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/2424-2845> ;
+      <http://purl.org/dc/terms/publisher>
+              "Japan Society of Mechanical Engineers" ;
+      <http://purl.org/dc/terms/title>
+              "205 Development of Ultrasonic Line-Focus SH Wave Probe" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1299/jsmemm.2007.76" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "77" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "76" ;
+      <http://purl.org/ontology/bibo/volume>
+              "2007" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1299/jsmemm.2007.76> , <info:doi/10.1299/jsmemm.2007.76> .

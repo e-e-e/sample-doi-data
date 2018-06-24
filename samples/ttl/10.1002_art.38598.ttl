@@ -1,0 +1,114 @@
+<http://id.crossref.org/contributor/james-w-verbsky-806v5vnakkme>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Verbsky" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "James W." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "James W. Verbsky" .
+
+<http://id.crossref.org/contributor/edward-j-oberle-806v5vnakkme>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Oberle" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Edward J." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Edward J. Oberle" .
+
+<http://id.crossref.org/contributor/trivikram-dasu-806v5vnakkme>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Dasu" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Trivikram" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Trivikram Dasu" .
+
+<http://id.crossref.org/contributor/alyssa-buzzell-806v5vnakkme>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Buzzell" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Alyssa" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Alyssa Buzzell" .
+
+<http://id.crossref.org/contributor/elizabeth-worthey-806v5vnakkme>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Worthey" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Elizabeth" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Elizabeth Worthey" .
+
+<http://id.crossref.org/issn/2326-5191>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "2326-5191" ;
+      <http://purl.org/dc/terms/title>
+              "Arthritis & Rheumatology" ;
+      <http://purl.org/ontology/bibo/issn>
+              "2326-5191" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:2326-5191" .
+
+<http://id.crossref.org/contributor/john-routes-806v5vnakkme>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Routes" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "John" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "John Routes" .
+
+<http://dx.doi.org/10.1002/art.38598>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1002/art.38598" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "S225" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "S224" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "66" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/james-w-verbsky-806v5vnakkme> , <http://id.crossref.org/contributor/edward-j-oberle-806v5vnakkme> , <http://id.crossref.org/contributor/alyssa-buzzell-806v5vnakkme> , <http://id.crossref.org/contributor/trivikram-dasu-806v5vnakkme> , <http://id.crossref.org/contributor/elizabeth-worthey-806v5vnakkme> , <http://id.crossref.org/contributor/john-routes-806v5vnakkme> , <http://id.crossref.org/contributor/christine-bengtson-806v5vnakkme> , <http://id.crossref.org/contributor/mary-hintermeyer-806v5vnakkme> ;
+      <http://purl.org/dc/terms/date>
+              "2014-03"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1002/art.38598" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/2326-5191> ;
+      <http://purl.org/dc/terms/publisher>
+              "Wiley" ;
+      <http://purl.org/dc/terms/title>
+              "A172: Metaphyseal Chondrodysplasia, Ectodermal Dysplasia, Short Stature, Hypergammaglobulinemia, and Spontaneous Inflammation Without Infections in an Extended Family Due to Mutation in NFKB1A" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1002/art.38598" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "S225" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "S224" ;
+      <http://purl.org/ontology/bibo/volume>
+              "66" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1002/art.38598> , <info:doi/10.1002/art.38598> .
+
+<http://id.crossref.org/contributor/christine-bengtson-806v5vnakkme>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Bengtson" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Christine" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Christine Bengtson" .
+
+<http://id.crossref.org/contributor/mary-hintermeyer-806v5vnakkme>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Hintermeyer" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Mary" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Mary Hintermeyer" .

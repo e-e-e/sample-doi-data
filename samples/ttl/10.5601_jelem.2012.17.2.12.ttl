@@ -1,0 +1,404 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <link href="https://use.fontawesome.com/releases/v5.0.6/css/all.css" rel="stylesheet">
+        <title>UWM</title>        <link href="http://jsite.uwm.edu.pl/styles/default.css?v=2" media="screen" rel="stylesheet" type="text/css" />
+<link href="http://jsite.uwm.edu.pl/styles/jqDropDown.css" media="screen" rel="stylesheet" type="text/css" />        <meta name="google-site-verification" content="default_verification_code_xxxxxxxxxxxxxxxxxxxxx" />        <script type="text/javascript" src="/brcms/scripts/utils/jquery-1.4.2.min.js"></script>
+<script type="text/javascript" src="/brcms/scripts/utils/jqDropDown.jquery.min.js"></script>
+<script type="text/javascript" src="/brcms/scripts/utils/placeholder.jquery.js"></script>
+<script type="text/javascript" src="/brcms/modules/admin/scripts/utils/translatejs.js"></script>
+<script type="text/javascript" src="/brcms/scripts/utils/application.js"></script>
+<script type="text/javascript" src="/brcms/scripts/articles/index.js"></script>    </head>
+    <body>
+        
+        <div id="container">
+
+            <div id="header">
+
+    <div class="leftColumn">
+        <div class="magiczne_cyferki">
+        	<div style="text-transform: none;font-size:14px">Journal Title Abbrev.<br />
+
+<span style="color:#155D97;font-size:20px;">J. Elem.</span></div><br />
+            ISSN – 1644-2296<br/>
+            DOI: 10.5601<br/>
+            <div class="home_search">
+            	<h1 class="naglowek">Szukaj artykułu</h1>
+	<form id="searchForm2" name="searchForm" action="/articles/search/" method="post">
+			<input id="search_text" class="border" type="text" placeholder="" value="" name="search_text"><input type="submit" value="?" />
+	</form>
+	</div>
+        </div>
+    </div>
+    
+    <h1 id="logo"><a href="/"><img src="/images/layout/logo.jpg" alt="Journal of Elementology"/></a></h1>
+
+    <div class="rightColumn">
+        <div class="buttons ">
+            <a href="http://jsystem.uwm.edu.pl/index/register/" id="user_area"></a>
+            <a href="http://jsystem.uwm.edu.pl/index/login/" id="login"></a>
+        </div>
+        <div id="lang">
+    <p>Język / Language</p>
+	    <a href="/index/changeLanguage/1/" id="pl"></a>
+    <a href="/index/changeLanguage/2/" id="en"></a>
+	</div>
+    </div>
+    
+</div>
+
+<!--
+<form action="/index/search/" method="post">
+<div id="search">
+    <input type="submit" name="submit" id="search_button" value=""/>
+    <input type="text" name="searchPhrase" id="search_input" value="" placeholder="Szukaj..."/>
+</div>
+</form>    <div id="language">
+        <a href="/" class="logoRemontowa"></a>
+
+                            <div class="english">
+                <a href="/index/changeLanguage/2">English<br />version</a>
+            </div>
+        </div><div id="banner">
+        <strong>Strefa: asdas</strong><br/>
+        <br/>
+        <strong>Strefa: bajfsbak</strong><br/>
+        <br/>
+    </div>
+        -->
+            <div id="content">
+
+                <div class="leftColumn">
+                    
+                    <div id="mainMenu"> 
+
+    <h1 class="naglowek">Nawigacja</h1>  
+    <ul class="level1">
+        		
+            <!-- First level -->
+			                    <li>
+                        <a href="/index/index">Strona główna</a>						
+						<!-- Second level -->
+						            
+                    </li>
+                    		
+            <!-- First level -->
+			                    <li>
+                        <a href="/newss/index">Aktualności</a>						
+						<!-- Second level -->
+						            
+                    </li>
+                    		
+            <!-- First level -->
+			                    <li>
+                        <a href="/redakcja/">Redakcja</a>						
+						<!-- Second level -->
+						            
+                    </li>
+                    		
+            <!-- First level -->
+			                    <li>
+                        <a href="/">Procedury i regulaminy</a>						
+						<!-- Second level -->
+													<ul class="level2">
+																							<li>
+										<a href="/regulamin-dla-autorow/">Regulamin dla Autorów</a>										
+										<!-- Thirst level -->
+																				
+									</li>
+																														<li>
+										<a href="/procedura-recenzji/">Procedura recenzji</a>										
+										<!-- Thirst level -->
+																					<ul class="level3">
+																																			<li>
+														<a href="/wytyczne-dla-recenzentow/">Wytyczne dla Recenzentów</a>														
+														<!-- 4 level -->                
+															
+														
+													</li>
+																																	</ul>
+																				
+									</li>
+																														<li>
+										<a href="/ochrona-danych-osobowych-rodo/">Ochrona danych osobowych (RODO)</a>										
+										<!-- Thirst level -->
+																				
+									</li>
+																					</ul>
+						            
+                    </li>
+                    		
+            <!-- First level -->
+			                    <li>
+                        <a href="/authors/index">Autorzy</a>						
+						<!-- Second level -->
+						            
+                    </li>
+                    		
+            <!-- First level -->
+			                    <li>
+                        <a href="/issue/index">Wydania</a>						
+						<!-- Second level -->
+													<ul class="level2">
+																							<li>
+										<a href="/issue/reviewers">Recenzenci</a>										
+										<!-- Thirst level -->
+																				
+									</li>
+																					</ul>
+						            
+                    </li>
+                    		
+            <!-- First level -->
+			                    <li>
+                        <a href="/articles/index">Baza artykułów</a>						
+						<!-- Second level -->
+						            
+                    </li>
+                    		
+            <!-- First level -->
+			                    <li>
+                        <a href="http://www.ptmag.pl">Polskie Towarzystwo Magnezologiczne</a>						
+						<!-- Second level -->
+						            
+                    </li>
+                    		
+            <!-- First level -->
+			                    <li>
+                        <a href="http://www.uwm.edu.pl">Uniwersytet Warmińsko-Mazurski w Olsztynie</a>						
+						<!-- Second level -->
+						            
+                    </li>
+                    		
+            <!-- First level -->
+			                    <li>
+                        <a href="http://www.uwm.edu.pl/jold">Archiwum</a>						
+						<!-- Second level -->
+						            
+                    </li>
+                       
+    </ul>
+</div>
+                    
+                                            
+<div id="mainMenu">
+    <h1 class="naglowek">Kategorie</h1>
+     
+            <ul class="level1">
+    
+        <li>
+
+        <a href="http://jsite.uwm.edu.pl/categories/view/agricultural">Agricultural</a>
+                
+        
+    </li>
+        <li>
+
+        <a href="http://jsite.uwm.edu.pl/categories/view/biology and microbiology">Biology and microbiology</a>
+                
+        
+    </li>
+        <li>
+
+        <a href="http://jsite.uwm.edu.pl/categories/view/fisheries-and-animal-bioengineering">Fisheries and animal bioengineering </a>
+                
+        
+    </li>
+        <li>
+
+        <a href="http://jsite.uwm.edu.pl/categories/view/food-science">Food science</a>
+                
+        
+    </li>
+        <li>
+
+        <a href="http://jsite.uwm.edu.pl/categories/view/horticulture-and-forestry">Horticulture and forestry</a>
+                
+        
+    </li>
+        <li>
+
+        <a href="http://jsite.uwm.edu.pl/categories/view/medicine-and-veterinary">Medicine and veterinary</a>
+                
+        
+    </li>
+        <li>
+
+        <a href="http://jsite.uwm.edu.pl/categories/view/pollution-and-environment">Pollution and environment</a>
+                
+        
+    </li>
+        <li>
+
+        <a href="http://jsite.uwm.edu.pl/categories/view/review-paper">Review paper</a>
+                
+        
+    </li>
+        
+</ul>
+
+                
+</div>                                                            
+                    <div id="flags">
+	<a href="http://s10.flagcounter.com/more/MNs"><img src="http://s10.flagcounter.com/count/MNs/bg_f2f2f1/txt_000000/border_f2f2f1/columns_2/maxflags_12/viewers_3/labels_0/pageviews_1/flags_0/" alt="free counters" border="0"></a>
+</div>                    
+                </div>
+
+                <div id="mainContent">
+                                        <div id="breadcrumbs">
+    <div class="okruszki">
+                                                <a href="/index/index">Strona główna</a>
+                                 &nbsp; <span>›</span> &nbsp;                             <a href="/issue/index">Wydania</a>
+                                 &nbsp; <span>›</span> &nbsp;                             2 / 2012                        </div>
+    </div>
+                    
+<div id="textPage" class="articleView ss">
+
+    <h1 class="naglowek">Effect of years, fertilization and growing regions on the content and forms of potassium in soil</h1>
+
+    <br/>
+    
+    <h2 class="naglowek">Wydanie:
+
+        <span class="aaa">
+
+            <a href="http://jsite.uwm.edu.pl/issue/view/2-2012">2 / 2012</a>
+        </span>
+
+    </h2>
+
+    <h2 class="naglowek">Otrzymano:
+    <span class="aaa">
+      Brak danych    </span>
+    
+    </h2>
+    <h2 class="naglowek">Zaakceptowano:
+    <span class="aaa">
+      Brak danych    </span>
+    
+    </h2>
+    <h2 class="naglowek">Opublikowano online:
+    <span class="aaa">
+      2012-06-25    </span>
+    
+    </h2>
+
+
+   <h2 class="naglowek">Autorzy:</h2>
+ 
+      <ul class="authors">
+       
+                 <li><p>
+	<font face="Centurion,Bold">Škarpa P., Hlušek J.</li>
+                   </ul>
+    
+
+
+
+
+    <div class="clear"></div>
+
+    
+        <h2 class="naglowek">
+        Kategorie:
+
+          <span class="aaa">
+
+                        
+              
+                <a href="http://jsite.uwm.edu.pl/categories/view/178">Agricultural</a>
+            
+          </span>
+
+        </h2>
+    
+    <h2 class="naglowek">DOI: <span class="aaa">10.5601/jelem.2012.17.2.12</span></h2>
+
+    
+    <h2 class="naglowek">Abstrakt:</h2>
+
+    <div><div style="text-align: justify">
+    The dynamics of potassium (K) in soil was investigated in long-term small-plot field trials at seven stations, where five combinations of fertilization were tested. The objective of the experiment was to estimate the effect of the weather conditions, type of growing region and increasing doses of fertilizers on the content of water soluble K (Sol-K), exchangeable K (Ex-K) and acid soluble K (Ac-K) in soils. The weather conditions had the strongest effect on the total variability of the Sol-K (34.9%), to a lesser extent on the variability of Ex-K (14.1%) and only negligibly on the Ac-K (0.3%). In the individual years of the experimental period, the content of water soluble and Ex-K was particularly affected, chiefly by the weather and due to different demands of crops for this nutrient (leguminous plants consume high amounts and cereals relatively low amounts of K). In fairly dry years (e.g. 1982), the level of potassium (Sol-K and Ex-K) in soil was higher than in years with precipitation above the average. The content of soluble and exchangeable K was positively influenced by the application of potassium fertilization (0.989, 0.994, respectively). Compared to the control, the content of Sol-K and Ex-K in the variant where the fertilizer dose was the highest increased by 69.3 and 55.3%, respectively. Potassium fertilization (compared to the control) raised the level of the Ac-K, but not significantly, also implying that the effect of fertilization on the total variability of the Ac-K (0.6%) was virtually none. The effect of the growing region on the total variability of the potassium content was higher wherever the potassium bonding to the the sorption soil complex was stronger. The differences between the average levels of Sol-K characterizing the growing regions were not statistically significant. The levels of Ex-K and Ac-K differed significantly in the sugar-beet growing region, where the reserve was more than 40% higher than in the potato growing region.</div>
+</div>
+
+    <br/>
+
+    <h2 class="naglowek">Cytacja:</h2>
+
+    <div class="quote"><span class="quote_glyph"></span><p>
+    <font face="Centurion,Bold">Škarpa P., Hlušek J. 2012. </font>Effect of years, fertilization and growing regions on the content and forms of potassium in soil. J. Elem. 17(2): 305-315, DOI-10.5601/jelem.2012.17.2.12</p>
+</div>
+
+    <div class="clear"></div>
+
+
+    <!-- to ponizej to co to ? :3 -->
+
+    
+
+    <h2 class="naglowek">Słowa kluczowe:</h2>
+
+    <span>long-term field trials; water soluble K; exchangeable K; acid soluble K</span>
+
+    <br/>
+    <br/>
+
+    
+        <h2 class="naglowek">O wydaniu:</h2>
+
+        <div><p>17.2.2012</p>
+</div>
+
+        <br/>
+
+    
+    <a href="http://jsite.uwm.edu.pl/index/getfile/195" class="pdf_link">Pobierz artykuł</a>
+    <br>
+
+    <a href="/articles/index" class="button">Baza artykułów</a>
+
+</div>
+<script>
+    $(document).ready(function(){
+        $('.article-author').hover(function(){
+           $(this).children('span').addClass('article-author-hoovered');
+           $(this).children('div').show();
+        }, function(){
+            $(this).children('span').removeClass('article-author-hoovered');
+            $(this).children('div').hide();
+        });
+    });
+</script>
+
+ 
+                </div>    
+
+            </div>         
+
+            <div id="footer">
+    <div class="red">Obsługa informatyczna: redicon.pl - <a href="http://redicon.pl">Strony internetowe Olsztyn</a></div>
+	<p class="left">Projekt strony www finansowany ze środków projektu INDEX PLUS.</p>
+    <p class="right">&copy; Copyright by
+                    Polskie Towarzystwo Magnezologiczne i Uniwersytet Warmińsko-Mazurski w Olsztynie
+            </p>
+</div>
+
+<!-- Google Analytics Start -->
+<script type="text/javascript">
+
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'default_id_432423342']);
+_gaq.push(['_trackPageview']);
+
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+
+</script>
+<!-- Google Analytics End -->            
+        </div>
+
+    </body>
+</html>

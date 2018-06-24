@@ -1,0 +1,78 @@
+<http://id.crossref.org/issn/0307-4358>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0307-4358" ;
+      <http://purl.org/dc/terms/title>
+              "Managerial Finance" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0307-4358" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0307-4358" .
+
+<http://dx.doi.org/10.1108/mf-01-2014-0009>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1108/mf-01-2014-0009" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "181" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "164" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "41" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/professor-h-kent-baker-342r98twlg7> , <http://id.crossref.org/contributor/dr-rob-weigand-342r98twlg7> , <http://id.crossref.org/contributor/thanh-nguyen-342r98twlg7> , <http://id.crossref.org/contributor/michael-l-lemmon-342r98twlg7> ;
+      <http://purl.org/dc/terms/date>
+              "2015-02-09"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1108/mf-01-2014-0009" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0307-4358> ;
+      <http://purl.org/dc/terms/publisher>
+              "Emerald" ;
+      <http://purl.org/dc/terms/title>
+              "Dividend yields and stock returns in Hong Kong" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1108/mf-01-2014-0009" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "181" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "164" ;
+      <http://purl.org/ontology/bibo/volume>
+              "41" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1108/mf-01-2014-0009> , <info:doi/10.1108/mf-01-2014-0009> .
+
+<http://id.crossref.org/contributor/professor-h-kent-baker-342r98twlg7>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "H. Kent Baker" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Professor" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Professor H. Kent Baker" .
+
+<http://id.crossref.org/contributor/dr-rob-weigand-342r98twlg7>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Rob Weigand" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Dr" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Dr Rob Weigand" .
+
+<http://id.crossref.org/contributor/thanh-nguyen-342r98twlg7>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Nguyen" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Thanh" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Thanh Nguyen" .
+
+<http://id.crossref.org/contributor/michael-l-lemmon-342r98twlg7>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Lemmon" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Michael L." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Michael L. Lemmon" .

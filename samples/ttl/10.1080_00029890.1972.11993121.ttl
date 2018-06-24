@@ -1,0 +1,51 @@
+<http://dx.doi.org/10.1080/00029890.1972.11993121>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1080/00029890.1972.11993121" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "764" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "762" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "79" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/r-s-doran-3tlxq3sez9lz> ;
+      <http://purl.org/dc/terms/date>
+              "1972-08"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1080/00029890.1972.11993121" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0002-9890> ;
+      <http://purl.org/dc/terms/publisher>
+              "Informa UK Limited" ;
+      <http://purl.org/dc/terms/title>
+              "Does There Exist More Than One Banach *-Algebra with Discontinuous Involution?" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1080/00029890.1972.11993121" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "764" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "762" ;
+      <http://purl.org/ontology/bibo/volume>
+              "79" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1080/00029890.1972.11993121> , <info:doi/10.1080/00029890.1972.11993121> .
+
+<http://id.crossref.org/issn/0002-9890>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0002-9890" , "1930-0972" ;
+      <http://purl.org/dc/terms/title>
+              "The American Mathematical Monthly" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0002-9890" , "1930-0972" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0002-9890" , "urn:issn:1930-0972" .
+
+<http://id.crossref.org/contributor/r-s-doran-3tlxq3sez9lz>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Doran" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "R. S." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "R. S. Doran" .

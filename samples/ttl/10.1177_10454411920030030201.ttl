@@ -1,0 +1,60 @@
+<http://id.crossref.org/contributor/jeffrey-p-gorski-1hemd2bhhk3ly>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Gorski" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Jeffrey P." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Jeffrey P. Gorski" .
+
+<http://id.crossref.org/contributor/sandy-c-marks-1hemd2bhhk3ly>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Marks" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Sandy C." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Sandy C. Marks" .
+
+<http://dx.doi.org/10.1177/10454411920030030201>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1177/10454411920030030201" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "206" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "185" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "3" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/jeffrey-p-gorski-1hemd2bhhk3ly> , <http://id.crossref.org/contributor/sandy-c-marks-1hemd2bhhk3ly> ;
+      <http://purl.org/dc/terms/date>
+              "1992-04"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1177/10454411920030030201" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1045-4411> ;
+      <http://purl.org/dc/terms/publisher>
+              "SAGE Publications" ;
+      <http://purl.org/dc/terms/title>
+              "Current Concepts of the Biology of Tooth Eruption" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1177/10454411920030030201" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "206" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "185" ;
+      <http://purl.org/ontology/bibo/volume>
+              "3" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1177/10454411920030030201> , <info:doi/10.1177/10454411920030030201> .
+
+<http://id.crossref.org/issn/1045-4411>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1045-4411" , "1544-1113" ;
+      <http://purl.org/dc/terms/title>
+              "Critical Reviews in Oral Biology & Medicine" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1045-4411" , "1544-1113" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1045-4411" , "urn:issn:1544-1113" .

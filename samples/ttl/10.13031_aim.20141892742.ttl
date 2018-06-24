@@ -1,0 +1,15 @@
+<http://dx.doi.org/10.13031/aim.20141892742>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.13031/aim.20141892742" ;
+      <http://purl.org/dc/terms/date>
+              "2014-07-16"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.13031/aim.20141892742" ;
+      <http://purl.org/dc/terms/publisher>
+              "American Society of Agricultural and Biological Engineers" ;
+      <http://purl.org/dc/terms/title>
+              "Effect of the presence of four different crops on a greenhouse airflow: simulation analysis" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.13031/aim.20141892742" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.13031/aim.20141892742> , <info:doi/10.13031/aim.20141892742> .

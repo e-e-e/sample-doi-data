@@ -1,0 +1,61 @@
+<http://id.crossref.org/issn/0937-7433>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0937-7433" ;
+      <http://purl.org/dc/terms/title>
+              "Springer-Lehrbuch" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0937-7433" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0937-7433" .
+
+<http://id.crossref.org/contributor/holger-gobel-34y30faf74yyg>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Göbel" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Holger" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Holger Göbel" .
+
+<http://id.crossref.org/isbn/9783642539022>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Springer-Lehrbuch" .
+
+<http://dx.doi.org/10.1007/978-3-642-53903-9_4>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1007/978-3-642-53903-9_4" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "84" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "61" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/holger-gobel-34y30faf74yyg> , <http://id.crossref.org/contributor/henning-siemund-34y30faf74yyg> ;
+      <http://purl.org/dc/terms/date>
+              "2014"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1007/978-3-642-53903-9_4" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0937-7433> , <http://id.crossref.org/isbn/9783642539022> ;
+      <http://purl.org/dc/terms/publisher>
+              "Springer Berlin Heidelberg" ;
+      <http://purl.org/dc/terms/title>
+              "Feldeffekttransistor" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1007/978-3-642-53903-9_4" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "84" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "61" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1007/978-3-642-53903-9_4> , <doi:10.1007/978-3-642-53903-9_4> .
+
+<http://id.crossref.org/contributor/henning-siemund-34y30faf74yyg>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Siemund" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Henning" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Henning Siemund" .

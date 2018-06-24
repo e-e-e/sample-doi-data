@@ -1,0 +1,41 @@
+<http://id.crossref.org/isbn/9780816681938>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Problems of Dostoevsky's Poetics" .
+
+<http://dx.doi.org/10.5749/j.ctt22727z1.5>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.5749/j.ctt22727z1.5" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "xxviii" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "xiii" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/wayne-c-booth-2e4ab2vvnh57> ;
+      <http://purl.org/dc/terms/date>
+              ""^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.5749/j.ctt22727z1.5" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9780816681938> ;
+      <http://purl.org/dc/terms/publisher>
+              "University of Minnesota Press" ;
+      <http://purl.org/dc/terms/title>
+              "Introduction" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.5749/j.ctt22727z1.5" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "xxviii" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "xiii" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.5749/j.ctt22727z1.5> , <doi:10.5749/j.ctt22727z1.5> .
+
+<http://id.crossref.org/contributor/wayne-c-booth-2e4ab2vvnh57>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Booth" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Wayne C." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Wayne C. Booth" .

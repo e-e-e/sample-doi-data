@@ -1,0 +1,69 @@
+<http://id.crossref.org/contributor/shelley-l-nelson-1cdlrhcl4jnsr>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Nelson" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Shelley L." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Shelley L. Nelson" .
+
+<http://dx.doi.org/10.1016/j.ssresearch.2012.05.005>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/j.ssresearch.2012.05.005" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "1337" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "1320" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "41" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/shelley-l-nelson-1cdlrhcl4jnsr> , <http://id.crossref.org/contributor/joshua-klugman-1cdlrhcl4jnsr> , <http://id.crossref.org/contributor/jennifer-c-lee-1cdlrhcl4jnsr> ;
+      <http://purl.org/dc/terms/date>
+              "2012-09"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/j.ssresearch.2012.05.005" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0049-089X> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "School co-ethnicity and Hispanic parental involvement" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/j.ssresearch.2012.05.005" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "1337" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "1320" ;
+      <http://purl.org/ontology/bibo/volume>
+              "41" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1016/j.ssresearch.2012.05.005> , <info:doi/10.1016/j.ssresearch.2012.05.005> .
+
+<http://id.crossref.org/contributor/joshua-klugman-1cdlrhcl4jnsr>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Klugman" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Joshua" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Joshua Klugman" .
+
+<http://id.crossref.org/issn/0049-089X>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0049-089X" ;
+      <http://purl.org/dc/terms/title>
+              "Social Science Research" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0049-089X" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0049-089X" .
+
+<http://id.crossref.org/contributor/jennifer-c-lee-1cdlrhcl4jnsr>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Lee" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Jennifer C." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Jennifer C. Lee" .

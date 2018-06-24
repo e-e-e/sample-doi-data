@@ -1,0 +1,39 @@
+<http://id.crossref.org/contributor/rahsan-gocmen-2hfgm9qeyw16e>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Göçmen" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Rahşan" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Rahşan Göçmen" .
+
+<http://id.crossref.org/issn/1300-7157>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1300-7157" ;
+      <http://purl.org/dc/terms/title>
+              "Journal of the Turkish Epilepsi Society" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1300-7157" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1300-7157" .
+
+<http://dx.doi.org/10.14744/epilepsi.2018.39200>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.14744/epilepsi.2018.39200" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/rahsan-gocmen-2hfgm9qeyw16e> ;
+      <http://purl.org/dc/terms/date>
+              "2018"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.14744/epilepsi.2018.39200" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1300-7157> ;
+      <http://purl.org/dc/terms/publisher>
+              "Kare Publishing" ;
+      <http://purl.org/dc/terms/title>
+              "The relevance of hippocampal malformation with epilepsy and other structural brain abnormalities" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.14744/epilepsi.2018.39200" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.14744/epilepsi.2018.39200> , <info:doi/10.14744/epilepsi.2018.39200> .

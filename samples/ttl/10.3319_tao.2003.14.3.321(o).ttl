@@ -1,0 +1,47 @@
+<http://dx.doi.org/10.3319/tao.2003.14.3.321(o)>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.3319/tao.2003.14.3.321(o)" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "321" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "14" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/hui-ling-lin-3cabs2j5vwd3> ;
+      <http://purl.org/dc/terms/date>
+              "2003"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.3319/tao.2003.14.3.321(o)" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1017-0839> ;
+      <http://purl.org/dc/terms/publisher>
+              "Chinese Geoscience Union" ;
+      <http://purl.org/dc/terms/title>
+              "Late Quaternary Deep-Water Circulation in the South China Sea" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.3319/tao.2003.14.3.321(o)" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "321" ;
+      <http://purl.org/ontology/bibo/volume>
+              "14" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.3319/tao.2003.14.3.321(o)> , <doi:10.3319/tao.2003.14.3.321(o)> .
+
+<http://id.crossref.org/issn/1017-0839>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1017-0839" ;
+      <http://purl.org/dc/terms/title>
+              "Terrestrial, Atmospheric and Oceanic Sciences" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1017-0839" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1017-0839" .
+
+<http://id.crossref.org/contributor/hui-ling-lin-3cabs2j5vwd3>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Lin" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Hui-Ling" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Hui-Ling Lin" .

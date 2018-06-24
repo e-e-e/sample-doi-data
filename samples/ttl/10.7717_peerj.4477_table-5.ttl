@@ -1,0 +1,15 @@
+<http://dx.doi.org/10.7717/peerj.4477/table-5>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.7717/peerj.4477/table-5" ;
+      <http://purl.org/dc/terms/date>
+              ""^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.7717/peerj.4477/table-5" ;
+      <http://purl.org/dc/terms/publisher>
+              "PeerJ" ;
+      <http://purl.org/dc/terms/title>
+              "Table 5: The distance (m) between the north and south blocks and the east and west blocks for each A. petiolata patch and the average density of second-year plants per 1 m2." ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.7717/peerj.4477/table-5" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.7717/peerj.4477/table-5> , <info:doi/10.7717/peerj.4477/table-5> .

@@ -1,0 +1,15 @@
+<http://dx.doi.org/10.1163/9789004192676.ava-331>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1163/9789004192676.ava-331" ;
+      <http://purl.org/dc/terms/date>
+              ""^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1163/9789004192676.ava-331" ;
+      <http://purl.org/dc/terms/publisher>
+              "Brill Academic Publishers" ;
+      <http://purl.org/dc/terms/title>
+              "Russian Avant-garde online, AVA-331" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1163/9789004192676.ava-331" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1163/9789004192676.ava-331> , <info:doi/10.1163/9789004192676.ava-331> .

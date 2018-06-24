@@ -1,0 +1,50 @@
+<http://dx.doi.org/10.1007/978-981-10-4068-9_8>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1007/978-981-10-4068-9_8" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "102" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "89" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/laure-gossec-2blrlnapec8kb> , <http://id.crossref.org/contributor/maarten-de-wit-2blrlnapec8kb> ;
+      <http://purl.org/dc/terms/date>
+              "2017"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1007/978-981-10-4068-9_8" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9789811040672> ;
+      <http://purl.org/dc/terms/publisher>
+              "Springer Singapore" ;
+      <http://purl.org/dc/terms/title>
+              "Patients as Collaborative Partners in Clinical Research to Inform HTA" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1007/978-981-10-4068-9_8" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "102" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "89" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1007/978-981-10-4068-9_8> , <info:doi/10.1007/978-981-10-4068-9_8> .
+
+<http://id.crossref.org/contributor/laure-gossec-2blrlnapec8kb>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Gossec" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Laure" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Laure Gossec" .
+
+<http://id.crossref.org/isbn/9789811040672>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Patient Involvement in Health Technology Assessment" .
+
+<http://id.crossref.org/contributor/maarten-de-wit-2blrlnapec8kb>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "de Wit" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Maarten" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Maarten de Wit" .

@@ -1,0 +1,123 @@
+<http://dx.doi.org/10.1016/j.jpedsurg.2014.01.039>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/j.jpedsurg.2014.01.039" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "999" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "995" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "49" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/fizan-abdullah-1k71emlghqc6s> , <http://id.crossref.org/contributor/jonathan-aboagye-1k71emlghqc6s> , <http://id.crossref.org/contributor/dominic-papandria-1k71emlghqc6s> , <http://id.crossref.org/contributor/dylan-stewart-1k71emlghqc6s> , <http://id.crossref.org/contributor/jeffrey-lukish-1k71emlghqc6s> , <http://id.crossref.org/contributor/khaled-al-omar-1k71emlghqc6s> , <http://id.crossref.org/contributor/seth-d-goldstein-1k71emlghqc6s> , <http://id.crossref.org/contributor/mekam-t-okoye-1k71emlghqc6s> , <http://id.crossref.org/contributor/jose-h-salazar-1k71emlghqc6s> ;
+      <http://purl.org/dc/terms/date>
+              "2014-06"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/j.jpedsurg.2014.01.039" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0022-3468> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Age at presentation of common pediatric surgical conditions: Reexamining dogma" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/j.jpedsurg.2014.01.039" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "999" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "995" ;
+      <http://purl.org/ontology/bibo/volume>
+              "49" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1016/j.jpedsurg.2014.01.039> , <info:doi/10.1016/j.jpedsurg.2014.01.039> .
+
+<http://id.crossref.org/contributor/fizan-abdullah-1k71emlghqc6s>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Abdullah" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Fizan" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Fizan Abdullah" .
+
+<http://id.crossref.org/contributor/jonathan-aboagye-1k71emlghqc6s>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Aboagye" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Jonathan" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Jonathan Aboagye" .
+
+<http://id.crossref.org/contributor/dominic-papandria-1k71emlghqc6s>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Papandria" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Dominic" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Dominic Papandria" .
+
+<http://id.crossref.org/contributor/jeffrey-lukish-1k71emlghqc6s>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Lukish" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Jeffrey" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Jeffrey Lukish" .
+
+<http://id.crossref.org/contributor/dylan-stewart-1k71emlghqc6s>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Stewart" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Dylan" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Dylan Stewart" .
+
+<http://id.crossref.org/contributor/khaled-al-omar-1k71emlghqc6s>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Al-Omar" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Khaled" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Khaled Al-Omar" .
+
+<http://id.crossref.org/contributor/seth-d-goldstein-1k71emlghqc6s>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Goldstein" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Seth D." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Seth D. Goldstein" .
+
+<http://id.crossref.org/contributor/jose-h-salazar-1k71emlghqc6s>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Salazar" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Jose H." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Jose H. Salazar" .
+
+<http://id.crossref.org/contributor/mekam-t-okoye-1k71emlghqc6s>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Okoye" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Mekam T." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Mekam T. Okoye" .
+
+<http://id.crossref.org/issn/0022-3468>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0022-3468" ;
+      <http://purl.org/dc/terms/title>
+              "Journal of Pediatric Surgery" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0022-3468" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0022-3468" .

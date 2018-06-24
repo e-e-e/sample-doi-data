@@ -1,0 +1,51 @@
+<http://id.crossref.org/issn/0885-4122>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1552-6593" , "0885-4122" ;
+      <http://purl.org/dc/terms/title>
+              "Journal of Planning Literature" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1552-6593" , "0885-4122" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1552-6593" , "urn:issn:0885-4122" .
+
+<http://dx.doi.org/10.1177/0885412213501469>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1177/0885412213501469" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "365" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "365" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "28" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/ning-ai-2s2ujfiucfarf> ;
+      <http://purl.org/dc/terms/date>
+              "2013-10"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1177/0885412213501469" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0885-4122> ;
+      <http://purl.org/dc/terms/publisher>
+              "SAGE Publications" ;
+      <http://purl.org/dc/terms/title>
+              "Book Review: Metabolism of the Anthroposphere: Analysis, Evaluation, DesignBacciniP.BrunnerP.. 2012. Metabolism of the Anthroposphere: Analysis, Evaluation, Design. 2nd ed. Cambridge, MA: The MIT Press. 408 pp. $35.00 Hardcover, ISBN: 978-0-262-01665-0." ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1177/0885412213501469" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "365" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "365" ;
+      <http://purl.org/ontology/bibo/volume>
+              "28" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1177/0885412213501469> , <info:doi/10.1177/0885412213501469> .
+
+<http://id.crossref.org/contributor/ning-ai-2s2ujfiucfarf>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Ai" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Ning" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Ning Ai" .

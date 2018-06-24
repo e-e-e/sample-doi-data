@@ -1,0 +1,78 @@
+<http://id.crossref.org/contributor/wu-yiyong-2dx53mb6o64h0>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Yiyong" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Wu" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Wu Yiyong" .
+
+<http://id.crossref.org/contributor/zhang-yongzhong-2dx53mb6o64h0>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Yongzhong" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Zhang" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Zhang Yongzhong" .
+
+<http://id.crossref.org/contributor/hu-xinguo-2dx53mb6o64h0>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Xinguo" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Hu" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Hu Xinguo" .
+
+<http://id.crossref.org/issn/0020-2967>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1745-9192" , "0020-2967" ;
+      <http://purl.org/dc/terms/title>
+              "Transactions of the IMF" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1745-9192" , "0020-2967" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0020-2967" , "urn:issn:1745-9192" .
+
+<http://id.crossref.org/contributor/zhang-jinwu-yao-mei-2dx53mb6o64h0>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Mei" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Zhang Jinwu Yao" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Zhang Jinwu Yao Mei" .
+
+<http://dx.doi.org/10.1080/00202967.1998.11871206>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1080/00202967.1998.11871206" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "110" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "108" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "76" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/wu-yiyong-2dx53mb6o64h0> , <http://id.crossref.org/contributor/zhang-yongzhong-2dx53mb6o64h0> , <http://id.crossref.org/contributor/hu-xinguo-2dx53mb6o64h0> , <http://id.crossref.org/contributor/zhang-jinwu-yao-mei-2dx53mb6o64h0> ;
+      <http://purl.org/dc/terms/date>
+              "1998-01"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1080/00202967.1998.11871206" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0020-2967> ;
+      <http://purl.org/dc/terms/publisher>
+              "Informa UK Limited" ;
+      <http://purl.org/dc/terms/title>
+              "TEM investigation of Initiation of Electroless Nickel Deposition on Pure Iron" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1080/00202967.1998.11871206" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "110" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "108" ;
+      <http://purl.org/ontology/bibo/volume>
+              "76" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1080/00202967.1998.11871206> , <doi:10.1080/00202967.1998.11871206> .

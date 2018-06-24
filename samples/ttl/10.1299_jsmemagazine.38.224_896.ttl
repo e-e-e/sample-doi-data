@@ -1,0 +1,36 @@
+<http://id.crossref.org/issn/2433-1546>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "2433-1546" ;
+      <http://purl.org/dc/terms/title>
+              "Journal of the Society of Mechanical Engineers" ;
+      <http://purl.org/ontology/bibo/issn>
+              "2433-1546" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:2433-1546" .
+
+<http://dx.doi.org/10.1299/jsmemagazine.38.224_896>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1299/jsmemagazine.38.224_896" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "896" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "38" ;
+      <http://purl.org/dc/terms/date>
+              "1935"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1299/jsmemagazine.38.224_896" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/2433-1546> ;
+      <http://purl.org/dc/terms/publisher>
+              "Japan Society of Mechanical Engineers" ;
+      <http://purl.org/dc/terms/title>
+              "" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1299/jsmemagazine.38.224_896" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "896" ;
+      <http://purl.org/ontology/bibo/volume>
+              "38" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1299/jsmemagazine.38.224_896> , <info:doi/10.1299/jsmemagazine.38.224_896> .

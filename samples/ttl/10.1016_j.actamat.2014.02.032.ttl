@@ -1,0 +1,71 @@
+<http://id.crossref.org/contributor/markus-rettenmayr-y2qoug12c871>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <http://orcid.org/0000-0003-4721-5087> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Rettenmayr" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Markus" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Markus Rettenmayr" .
+
+<http://id.crossref.org/issn/1359-6454>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1359-6454" ;
+      <http://purl.org/dc/terms/title>
+              "Acta Materialia" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1359-6454" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1359-6454" .
+
+<http://dx.doi.org/10.1016/j.actamat.2014.02.032>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/j.actamat.2014.02.032" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "40" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "32" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "72" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/markus-rettenmayr-y2qoug12c871> , <http://id.crossref.org/contributor/marcel-fink-y2qoug12c871> , <http://id.crossref.org/contributor/stephanie-lippmann-y2qoug12c871> ;
+      <http://purl.org/dc/terms/date>
+              "2014-06"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/j.actamat.2014.02.032" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1359-6454> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Experimental determination of the nucleation rate of melt in a solid solution" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/j.actamat.2014.02.032" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "40" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "32" ;
+      <http://purl.org/ontology/bibo/volume>
+              "72" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1016/j.actamat.2014.02.032> , <doi:10.1016/j.actamat.2014.02.032> .
+
+<http://id.crossref.org/contributor/marcel-fink-y2qoug12c871>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Fink" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Marcel" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Marcel Fink" .
+
+<http://id.crossref.org/contributor/stephanie-lippmann-y2qoug12c871>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Lippmann" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Stephanie" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Stephanie Lippmann" .

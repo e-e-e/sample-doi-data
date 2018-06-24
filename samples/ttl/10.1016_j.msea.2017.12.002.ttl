@@ -1,0 +1,96 @@
+<http://id.crossref.org/contributor/xiao-zhi-tang-1jvpudalmefm>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Tang" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Xiao-Zhi" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Xiao-Zhi Tang" .
+
+<http://id.crossref.org/contributor/sidney-yip-1jvpudalmefm>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Yip" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Sidney" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Sidney Yip" .
+
+<http://id.crossref.org/contributor/ya-fang-guo-1jvpudalmefm>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Guo" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Ya-Fang" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Ya-Fang Guo" .
+
+<http://dx.doi.org/10.1016/j.msea.2017.12.002>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/j.msea.2017.12.002" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "145" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "141" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "713" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/sidney-yip-1jvpudalmefm> , <http://id.crossref.org/contributor/xiao-zhi-tang-1jvpudalmefm> , <http://id.crossref.org/contributor/ya-fang-guo-1jvpudalmefm> , <http://id.crossref.org/contributor/yue-fan-1jvpudalmefm> , <http://id.crossref.org/contributor/lixin-sun-1jvpudalmefm> , <http://id.crossref.org/contributor/bilge-yildiz-1jvpudalmefm> ;
+      <http://purl.org/dc/terms/date>
+              "2018-01"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/j.msea.2017.12.002" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0921-5093> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Strain rate effect on dislocation climb mechanism via self-interstitials" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/j.msea.2017.12.002" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "145" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "141" ;
+      <http://purl.org/ontology/bibo/volume>
+              "713" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1016/j.msea.2017.12.002> , <doi:10.1016/j.msea.2017.12.002> .
+
+<http://id.crossref.org/contributor/yue-fan-1jvpudalmefm>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Fan" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Yue" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Yue Fan" .
+
+<http://id.crossref.org/contributor/lixin-sun-1jvpudalmefm>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Sun" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Lixin" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Lixin Sun" .
+
+<http://id.crossref.org/issn/0921-5093>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0921-5093" ;
+      <http://purl.org/dc/terms/title>
+              "Materials Science and Engineering: A" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0921-5093" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0921-5093" .
+
+<http://id.crossref.org/contributor/bilge-yildiz-1jvpudalmefm>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Yildiz" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Bilge" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Bilge Yildiz" .

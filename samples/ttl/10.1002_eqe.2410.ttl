@@ -1,0 +1,60 @@
+<http://dx.doi.org/10.1002/eqe.2410>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1002/eqe.2410" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "1563" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "1543" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "43" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/matthew-j-dejong-31p9chnx1zuea> , <http://id.crossref.org/contributor/elias-g-dimitrakopoulos-31p9chnx1zuea> ;
+      <http://purl.org/dc/terms/date>
+              "2014-02-10"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1002/eqe.2410" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0098-8847> ;
+      <http://purl.org/dc/terms/publisher>
+              "Wiley" ;
+      <http://purl.org/dc/terms/title>
+              "Dynamically equivalent rocking structures" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1002/eqe.2410" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "1563" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "1543" ;
+      <http://purl.org/ontology/bibo/volume>
+              "43" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1002/eqe.2410> , <doi:10.1002/eqe.2410> .
+
+<http://id.crossref.org/contributor/matthew-j-dejong-31p9chnx1zuea>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "DeJong" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Matthew J." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Matthew J. DeJong" .
+
+<http://id.crossref.org/issn/0098-8847>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0098-8847" ;
+      <http://purl.org/dc/terms/title>
+              "Earthquake Engineering & Structural Dynamics" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0098-8847" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0098-8847" .
+
+<http://id.crossref.org/contributor/elias-g-dimitrakopoulos-31p9chnx1zuea>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Dimitrakopoulos" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Elias G." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Elias G. Dimitrakopoulos" .

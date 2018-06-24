@@ -1,0 +1,87 @@
+<http://id.crossref.org/contributor/da-huang-2vjixa48rvhs>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Huang" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Da" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Da Huang" .
+
+<http://id.crossref.org/contributor/haijun-jiang-2vjixa48rvhs>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Jiang" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Haijun" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Haijun Jiang" .
+
+<http://dx.doi.org/10.1007/s12555-017-0345-2>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1007/s12555-017-0345-2" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "451" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "437" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "16" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/da-huang-2vjixa48rvhs> , <http://id.crossref.org/contributor/haijun-jiang-2vjixa48rvhs> , <http://id.crossref.org/contributor/zhiyong-yu-2vjixa48rvhs> , <http://id.crossref.org/contributor/cheng-hu-2vjixa48rvhs> , <http://id.crossref.org/contributor/chengjun-kang-2vjixa48rvhs> ;
+      <http://purl.org/dc/terms/date>
+              "2018-03-01"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1007/s12555-017-0345-2" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1598-6446> ;
+      <http://purl.org/dc/terms/publisher>
+              "Springer Nature" ;
+      <http://purl.org/dc/terms/title>
+              "Leader-following Cluster Consensus in Multi-agent Systems with Intermittence" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1007/s12555-017-0345-2" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "451" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "437" ;
+      <http://purl.org/ontology/bibo/volume>
+              "16" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1007/s12555-017-0345-2> , <info:doi/10.1007/s12555-017-0345-2> .
+
+<http://id.crossref.org/contributor/zhiyong-yu-2vjixa48rvhs>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Yu" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Zhiyong" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Zhiyong Yu" .
+
+<http://id.crossref.org/issn/1598-6446>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1598-6446" , "2005-4092" ;
+      <http://purl.org/dc/terms/title>
+              "International Journal of Control, Automation and Systems" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1598-6446" , "2005-4092" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:2005-4092" , "urn:issn:1598-6446" .
+
+<http://id.crossref.org/contributor/cheng-hu-2vjixa48rvhs>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Hu" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Cheng" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Cheng Hu" .
+
+<http://id.crossref.org/contributor/chengjun-kang-2vjixa48rvhs>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kang" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Chengjun" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Chengjun Kang" .

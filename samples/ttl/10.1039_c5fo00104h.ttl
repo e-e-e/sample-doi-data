@@ -1,0 +1,114 @@
+<http://id.crossref.org/contributor/hsiang-chi-peng-19e2rb0xbldu>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Peng" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Hsiang-Chi" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Hsiang-Chi Peng" .
+
+<http://id.crossref.org/issn/2042-6496>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "2042-650X" , "2042-6496" ;
+      <http://purl.org/dc/terms/title>
+              "Food & Function" ;
+      <http://purl.org/ontology/bibo/issn>
+              "2042-650X" , "2042-6496" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:2042-650X" , "urn:issn:2042-6496" .
+
+<http://id.crossref.org/contributor/wei-hsiang-liao-19e2rb0xbldu>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Liao" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Wei-Hsiang" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Wei-Hsiang Liao" .
+
+<http://id.crossref.org/contributor/ya-ling-chen-19e2rb0xbldu>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Chen" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Ya-Ling" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Ya-Ling Chen" .
+
+<http://id.crossref.org/contributor/ya-li-huang-19e2rb0xbldu>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Huang" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Ya-Li" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Ya-Li Huang" .
+
+<http://id.crossref.org/contributor/jiun-rong-chen-19e2rb0xbldu>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Chen" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Jiun-Rong" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Jiun-Rong Chen" .
+
+<http://id.crossref.org/contributor/hsiao-li-chuang-19e2rb0xbldu>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Chuang" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Hsiao-Li" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Hsiao-Li Chuang" .
+
+<http://dx.doi.org/10.1039/c5fo00104h>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1039/c5fo00104h" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "1700" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "1692" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "6" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/hsiang-chi-peng-19e2rb0xbldu> , <http://id.crossref.org/contributor/wei-hsiang-liao-19e2rb0xbldu> , <http://id.crossref.org/contributor/ya-ling-chen-19e2rb0xbldu> , <http://id.crossref.org/contributor/ya-li-huang-19e2rb0xbldu> , <http://id.crossref.org/contributor/jiun-rong-chen-19e2rb0xbldu> , <http://id.crossref.org/contributor/hsiao-li-chuang-19e2rb0xbldu> , <http://id.crossref.org/contributor/suh-ching-yang-19e2rb0xbldu> , <http://id.crossref.org/contributor/wan-chun-chiu-19e2rb0xbldu> ;
+      <http://purl.org/dc/terms/date>
+              "2015"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1039/c5fo00104h" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/2042-6496> ;
+      <http://purl.org/dc/terms/publisher>
+              "Royal Society of Chemistry (RSC)" ;
+      <http://purl.org/dc/terms/title>
+              "Synbiotics reduce ethanol-induced hepatic steatosis and inflammation by improving intestinal permeability and microbiota in rats" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1039/c5fo00104h" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "1700" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "1692" ;
+      <http://purl.org/ontology/bibo/volume>
+              "6" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1039/c5fo00104h> , <info:doi/10.1039/c5fo00104h> .
+
+<http://id.crossref.org/contributor/suh-ching-yang-19e2rb0xbldu>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Yang" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Suh-Ching" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Suh-Ching Yang" .
+
+<http://id.crossref.org/contributor/wan-chun-chiu-19e2rb0xbldu>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Chiu" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Wan-Chun" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Wan-Chun Chiu" .

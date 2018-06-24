@@ -1,0 +1,51 @@
+<http://dx.doi.org/10.1016/j.agwat.2013.08.010>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/j.agwat.2013.08.010" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "60" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "52" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "130" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/d-b-jaynes-1dsyix4rf20mg> ;
+      <http://purl.org/dc/terms/date>
+              "2013-12"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/j.agwat.2013.08.010" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0378-3774> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Nitrate loss in subsurface drainage and corn yield as affected by timing of sidedress nitrogen" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/j.agwat.2013.08.010" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "60" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "52" ;
+      <http://purl.org/ontology/bibo/volume>
+              "130" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1016/j.agwat.2013.08.010> , <info:doi/10.1016/j.agwat.2013.08.010> .
+
+<http://id.crossref.org/contributor/d-b-jaynes-1dsyix4rf20mg>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Jaynes" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "D.B." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "D.B. Jaynes" .
+
+<http://id.crossref.org/issn/0378-3774>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0378-3774" ;
+      <http://purl.org/dc/terms/title>
+              "Agricultural Water Management" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0378-3774" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0378-3774" .

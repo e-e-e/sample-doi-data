@@ -1,0 +1,51 @@
+<http://id.crossref.org/issn/0002-7294>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0002-7294" ;
+      <http://purl.org/dc/terms/title>
+              "American Anthropologist" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0002-7294" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0002-7294" .
+
+<http://id.crossref.org/contributor/april-nowell-28ybkya6fmij8>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Nowell" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "April" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "April Nowell" .
+
+<http://dx.doi.org/10.1111/aman.12210>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1111/aman.12210" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "196" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "195" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "117" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/april-nowell-28ybkya6fmij8> ;
+      <http://purl.org/dc/terms/date>
+              "2015-02-22"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1111/aman.12210" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0002-7294> ;
+      <http://purl.org/dc/terms/publisher>
+              "Wiley" ;
+      <http://purl.org/dc/terms/title>
+              "How Things Shape the Mind: A Theory of Material Engagement by Lambros Malafouris." ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1111/aman.12210" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "196" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "195" ;
+      <http://purl.org/ontology/bibo/volume>
+              "117" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1111/aman.12210> , <doi:10.1111/aman.12210> .

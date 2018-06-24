@@ -1,0 +1,40 @@
+<http://dx.doi.org/10.1017/s1049096500017947>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1017/s1049096500017947" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "330" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "325" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "19" ;
+      <http://purl.org/dc/terms/date>
+              "1986"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1017/s1049096500017947" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1049-0965> ;
+      <http://purl.org/dc/terms/publisher>
+              "Cambridge University Press (CUP)" ;
+      <http://purl.org/dc/terms/title>
+              "Research and Training Support" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1017/s1049096500017947" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "330" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "325" ;
+      <http://purl.org/ontology/bibo/volume>
+              "19" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1017/s1049096500017947> , <doi:10.1017/s1049096500017947> .
+
+<http://id.crossref.org/issn/1049-0965>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1049-0965" , "1537-5935" ;
+      <http://purl.org/dc/terms/title>
+              "PS: Political Science & Politics" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1049-0965" , "1537-5935" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1049-0965" , "urn:issn:1537-5935" .

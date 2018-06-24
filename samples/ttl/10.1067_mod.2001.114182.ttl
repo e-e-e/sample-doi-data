@@ -1,0 +1,51 @@
+<http://id.crossref.org/contributor/terry-d-mcdonald-27m1ntgd8zbjc>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "McDonald" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Terry D." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Terry D. McDonald" .
+
+<http://id.crossref.org/issn/0889-5406>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0889-5406" ;
+      <http://purl.org/dc/terms/title>
+              "American Journal of Orthodontics and Dentofacial Orthopedics" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0889-5406" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0889-5406" .
+
+<http://dx.doi.org/10.1067/mod.2001.114182>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1067/mod.2001.114182" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "20A" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "19A" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "119" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/terry-d-mcdonald-27m1ntgd8zbjc> ;
+      <http://purl.org/dc/terms/date>
+              "2001-04"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1067/mod.2001.114182" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0889-5406> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Early treatment symposium" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1067/mod.2001.114182" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "20A" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "19A" ;
+      <http://purl.org/ontology/bibo/volume>
+              "119" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1067/mod.2001.114182> , <info:doi/10.1067/mod.2001.114182> .

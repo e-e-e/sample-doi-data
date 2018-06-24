@@ -1,0 +1,50 @@
+<http://dx.doi.org/10.15358/9783800655670-22-3>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.15358/9783800655670-22-3" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "22" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "22" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/rainer-engels-2xehl8g6vtobh> , <http://id.crossref.org/contributor/volker-ilzhofer-2xehl8g6vtobh> ;
+      <http://purl.org/dc/terms/date>
+              "2017"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.15358/9783800655670-22-3" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9783800655670> ;
+      <http://purl.org/dc/terms/publisher>
+              "Verlag Franz Vahlen GmbH" ;
+      <http://purl.org/dc/terms/title>
+              "8. Erschöpfung eines Schutzrechtes" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.15358/9783800655670-22-3" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "22" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "22" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.15358/9783800655670-22-3> , <doi:10.15358/9783800655670-22-3> .
+
+<http://id.crossref.org/contributor/rainer-engels-2xehl8g6vtobh>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Engels" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Rainer" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Rainer Engels" .
+
+<http://id.crossref.org/contributor/volker-ilzhofer-2xehl8g6vtobh>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Ilzhöfer" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Volker" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Volker Ilzhöfer" .
+
+<http://id.crossref.org/isbn/9783800655670>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Patent-, Marken- und Urheberrecht" .

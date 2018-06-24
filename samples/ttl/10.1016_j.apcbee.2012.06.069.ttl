@@ -1,0 +1,76 @@
+<http://id.crossref.org/contributor/farid-nasir-ani-32k02a9fzk3b1>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Ani" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Farid Nasir" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Farid Nasir Ani" .
+
+<http://dx.doi.org/10.1016/j.apcbee.2012.06.069>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/j.apcbee.2012.06.069" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "199" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "194" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "3" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/farid-nasir-ani-32k02a9fzk3b1> , <http://id.crossref.org/contributor/g-sharifishourabi-32k02a9fzk3b1> , <http://id.crossref.org/contributor/reza-alebrahim-32k02a9fzk3b1> , <http://id.crossref.org/contributor/sh-sharifi-teshnizi-32k02a9fzk3b1> ;
+      <http://purl.org/dc/terms/date>
+              "2012"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/j.apcbee.2012.06.069" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/2212-6708> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Effects of Material Gradation on Thermo-Mechanical Stresses in Functionally Graded Beams" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/j.apcbee.2012.06.069" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "199" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "194" ;
+      <http://purl.org/ontology/bibo/volume>
+              "3" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1016/j.apcbee.2012.06.069> , <doi:10.1016/j.apcbee.2012.06.069> .
+
+<http://id.crossref.org/contributor/g-sharifishourabi-32k02a9fzk3b1>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "G.Sharifishourabi" ;
+      <http://xmlns.com/foaf/0.1/name>
+              " G.Sharifishourabi" .
+
+<http://id.crossref.org/contributor/reza-alebrahim-32k02a9fzk3b1>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Alebrahim" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Reza" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Reza Alebrahim" .
+
+<http://id.crossref.org/contributor/sh-sharifi-teshnizi-32k02a9fzk3b1>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Teshnizi" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "SH.Sharifi" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "SH.Sharifi Teshnizi" .
+
+<http://id.crossref.org/issn/2212-6708>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "2212-6708" ;
+      <http://purl.org/dc/terms/title>
+              "APCBEE Procedia" ;
+      <http://purl.org/ontology/bibo/issn>
+              "2212-6708" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:2212-6708" .

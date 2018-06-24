@@ -1,0 +1,41 @@
+<http://id.crossref.org/isbn/9783525402276>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Handbuch Kindertrauer" .
+
+<http://dx.doi.org/10.13109/9783666402272.236>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.13109/9783666402272.236" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "246" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "236" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/andrea-gasper-paetz-2c0bykfj1embu> ;
+      <http://purl.org/dc/terms/date>
+              "2014-06"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.13109/9783666402272.236" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9783525402276> ;
+      <http://purl.org/dc/terms/publisher>
+              "Vandenhoeck & Ruprecht" ;
+      <http://purl.org/dc/terms/title>
+              "Den Tod zu Hause erleben – ein Tabuthema für Kinder, Jugendliche und junge Erwachsene! Oder vielleicht doch eine Chance?" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.13109/9783666402272.236" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "246" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "236" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.13109/9783666402272.236> , <info:doi/10.13109/9783666402272.236> .
+
+<http://id.crossref.org/contributor/andrea-gasper-paetz-2c0bykfj1embu>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Gasper-Paetz" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Andrea" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Andrea Gasper-Paetz" .

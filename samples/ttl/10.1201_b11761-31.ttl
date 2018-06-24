@@ -1,0 +1,59 @@
+<http://id.crossref.org/isbn/9780415598965>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Mine Safety and Efficient Exploitation Facing Challenges of the 21st Century" .
+
+<http://id.crossref.org/contributor/wei-peng-29lijbgeqvt0d>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Peng" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Wei" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Wei Peng" .
+
+<http://dx.doi.org/10.1201/b11761-31>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1201/b11761-31" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "220" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "215" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/wei-peng-29lijbgeqvt0d> , <http://id.crossref.org/contributor/xin-yu-ge-29lijbgeqvt0d> , <http://id.crossref.org/contributor/qi-lin-he-29lijbgeqvt0d> ;
+      <http://purl.org/dc/terms/date>
+              "2010-10-18"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1201/b11761-31" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9780415598965> ;
+      <http://purl.org/dc/terms/publisher>
+              "CRC Press" ;
+      <http://purl.org/dc/terms/title>
+              "Experimental studies on oxidation pattern of coal by TG-DSC-GC technology" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1201/b11761-31" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "220" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "215" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1201/b11761-31> , <doi:10.1201/b11761-31> .
+
+<http://id.crossref.org/contributor/xin-yu-ge-29lijbgeqvt0d>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Ge" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Xin-yu" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Xin-yu Ge" .
+
+<http://id.crossref.org/contributor/qi-lin-he-29lijbgeqvt0d>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "He" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Qi-lin" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Qi-lin He" .

@@ -1,0 +1,42 @@
+<http://id.crossref.org/contributor/klaus-hoffmann-p1hgk71weg6b>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Hoffmann" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Klaus" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Klaus Hoffmann" .
+
+<http://id.crossref.org/contributor/adrian-maroni-p1hgk71weg6b>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Maroni" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Adrian" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Adrian Maroni" .
+
+<http://dx.doi.org/10.2514/6.2010-5095>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.2514/6.2010-5095" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/klaus-hoffmann-p1hgk71weg6b> , <http://id.crossref.org/contributor/adrian-maroni-p1hgk71weg6b> ;
+      <http://purl.org/dc/terms/date>
+              "2010-06-28"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.2514/6.2010-5095" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9781600869563> ;
+      <http://purl.org/dc/terms/publisher>
+              "American Institute of Aeronautics and Astronautics" ;
+      <http://purl.org/dc/terms/title>
+              "Application of a Robust Spectral Reprojection Method to Discontinuous Galerkin Simulations of Supersonic Flows" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.2514/6.2010-5095" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.2514/6.2010-5095> , <info:doi/10.2514/6.2010-5095> .
+
+<http://id.crossref.org/isbn/9781600869563>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "40th Fluid Dynamics Conference and Exhibit" .

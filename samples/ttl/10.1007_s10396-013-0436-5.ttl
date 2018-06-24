@@ -1,0 +1,78 @@
+<http://id.crossref.org/contributor/kotaro-fukushima-2v7qyv1p9bjkv>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Fukushima" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Kotaro" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Kotaro Fukushima" .
+
+<http://id.crossref.org/contributor/yasuyuki-fujita-2v7qyv1p9bjkv>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Fujita" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Yasuyuki" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Yasuyuki Fujita" .
+
+<http://id.crossref.org/issn/1346-4523>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1346-4523" , "1613-2254" ;
+      <http://purl.org/dc/terms/title>
+              "Journal of Medical Ultrasonics" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1346-4523" , "1613-2254" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1346-4523" , "urn:issn:1613-2254" .
+
+<http://dx.doi.org/10.1007/s10396-013-0436-5>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1007/s10396-013-0436-5" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "461" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "459" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "40" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/kotaro-fukushima-2v7qyv1p9bjkv> , <http://id.crossref.org/contributor/yasuyuki-fujita-2v7qyv1p9bjkv> , <http://id.crossref.org/contributor/kiyoko-kato-2v7qyv1p9bjkv> , <http://id.crossref.org/contributor/keiko-kawamura-2v7qyv1p9bjkv> ;
+      <http://purl.org/dc/terms/date>
+              "2013-02-16"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1007/s10396-013-0436-5" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1346-4523> ;
+      <http://purl.org/dc/terms/publisher>
+              "Springer Nature" ;
+      <http://purl.org/dc/terms/title>
+              "Rare sonographic finding of osteogenesis imperfecta type 2: fluid retention in the subarachnoid space" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1007/s10396-013-0436-5" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "461" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "459" ;
+      <http://purl.org/ontology/bibo/volume>
+              "40" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1007/s10396-013-0436-5> , <info:doi/10.1007/s10396-013-0436-5> .
+
+<http://id.crossref.org/contributor/kiyoko-kato-2v7qyv1p9bjkv>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kato" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Kiyoko" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Kiyoko Kato" .
+
+<http://id.crossref.org/contributor/keiko-kawamura-2v7qyv1p9bjkv>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kawamura" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Keiko" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Keiko Kawamura" .

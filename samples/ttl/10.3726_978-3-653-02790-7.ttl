@@ -1,0 +1,31 @@
+<http://id.crossref.org/isbn/9783653027907>
+      a       <http://purl.org/ontology/bibo/Book> .
+
+<http://id.crossref.org/contributor/christina-brugger-1ah4dtfwq7jn5>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Brugger" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Christina" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Christina Brugger" .
+
+<http://dx.doi.org/10.3726/978-3-653-02790-7>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.3726/978-3-653-02790-7" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/christina-brugger-1ah4dtfwq7jn5> ;
+      <http://purl.org/dc/terms/date>
+              "2013-01-28"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.3726/978-3-653-02790-7" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9783653027907> ;
+      <http://purl.org/dc/terms/publisher>
+              "Peter Lang D" ;
+      <http://purl.org/dc/terms/title>
+              "Abbruch der Zahlungsströme als Mittel zur Bekämpfung unerlaubter Internetglücksspiele" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.3726/978-3-653-02790-7" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.3726/978-3-653-02790-7> , <doi:10.3726/978-3-653-02790-7> .

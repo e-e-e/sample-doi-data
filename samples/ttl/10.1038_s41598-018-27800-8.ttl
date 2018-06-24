@@ -1,0 +1,110 @@
+<http://id.crossref.org/contributor/kenny-pinheiro-3hl0buahito34>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Pinheiro" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Kenny" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Kenny Pinheiro" .
+
+<http://id.crossref.org/contributor/allan-veras-3hl0buahito34>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Veras" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Allan" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Allan Veras" .
+
+<http://id.crossref.org/contributor/rommel-ramos-3hl0buahito34>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Ramos" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Rommel" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Rommel Ramos" .
+
+<http://id.crossref.org/issn/2045-2322>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "2045-2322" ;
+      <http://purl.org/dc/terms/title>
+              "Scientific Reports" ;
+      <http://purl.org/ontology/bibo/issn>
+              "2045-2322" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:2045-2322" .
+
+<http://id.crossref.org/contributor/artur-da-costa-da-silva-3hl0buahito34>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <http://orcid.org/0000-0002-4082-1132> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "da Costa da Silva" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Artur" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Artur da Costa da Silva" .
+
+<http://id.crossref.org/contributor/fabricio-araujo-3hl0buahito34>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Araujo" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Fabricio" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Fabricio Araujo" .
+
+<http://id.crossref.org/contributor/siomar-soares-3hl0buahito34>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <http://orcid.org/0000-0001-7299-3724> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Soares" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Siomar" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Siomar Soares" .
+
+<http://id.crossref.org/contributor/luis-guimaraes-3hl0buahito34>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Guimarães" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Luis" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Luis Guimarães" .
+
+<http://dx.doi.org/10.1038/s41598-018-27800-8>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1038/s41598-018-27800-8" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "8" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/kenny-pinheiro-3hl0buahito34> , <http://id.crossref.org/contributor/allan-veras-3hl0buahito34> , <http://id.crossref.org/contributor/rommel-ramos-3hl0buahito34> , <http://id.crossref.org/contributor/artur-da-costa-da-silva-3hl0buahito34> , <http://id.crossref.org/contributor/fabricio-araujo-3hl0buahito34> , <http://id.crossref.org/contributor/siomar-soares-3hl0buahito34> , <http://id.crossref.org/contributor/luis-guimaraes-3hl0buahito34> , <http://id.crossref.org/contributor/vasco-azevedo-3hl0buahito34> ;
+      <http://purl.org/dc/terms/date>
+              "2018-06-25"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1038/s41598-018-27800-8" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/2045-2322> ;
+      <http://purl.org/dc/terms/publisher>
+              "Springer Nature" ;
+      <http://purl.org/dc/terms/title>
+              "Pan4Draft: A Computational Tool to Improve the Accuracy of Pan-Genomic Analysis Using Draft Genomes" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1038/s41598-018-27800-8" ;
+      <http://purl.org/ontology/bibo/volume>
+              "8" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1038/s41598-018-27800-8> , <info:doi/10.1038/s41598-018-27800-8> .
+
+<http://id.crossref.org/contributor/vasco-azevedo-3hl0buahito34>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Azevedo" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Vasco" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Vasco Azevedo" .

@@ -1,0 +1,47 @@
+<http://id.crossref.org/issn/0022-4677>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0022-4677" ;
+      <http://purl.org/dc/terms/title>
+              "Journal of Speech and Hearing Disorders" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0022-4677" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0022-4677" .
+
+<http://id.crossref.org/contributor/mary-pannbacker-e55we8mktc7l>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Pannbacker" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Mary" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Mary Pannbacker" .
+
+<http://dx.doi.org/10.1044/jshd.4004.544b>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1044/jshd.4004.544b" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "544" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "40" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/mary-pannbacker-e55we8mktc7l> ;
+      <http://purl.org/dc/terms/date>
+              "1975-11-01"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1044/jshd.4004.544b" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0022-4677> ;
+      <http://purl.org/dc/terms/publisher>
+              "American Speech Language Hearing Association" ;
+      <http://purl.org/dc/terms/title>
+              "Comment on “The Expressive Portion of the NSST Compared to a Spontaneous Language Sample”" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1044/jshd.4004.544b" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "544" ;
+      <http://purl.org/ontology/bibo/volume>
+              "40" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1044/jshd.4004.544b> , <doi:10.1044/jshd.4004.544b> .

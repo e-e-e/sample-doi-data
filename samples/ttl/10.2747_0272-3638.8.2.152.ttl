@@ -1,0 +1,51 @@
+<http://id.crossref.org/issn/0272-3638>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0272-3638" , "1938-2847" ;
+      <http://purl.org/dc/terms/title>
+              "Urban Geography" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0272-3638" , "1938-2847" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0272-3638" , "urn:issn:1938-2847" .
+
+<http://dx.doi.org/10.2747/0272-3638.8.2.152>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.2747/0272-3638.8.2.152" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "160" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "152" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "8" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/ruth-fincher-ef8xbd8p98t> ;
+      <http://purl.org/dc/terms/date>
+              "1987-03"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.2747/0272-3638.8.2.152" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0272-3638> ;
+      <http://purl.org/dc/terms/publisher>
+              "Informa UK Limited" ;
+      <http://purl.org/dc/terms/title>
+              "Progress Report: DEFINING AND EXPLAINING URBAN SOCIAL MOVEMENTS" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.2747/0272-3638.8.2.152" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "160" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "152" ;
+      <http://purl.org/ontology/bibo/volume>
+              "8" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.2747/0272-3638.8.2.152> , <info:doi/10.2747/0272-3638.8.2.152> .
+
+<http://id.crossref.org/contributor/ruth-fincher-ef8xbd8p98t>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Fincher" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Ruth" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Ruth Fincher" .

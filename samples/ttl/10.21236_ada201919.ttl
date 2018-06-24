@@ -1,0 +1,32 @@
+@prefix schema: <http://schema.org/> .
+
+<https://doi.org/10.21236/ada201919> a schema:ScholarlyArticle;
+   schema:alternateName "ARO-21139.11-EL";
+   schema:author [
+     a schema:Person;
+     schema:familyName "Long";
+     schema:givenName "Stuart A.";
+     schema:name "Stuart A. Long"
+   ],  [
+     a schema:Person;
+     schema:familyName "Jackson";
+     schema:givenName "David R.";
+     schema:name "David R. Jackson"
+   ];
+   schema:dateCreated "10/28/1988"^^schema:Date;
+   schema:dateModified "6/6/2011"^^schema:Date;
+   schema:datePublished "1988"^^schema:Date;
+   schema:identifier <https://doi.org/10.21236/ada201919>;
+   schema:inLanguage "English";
+   schema:isPartOf [ a schema:Periodical];
+   schema:keywords "090100, Electrical and Electronic Equipment, STRIP TRANSMISSION LINES, RESONATORS, ANTENNAS, RADIATORS(GENERAL), DIELECTRICS, SYSTEMS ENGINEERING, FREQUENCY, MILLIMETER WAVES";
+   schema:name "Millimeter Wave Antennas";
+   schema:provider [
+     a schema:Organization;
+     schema:name "DataCite"
+   ];
+   schema:publisher [
+     a schema:Organization;
+     schema:name "Defense Technical Information Center"
+   ];
+   schema:schemaVersion <http://datacite.org/schema/kernel-3> .

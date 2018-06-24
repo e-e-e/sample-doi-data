@@ -1,0 +1,22 @@
+<http://dx.doi.org/10.9783/9781512809657-001>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.9783/9781512809657-001" ;
+      <http://purl.org/dc/terms/date>
+              "1969-12-31"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.9783/9781512809657-001" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9781512809657> ;
+      <http://purl.org/dc/terms/publisher>
+              "University of Pennsylvania Press" ;
+      <http://purl.org/dc/terms/title>
+              "Preface" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.9783/9781512809657-001" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.9783/9781512809657-001> , <doi:10.9783/9781512809657-001> .
+
+<http://id.crossref.org/isbn/9781512809657>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "The Political Thought of Sir Henry Vane, the Younger" .

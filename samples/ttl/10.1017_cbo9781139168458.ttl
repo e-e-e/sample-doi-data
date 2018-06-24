@@ -1,0 +1,31 @@
+<http://id.crossref.org/contributor/c-j-nicholas-3kbri4jkodjjw>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Nicholas" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "C. J." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "C. J. Nicholas" .
+
+<http://id.crossref.org/isbn/9781139168458>
+      a       <http://purl.org/ontology/bibo/Book> .
+
+<http://dx.doi.org/10.1017/cbo9781139168458>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1017/cbo9781139168458" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/c-j-nicholas-3kbri4jkodjjw> ;
+      <http://purl.org/dc/terms/date>
+              "2000"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1017/cbo9781139168458" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9781139168458> ;
+      <http://purl.org/dc/terms/publisher>
+              "Cambridge University Press" ;
+      <http://purl.org/dc/terms/title>
+              "Exploring geology on the Isle of Arran" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1017/cbo9781139168458" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1017/cbo9781139168458> , <doi:10.1017/cbo9781139168458> .

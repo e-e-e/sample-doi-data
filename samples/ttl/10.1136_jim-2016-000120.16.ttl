@@ -1,0 +1,87 @@
+<http://id.crossref.org/issn/1081-5589>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1708-8267" , "1081-5589" ;
+      <http://purl.org/dc/terms/title>
+              "Journal of Investigative Medicine" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1708-8267" , "1081-5589" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1081-5589" , "urn:issn:1708-8267" .
+
+<http://dx.doi.org/10.1136/jim-2016-000120.16>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1136/jim-2016-000120.16" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "919" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "918.2" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "64" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/ea-moradoghli-haftevani-3k11jwryj6g5g> , <http://id.crossref.org/contributor/h-alkhawam-3k11jwryj6g5g> , <http://id.crossref.org/contributor/s-lee-3k11jwryj6g5g> , <http://id.crossref.org/contributor/r-sogomonian-3k11jwryj6g5g> , <http://id.crossref.org/contributor/jj-lieber-3k11jwryj6g5g> ;
+      <http://purl.org/dc/terms/date>
+              "2016-03-22"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1136/jim-2016-000120.16" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1081-5589> ;
+      <http://purl.org/dc/terms/publisher>
+              "BMJ" ;
+      <http://purl.org/dc/terms/title>
+              "ID: 5: ISOLATED SUPRA-CARDIAC PARTIAL ANOMALOUS PULMONARY VENOUS CONNECTION CAUSING RIGHT HEART FAILURE" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1136/jim-2016-000120.16" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "919" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "918.2" ;
+      <http://purl.org/ontology/bibo/volume>
+              "64" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1136/jim-2016-000120.16> , <doi:10.1136/jim-2016-000120.16> .
+
+<http://id.crossref.org/contributor/ea-moradoghli-haftevani-3k11jwryj6g5g>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Moradoghli Haftevani" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "EA" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "EA Moradoghli Haftevani" .
+
+<http://id.crossref.org/contributor/h-alkhawam-3k11jwryj6g5g>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Alkhawam" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "H" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "H Alkhawam" .
+
+<http://id.crossref.org/contributor/s-lee-3k11jwryj6g5g>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Lee" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "S" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "S Lee" .
+
+<http://id.crossref.org/contributor/r-sogomonian-3k11jwryj6g5g>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Sogomonian" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "R" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "R Sogomonian" .
+
+<http://id.crossref.org/contributor/jj-lieber-3k11jwryj6g5g>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Lieber" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "JJ" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "JJ Lieber" .

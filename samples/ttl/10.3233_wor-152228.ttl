@@ -1,0 +1,67 @@
+@prefix bibo:    <http://purl.org/ontology/bibo/> .
+@prefix prism:   <http://prismstandard.org/namespaces/basic/2.1/> .
+@prefix foaf:    <http://xmlns.com/foaf/0.1/> .
+@prefix dc:      <http://purl.org/dc/terms/> .
+
+<http://id.medra.org/contributor/Henrik+Lund-10.3233%2FWOR-152228-1>
+      a       foaf:Person ;
+      foaf:familyName "Lund" ;
+      foaf:givenName "Henrik" ;
+      foaf:name "Henrik Lund" .
+
+<http://id.medra.org/issn/1051-9815>
+      a       bibo:Journal ;
+      prism:issn "1051-9815" ;
+      dc:hasPart <https://doi.org/10.3233/WOR-152228> ;
+      dc:identifier "1051-9815" ;
+      dc:title "Work" ;
+      bibo:issn "1051-9815" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1051-9815" .
+
+<http://id.medra.org/contributor/Karen+S%C3%B8gaard-10.3233%2FWOR-152228-3>
+      a       foaf:Person ;
+      foaf:familyName "Søgaard" ;
+      foaf:givenName "Karen" ;
+      foaf:name "Karen Søgaard" .
+
+<https://doi.org/10.3233/WOR-152228>
+      a       bibo:Article ;
+      prism:doi "10.3233/WOR-152228" ;
+      prism:endingPage "366" ;
+      prism:startingPage "357" ;
+      prism:volume "53" ;
+      dc:creator <http://id.medra.org/contributor/Henrik+Lund-10.3233%2FWOR-152228-1> , <http://id.medra.org/contributor/Karen+S%C3%B8gaard-10.3233%2FWOR-152228-3> , <http://id.medra.org/contributor/Lea+Sell-10.3233%2FWOR-152228-0> , <http://id.medra.org/contributor/Andreas+Holtermann-10.3233%2FWOR-152228-2> ;
+      dc:date "2016-02-18" ;
+      dc:identifier "10.3233/WOR-152228" ;
+      dc:isPartOf <http://id.medra.org/issn/1051-9815> , <http://id.medra.org/issn/1875-9270> ;
+      dc:publisher "IOS Press" ;
+      dc:title "The effect on work ability of a tailored ergonomic learning program" ;
+      bibo:doi "10.3233/WOR-152228" ;
+      bibo:pageEnd "366" ;
+      bibo:pageStart "357" ;
+      bibo:volume "53" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "doi:10.3233/WOR-152228" , "info:doi/10.3233/WOR-152228" .
+
+<http://id.medra.org/contributor/Lea+Sell-10.3233%2FWOR-152228-0>
+      a       foaf:Person ;
+      foaf:familyName "Sell" ;
+      foaf:givenName "Lea" ;
+      foaf:name "Lea Sell" .
+
+<http://id.medra.org/contributor/Andreas+Holtermann-10.3233%2FWOR-152228-2>
+      a       foaf:Person ;
+      foaf:familyName "Holtermann" ;
+      foaf:givenName "Andreas" ;
+      foaf:name "Andreas Holtermann" .
+
+<http://id.medra.org/issn/1875-9270>
+      a       bibo:Journal ;
+      prism:eIssn "1875-9270" ;
+      dc:hasPart <https://doi.org/10.3233/WOR-152228> ;
+      dc:identifier "1875-9270" ;
+      dc:title "Work" ;
+      bibo:eissn "1875-9270" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1875-9270" .

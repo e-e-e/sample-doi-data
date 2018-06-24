@@ -1,0 +1,96 @@
+<http://id.crossref.org/contributor/shuo-wang-2a023ywqnq5l6>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Wang" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Shuo" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Shuo Wang" .
+
+<http://id.crossref.org/issn/0896-6273>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0896-6273" ;
+      <http://purl.org/dc/terms/title>
+              "Neuron" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0896-6273" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0896-6273" .
+
+<http://id.crossref.org/contributor/adamn-mamelak-2a023ywqnq5l6>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Mamelak" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Adam N." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Adam N. Mamelak" .
+
+<http://dx.doi.org/10.1016/j.neuron.2013.08.029>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/j.neuron.2013.08.029" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "899" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "887" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "80" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/shuo-wang-2a023ywqnq5l6> , <http://id.crossref.org/contributor/adamn-mamelak-2a023ywqnq5l6> , <http://id.crossref.org/contributor/ueli-rutishauser-2a023ywqnq5l6> , <http://id.crossref.org/contributor/oana-tudusciuc-2a023ywqnq5l6> , <http://id.crossref.org/contributor/ralph-adolphs-2a023ywqnq5l6> , <http://id.crossref.org/contributor/ianb-ross-2a023ywqnq5l6> ;
+      <http://purl.org/dc/terms/date>
+              "2013-11"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/j.neuron.2013.08.029" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0896-6273> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Single-Neuron Correlates of Atypical Face Processing in Autism" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/j.neuron.2013.08.029" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "899" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "887" ;
+      <http://purl.org/ontology/bibo/volume>
+              "80" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1016/j.neuron.2013.08.029> , <info:doi/10.1016/j.neuron.2013.08.029> .
+
+<http://id.crossref.org/contributor/ueli-rutishauser-2a023ywqnq5l6>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Rutishauser" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Ueli" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Ueli Rutishauser" .
+
+<http://id.crossref.org/contributor/oana-tudusciuc-2a023ywqnq5l6>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Tudusciuc" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Oana" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Oana Tudusciuc" .
+
+<http://id.crossref.org/contributor/ralph-adolphs-2a023ywqnq5l6>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Adolphs" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Ralph" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Ralph Adolphs" .
+
+<http://id.crossref.org/contributor/ianb-ross-2a023ywqnq5l6>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Ross" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Ian B." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Ian B. Ross" .

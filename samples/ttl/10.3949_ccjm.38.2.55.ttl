@@ -1,0 +1,69 @@
+<http://id.crossref.org/contributor/g-pittman-1tr0sckye7xz4>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Pittman" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "G." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "G. Pittman" .
+
+<http://dx.doi.org/10.3949/ccjm.38.2.55>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.3949/ccjm.38.2.55" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "64" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "55" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "38" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/g-pittman-1tr0sckye7xz4> , <http://id.crossref.org/contributor/g-c-hoffman-1tr0sckye7xz4> , <http://id.crossref.org/contributor/k-s-k-tung-1tr0sckye7xz4> ;
+      <http://purl.org/dc/terms/date>
+              "1971-04-01"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.3949/ccjm.38.2.55" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0891-1150> ;
+      <http://purl.org/dc/terms/publisher>
+              "Cleveland Clinic Journal of Medicine" ;
+      <http://purl.org/dc/terms/title>
+              "Metastatic cells in bone marrow: Study of 83 cases" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.3949/ccjm.38.2.55" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "64" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "55" ;
+      <http://purl.org/ontology/bibo/volume>
+              "38" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.3949/ccjm.38.2.55> , <doi:10.3949/ccjm.38.2.55> .
+
+<http://id.crossref.org/contributor/g-c-hoffman-1tr0sckye7xz4>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Hoffman" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "G. C." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "G. C. Hoffman" .
+
+<http://id.crossref.org/contributor/k-s-k-tung-1tr0sckye7xz4>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Tung" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "K. S. K." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "K. S. K. Tung" .
+
+<http://id.crossref.org/issn/0891-1150>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1939-2869" , "0891-1150" ;
+      <http://purl.org/dc/terms/title>
+              "Cleveland Clinic Journal of Medicine" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1939-2869" , "0891-1150" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0891-1150" , "urn:issn:1939-2869" .

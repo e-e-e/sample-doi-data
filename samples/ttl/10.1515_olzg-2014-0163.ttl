@@ -1,0 +1,43 @@
+<http://dx.doi.org/10.1515/olzg-2014-0163>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1515/olzg-2014-0163" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "109" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/henryk-jankowski-3fs8nsi5b1n0b> ;
+      <http://purl.org/dc/terms/date>
+              "2014-01-01"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1515/olzg-2014-0163" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0030-5383> ;
+      <http://purl.org/dc/terms/publisher>
+              "Walter de Gruyter GmbH" ;
+      <http://purl.org/dc/terms/title>
+              "Knüppel, Michael: Sprachtabus in tungusischen Sprachen und Dialekten" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1515/olzg-2014-0163" ;
+      <http://purl.org/ontology/bibo/volume>
+              "109" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1515/olzg-2014-0163> , <info:doi/10.1515/olzg-2014-0163> .
+
+<http://id.crossref.org/contributor/henryk-jankowski-3fs8nsi5b1n0b>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Jankowski" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Henryk" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Henryk Jankowski" .
+
+<http://id.crossref.org/issn/0030-5383>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0030-5383" , "2196-6877" ;
+      <http://purl.org/dc/terms/title>
+              "Orientalistische Literaturzeitung" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0030-5383" , "2196-6877" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:2196-6877" , "urn:issn:0030-5383" .

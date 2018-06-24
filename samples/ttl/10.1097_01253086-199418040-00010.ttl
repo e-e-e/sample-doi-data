@@ -1,0 +1,45 @@
+<http://id.crossref.org/issn/1085-049X>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1085-049X" ;
+      <http://purl.org/dc/terms/title>
+              "Neurology Report" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1085-049X" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1085-049X" .
+
+<http://id.crossref.org/contributor/na-p8b9h2o2ox7>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "&NA;" ;
+      <http://xmlns.com/foaf/0.1/name>
+              " &NA;" .
+
+<http://dx.doi.org/10.1097/01253086-199418040-00010>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1097/01253086-199418040-00010" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "5" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "18" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/na-p8b9h2o2ox7> ;
+      <http://purl.org/dc/terms/date>
+              "1994"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1097/01253086-199418040-00010" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1085-049X> ;
+      <http://purl.org/dc/terms/publisher>
+              "Ovid Technologies (Wolters Kluwer Health)" ;
+      <http://purl.org/dc/terms/title>
+              "DIVISION OF PHYSICAL THERAPY FACULTY POSITION" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1097/01253086-199418040-00010" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "5" ;
+      <http://purl.org/ontology/bibo/volume>
+              "18" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1097/01253086-199418040-00010> , <info:doi/10.1097/01253086-199418040-00010> .

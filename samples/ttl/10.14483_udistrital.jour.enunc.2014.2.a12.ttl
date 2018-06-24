@@ -1,0 +1,47 @@
+<http://id.crossref.org/contributor/fernando-vasquez-rodriguez-o5d803u9hfz>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Vásquez Rodríguez" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Fernando" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Fernando Vásquez Rodríguez" .
+
+<http://id.crossref.org/issn/2248-6798>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0122-6339" , "2248-6798" ;
+      <http://purl.org/dc/terms/title>
+              "Enunciación" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0122-6339" , "2248-6798" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0122-6339" , "urn:issn:2248-6798" .
+
+<http://dx.doi.org/10.14483/udistrital.jour.enunc.2014.2.a12>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.14483/udistrital.jour.enunc.2014.2.a12" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "333" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "19" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/fernando-vasquez-rodriguez-o5d803u9hfz> ;
+      <http://purl.org/dc/terms/date>
+              "2015-03-10"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.14483/udistrital.jour.enunc.2014.2.a12" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/2248-6798> ;
+      <http://purl.org/dc/terms/publisher>
+              "Universidad Distrital Francisco Jose de Caldas" ;
+      <http://purl.org/dc/terms/title>
+              "Elementos para una lectura del libro álbum" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.14483/udistrital.jour.enunc.2014.2.a12" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "333" ;
+      <http://purl.org/ontology/bibo/volume>
+              "19" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.14483/udistrital.jour.enunc.2014.2.a12> , <doi:10.14483/udistrital.jour.enunc.2014.2.a12> .

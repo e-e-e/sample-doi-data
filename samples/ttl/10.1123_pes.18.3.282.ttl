@@ -1,0 +1,51 @@
+<http://id.crossref.org/issn/0899-8493>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1543-2920" , "0899-8493" ;
+      <http://purl.org/dc/terms/title>
+              "Pediatric Exercise Science" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1543-2920" , "0899-8493" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1543-2920" , "urn:issn:0899-8493" .
+
+<http://id.crossref.org/contributor/mark-r-forwood-3r9oa7xflebut>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Forwood" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Mark R." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Mark R. Forwood" .
+
+<http://dx.doi.org/10.1123/pes.18.3.282>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1123/pes.18.3.282" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "289" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "282" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "18" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/mark-r-forwood-3r9oa7xflebut> ;
+      <http://purl.org/dc/terms/date>
+              "2006-08"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1123/pes.18.3.282" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0899-8493> ;
+      <http://purl.org/dc/terms/publisher>
+              "Human Kinetics" ;
+      <http://purl.org/dc/terms/title>
+              "What Does the Animal Model Teach Us about the Effects of Physical Activity on Growing Bone?" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1123/pes.18.3.282" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "289" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "282" ;
+      <http://purl.org/ontology/bibo/volume>
+              "18" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1123/pes.18.3.282> , <info:doi/10.1123/pes.18.3.282> .

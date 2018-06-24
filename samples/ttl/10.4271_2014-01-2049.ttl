@@ -1,0 +1,35 @@
+<http://id.crossref.org/contributor/kimihiko-nakano-phd-2rfdy08z6pqs2>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Nakano PhD" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Kimihiko" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Kimihiko Nakano PhD" .
+
+<http://id.crossref.org/contributor/hiromichi-tsuji-2rfdy08z6pqs2>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Tsuji" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Hiromichi" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Hiromichi Tsuji" .
+
+<http://dx.doi.org/10.4271/2014-01-2049>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.4271/2014-01-2049" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/kimihiko-nakano-phd-2rfdy08z6pqs2> , <http://id.crossref.org/contributor/hiromichi-tsuji-2rfdy08z6pqs2> ;
+      <http://purl.org/dc/terms/date>
+              "2014-06-30"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.4271/2014-01-2049" ;
+      <http://purl.org/dc/terms/publisher>
+              "SAE International" ;
+      <http://purl.org/dc/terms/title>
+              "Road Noise Transfer Path Analysis with Operational Force Estimated from the Responses" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.4271/2014-01-2049" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.4271/2014-01-2049> , <info:doi/10.4271/2014-01-2049> .

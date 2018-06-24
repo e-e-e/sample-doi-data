@@ -1,0 +1,69 @@
+<http://id.crossref.org/contributor/konosuke-sano-3h1pxmhdliam9>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Sano" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Konosuke" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Konosuke Sano" .
+
+<http://id.crossref.org/contributor/koji-mitsugi-3h1pxmhdliam9>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Mitsugi" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Koji" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Koji Mitsugi" .
+
+<http://dx.doi.org/10.1080/00021369.1977.10862861>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1080/00021369.1977.10862861" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "2334" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "2331" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "41" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/konosuke-sano-3h1pxmhdliam9> , <http://id.crossref.org/contributor/koji-mitsugi-3h1pxmhdliam9> , <http://id.crossref.org/contributor/kenzo-yokozeki-3h1pxmhdliam9> ;
+      <http://purl.org/dc/terms/date>
+              "1977-12"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1080/00021369.1977.10862861" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0002-1369> ;
+      <http://purl.org/dc/terms/publisher>
+              "Informa UK Limited" ;
+      <http://purl.org/dc/terms/title>
+              "Enzymatic Production of 5-Amino-4-imidazole-carboxamide from 5-Amino- 4-imidazole-carboxamide-riboside byBacillus thiaminolyticusOptimal Conditions for the Enzyme Formation and the Enzymatic Reaction" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1080/00021369.1977.10862861" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "2334" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "2331" ;
+      <http://purl.org/ontology/bibo/volume>
+              "41" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1080/00021369.1977.10862861> , <doi:10.1080/00021369.1977.10862861> .
+
+<http://id.crossref.org/contributor/kenzo-yokozeki-3h1pxmhdliam9>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Yokozeki" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Kenzo" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Kenzo Yokozeki" .
+
+<http://id.crossref.org/issn/0002-1369>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0002-1369" ;
+      <http://purl.org/dc/terms/title>
+              "Agricultural and Biological Chemistry" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0002-1369" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0002-1369" .

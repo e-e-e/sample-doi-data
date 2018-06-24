@@ -1,0 +1,51 @@
+<http://id.crossref.org/contributor/john-marcus-powell-3b8y95l4bpdi0>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Powell" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "John Marcus" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "John Marcus Powell" .
+
+<http://id.crossref.org/issn/1939-9774>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1939-9774" ;
+      <http://purl.org/dc/terms/title>
+              "The Hopkins Review" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1939-9774" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1939-9774" .
+
+<http://dx.doi.org/10.1353/thr.2017.0049>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1353/thr.2017.0049" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "249" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "248" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "10" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/john-marcus-powell-3b8y95l4bpdi0> ;
+      <http://purl.org/dc/terms/date>
+              "2017"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1353/thr.2017.0049" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1939-9774> ;
+      <http://purl.org/dc/terms/publisher>
+              "Johns Hopkins University Press" ;
+      <http://purl.org/dc/terms/title>
+              "River" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1353/thr.2017.0049" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "249" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "248" ;
+      <http://purl.org/ontology/bibo/volume>
+              "10" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1353/thr.2017.0049> , <info:doi/10.1353/thr.2017.0049> .

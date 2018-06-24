@@ -1,0 +1,22 @@
+<http://id.crossref.org/isbn/9783035602937>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Le Corbusier - Ouvre complète" .
+
+<http://dx.doi.org/10.1515/9783035602937.237>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1515/9783035602937.237" ;
+      <http://purl.org/dc/terms/date>
+              ""^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1515/9783035602937.237" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9783035602937> ;
+      <http://purl.org/dc/terms/publisher>
+              "DE GRUYTER" ;
+      <http://purl.org/dc/terms/title>
+              "Les Tapisseries" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1515/9783035602937.237" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1515/9783035602937.237> , <doi:10.1515/9783035602937.237> .

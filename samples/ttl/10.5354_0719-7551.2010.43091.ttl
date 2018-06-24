@@ -1,0 +1,43 @@
+<http://id.crossref.org/contributor/marcelo-araya-rojas-5xfizxx7xxk>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Araya Rojas" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Marcelo" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Marcelo Araya Rojas" .
+
+<http://id.crossref.org/issn/0719-7551>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0719-0093" , "0719-7551" ;
+      <http://purl.org/dc/terms/title>
+              "Revista Chilena de Derecho del Trabajo y de la Seguridad Social" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0719-0093" , "0719-7551" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0719-7551" , "urn:issn:0719-0093" .
+
+<http://dx.doi.org/10.5354/0719-7551.2010.43091>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.5354/0719-7551.2010.43091" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "1" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/marcelo-araya-rojas-5xfizxx7xxk> ;
+      <http://purl.org/dc/terms/date>
+              "2016-09-21"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.5354/0719-7551.2010.43091" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0719-7551> ;
+      <http://purl.org/dc/terms/publisher>
+              "Universidad de Chile" ;
+      <http://purl.org/dc/terms/title>
+              "La nulidad del despido y el elemento \"gravedad\" en la figura sancionatoria del inciso cuarto del artículo 489 del código del trabajo. Una mirada crítica" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.5354/0719-7551.2010.43091" ;
+      <http://purl.org/ontology/bibo/volume>
+              "1" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.5354/0719-7551.2010.43091> , <doi:10.5354/0719-7551.2010.43091> .

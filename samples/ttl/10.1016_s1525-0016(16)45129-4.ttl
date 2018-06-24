@@ -1,0 +1,36 @@
+<http://id.crossref.org/issn/1525-0016>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1525-0016" ;
+      <http://purl.org/dc/terms/title>
+              "Molecular Therapy" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1525-0016" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1525-0016" .
+
+<http://dx.doi.org/10.1016/s1525-0016(16)45129-4>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/s1525-0016(16)45129-4" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "S352" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "15" ;
+      <http://purl.org/dc/terms/date>
+              "2007-05"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/s1525-0016(16)45129-4" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1525-0016> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "923. Enhanced Gene Transfer by Echo Contrast Agents: Comparison between BR1 and BR14 In Vitro and In Vivo" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/s1525-0016(16)45129-4" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "S352" ;
+      <http://purl.org/ontology/bibo/volume>
+              "15" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1016/s1525-0016(16)45129-4> , <doi:10.1016/s1525-0016(16)45129-4> .

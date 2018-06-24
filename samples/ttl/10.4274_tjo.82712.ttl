@@ -1,0 +1,87 @@
+<http://dx.doi.org/10.4274/tjo.82712>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.4274/tjo.82712" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "384" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "380" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "43" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/eray-atalay-7jn6gaadfazb> , <http://id.crossref.org/contributor/erdogan-cicik-7jn6gaadfazb> , <http://id.crossref.org/contributor/nevbahar-tamcelik-7jn6gaadfazb> , <http://id.crossref.org/contributor/selim-bolukbas-7jn6gaadfazb> , <http://id.crossref.org/contributor/olgu-capar-7jn6gaadfazb> ;
+      <http://purl.org/dc/terms/date>
+              "2013-12-05"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.4274/tjo.82712" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1300-0659> ;
+      <http://purl.org/dc/terms/publisher>
+              "Galenos Yayinevi" ;
+      <http://purl.org/dc/terms/title>
+              "Konjenital Glokomlu Olgularda Viskotrabekülotomi ve Klasik Trabekülotomi Cerrahisinin Uzun Dönem Karşılaştırmalı Sonuçları" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.4274/tjo.82712" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "384" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "380" ;
+      <http://purl.org/ontology/bibo/volume>
+              "43" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.4274/tjo.82712> , <info:doi/10.4274/tjo.82712> .
+
+<http://id.crossref.org/contributor/eray-atalay-7jn6gaadfazb>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Atalay" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Eray" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Eray Atalay" .
+
+<http://id.crossref.org/contributor/erdogan-cicik-7jn6gaadfazb>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Cicik" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Erdoğan" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Erdoğan Cicik" .
+
+<http://id.crossref.org/issn/1300-0659>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1300-0659" ;
+      <http://purl.org/dc/terms/title>
+              "Türk Oftalmoloji Dergisi" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1300-0659" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1300-0659" .
+
+<http://id.crossref.org/contributor/nevbahar-tamcelik-7jn6gaadfazb>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Tamçelik" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Nevbahar" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Nevbahar Tamçelik" .
+
+<http://id.crossref.org/contributor/selim-bolukbas-7jn6gaadfazb>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Bölükbaşı" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Selim" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Selim Bölükbaşı" .
+
+<http://id.crossref.org/contributor/olgu-capar-7jn6gaadfazb>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Çapar" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Olgu" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Olgu Çapar" .

@@ -1,0 +1,48 @@
+<http://dx.doi.org/10.12783/dtetr/tmcm2017/12634>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.12783/dtetr/tmcm2017/12634" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/jian-qun-miao-1gmxlunna7utz> , <http://id.crossref.org/contributor/jian-wu-1gmxlunna7utz> ;
+      <http://purl.org/dc/terms/date>
+              "2017-08-03"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.12783/dtetr/tmcm2017/12634" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/2475-885X> ;
+      <http://purl.org/dc/terms/publisher>
+              "DEStech Publications" ;
+      <http://purl.org/dc/terms/title>
+              "A Random Circular Shift Algorithm for Image Scrambling" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.12783/dtetr/tmcm2017/12634" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.12783/dtetr/tmcm2017/12634> , <info:doi/10.12783/dtetr/tmcm2017/12634> .
+
+<http://id.crossref.org/contributor/jian-qun-miao-1gmxlunna7utz>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "MIAO" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Jian-qun" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Jian-qun MIAO" .
+
+<http://id.crossref.org/issn/2475-885X>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "2475-885X" ;
+      <http://purl.org/dc/terms/title>
+              "DEStech Transactions on Engineering and Technology Research" ;
+      <http://purl.org/ontology/bibo/issn>
+              "2475-885X" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:2475-885X" .
+
+<http://id.crossref.org/contributor/jian-wu-1gmxlunna7utz>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "WU" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Jian" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Jian WU" .

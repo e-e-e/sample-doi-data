@@ -1,0 +1,60 @@
+<http://id.crossref.org/contributor/david-h-hsu-16xw4e7pirldj>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Hsu" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "David H." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "David H. Hsu" .
+
+<http://dx.doi.org/10.1287/mnsc.2013.1801>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1287/mnsc.2013.1801" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "887" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "867" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "60" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/david-h-hsu-16xw4e7pirldj> , <http://id.crossref.org/contributor/vikas-a-aggarwal-16xw4e7pirldj> ;
+      <http://purl.org/dc/terms/date>
+              "2014-04"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1287/mnsc.2013.1801" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0025-1909> ;
+      <http://purl.org/dc/terms/publisher>
+              "Institute for Operations Research and the Management Sciences (INFORMS)" ;
+      <http://purl.org/dc/terms/title>
+              "Entrepreneurial Exits and Innovation" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1287/mnsc.2013.1801" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "887" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "867" ;
+      <http://purl.org/ontology/bibo/volume>
+              "60" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1287/mnsc.2013.1801> , <doi:10.1287/mnsc.2013.1801> .
+
+<http://id.crossref.org/issn/0025-1909>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0025-1909" , "1526-5501" ;
+      <http://purl.org/dc/terms/title>
+              "Management Science" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0025-1909" , "1526-5501" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1526-5501" , "urn:issn:0025-1909" .
+
+<http://id.crossref.org/contributor/vikas-a-aggarwal-16xw4e7pirldj>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Aggarwal" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Vikas A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Vikas A. Aggarwal" .

@@ -1,0 +1,69 @@
+<http://dx.doi.org/10.1017/s0022215111001691>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1017/s0022215111001691" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "1115" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "1109" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "125" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/i-zammit-maempel-2xbuoffj7hth6> , <http://id.crossref.org/contributor/p-mehrotra-2xbuoffj7hth6> , <http://id.crossref.org/contributor/m-r-elbadawey-2xbuoffj7hth6> ;
+      <http://purl.org/dc/terms/date>
+              "2011-08-16"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1017/s0022215111001691" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0022-2151> ;
+      <http://purl.org/dc/terms/publisher>
+              "Cambridge University Press (CUP)" ;
+      <http://purl.org/dc/terms/title>
+              "Spectrum of radiological appearances of necrotising external otitis: a pictorial review" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1017/s0022215111001691" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "1115" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "1109" ;
+      <http://purl.org/ontology/bibo/volume>
+              "125" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1017/s0022215111001691> , <info:doi/10.1017/s0022215111001691> .
+
+<http://id.crossref.org/contributor/i-zammit-maempel-2xbuoffj7hth6>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Zammit-Maempel" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "I" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "I Zammit-Maempel" .
+
+<http://id.crossref.org/issn/0022-2151>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0022-2151" , "1748-5460" ;
+      <http://purl.org/dc/terms/title>
+              "The Journal of Laryngology & Otology" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0022-2151" , "1748-5460" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1748-5460" , "urn:issn:0022-2151" .
+
+<http://id.crossref.org/contributor/p-mehrotra-2xbuoffj7hth6>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Mehrotra" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "P" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "P Mehrotra" .
+
+<http://id.crossref.org/contributor/m-r-elbadawey-2xbuoffj7hth6>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Elbadawey" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "M R" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "M R Elbadawey" .

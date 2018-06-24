@@ -1,0 +1,69 @@
+<http://id.crossref.org/contributor/susan-stack-3fthqn9ewq3j2>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Stack" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Susan" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Susan Stack" .
+
+<http://id.crossref.org/issn/0025-6196>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0025-6196" ;
+      <http://purl.org/dc/terms/title>
+              "Mayo Clinic Proceedings" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0025-6196" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0025-6196" .
+
+<http://id.crossref.org/contributor/wenjun-ma-3fthqn9ewq3j2>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Ma" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Wenjun" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Wenjun Ma" .
+
+<http://dx.doi.org/10.1016/j.mayocp.2012.02.019>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/j.mayocp.2012.02.019" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "798" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "791" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "87" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/susan-stack-3fthqn9ewq3j2> , <http://id.crossref.org/contributor/wenjun-ma-3fthqn9ewq3j2> , <http://id.crossref.org/contributor/cunrui-huang-3fthqn9ewq3j2> ;
+      <http://purl.org/dc/terms/date>
+              "2012-08"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/j.mayocp.2012.02.019" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0025-6196> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "The Hygienic Efficacy of Different Hand-Drying Methods: A Review of the Evidence" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/j.mayocp.2012.02.019" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "798" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "791" ;
+      <http://purl.org/ontology/bibo/volume>
+              "87" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1016/j.mayocp.2012.02.019> , <info:doi/10.1016/j.mayocp.2012.02.019> .
+
+<http://id.crossref.org/contributor/cunrui-huang-3fthqn9ewq3j2>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Huang" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Cunrui" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Cunrui Huang" .

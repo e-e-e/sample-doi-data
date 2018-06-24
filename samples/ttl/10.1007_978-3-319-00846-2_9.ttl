@@ -1,0 +1,115 @@
+<http://id.crossref.org/isbn/9783319008455>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "IFMBE Proceedings" .
+
+<http://id.crossref.org/contributor/j-pascau-2m58ziwvycb31>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Pascau" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "J." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "J. Pascau" .
+
+<http://dx.doi.org/10.1007/978-3-319-00846-2_9>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1007/978-3-319-00846-2_9" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "40" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "37" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/j-pascau-2m58ziwvycb31> , <http://id.crossref.org/contributor/v-garcia-vazquez-2m58ziwvycb31> , <http://id.crossref.org/contributor/m-valdivieso-2m58ziwvycb31> , <http://id.crossref.org/contributor/f-calvo-2m58ziwvycb31> , <http://id.crossref.org/contributor/e-marinetto-2m58ziwvycb31> , <http://id.crossref.org/contributor/c-illana-2m58ziwvycb31> , <http://id.crossref.org/contributor/j-a-santos-miranda-2m58ziwvycb31> , <http://id.crossref.org/contributor/m-desco-2m58ziwvycb31> ;
+      <http://purl.org/dc/terms/date>
+              "2014"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1007/978-3-319-00846-2_9" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9783319008455> , <http://id.crossref.org/issn/1680-0737> ;
+      <http://purl.org/dc/terms/publisher>
+              "Springer International Publishing" ;
+      <http://purl.org/dc/terms/title>
+              "Optical Tracking System Integration into IORT Treatment Planning System" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1007/978-3-319-00846-2_9" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "40" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "37" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1007/978-3-319-00846-2_9> , <doi:10.1007/978-3-319-00846-2_9> .
+
+<http://id.crossref.org/contributor/v-garcia-vazquez-2m58ziwvycb31>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "García-Vázquez" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "V." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "V. García-Vázquez" .
+
+<http://id.crossref.org/issn/1680-0737>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1680-0737" , "1433-9277" ;
+      <http://purl.org/dc/terms/title>
+              "IFMBE Proceedings" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1680-0737" , "1433-9277" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1680-0737" , "urn:issn:1433-9277" .
+
+<http://id.crossref.org/contributor/f-calvo-2m58ziwvycb31>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Calvo" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "F." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "F. Calvo" .
+
+<http://id.crossref.org/contributor/m-valdivieso-2m58ziwvycb31>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Valdivieso" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "M." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "M. Valdivieso" .
+
+<http://id.crossref.org/contributor/e-marinetto-2m58ziwvycb31>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Marinetto" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "E." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "E. Marinetto" .
+
+<http://id.crossref.org/contributor/c-illana-2m58ziwvycb31>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Illana" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "C." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "C. Illana" .
+
+<http://id.crossref.org/contributor/j-a-santos-miranda-2m58ziwvycb31>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Santos-Miranda" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "J. A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "J. A. Santos-Miranda" .
+
+<http://id.crossref.org/contributor/m-desco-2m58ziwvycb31>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Desco" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "M." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "M. Desco" .

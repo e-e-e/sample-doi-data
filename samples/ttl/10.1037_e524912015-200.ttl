@@ -1,0 +1,44 @@
+<http://id.crossref.org/contributor/georgina-tolan-21nfi6evm0jq>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Tolan" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Georgina" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Georgina Tolan" .
+
+<http://dx.doi.org/10.1037/e524912015-200>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1037/e524912015-200" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/georgina-tolan-21nfi6evm0jq> , <http://id.crossref.org/contributor/gerald-tehan-21nfi6evm0jq> , <http://id.crossref.org/contributor/c-k-kennedy-21nfi6evm0jq> ;
+      <http://purl.org/dc/terms/date>
+              "2014"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1037/e524912015-200" ;
+      <http://purl.org/dc/terms/publisher>
+              "American Psychological Association (APA)" ;
+      <http://purl.org/dc/terms/title>
+              "Working Memory and the Complex Operation Span Task: A Measure of Working Memory Capacity" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1037/e524912015-200" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1037/e524912015-200> , <doi:10.1037/e524912015-200> .
+
+<http://id.crossref.org/contributor/gerald-tehan-21nfi6evm0jq>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Tehan" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Gerald" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Gerald Tehan" .
+
+<http://id.crossref.org/contributor/c-k-kennedy-21nfi6evm0jq>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kennedy" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "C. K." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "C. K. Kennedy" .

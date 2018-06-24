@@ -1,0 +1,40 @@
+<http://id.crossref.org/issn/0029-6570>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0029-6570" , "2047-9018" ;
+      <http://purl.org/dc/terms/title>
+              "Nursing Standard" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0029-6570" , "2047-9018" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:2047-9018" , "urn:issn:0029-6570" .
+
+<http://dx.doi.org/10.7748/ns.24.13.64.s57>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.7748/ns.24.13.64.s57" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "64" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "64" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "24" ;
+      <http://purl.org/dc/terms/date>
+              "2009-12-02"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.7748/ns.24.13.64.s57" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0029-6570> ;
+      <http://purl.org/dc/terms/publisher>
+              "RCN Publishing Ltd." ;
+      <http://purl.org/dc/terms/title>
+              "Masterminding improved care" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.7748/ns.24.13.64.s57" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "64" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "64" ;
+      <http://purl.org/ontology/bibo/volume>
+              "24" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.7748/ns.24.13.64.s57> , <doi:10.7748/ns.24.13.64.s57> .

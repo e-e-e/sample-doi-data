@@ -1,0 +1,105 @@
+<http://id.crossref.org/contributor/j-c-kabayiza-1qgwq66k2cvd8>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kabayiza" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "J.-C." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "J.-C. Kabayiza" .
+
+<http://id.crossref.org/contributor/m-e-andersson-1qgwq66k2cvd8>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Andersson" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "M.E." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "M.E. Andersson" .
+
+<http://id.crossref.org/contributor/t-bergstrom-1qgwq66k2cvd8>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Bergström" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "T." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "T. Bergström" .
+
+<http://id.crossref.org/contributor/c-baribwira-1qgwq66k2cvd8>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Baribwira" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "C." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "C. Baribwira" .
+
+<http://id.crossref.org/contributor/g-muhirwa-1qgwq66k2cvd8>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Muhirwa" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "G." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "G. Muhirwa" .
+
+<http://id.crossref.org/contributor/s-nilsson-1qgwq66k2cvd8>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Nilsson" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "S." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "S. Nilsson" .
+
+<http://id.crossref.org/issn/1198-743X>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1198-743X" ;
+      <http://purl.org/dc/terms/title>
+              "Clinical Microbiology and Infection" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1198-743X" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1198-743X" .
+
+<http://dx.doi.org/10.1111/1469-0691.12698>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1111/1469-0691.12698" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "O1135" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "O1128" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "20" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/j-c-kabayiza-1qgwq66k2cvd8> , <http://id.crossref.org/contributor/m-e-andersson-1qgwq66k2cvd8> , <http://id.crossref.org/contributor/s-nilsson-1qgwq66k2cvd8> , <http://id.crossref.org/contributor/c-baribwira-1qgwq66k2cvd8> , <http://id.crossref.org/contributor/g-muhirwa-1qgwq66k2cvd8> , <http://id.crossref.org/contributor/t-bergstrom-1qgwq66k2cvd8> , <http://id.crossref.org/contributor/m-lindh-1qgwq66k2cvd8> ;
+      <http://purl.org/dc/terms/date>
+              "2014-12"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1111/1469-0691.12698" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1198-743X> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Diarrhoeagenic microbes by real-time PCR in Rwandan children under 5 years of age with acute gastroenteritis" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1111/1469-0691.12698" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "O1135" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "O1128" ;
+      <http://purl.org/ontology/bibo/volume>
+              "20" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1111/1469-0691.12698> , <info:doi/10.1111/1469-0691.12698> .
+
+<http://id.crossref.org/contributor/m-lindh-1qgwq66k2cvd8>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Lindh" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "M." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "M. Lindh" .

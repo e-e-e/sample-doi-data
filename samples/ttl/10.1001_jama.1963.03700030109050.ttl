@@ -1,0 +1,36 @@
+<http://id.crossref.org/issn/0098-7484>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0098-7484" ;
+      <http://purl.org/dc/terms/title>
+              "JAMA: The Journal of the American Medical Association" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0098-7484" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0098-7484" .
+
+<http://dx.doi.org/10.1001/jama.1963.03700030109050>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1001/jama.1963.03700030109050" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "159" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "183" ;
+      <http://purl.org/dc/terms/date>
+              "1963-01-19"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1001/jama.1963.03700030109050" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0098-7484> ;
+      <http://purl.org/dc/terms/publisher>
+              "American Medical Association (AMA)" ;
+      <http://purl.org/dc/terms/title>
+              "Radiologic Evaluation of Heart Size in Rheumatic Heart Disease" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1001/jama.1963.03700030109050" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "159" ;
+      <http://purl.org/ontology/bibo/volume>
+              "183" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1001/jama.1963.03700030109050> , <info:doi/10.1001/jama.1963.03700030109050> .

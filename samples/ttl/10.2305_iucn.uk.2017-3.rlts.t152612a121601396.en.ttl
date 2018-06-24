@@ -1,0 +1,22 @@
+<http://dx.doi.org/10.2305/iucn.uk.2017-3.rlts.t152612a121601396.en>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.2305/iucn.uk.2017-3.rlts.t152612a121601396.en" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/-3g6ta527g4t6l> ;
+      <http://purl.org/dc/terms/date>
+              "2010-09-21"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.2305/iucn.uk.2017-3.rlts.t152612a121601396.en" ;
+      <http://purl.org/dc/terms/publisher>
+              "IUCN" ;
+      <http://purl.org/dc/terms/title>
+              "Pterocactus hickenii: Kiesling, R." ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.2305/iucn.uk.2017-3.rlts.t152612a121601396.en" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.2305/iucn.uk.2017-3.rlts.t152612a121601396.en> , <doi:10.2305/iucn.uk.2017-3.rlts.t152612a121601396.en> .
+
+<http://id.crossref.org/contributor/-3g6ta527g4t6l>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/name>
+              " " .

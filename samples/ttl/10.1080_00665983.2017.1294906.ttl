@@ -1,0 +1,53 @@
+<http://dx.doi.org/10.1080/00665983.2017.1294906>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1080/00665983.2017.1294906" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "498" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "497" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "174" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/gary-l-duckers-2k8jxv3evgehf> ;
+      <http://purl.org/dc/terms/date>
+              "2017-02-28"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1080/00665983.2017.1294906" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0066-5983> ;
+      <http://purl.org/dc/terms/publisher>
+              "Informa UK Limited" ;
+      <http://purl.org/dc/terms/title>
+              "Corpus of Anglo-Saxon Stone Sculpture, Volume Xii. Nottinghamshire, By Paul Everson and David Stocker, with contributions by Graham K. Lott and David N. Parsons" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1080/00665983.2017.1294906" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "498" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "497" ;
+      <http://purl.org/ontology/bibo/volume>
+              "174" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1080/00665983.2017.1294906> , <info:doi/10.1080/00665983.2017.1294906> .
+
+<http://id.crossref.org/contributor/gary-l-duckers-2k8jxv3evgehf>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <http://orcid.org/0000-0001-6269-3701> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Duckers" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Gary L." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Gary L. Duckers" .
+
+<http://id.crossref.org/issn/0066-5983>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "2373-2288" , "0066-5983" ;
+      <http://purl.org/dc/terms/title>
+              "Archaeological Journal" ;
+      <http://purl.org/ontology/bibo/issn>
+              "2373-2288" , "0066-5983" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:2373-2288" , "urn:issn:0066-5983" .

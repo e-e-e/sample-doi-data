@@ -1,0 +1,15 @@
+<http://dx.doi.org/10.3403/30109634>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.3403/30109634" ;
+      <http://purl.org/dc/terms/date>
+              ""^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.3403/30109634" ;
+      <http://purl.org/dc/terms/publisher>
+              "BSI British Standards" ;
+      <http://purl.org/dc/terms/title>
+              "Fire detection and fire alarm systems" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.3403/30109634" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.3403/30109634> , <info:doi/10.3403/30109634> .

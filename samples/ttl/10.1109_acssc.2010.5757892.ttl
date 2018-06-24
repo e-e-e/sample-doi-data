@@ -1,0 +1,51 @@
+<http://dx.doi.org/10.1109/acssc.2010.5757892>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1109/acssc.2010.5757892" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/mahesh-k-banavar-19g8eojfkbqpf> , <http://id.crossref.org/contributor/cihan-tepedelenlioglu-19g8eojfkbqpf> , <http://id.crossref.org/contributor/andreas-spanias-19g8eojfkbqpf> ;
+      <http://purl.org/dc/terms/date>
+              "2010-11"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1109/acssc.2010.5757892" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9781424497225> ;
+      <http://purl.org/dc/terms/publisher>
+              "IEEE" ;
+      <http://purl.org/dc/terms/title>
+              "Asymptotic efficiency of distributed estimation from constant modulus sensor transmissions" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1109/acssc.2010.5757892" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1109/acssc.2010.5757892> , <doi:10.1109/acssc.2010.5757892> .
+
+<http://id.crossref.org/contributor/mahesh-k-banavar-19g8eojfkbqpf>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Banavar" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Mahesh K." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Mahesh K. Banavar" .
+
+<http://id.crossref.org/contributor/cihan-tepedelenlioglu-19g8eojfkbqpf>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Tepedelenlioglu" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Cihan" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Cihan Tepedelenlioglu" .
+
+<http://id.crossref.org/isbn/9781424497225>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "2010 Conference Record of the Forty Fourth Asilomar Conference on Signals, Systems and Computers" .
+
+<http://id.crossref.org/contributor/andreas-spanias-19g8eojfkbqpf>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Spanias" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Andreas" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Andreas Spanias" .

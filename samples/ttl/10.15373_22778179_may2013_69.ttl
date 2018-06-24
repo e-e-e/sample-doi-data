@@ -1,0 +1,65 @@
+<http://id.crossref.org/contributor/-3mddnckvq4fet>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/name>
+              " " .
+
+<http://id.crossref.org/issn/2277-8179>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "2277-8179" ;
+      <http://purl.org/dc/terms/title>
+              "International Journal of Scientific Research" ;
+      <http://purl.org/ontology/bibo/issn>
+              "2277-8179" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:2277-8179" .
+
+<http://id.crossref.org/contributor/dave-marmik-m-dave-marmik-m-3mddnckvq4fet>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Dave Marmik M" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Dave Marmik M" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Dave Marmik M Dave Marmik M" .
+
+<http://id.crossref.org/contributor/kothari-kartik-d-3mddnckvq4fet>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kartik D" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Kothari" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Kothari Kartik D" .
+
+<http://dx.doi.org/10.15373/22778179/may2013/69>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.15373/22778179/may2013/69" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "209" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "208" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "2" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/-3mddnckvq4fet> , <http://id.crossref.org/contributor/dave-marmik-m-dave-marmik-m-3mddnckvq4fet> , <http://id.crossref.org/contributor/kothari-kartik-d-3mddnckvq4fet> ;
+      <http://purl.org/dc/terms/date>
+              "2012-06-01"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.15373/22778179/may2013/69" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/2277-8179> ;
+      <http://purl.org/dc/terms/publisher>
+              "The Global Journals" ;
+      <http://purl.org/dc/terms/title>
+              "Static Structure Analysis of Diesel Engine Camshaft" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.15373/22778179/may2013/69" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "209" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "208" ;
+      <http://purl.org/ontology/bibo/volume>
+              "2" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.15373/22778179/may2013/69> , <info:doi/10.15373/22778179/may2013/69> .

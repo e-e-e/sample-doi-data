@@ -1,0 +1,60 @@
+<http://id.crossref.org/issn/1226-9328>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1226-9328" , "2166-3394" ;
+      <http://purl.org/dc/terms/title>
+              "Geosystem Engineering" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1226-9328" , "2166-3394" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:2166-3394" , "urn:issn:1226-9328" .
+
+<http://dx.doi.org/10.1080/12269328.2011.10541335>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1080/12269328.2011.10541335" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "94" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "85" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "14" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/chanin-teparut-3lwzqqysqlsjy> , <http://id.crossref.org/contributor/suthipong-sthiannopkao-3lwzqqysqlsjy> ;
+      <http://purl.org/dc/terms/date>
+              "2011-06"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1080/12269328.2011.10541335" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1226-9328> ;
+      <http://purl.org/dc/terms/publisher>
+              "Informa UK Limited" ;
+      <http://purl.org/dc/terms/title>
+              "Mae Moh Lignite Mine and Environmental Management" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1080/12269328.2011.10541335" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "94" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "85" ;
+      <http://purl.org/ontology/bibo/volume>
+              "14" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1080/12269328.2011.10541335> , <info:doi/10.1080/12269328.2011.10541335> .
+
+<http://id.crossref.org/contributor/chanin-teparut-3lwzqqysqlsjy>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Teparut" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Chanin" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Chanin Teparut" .
+
+<http://id.crossref.org/contributor/suthipong-sthiannopkao-3lwzqqysqlsjy>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Sthiannopkao" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Suthipong" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Suthipong Sthiannopkao" .

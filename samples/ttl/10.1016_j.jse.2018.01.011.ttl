@@ -1,0 +1,51 @@
+<http://dx.doi.org/10.1016/j.jse.2018.01.011>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/j.jse.2018.01.011" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "578" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "577" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "27" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/william-j-mallon-30414fer98ipf> ;
+      <http://purl.org/dc/terms/date>
+              "2018-04"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/j.jse.2018.01.011" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1058-2746> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Einstein, 3 Dimensions, and Chainsaws" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/j.jse.2018.01.011" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "578" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "577" ;
+      <http://purl.org/ontology/bibo/volume>
+              "27" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1016/j.jse.2018.01.011> , <info:doi/10.1016/j.jse.2018.01.011> .
+
+<http://id.crossref.org/contributor/william-j-mallon-30414fer98ipf>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Mallon" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "William J." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "William J. Mallon" .
+
+<http://id.crossref.org/issn/1058-2746>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1058-2746" ;
+      <http://purl.org/dc/terms/title>
+              "Journal of Shoulder and Elbow Surgery" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1058-2746" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1058-2746" .

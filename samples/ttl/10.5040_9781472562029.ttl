@@ -1,0 +1,20 @@
+<http://id.crossref.org/isbn/9781472562029>
+      a       <http://purl.org/ontology/bibo/Book> .
+
+<http://dx.doi.org/10.5040/9781472562029>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.5040/9781472562029" ;
+      <http://purl.org/dc/terms/date>
+              "2010"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.5040/9781472562029" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9781472562029> ;
+      <http://purl.org/dc/terms/publisher>
+              "Hart Publishing" ;
+      <http://purl.org/dc/terms/title>
+              "The Human Rights Act and the Criminal Justice and Regulatory Process : The Centre for Public Law at the University of Cambridge" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.5040/9781472562029" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.5040/9781472562029> , <info:doi/10.5040/9781472562029> .

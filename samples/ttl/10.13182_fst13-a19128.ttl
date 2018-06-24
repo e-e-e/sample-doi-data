@@ -1,0 +1,56 @@
+<http://id.crossref.org/issn/1536-1055>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1536-1055" , "1943-7641" ;
+      <http://purl.org/dc/terms/title>
+              "Fusion Science and Technology" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1536-1055" , "1943-7641" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1943-7641" , "urn:issn:1536-1055" .
+
+<http://id.crossref.org/contributor/-ch6ornig0rl2>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/name>
+              " " .
+
+<http://dx.doi.org/10.13182/fst13-a19128>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.13182/fst13-a19128" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "396" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "387" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "64" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/-ch6ornig0rl2> , <http://id.crossref.org/contributor/thomas-rummel-ch6ornig0rl2> ;
+      <http://purl.org/dc/terms/date>
+              "2013-09"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.13182/fst13-a19128" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1536-1055> ;
+      <http://purl.org/dc/terms/publisher>
+              "Informa UK Limited" ;
+      <http://purl.org/dc/terms/title>
+              "Progress Towards Wendelstein 7-X" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.13182/fst13-a19128" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "396" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "387" ;
+      <http://purl.org/ontology/bibo/volume>
+              "64" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.13182/fst13-a19128> , <info:doi/10.13182/fst13-a19128> .
+
+<http://id.crossref.org/contributor/thomas-rummel-ch6ornig0rl2>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Rummel" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Thomas" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Thomas Rummel" .

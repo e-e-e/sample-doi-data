@@ -1,0 +1,41 @@
+<http://id.crossref.org/isbn/9781786802248>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "A Certain Amount of Madness" .
+
+<http://dx.doi.org/10.2307/j.ctt21kk235.17>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.2307/j.ctt21kk235.17" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "193" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "180" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/sakue-c-yimovie-142pup2u40j4c> ;
+      <http://purl.org/dc/terms/date>
+              ""^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.2307/j.ctt21kk235.17" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9781786802248> ;
+      <http://purl.org/dc/terms/publisher>
+              "Pluto Press" ;
+      <http://purl.org/dc/terms/title>
+              "Re-reading Sankara’s Philosophy For a Praxeology of Debt in Contemporary Times" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.2307/j.ctt21kk235.17" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "193" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "180" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.2307/j.ctt21kk235.17> , <info:doi/10.2307/j.ctt21kk235.17> .
+
+<http://id.crossref.org/contributor/sakue-c-yimovie-142pup2u40j4c>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Yimovie" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Sakue-C." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Sakue-C. Yimovie" .

@@ -1,0 +1,40 @@
+<http://id.crossref.org/issn/1424-3776>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1424-3776" , "1424-3806" ;
+      <http://purl.org/dc/terms/title>
+              "PrimaryCare" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1424-3776" , "1424-3806" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1424-3776" , "urn:issn:1424-3806" .
+
+<http://dx.doi.org/10.4414/pc-d.2003.05990>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.4414/pc-d.2003.05990" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "1069" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "1068" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "3" ;
+      <http://purl.org/dc/terms/date>
+              "2003-12-19"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.4414/pc-d.2003.05990" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1424-3776> ;
+      <http://purl.org/dc/terms/publisher>
+              "EMH Swiss Medical Publishers, Ltd." ;
+      <http://purl.org/dc/terms/title>
+              "Der Arzt, ein störrischer Arbeiter" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.4414/pc-d.2003.05990" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "1069" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "1068" ;
+      <http://purl.org/ontology/bibo/volume>
+              "3" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.4414/pc-d.2003.05990> , <doi:10.4414/pc-d.2003.05990> .

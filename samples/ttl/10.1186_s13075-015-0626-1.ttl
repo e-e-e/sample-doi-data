@@ -1,0 +1,88 @@
+<http://id.crossref.org/contributor/stefan-florentinus-3ugq6wenzuysp>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Florentinus" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Stefan" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Stefan Florentinus" .
+
+<http://id.crossref.org/issn/1478-6354>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1478-6354" ;
+      <http://purl.org/dc/terms/title>
+              "Arthritis Research & Therapy" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1478-6354" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1478-6354" .
+
+<http://id.crossref.org/contributor/josef-s-smolen-3ugq6wenzuysp>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Smolen" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Josef S" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Josef S Smolen" .
+
+<http://id.crossref.org/contributor/su-chen-3ugq6wenzuysp>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Chen" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Su" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Su Chen" .
+
+<http://id.crossref.org/contributor/desiree-van-der-heijde-3ugq6wenzuysp>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "van der Heijde" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Désirée" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Désirée van der Heijde" .
+
+<http://id.crossref.org/contributor/benoit-guerette-3ugq6wenzuysp>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Guérette" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Benoît" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Benoît Guérette" .
+
+<http://id.crossref.org/contributor/robert-landewe-3ugq6wenzuysp>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Landewé" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Robert" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Robert Landewé" .
+
+<http://dx.doi.org/10.1186/s13075-015-0626-1>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1186/s13075-015-0626-1" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "17" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/stefan-florentinus-3ugq6wenzuysp> , <http://id.crossref.org/contributor/josef-s-smolen-3ugq6wenzuysp> , <http://id.crossref.org/contributor/su-chen-3ugq6wenzuysp> , <http://id.crossref.org/contributor/desiree-van-der-heijde-3ugq6wenzuysp> , <http://id.crossref.org/contributor/benoit-guerette-3ugq6wenzuysp> , <http://id.crossref.org/contributor/robert-landewe-3ugq6wenzuysp> ;
+      <http://purl.org/dc/terms/date>
+              "2015-05-21"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1186/s13075-015-0626-1" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1478-6354> ;
+      <http://purl.org/dc/terms/publisher>
+              "Springer Nature" ;
+      <http://purl.org/dc/terms/title>
+              "Existing joint erosions increase the risk of joint space narrowing independently of clinical synovitis in patients with early rheumatoid arthritis" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1186/s13075-015-0626-1" ;
+      <http://purl.org/ontology/bibo/volume>
+              "17" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1186/s13075-015-0626-1> , <info:doi/10.1186/s13075-015-0626-1> .

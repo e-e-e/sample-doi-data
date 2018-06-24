@@ -1,0 +1,123 @@
+<http://id.crossref.org/contributor/m-kadin-3ueb0qeblfooi>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kadin" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "M" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "M Kadin" .
+
+<http://id.crossref.org/contributor/m-d-krailo-3ueb0qeblfooi>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Krailo" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "M D" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "M D Krailo" .
+
+<http://id.crossref.org/contributor/a-t-meadows-3ueb0qeblfooi>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Meadows" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "A T" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "A T Meadows" .
+
+<http://id.crossref.org/contributor/m-morse-3ueb0qeblfooi>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Morse" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "M" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "M Morse" .
+
+<http://id.crossref.org/contributor/j-rosenstock-3ueb0qeblfooi>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Rosenstock" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "J" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "J Rosenstock" .
+
+<http://id.crossref.org/contributor/j-h-kersey-3ueb0qeblfooi>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kersey" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "J H" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "J H Kersey" .
+
+<http://id.crossref.org/contributor/d-king-3ueb0qeblfooi>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "King" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "D" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "D King" .
+
+<http://id.crossref.org/contributor/d-g-tubergen-3ueb0qeblfooi>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Tubergen" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "D G" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "D G Tubergen" .
+
+<http://id.crossref.org/issn/0732-183X>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1527-7755" , "0732-183X" ;
+      <http://purl.org/dc/terms/title>
+              "Journal of Clinical Oncology" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1527-7755" , "0732-183X" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0732-183X" , "urn:issn:1527-7755" .
+
+<http://id.crossref.org/contributor/p-g-steinherz-3ueb0qeblfooi>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Steinherz" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "P G" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "P G Steinherz" .
+
+<http://dx.doi.org/10.1200/jco.1995.13.6.1368>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1200/jco.1995.13.6.1368" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "1376" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "1368" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "13" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/m-kadin-3ueb0qeblfooi> , <http://id.crossref.org/contributor/m-d-krailo-3ueb0qeblfooi> , <http://id.crossref.org/contributor/m-morse-3ueb0qeblfooi> , <http://id.crossref.org/contributor/a-t-meadows-3ueb0qeblfooi> , <http://id.crossref.org/contributor/j-h-kersey-3ueb0qeblfooi> , <http://id.crossref.org/contributor/d-king-3ueb0qeblfooi> , <http://id.crossref.org/contributor/j-rosenstock-3ueb0qeblfooi> , <http://id.crossref.org/contributor/p-g-steinherz-3ueb0qeblfooi> , <http://id.crossref.org/contributor/d-g-tubergen-3ueb0qeblfooi> ;
+      <http://purl.org/dc/terms/date>
+              "1995-06"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1200/jco.1995.13.6.1368" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0732-183X> ;
+      <http://purl.org/dc/terms/publisher>
+              "American Society of Clinical Oncology (ASCO)" ;
+      <http://purl.org/dc/terms/title>
+              "Comparison of treatment regimens for pediatric lymphoblastic non-Hodgkin's lymphoma: a Childrens Cancer Group study." ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1200/jco.1995.13.6.1368" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "1376" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "1368" ;
+      <http://purl.org/ontology/bibo/volume>
+              "13" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1200/jco.1995.13.6.1368> , <doi:10.1200/jco.1995.13.6.1368> .

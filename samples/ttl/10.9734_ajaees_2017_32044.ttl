@@ -1,0 +1,78 @@
+<http://id.crossref.org/contributor/m-shankara-2dbnj7y5hmjof>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Shankara" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "M " ;
+      <http://xmlns.com/foaf/0.1/name>
+              "M  Shankara" .
+
+<http://dx.doi.org/10.9734/ajaees/2017/32044>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.9734/ajaees/2017/32044" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "7" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "1" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "17" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/m-shankara-2dbnj7y5hmjof> , <http://id.crossref.org/contributor/t-sukanya-2dbnj7y5hmjof> , <http://id.crossref.org/contributor/roopa-patil-2dbnj7y5hmjof> , <http://id.crossref.org/contributor/b-mamatha-2dbnj7y5hmjof> ;
+      <http://purl.org/dc/terms/date>
+              "2017-01-10"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.9734/ajaees/2017/32044" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/2320-7027> ;
+      <http://purl.org/dc/terms/publisher>
+              "Sciencedomain International" ;
+      <http://purl.org/dc/terms/title>
+              "A Critical Analysis of Farmers Field School on Nutrient Management, Processing and Value Addition in Little Millet in Tumakuru District of Karnataka, India" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.9734/ajaees/2017/32044" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "7" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "1" ;
+      <http://purl.org/ontology/bibo/volume>
+              "17" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.9734/ajaees/2017/32044> , <info:doi/10.9734/ajaees/2017/32044> .
+
+<http://id.crossref.org/contributor/t-sukanya-2dbnj7y5hmjof>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Sukanya" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "T" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "T Sukanya" .
+
+<http://id.crossref.org/issn/2320-7027>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "2320-7027" ;
+      <http://purl.org/dc/terms/title>
+              "Asian Journal of Agricultural Extension, Economics & Sociology" ;
+      <http://purl.org/ontology/bibo/issn>
+              "2320-7027" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:2320-7027" .
+
+<http://id.crossref.org/contributor/roopa-patil-2dbnj7y5hmjof>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Patil" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Roopa" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Roopa Patil" .
+
+<http://id.crossref.org/contributor/b-mamatha-2dbnj7y5hmjof>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Mamatha" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "B " ;
+      <http://xmlns.com/foaf/0.1/name>
+              "B  Mamatha" .

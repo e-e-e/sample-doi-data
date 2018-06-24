@@ -1,0 +1,65 @@
+<http://id.crossref.org/contributor/adela-molina-andrade-2uesuh8ustdlp>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Molina Andrade" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Adela" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Adela Molina Andrade" .
+
+<http://id.crossref.org/contributor/horacio-bozzano-2uesuh8ustdlp>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Bozzano" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Horacio" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Horacio Bozzano" .
+
+<http://dx.doi.org/10.15332/rl.v0i8.1687>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.15332/rl.v0i8.1687" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "77" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "0" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/adela-molina-andrade-2uesuh8ustdlp> , <http://id.crossref.org/contributor/horacio-bozzano-2uesuh8ustdlp> , <http://id.crossref.org/contributor/edier-hernan-bustos-velazco-2uesuh8ustdlp> ;
+      <http://purl.org/dc/terms/date>
+              "2016-01-01"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.15332/rl.v0i8.1687" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/2357-5468> ;
+      <http://purl.org/dc/terms/publisher>
+              "Universidad Santo Tomas" ;
+      <http://purl.org/dc/terms/title>
+              "La riqueza de un territorio que ha vivido los avatares de la violencia" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.15332/rl.v0i8.1687" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "77" ;
+      <http://purl.org/ontology/bibo/volume>
+              "0" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.15332/rl.v0i8.1687> , <doi:10.15332/rl.v0i8.1687> .
+
+<http://id.crossref.org/contributor/edier-hernan-bustos-velazco-2uesuh8ustdlp>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Bustos Velazco" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Edier Hernan" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Edier Hernan Bustos Velazco" .
+
+<http://id.crossref.org/issn/2357-5468>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "2357-5468" , "2145-5996" ;
+      <http://purl.org/dc/terms/title>
+              "Revista Lebret" ;
+      <http://purl.org/ontology/bibo/issn>
+              "2357-5468" , "2145-5996" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:2145-5996" , "urn:issn:2357-5468" .

@@ -1,0 +1,51 @@
+<http://id.crossref.org/contributor/kun-yung-chen-1psm2xp7k1v8b>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Chen" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Kun Yung" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Kun Yung Chen" .
+
+<http://dx.doi.org/10.1109/tmech.2015.2503123>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1109/tmech.2015.2503123" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "1495" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "1487" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "21" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/kun-yung-chen-1psm2xp7k1v8b> ;
+      <http://purl.org/dc/terms/date>
+              "2016-06"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1109/tmech.2015.2503123" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1083-4435> ;
+      <http://purl.org/dc/terms/publisher>
+              "Institute of Electrical and Electronics Engineers (IEEE)" ;
+      <http://purl.org/dc/terms/title>
+              "Sliding Mode Minimum-Energy Control for a Mechatronic Motor-Table System" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1109/tmech.2015.2503123" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "1495" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "1487" ;
+      <http://purl.org/ontology/bibo/volume>
+              "21" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1109/tmech.2015.2503123> , <doi:10.1109/tmech.2015.2503123> .
+
+<http://id.crossref.org/issn/1083-4435>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1083-4435" , "1941-014X" ;
+      <http://purl.org/dc/terms/title>
+              "IEEE/ASME Transactions on Mechatronics" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1083-4435" , "1941-014X" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1083-4435" , "urn:issn:1941-014X" .

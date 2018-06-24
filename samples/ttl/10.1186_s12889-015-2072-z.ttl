@@ -1,0 +1,106 @@
+<http://id.crossref.org/contributor/nancy-glass-2u3jtjr4rv6oi>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Glass" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Nancy" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Nancy Glass" .
+
+<http://id.crossref.org/contributor/elizabeth-murray-2u3jtjr4rv6oi>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Murray" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Elizabeth" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Elizabeth Murray" .
+
+<http://dx.doi.org/10.1186/s12889-015-2072-z>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1186/s12889-015-2072-z" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "15" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/nancy-glass-2u3jtjr4rv6oi> , <http://id.crossref.org/contributor/elizabeth-murray-2u3jtjr4rv6oi> , <http://id.crossref.org/contributor/laura-tarzia-2u3jtjr4rv6oi> , <http://id.crossref.org/contributor/angela-taft-2u3jtjr4rv6oi> , <http://id.crossref.org/contributor/kelsey-hegarty-2u3jtjr4rv6oi> , <http://id.crossref.org/contributor/cathy-humphreys-2u3jtjr4rv6oi> , <http://id.crossref.org/contributor/lisa-gold-2u3jtjr4rv6oi> , <http://id.crossref.org/contributor/jodie-valpied-2u3jtjr4rv6oi> ;
+      <http://purl.org/dc/terms/date>
+              "2015-08-01"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1186/s12889-015-2072-z" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1471-2458> ;
+      <http://purl.org/dc/terms/publisher>
+              "Springer Nature" ;
+      <http://purl.org/dc/terms/title>
+              "Protocol for a randomised controlled trial of a web-based healthy relationship tool and safety decision aid for women experiencing domestic violence (I-DECIDE)" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1186/s12889-015-2072-z" ;
+      <http://purl.org/ontology/bibo/volume>
+              "15" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1186/s12889-015-2072-z> , <doi:10.1186/s12889-015-2072-z> .
+
+<http://id.crossref.org/issn/1471-2458>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1471-2458" ;
+      <http://purl.org/dc/terms/title>
+              "BMC Public Health" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1471-2458" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1471-2458" .
+
+<http://id.crossref.org/contributor/laura-tarzia-2u3jtjr4rv6oi>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Tarzia" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Laura" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Laura Tarzia" .
+
+<http://id.crossref.org/contributor/angela-taft-2u3jtjr4rv6oi>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Taft" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Angela" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Angela Taft" .
+
+<http://id.crossref.org/contributor/cathy-humphreys-2u3jtjr4rv6oi>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Humphreys" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Cathy" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Cathy Humphreys" .
+
+<http://id.crossref.org/contributor/kelsey-hegarty-2u3jtjr4rv6oi>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Hegarty" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Kelsey" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Kelsey Hegarty" .
+
+<http://id.crossref.org/contributor/lisa-gold-2u3jtjr4rv6oi>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Gold" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Lisa" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Lisa Gold" .
+
+<http://id.crossref.org/contributor/jodie-valpied-2u3jtjr4rv6oi>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Valpied" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Jodie" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Jodie Valpied" .

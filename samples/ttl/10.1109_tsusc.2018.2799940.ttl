@@ -1,0 +1,74 @@
+<http://id.crossref.org/issn/2377-3782>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "2377-3782" , "2377-3790" ;
+      <http://purl.org/dc/terms/title>
+              "IEEE Transactions on Sustainable Computing" ;
+      <http://purl.org/ontology/bibo/issn>
+              "2377-3782" , "2377-3790" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:2377-3790" , "urn:issn:2377-3782" .
+
+<http://id.crossref.org/contributor/laurence-t-yang-jrk55878h2eu>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Yang" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Laurence T." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Laurence T. Yang" .
+
+<http://id.crossref.org/contributor/feng-lu-jrk55878h2eu>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Lu" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Feng" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Feng Lu" .
+
+<http://id.crossref.org/contributor/gongwei-qian-jrk55878h2eu>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Qian" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Gongwei" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Gongwei Qian" .
+
+<http://dx.doi.org/10.1109/tsusc.2018.2799940>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1109/tsusc.2018.2799940" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "1" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "1" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/laurence-t-yang-jrk55878h2eu> , <http://id.crossref.org/contributor/feng-lu-jrk55878h2eu> , <http://id.crossref.org/contributor/gongwei-qian-jrk55878h2eu> , <http://id.crossref.org/contributor/puming-wang-jrk55878h2eu> ;
+      <http://purl.org/dc/terms/date>
+              "2018"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1109/tsusc.2018.2799940" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/2377-3782> ;
+      <http://purl.org/dc/terms/publisher>
+              "Institute of Electrical and Electronics Engineers (IEEE)" ;
+      <http://purl.org/dc/terms/title>
+              "The Cyber-Physical-Social Transition Tensor Service Framework" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1109/tsusc.2018.2799940" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "1" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "1" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1109/tsusc.2018.2799940> , <doi:10.1109/tsusc.2018.2799940> .
+
+<http://id.crossref.org/contributor/puming-wang-jrk55878h2eu>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Wang" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Puming" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Puming Wang" .

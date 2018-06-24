@@ -1,0 +1,26 @@
+<http://dx.doi.org/10.1037/e521142006-041>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1037/e521142006-041" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/erika-packard-3233eodr9gb97> ;
+      <http://purl.org/dc/terms/date>
+              "2006"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1037/e521142006-041" ;
+      <http://purl.org/dc/terms/publisher>
+              "American Psychological Association (APA)" ;
+      <http://purl.org/dc/terms/title>
+              "A mission to protect" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1037/e521142006-041" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1037/e521142006-041> , <doi:10.1037/e521142006-041> .
+
+<http://id.crossref.org/contributor/erika-packard-3233eodr9gb97>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Packard" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Erika" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Erika Packard" .

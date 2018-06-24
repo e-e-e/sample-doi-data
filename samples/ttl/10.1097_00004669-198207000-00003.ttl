@@ -1,0 +1,60 @@
+<http://id.crossref.org/issn/0363-8855>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0363-8855" ;
+      <http://purl.org/dc/terms/title>
+              "Journal of Clinical Engineering" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0363-8855" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0363-8855" .
+
+<http://dx.doi.org/10.1097/00004669-198207000-00003>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1097/00004669-198207000-00003" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "200" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "197" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "7" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/thomas-p-frank-q1v7dy9c1ipr> , <http://id.crossref.org/contributor/edward-l-spotts-q1v7dy9c1ipr> ;
+      <http://purl.org/dc/terms/date>
+              "1982-07"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1097/00004669-198207000-00003" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0363-8855> ;
+      <http://purl.org/dc/terms/publisher>
+              "Ovid Technologies (Wolters Kluwer Health)" ;
+      <http://purl.org/dc/terms/title>
+              "A Disposable Blood Pressure Transducer System" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1097/00004669-198207000-00003" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "200" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "197" ;
+      <http://purl.org/ontology/bibo/volume>
+              "7" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1097/00004669-198207000-00003> , <doi:10.1097/00004669-198207000-00003> .
+
+<http://id.crossref.org/contributor/thomas-p-frank-q1v7dy9c1ipr>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "FRANK" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "THOMAS P." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "THOMAS P. FRANK" .
+
+<http://id.crossref.org/contributor/edward-l-spotts-q1v7dy9c1ipr>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "SPOTTS" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "EDWARD L." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "EDWARD L. SPOTTS" .

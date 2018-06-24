@@ -1,0 +1,69 @@
+<http://id.crossref.org/issn/2340-9436>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "2340-9436" ;
+      <http://purl.org/dc/terms/title>
+              "BRQ Business Research Quarterly" ;
+      <http://purl.org/ontology/bibo/issn>
+              "2340-9436" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:2340-9436" .
+
+<http://id.crossref.org/contributor/f-javier-sese-olivan-2zp81zxd5p97f>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Sesé Oliván" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "F. Javier" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "F. Javier Sesé Oliván" .
+
+<http://dx.doi.org/10.1016/j.cede.2013.10.001>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/j.cede.2013.10.001" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "204" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "191" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "17" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/f-javier-sese-olivan-2zp81zxd5p97f> , <http://id.crossref.org/contributor/jesus-cambra-fierro-2zp81zxd5p97f> , <http://id.crossref.org/contributor/iguacel-melero-polo-2zp81zxd5p97f> ;
+      <http://purl.org/dc/terms/date>
+              "2014-07"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/j.cede.2013.10.001" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/2340-9436> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "From dissatisfied customers to evangelists of the firm: A study of the Spanish mobile service sector" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/j.cede.2013.10.001" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "204" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "191" ;
+      <http://purl.org/ontology/bibo/volume>
+              "17" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1016/j.cede.2013.10.001> , <info:doi/10.1016/j.cede.2013.10.001> .
+
+<http://id.crossref.org/contributor/jesus-cambra-fierro-2zp81zxd5p97f>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Cambra Fierro" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Jesús" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Jesús Cambra Fierro" .
+
+<http://id.crossref.org/contributor/iguacel-melero-polo-2zp81zxd5p97f>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Melero Polo" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Iguácel" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Iguácel Melero Polo" .

@@ -1,0 +1,91 @@
+<http://id.crossref.org/issn/0167-2738>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0167-2738" ;
+      <http://purl.org/dc/terms/title>
+              "Solid State Ionics" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0167-2738" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0167-2738" .
+
+<http://id.crossref.org/contributor/t-kamiyama-2ots1k09cfjnl>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <http://orcid.org/0000-0002-6359-0445> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kamiyama" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "T." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "T. Kamiyama" .
+
+<http://dx.doi.org/10.1016/j.ssi.2013.10.049>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/j.ssi.2013.10.049" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "87" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "83" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "262" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/t-kamiyama-2ots1k09cfjnl> , <http://id.crossref.org/contributor/s-torii-2ots1k09cfjnl> , <http://id.crossref.org/contributor/t-ishigaki-2ots1k09cfjnl> , <http://id.crossref.org/contributor/m-yonemura-2ots1k09cfjnl> , <http://id.crossref.org/contributor/t-y-s-panca-putra-2ots1k09cfjnl> ;
+      <http://purl.org/dc/terms/date>
+              "2014-09"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/j.ssi.2013.10.049" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0167-2738> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Structure and electrochemical performance of the spinel-LiMn2O4 synthesized by mechanical alloying" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/j.ssi.2013.10.049" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "87" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "83" ;
+      <http://purl.org/ontology/bibo/volume>
+              "262" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1016/j.ssi.2013.10.049> , <info:doi/10.1016/j.ssi.2013.10.049> .
+
+<http://id.crossref.org/contributor/s-torii-2ots1k09cfjnl>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Torii" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "S." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "S. Torii" .
+
+<http://id.crossref.org/contributor/t-ishigaki-2ots1k09cfjnl>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Ishigaki" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "T." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "T. Ishigaki" .
+
+<http://id.crossref.org/contributor/m-yonemura-2ots1k09cfjnl>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Yonemura" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "M." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "M. Yonemura" .
+
+<http://id.crossref.org/contributor/t-y-s-panca-putra-2ots1k09cfjnl>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <http://orcid.org/0000-0003-0195-5354> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Putra" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "T.Y.S. Panca" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "T.Y.S. Panca Putra" .

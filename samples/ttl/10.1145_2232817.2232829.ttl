@@ -1,0 +1,60 @@
+<http://id.crossref.org/contributor/sarah-giersch-3scejtui5fg32>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Giersch" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Sarah" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Sarah Giersch" .
+
+<http://id.crossref.org/contributor/joseph-tront-3scejtui5fg32>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Tront" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Joseph" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Joseph Tront" .
+
+<http://id.crossref.org/isbn/9781450311540>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Proceedings of the 12th ACM/IEEE-CS joint conference on Digital Libraries - JCDL '12" .
+
+<http://dx.doi.org/10.1145/2232817.2232829>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1145/2232817.2232829" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/sarah-giersch-3scejtui5fg32> , <http://id.crossref.org/contributor/joseph-tront-3scejtui5fg32> , <http://id.crossref.org/contributor/wesley-shumar-3scejtui5fg32> , <http://id.crossref.org/contributor/flora-mcmartin-3scejtui5fg32> ;
+      <http://purl.org/dc/terms/date>
+              "2012"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1145/2232817.2232829" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9781450311540> ;
+      <http://purl.org/dc/terms/publisher>
+              "ACM Press" ;
+      <http://purl.org/dc/terms/title>
+              "A tale of two studies" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1145/2232817.2232829" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1145/2232817.2232829> , <info:doi/10.1145/2232817.2232829> .
+
+<http://id.crossref.org/contributor/wesley-shumar-3scejtui5fg32>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Shumar" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Wesley" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Wesley Shumar" .
+
+<http://id.crossref.org/contributor/flora-mcmartin-3scejtui5fg32>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "McMartin" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Flora" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Flora McMartin" .

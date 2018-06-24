@@ -1,0 +1,86 @@
+<http://id.crossref.org/isbn/9781461434948>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Technology Enabled Knowledge Translation for eHealth" .
+
+<http://id.crossref.org/contributor/rebecca-campbell-2z0gi1gxvhe1r>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Campbell" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Rebecca" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Rebecca Campbell" .
+
+<http://id.crossref.org/contributor/andre-kushniruk-2z0gi1gxvhe1r>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kushniruk" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Andre" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Andre Kushniruk" .
+
+<http://id.crossref.org/contributor/lindsay-zibrik-2z0gi1gxvhe1r>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Zibrik" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Lindsay" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Lindsay Zibrik" .
+
+<http://id.crossref.org/contributor/elizabeth-borycki-2z0gi1gxvhe1r>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Borycki" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Elizabeth" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Elizabeth Borycki" .
+
+<http://id.crossref.org/contributor/sophia-khan-2z0gi1gxvhe1r>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Khan" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Sophia" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Sophia Khan" .
+
+<http://id.crossref.org/contributor/kendall-ho-2z0gi1gxvhe1r>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Ho" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Kendall" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Kendall Ho" .
+
+<http://dx.doi.org/10.1007/978-1-4614-3495-5_3>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1007/978-1-4614-3495-5_3" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "46" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "33" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/rebecca-campbell-2z0gi1gxvhe1r> , <http://id.crossref.org/contributor/andre-kushniruk-2z0gi1gxvhe1r> , <http://id.crossref.org/contributor/lindsay-zibrik-2z0gi1gxvhe1r> , <http://id.crossref.org/contributor/elizabeth-borycki-2z0gi1gxvhe1r> , <http://id.crossref.org/contributor/kendall-ho-2z0gi1gxvhe1r> , <http://id.crossref.org/contributor/sophia-khan-2z0gi1gxvhe1r> ;
+      <http://purl.org/dc/terms/date>
+              "2012"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1007/978-1-4614-3495-5_3" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9781461434948> ;
+      <http://purl.org/dc/terms/publisher>
+              "Springer New York" ;
+      <http://purl.org/dc/terms/title>
+              "Evaluating Electronic Health Record Competencies: New Trends and Approaches Involving Simulations" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1007/978-1-4614-3495-5_3" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "46" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "33" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1007/978-1-4614-3495-5_3> , <doi:10.1007/978-1-4614-3495-5_3> .

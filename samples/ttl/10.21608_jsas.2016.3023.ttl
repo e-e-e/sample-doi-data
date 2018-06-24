@@ -1,0 +1,40 @@
+<http://id.crossref.org/issn/2536-958X>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "2536-958X" ;
+      <http://purl.org/dc/terms/title>
+              "Journal of Sustainable Agricultural Sciences" ;
+      <http://purl.org/ontology/bibo/issn>
+              "2536-958X" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:2536-958X" .
+
+<http://dx.doi.org/10.21608/jsas.2016.3023>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.21608/jsas.2016.3023" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "18" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "9" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "42" ;
+      <http://purl.org/dc/terms/date>
+              "2016-12-31"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.21608/jsas.2016.3023" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/2536-958X> ;
+      <http://purl.org/dc/terms/publisher>
+              "Egypts Presidential Specialized Council for Education and Scientific Research" ;
+      <http://purl.org/dc/terms/title>
+              "DETERMINATION OF THE HERBICIDE BASAGRAN RESIDUES IN MAIZE PLANTS AND SOIL" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.21608/jsas.2016.3023" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "18" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "9" ;
+      <http://purl.org/ontology/bibo/volume>
+              "42" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.21608/jsas.2016.3023> , <doi:10.21608/jsas.2016.3023> .

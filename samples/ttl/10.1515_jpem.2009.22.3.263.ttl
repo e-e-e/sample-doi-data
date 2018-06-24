@@ -1,0 +1,52 @@
+<http://id.crossref.org/contributor/t-d-nebesio-2dzkbatb0f1t4>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Nebesio" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "T.D." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "T.D. Nebesio" .
+
+<http://id.crossref.org/issn/2191-0251>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "2191-0251" , "0334-018X" ;
+      <http://purl.org/dc/terms/title>
+              "Journal of Pediatric Endocrinology and Metabolism" ;
+      <http://purl.org/ontology/bibo/issn>
+              "2191-0251" , "0334-018X" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:2191-0251" , "urn:issn:0334-018X" .
+
+<http://dx.doi.org/10.1515/jpem.2009.22.3.263>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1515/jpem.2009.22.3.263" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "22" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/t-d-nebesio-2dzkbatb0f1t4> , <http://id.crossref.org/contributor/e-a-eugster-2dzkbatb0f1t4> ;
+      <http://purl.org/dc/terms/date>
+              "2009-01"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1515/jpem.2009.22.3.263" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/2191-0251> ;
+      <http://purl.org/dc/terms/publisher>
+              "Walter de Gruyter GmbH" ;
+      <http://purl.org/dc/terms/title>
+              "Unusual Thyroid Constellation in Down Syndrome: Congenital Hypothyroidism, Graves' Disease, and Hemiagenesis in the Same Child" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1515/jpem.2009.22.3.263" ;
+      <http://purl.org/ontology/bibo/volume>
+              "22" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1515/jpem.2009.22.3.263> , <doi:10.1515/jpem.2009.22.3.263> .
+
+<http://id.crossref.org/contributor/e-a-eugster-2dzkbatb0f1t4>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Eugster" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "E.A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "E.A. Eugster" .

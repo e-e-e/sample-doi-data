@@ -1,0 +1,69 @@
+<http://id.crossref.org/isbn/9781509004782>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "2015 IEEE/ACS 12th International Conference of Computer Systems and Applications (AICCSA)" .
+
+<http://id.crossref.org/contributor/gianluca-dini-d3i3owgm62ys>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Dini" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Gianluca" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Gianluca Dini" .
+
+<http://id.crossref.org/contributor/berardino-carnevale-d3i3owgm62ys>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Carnevale" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Berardino" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Berardino Carnevale" .
+
+<http://dx.doi.org/10.1109/aiccsa.2015.7507198>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1109/aiccsa.2015.7507198" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/gianluca-dini-d3i3owgm62ys> , <http://id.crossref.org/contributor/berardino-carnevale-d3i3owgm62ys> , <http://id.crossref.org/contributor/francesco-falaschi-d3i3owgm62ys> , <http://id.crossref.org/contributor/diego-pacini-d3i3owgm62ys> , <http://id.crossref.org/contributor/luca-fanucci-d3i3owgm62ys> ;
+      <http://purl.org/dc/terms/date>
+              "2015-11"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1109/aiccsa.2015.7507198" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9781509004782> ;
+      <http://purl.org/dc/terms/publisher>
+              "IEEE" ;
+      <http://purl.org/dc/terms/title>
+              "A hardware accelerator for the IEEE 802.1X-2010 key hierarchy in automotive applications" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1109/aiccsa.2015.7507198" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1109/aiccsa.2015.7507198> , <info:doi/10.1109/aiccsa.2015.7507198> .
+
+<http://id.crossref.org/contributor/francesco-falaschi-d3i3owgm62ys>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Falaschi" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Francesco" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Francesco Falaschi" .
+
+<http://id.crossref.org/contributor/diego-pacini-d3i3owgm62ys>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Pacini" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Diego" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Diego Pacini" .
+
+<http://id.crossref.org/contributor/luca-fanucci-d3i3owgm62ys>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Fanucci" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Luca" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Luca Fanucci" .

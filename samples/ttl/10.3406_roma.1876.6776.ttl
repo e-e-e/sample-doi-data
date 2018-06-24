@@ -1,0 +1,51 @@
+<http://id.crossref.org/issn/0035-8029>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0035-8029" ;
+      <http://purl.org/dc/terms/title>
+              "Romania" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0035-8029" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0035-8029" .
+
+<http://dx.doi.org/10.3406/roma.1876.6776>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.3406/roma.1876.6776" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "373" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "372" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "5" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/camille-chabaneau-3lhyb8n82obbg> ;
+      <http://purl.org/dc/terms/date>
+              "1876"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.3406/roma.1876.6776" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0035-8029> ;
+      <http://purl.org/dc/terms/publisher>
+              "PERSEE Program" ;
+      <http://purl.org/dc/terms/title>
+              "Sur li employé pour lor en provençal" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.3406/roma.1876.6776" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "373" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "372" ;
+      <http://purl.org/ontology/bibo/volume>
+              "5" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.3406/roma.1876.6776> , <info:doi/10.3406/roma.1876.6776> .
+
+<http://id.crossref.org/contributor/camille-chabaneau-3lhyb8n82obbg>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Chabaneau" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Camille" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Camille Chabaneau" .

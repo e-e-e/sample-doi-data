@@ -1,0 +1,96 @@
+<http://id.crossref.org/contributor/sayaka-sugiyama-2o2yhp5pdzbny>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Sugiyama" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Sayaka" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Sayaka Sugiyama" .
+
+<http://id.crossref.org/issn/0012-1606>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0012-1606" ;
+      <http://purl.org/dc/terms/title>
+              "Developmental Biology" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0012-1606" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0012-1606" .
+
+<http://id.crossref.org/contributor/kazumasa-ohashi-2o2yhp5pdzbny>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Ohashi" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Kazumasa" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Kazumasa Ohashi" .
+
+<http://id.crossref.org/contributor/xubin-hou-2o2yhp5pdzbny>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Hou" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Xubin" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Xubin Hou" .
+
+<http://id.crossref.org/contributor/harukazu-nakamura-2o2yhp5pdzbny>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Nakamura" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Harukazu" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Harukazu Nakamura" .
+
+<http://id.crossref.org/contributor/kensaku-mizuno-2o2yhp5pdzbny>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Mizuno" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Kensaku" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Kensaku Mizuno" .
+
+<http://dx.doi.org/10.1016/j.ydbio.2013.04.006>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/j.ydbio.2013.04.006" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "63" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "53" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "379" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/sayaka-sugiyama-2o2yhp5pdzbny> , <http://id.crossref.org/contributor/xubin-hou-2o2yhp5pdzbny> , <http://id.crossref.org/contributor/harukazu-nakamura-2o2yhp5pdzbny> , <http://id.crossref.org/contributor/kazumasa-ohashi-2o2yhp5pdzbny> , <http://id.crossref.org/contributor/kensaku-mizuno-2o2yhp5pdzbny> , <http://id.crossref.org/contributor/tatsuya-katahira-2o2yhp5pdzbny> ;
+      <http://purl.org/dc/terms/date>
+              "2013-07"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/j.ydbio.2013.04.006" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0012-1606> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Coactosin accelerates cell dynamism by promoting actin polymerization" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/j.ydbio.2013.04.006" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "63" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "53" ;
+      <http://purl.org/ontology/bibo/volume>
+              "379" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1016/j.ydbio.2013.04.006> , <info:doi/10.1016/j.ydbio.2013.04.006> .
+
+<http://id.crossref.org/contributor/tatsuya-katahira-2o2yhp5pdzbny>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Katahira" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Tatsuya" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Tatsuya Katahira" .

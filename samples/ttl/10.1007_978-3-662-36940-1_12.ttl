@@ -1,0 +1,41 @@
+<http://dx.doi.org/10.1007/978-3-662-36940-1_12>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1007/978-3-662-36940-1_12" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "129" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "116" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/f-schieck-2k9zok6hv4gla> ;
+      <http://purl.org/dc/terms/date>
+              "1939"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1007/978-3-662-36940-1_12" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9783662361108> ;
+      <http://purl.org/dc/terms/publisher>
+              "Springer Berlin Heidelberg" ;
+      <http://purl.org/dc/terms/title>
+              "Die Erkrankungen der Linse" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1007/978-3-662-36940-1_12" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "129" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "116" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1007/978-3-662-36940-1_12> , <doi:10.1007/978-3-662-36940-1_12> .
+
+<http://id.crossref.org/contributor/f-schieck-2k9zok6hv4gla>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Schieck" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "F." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "F. Schieck" .
+
+<http://id.crossref.org/isbn/9783662361108>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Grundriss der Augenheilkunde für Studierende" .

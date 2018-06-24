@@ -1,0 +1,32 @@
+<http://dx.doi.org/10.9785/ur-2016-1412>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.9785/ur-2016-1412" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "65" ;
+      <http://purl.org/dc/terms/date>
+              "2016-01-20"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.9785/ur-2016-1412" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/2194-4180> ;
+      <http://purl.org/dc/terms/publisher>
+              "Verlag Dr. Otto Schmidt" ;
+      <http://purl.org/dc/terms/title>
+              "Lieferung, sonstige Leistung: Steuerliche Maßnahmen zur Unterstützung der Opfer des Erdbebens in Ecuador" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.9785/ur-2016-1412" ;
+      <http://purl.org/ontology/bibo/volume>
+              "65" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.9785/ur-2016-1412> , <info:doi/10.9785/ur-2016-1412> .
+
+<http://id.crossref.org/issn/2194-4180>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "2194-4180" ;
+      <http://purl.org/dc/terms/title>
+              "Umsatzsteuer-Rundschau" ;
+      <http://purl.org/ontology/bibo/issn>
+              "2194-4180" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:2194-4180" .

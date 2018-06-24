@@ -1,0 +1,52 @@
+<http://dx.doi.org/10.1017/s1531426x00005148>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1017/s1531426x00005148" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "158" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "153" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "45" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/peter-siavelis-2yxtm8i1w44z> ;
+      <http://purl.org/dc/terms/date>
+              "2003"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1017/s1531426x00005148" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1531-426X> ;
+      <http://purl.org/dc/terms/publisher>
+              "Cambridge University Press (CUP)" ;
+      <http://purl.org/dc/terms/title>
+              """Ricardo Ffrench-Davis. Economic Reforms in Chile: From Dictatorship to Democracy. 
+            Ann Arbor: University of Michigan Press, 2002. Figures, tables, bibliography, notes, index, 263 pp.; hardcover $57.50.""" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1017/s1531426x00005148" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "158" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "153" ;
+      <http://purl.org/ontology/bibo/volume>
+              "45" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1017/s1531426x00005148> , <doi:10.1017/s1531426x00005148> .
+
+<http://id.crossref.org/issn/1531-426X>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1531-426X" , "1548-2456" ;
+      <http://purl.org/dc/terms/title>
+              "Latin American Politics and Society" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1531-426X" , "1548-2456" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1548-2456" , "urn:issn:1531-426X" .
+
+<http://id.crossref.org/contributor/peter-siavelis-2yxtm8i1w44z>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Siavelis" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Peter" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Peter Siavelis" .

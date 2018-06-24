@@ -1,0 +1,30 @@
+<http://dx.doi.org/10.14483/udistrital.jour.rc>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.14483/udistrital.jour.rc" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "2015" ;
+      <http://purl.org/dc/terms/date>
+              "2015-01-01"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.14483/udistrital.jour.rc" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0124-2253> ;
+      <http://purl.org/dc/terms/publisher>
+              "Universidad Distrital Francisco Jose de Caldas" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.14483/udistrital.jour.rc" ;
+      <http://purl.org/ontology/bibo/volume>
+              "2015" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.14483/udistrital.jour.rc> , <doi:10.14483/udistrital.jour.rc> .
+
+<http://id.crossref.org/issn/0124-2253>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0124-2253" , "2344-8350" ;
+      <http://purl.org/dc/terms/title>
+              "Revista Científica" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0124-2253" , "2344-8350" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0124-2253" , "urn:issn:2344-8350" .

@@ -1,0 +1,41 @@
+<http://id.crossref.org/isbn/9780080240411>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Money and Monetary Policy in Less Developed Countries" .
+
+<http://dx.doi.org/10.1016/b978-0-08-024041-1.50012-0>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/b978-0-08-024041-1.50012-0" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "93" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "85" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/j-g-borpujari-16zj6391r9lub> ;
+      <http://purl.org/dc/terms/date>
+              "1980"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/b978-0-08-024041-1.50012-0" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9780080240411> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier" ;
+      <http://purl.org/dc/terms/title>
+              "Production and Monetization in the Subsistence Sector**Printed by permission of the author." ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/b978-0-08-024041-1.50012-0" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "93" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "85" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1016/b978-0-08-024041-1.50012-0> , <doi:10.1016/b978-0-08-024041-1.50012-0> .
+
+<http://id.crossref.org/contributor/j-g-borpujari-16zj6391r9lub>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Borpujari" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "J.G." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "J.G. Borpujari" .

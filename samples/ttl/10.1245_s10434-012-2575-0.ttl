@@ -1,0 +1,96 @@
+<http://id.crossref.org/contributor/nabil-wasif-1tvplznqshr82>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Wasif" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Nabil" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Nabil Wasif" .
+
+<http://dx.doi.org/10.1245/s10434-012-2575-0>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1245/s10434-012-2575-0" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "3269" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "3264" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "19" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/nabil-wasif-1tvplznqshr82> , <http://id.crossref.org/contributor/richard-j-gray-1tvplznqshr82> , <http://id.crossref.org/contributor/marina-e-giurescu-1tvplznqshr82> , <http://id.crossref.org/contributor/lee-j-mcghan-1tvplznqshr82> , <http://id.crossref.org/contributor/barbara-a-pockaj-1tvplznqshr82> , <http://id.crossref.org/contributor/ann-e-mccullough-1tvplznqshr82> ;
+      <http://purl.org/dc/terms/date>
+              "2012-08-10"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1245/s10434-012-2575-0" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1068-9265> ;
+      <http://purl.org/dc/terms/publisher>
+              "Springer Nature" ;
+      <http://purl.org/dc/terms/title>
+              "Atypical Ductal Hyperplasia on Core Biopsy: An Automatic Trigger for Excisional Biopsy?" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1245/s10434-012-2575-0" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "3269" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "3264" ;
+      <http://purl.org/ontology/bibo/volume>
+              "19" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1245/s10434-012-2575-0> , <info:doi/10.1245/s10434-012-2575-0> .
+
+<http://id.crossref.org/contributor/richard-j-gray-1tvplznqshr82>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Gray" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Richard J." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Richard J. Gray" .
+
+<http://id.crossref.org/contributor/marina-e-giurescu-1tvplznqshr82>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Giurescu" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Marina E." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Marina E. Giurescu" .
+
+<http://id.crossref.org/contributor/lee-j-mcghan-1tvplznqshr82>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "McGhan" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Lee J." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Lee J. McGhan" .
+
+<http://id.crossref.org/issn/1068-9265>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1534-4681" , "1068-9265" ;
+      <http://purl.org/dc/terms/title>
+              "Annals of Surgical Oncology" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1534-4681" , "1068-9265" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1534-4681" , "urn:issn:1068-9265" .
+
+<http://id.crossref.org/contributor/ann-e-mccullough-1tvplznqshr82>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "McCullough" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Ann E." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Ann E. McCullough" .
+
+<http://id.crossref.org/contributor/barbara-a-pockaj-1tvplznqshr82>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Pockaj" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Barbara A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Barbara A. Pockaj" .

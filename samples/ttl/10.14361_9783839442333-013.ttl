@@ -1,0 +1,22 @@
+<http://id.crossref.org/isbn/9783839442333>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Politische Gewalt ausstellen" .
+
+<http://dx.doi.org/10.14361/9783839442333-013>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.14361/9783839442333-013" ;
+      <http://purl.org/dc/terms/date>
+              "2018-12-31"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.14361/9783839442333-013" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9783839442333> ;
+      <http://purl.org/dc/terms/publisher>
+              "transcript Verlag" ;
+      <http://purl.org/dc/terms/title>
+              "10 Quellen- und Literaturverzeichnis" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.14361/9783839442333-013" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.14361/9783839442333-013> , <info:doi/10.14361/9783839442333-013> .

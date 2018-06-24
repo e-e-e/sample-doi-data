@@ -1,0 +1,32 @@
+<http://id.crossref.org/issn/0849-6757>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0849-6757" ;
+      <http://purl.org/dc/terms/title>
+              "CrossRef Listing of Deleted DOIs" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0849-6757" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0849-6757" .
+
+<http://dx.doi.org/10.1037/e599692007-001>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1037/e599692007-001" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "1" ;
+      <http://purl.org/dc/terms/date>
+              "2000"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1037/e599692007-001" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0849-6757> ;
+      <http://purl.org/dc/terms/publisher>
+              "Test accounts" ;
+      <http://purl.org/dc/terms/title>
+              "10.1037/e599692007-001" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1037/e599692007-001" ;
+      <http://purl.org/ontology/bibo/volume>
+              "1" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1037/e599692007-001> , <info:doi/10.1037/e599692007-001> .

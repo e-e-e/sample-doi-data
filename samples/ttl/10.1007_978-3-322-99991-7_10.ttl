@@ -1,0 +1,41 @@
+<http://id.crossref.org/contributor/heinz-ulrich-brinkmann-3nf0it5y6pzem>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Brinkmann" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Heinz Ulrich" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Heinz Ulrich Brinkmann" .
+
+<http://id.crossref.org/isbn/9783810004369>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Public Interest Groups im politischen System der USA" .
+
+<http://dx.doi.org/10.1007/978-3-322-99991-7_10>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1007/978-3-322-99991-7_10" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "74" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "74" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/heinz-ulrich-brinkmann-3nf0it5y6pzem> ;
+      <http://purl.org/dc/terms/date>
+              "1984"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1007/978-3-322-99991-7_10" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9783810004369> ;
+      <http://purl.org/dc/terms/publisher>
+              "VS Verlag für Sozialwissenschaften" ;
+      <http://purl.org/dc/terms/title>
+              "Bewertung der einzelnen Faktoren" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1007/978-3-322-99991-7_10" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "74" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "74" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1007/978-3-322-99991-7_10> , <info:doi/10.1007/978-3-322-99991-7_10> .

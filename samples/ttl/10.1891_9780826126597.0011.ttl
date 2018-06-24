@@ -1,0 +1,42 @@
+<http://dx.doi.org/10.1891/9780826126597.0011>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1891/9780826126597.0011" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/joseph-j-gallo-3avb65r3nkoo> , <http://id.crossref.org/contributor/su-yeon-lee-3avb65r3nkoo> ;
+      <http://purl.org/dc/terms/date>
+              ""^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1891/9780826126597.0011" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9780826126580> ;
+      <http://purl.org/dc/terms/publisher>
+              "Springer Publishing Company" ;
+      <http://purl.org/dc/terms/title>
+              "Mixed Methods in Behavioral Intervention Research" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1891/9780826126597.0011" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1891/9780826126597.0011> , <info:doi/10.1891/9780826126597.0011> .
+
+<http://id.crossref.org/contributor/su-yeon-lee-3avb65r3nkoo>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Lee" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Su Yeon" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Su Yeon Lee" .
+
+<http://id.crossref.org/contributor/joseph-j-gallo-3avb65r3nkoo>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Gallo" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Joseph J" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Joseph J Gallo" .
+
+<http://id.crossref.org/isbn/9780826126580>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Behavioral Intervention Research: Designing, Evaluating, and Implementing" .

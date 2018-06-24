@@ -1,0 +1,52 @@
+<http://dx.doi.org/10.1007/978-3-319-06829-9_6>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1007/978-3-319-06829-9_6" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "96" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "89" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/olavi-uusitalo-248nstc99enre> ;
+      <http://purl.org/dc/terms/date>
+              "2014"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1007/978-3-319-06829-9_6" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/2191-530X> , <http://id.crossref.org/isbn/9783319068282> ;
+      <http://purl.org/dc/terms/publisher>
+              "Springer International Publishing" ;
+      <http://purl.org/dc/terms/title>
+              "Conclusions" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1007/978-3-319-06829-9_6" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "96" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "89" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1007/978-3-319-06829-9_6> , <info:doi/10.1007/978-3-319-06829-9_6> .
+
+<http://id.crossref.org/issn/2191-530X>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "2191-530X" , "2191-5318" ;
+      <http://purl.org/dc/terms/title>
+              "Float Glass Innovation in the Flat Glass Industry" ;
+      <http://purl.org/ontology/bibo/issn>
+              "2191-530X" , "2191-5318" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:2191-5318" , "urn:issn:2191-530X" .
+
+<http://id.crossref.org/isbn/9783319068282>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Float Glass Innovation in the Flat Glass Industry" .
+
+<http://id.crossref.org/contributor/olavi-uusitalo-248nstc99enre>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Uusitalo" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Olavi" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Olavi Uusitalo" .

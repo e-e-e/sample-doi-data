@@ -1,0 +1,114 @@
+<http://id.crossref.org/contributor/l-perard-2hk1jsoo3kgr4>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Pérard" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "L." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "L. Pérard" .
+
+<http://id.crossref.org/contributor/a-hot-2hk1jsoo3kgr4>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Hot" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "A. Hot" .
+
+<http://id.crossref.org/contributor/c-girard-2hk1jsoo3kgr4>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Girard" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "C." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "C. Girard" .
+
+<http://id.crossref.org/contributor/j-ninet-2hk1jsoo3kgr4>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Ninet" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "J." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "J. Ninet" .
+
+<http://id.crossref.org/issn/0248-8663>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0248-8663" ;
+      <http://purl.org/dc/terms/title>
+              "La Revue de Médecine Interne" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0248-8663" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0248-8663" .
+
+<http://id.crossref.org/contributor/h-desmurs-clavel-2hk1jsoo3kgr4>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Desmurs-Clavel" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "H." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "H. Desmurs-Clavel" .
+
+<http://id.crossref.org/contributor/c-leroy-2hk1jsoo3kgr4>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Leroy" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "C." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "C. Leroy" .
+
+<http://dx.doi.org/10.1016/j.revmed.2014.12.011>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/j.revmed.2014.12.011" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "776" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "773" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "36" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/l-perard-2hk1jsoo3kgr4> , <http://id.crossref.org/contributor/c-girard-2hk1jsoo3kgr4> , <http://id.crossref.org/contributor/a-hot-2hk1jsoo3kgr4> , <http://id.crossref.org/contributor/j-ninet-2hk1jsoo3kgr4> , <http://id.crossref.org/contributor/h-desmurs-clavel-2hk1jsoo3kgr4> , <http://id.crossref.org/contributor/c-leroy-2hk1jsoo3kgr4> , <http://id.crossref.org/contributor/b-coppere-2hk1jsoo3kgr4> , <http://id.crossref.org/contributor/m-h-girard-madoux-2hk1jsoo3kgr4> ;
+      <http://purl.org/dc/terms/date>
+              "2015-11"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/j.revmed.2014.12.011" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0248-8663> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Sarcoïdose duodénale : à propos d’un cas" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/j.revmed.2014.12.011" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "776" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "773" ;
+      <http://purl.org/ontology/bibo/volume>
+              "36" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1016/j.revmed.2014.12.011> , <info:doi/10.1016/j.revmed.2014.12.011> .
+
+<http://id.crossref.org/contributor/b-coppere-2hk1jsoo3kgr4>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Coppéré" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "B." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "B. Coppéré" .
+
+<http://id.crossref.org/contributor/m-h-girard-madoux-2hk1jsoo3kgr4>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Girard-Madoux" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "M.-H." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "M.-H. Girard-Madoux" .

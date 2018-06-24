@@ -1,0 +1,69 @@
+<http://id.crossref.org/contributor/m-a-fortes-34ap7g296217b>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Fortes" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "M.A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "M.A. Fortes" .
+
+<http://dx.doi.org/10.1140/epje/i200101100>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1140/epje/i200101100" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "140" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "129" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "7" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/m-a-fortes-34ap7g296217b> , <http://id.crossref.org/contributor/m-e-rosa-34ap7g296217b> , <http://id.crossref.org/contributor/m-f-vaz-34ap7g296217b> ;
+      <http://purl.org/dc/terms/date>
+              "2002-02"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1140/epje/i200101100" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1292-8941> ;
+      <http://purl.org/dc/terms/publisher>
+              "Springer Nature" ;
+      <http://purl.org/dc/terms/title>
+              "Deformation of three-dimensional monodisperse liquid foams" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1140/epje/i200101100" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "140" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "129" ;
+      <http://purl.org/ontology/bibo/volume>
+              "7" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1140/epje/i200101100> , <info:doi/10.1140/epje/i200101100> .
+
+<http://id.crossref.org/issn/1292-8941>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1292-8941" ;
+      <http://purl.org/dc/terms/title>
+              "The European Physical Journal E" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1292-8941" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1292-8941" .
+
+<http://id.crossref.org/contributor/m-e-rosa-34ap7g296217b>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Rosa" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "M.E." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "M.E. Rosa" .
+
+<http://id.crossref.org/contributor/m-f-vaz-34ap7g296217b>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Vaz" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "M.F." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "M.F. Vaz" .

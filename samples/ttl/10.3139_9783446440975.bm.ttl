@@ -1,0 +1,50 @@
+<http://id.crossref.org/isbn/9783446440920>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Live Streaming mit Hangout On Air" .
+
+<http://dx.doi.org/10.3139/9783446440975.bm>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.3139/9783446440975.bm" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "275" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "273" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/gunnar-sohn-3fmtodtgvmcu9> , <http://id.crossref.org/contributor/hannes-schleeh-3fmtodtgvmcu9> ;
+      <http://purl.org/dc/terms/date>
+              "2014-09"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.3139/9783446440975.bm" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9783446440920> ;
+      <http://purl.org/dc/terms/publisher>
+              "Carl Hanser Verlag GmbH & Co. KG" ;
+      <http://purl.org/dc/terms/title>
+              "Index" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.3139/9783446440975.bm" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "275" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "273" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.3139/9783446440975.bm> , <doi:10.3139/9783446440975.bm> .
+
+<http://id.crossref.org/contributor/gunnar-sohn-3fmtodtgvmcu9>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Sohn" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Gunnar" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Gunnar Sohn" .
+
+<http://id.crossref.org/contributor/hannes-schleeh-3fmtodtgvmcu9>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Schleeh" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Hannes" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Hannes Schleeh" .

@@ -1,0 +1,106 @@
+<http://id.crossref.org/contributor/kellie-j-archer-1m1dbw8kpmgp7>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Archer" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Kellie J." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Kellie J. Archer" .
+
+<http://id.crossref.org/contributor/hb-nianjun-liu-1m1dbw8kpmgp7>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Liu" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "hb Nianjun" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "hb Nianjun Liu" .
+
+<http://id.crossref.org/contributor/fengjiao-hu-1m1dbw8kpmgp7>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Hu" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Fengjiao" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Fengjiao Hu" .
+
+<http://id.crossref.org/contributor/wenan-chen-1m1dbw8kpmgp7>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Chen" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Wenan" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Wenan Chen" .
+
+<http://dx.doi.org/10.3389/fgene.2012.00300>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.3389/fgene.2012.00300" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "3" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/kellie-j-archer-1m1dbw8kpmgp7> , <http://id.crossref.org/contributor/hb-nianjun-liu-1m1dbw8kpmgp7> , <http://id.crossref.org/contributor/fengjiao-hu-1m1dbw8kpmgp7> , <http://id.crossref.org/contributor/wenan-chen-1m1dbw8kpmgp7> , <http://id.crossref.org/contributor/shumei-sun-1m1dbw8kpmgp7> , <http://id.crossref.org/contributor/guimin-gao-1m1dbw8kpmgp7> , <http://id.crossref.org/contributor/xiangning-chen-1m1dbw8kpmgp7> , <http://id.crossref.org/contributor/shudong-wang-1m1dbw8kpmgp7> ;
+      <http://purl.org/dc/terms/date>
+              "2012"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.3389/fgene.2012.00300" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1664-8021> ;
+      <http://purl.org/dc/terms/publisher>
+              "Frontiers Media SA" ;
+      <http://purl.org/dc/terms/title>
+              "Double genomic control is not effective to correct for population stratification in meta-analysis for genome-wide association studies" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.3389/fgene.2012.00300" ;
+      <http://purl.org/ontology/bibo/volume>
+              "3" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.3389/fgene.2012.00300> , <doi:10.3389/fgene.2012.00300> .
+
+<http://id.crossref.org/issn/1664-8021>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1664-8021" ;
+      <http://purl.org/dc/terms/title>
+              "Frontiers in Genetics" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1664-8021" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1664-8021" .
+
+<http://id.crossref.org/contributor/shumei-sun-1m1dbw8kpmgp7>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Sun" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Shumei" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Shumei Sun" .
+
+<http://id.crossref.org/contributor/guimin-gao-1m1dbw8kpmgp7>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Gao" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Guimin" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Guimin Gao" .
+
+<http://id.crossref.org/contributor/xiangning-chen-1m1dbw8kpmgp7>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Chen" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Xiangning" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Xiangning Chen" .
+
+<http://id.crossref.org/contributor/shudong-wang-1m1dbw8kpmgp7>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Wang" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Shudong" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Shudong Wang" .

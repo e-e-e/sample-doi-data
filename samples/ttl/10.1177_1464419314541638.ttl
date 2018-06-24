@@ -1,0 +1,78 @@
+<http://id.crossref.org/contributor/mv-blundell-899i4t0da6vs>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Blundell" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "MV" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "MV Blundell" .
+
+<http://id.crossref.org/issn/1464-4193>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "2041-3068" , "1464-4193" ;
+      <http://purl.org/dc/terms/title>
+              "Proceedings of the Institution of Mechanical Engineers, Part K: Journal of Multi-body Dynamics" ;
+      <http://purl.org/ontology/bibo/issn>
+              "2041-3068" , "1464-4193" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:2041-3068" , "urn:issn:1464-4193" .
+
+<http://dx.doi.org/10.1177/1464419314541638>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1177/1464419314541638" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "413" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "400" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "228" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/mv-blundell-899i4t0da6vs> , <http://id.crossref.org/contributor/g-woodand-899i4t0da6vs> , <http://id.crossref.org/contributor/c-bastien-899i4t0da6vs> , <http://id.crossref.org/contributor/yun-wang-899i4t0da6vs> ;
+      <http://purl.org/dc/terms/date>
+              "2014-07-07"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1177/1464419314541638" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1464-4193> ;
+      <http://purl.org/dc/terms/publisher>
+              "SAGE Publications" ;
+      <http://purl.org/dc/terms/title>
+              "Tyre model development using co-simulation technique for helicopter ground operation" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1177/1464419314541638" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "413" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "400" ;
+      <http://purl.org/ontology/bibo/volume>
+              "228" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1177/1464419314541638> , <doi:10.1177/1464419314541638> .
+
+<http://id.crossref.org/contributor/c-bastien-899i4t0da6vs>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Bastien" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "C" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "C Bastien" .
+
+<http://id.crossref.org/contributor/g-woodand-899i4t0da6vs>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Woodand" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "G" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "G Woodand" .
+
+<http://id.crossref.org/contributor/yun-wang-899i4t0da6vs>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Wang" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Yun" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Yun Wang" .

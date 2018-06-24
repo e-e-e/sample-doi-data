@@ -1,0 +1,15 @@
+<http://dx.doi.org/10.1037/e406362005-010>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1037/e406362005-010" ;
+      <http://purl.org/dc/terms/date>
+              "1975"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1037/e406362005-010" ;
+      <http://purl.org/dc/terms/publisher>
+              "American Psychological Association (APA)" ;
+      <http://purl.org/dc/terms/title>
+              "NATO Conference on Human Factors" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1037/e406362005-010" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1037/e406362005-010> , <info:doi/10.1037/e406362005-010> .

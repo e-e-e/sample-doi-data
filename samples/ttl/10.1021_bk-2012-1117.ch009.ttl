@@ -1,0 +1,106 @@
+<http://id.crossref.org/contributor/richard-a-obrien-3pnmiacnyc9nz>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "O’Brien" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Richard A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Richard A. O’Brien" .
+
+<http://id.crossref.org/contributor/niloufar-mobarrez-3pnmiacnyc9nz>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Mobarrez" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Niloufar" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Niloufar Mobarrez" .
+
+<http://id.crossref.org/contributor/arsalan-mirjafari-3pnmiacnyc9nz>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Mirjafari" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Arsalan" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Arsalan Mirjafari" .
+
+<http://id.crossref.org/contributor/samuel-m-murray-3pnmiacnyc9nz>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Murray" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Samuel M." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Samuel M. Murray" .
+
+<http://id.crossref.org/issn/0097-6156>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0097-6156" , "1947-5918" ;
+      <http://purl.org/dc/terms/title>
+              "ACS Symposium Series" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0097-6156" , "1947-5918" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1947-5918" , "urn:issn:0097-6156" .
+
+<http://id.crossref.org/contributor/kaila-m-mattson-3pnmiacnyc9nz>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Mattson" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Kaila M." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Kaila M. Mattson" .
+
+<http://id.crossref.org/isbn/0841227632>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "ACS Symposium Series" .
+
+<http://id.crossref.org/contributor/james-h-davis-3pnmiacnyc9nz>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Davis" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "James H." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "James H. Davis" .
+
+<http://dx.doi.org/10.1021/bk-2012-1117.ch009>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1021/bk-2012-1117.ch009" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "216" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "199" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/richard-a-obrien-3pnmiacnyc9nz> , <http://id.crossref.org/contributor/niloufar-mobarrez-3pnmiacnyc9nz> , <http://id.crossref.org/contributor/arsalan-mirjafari-3pnmiacnyc9nz> , <http://id.crossref.org/contributor/samuel-m-murray-3pnmiacnyc9nz> , <http://id.crossref.org/contributor/kaila-m-mattson-3pnmiacnyc9nz> , <http://id.crossref.org/contributor/james-h-davis-3pnmiacnyc9nz> , <http://id.crossref.org/contributor/kevin-n-west-3pnmiacnyc9nz> ;
+      <http://purl.org/dc/terms/date>
+              "2012-01"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1021/bk-2012-1117.ch009" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0097-6156> , <http://id.crossref.org/isbn/0841227632> ;
+      <http://purl.org/dc/terms/publisher>
+              "American Chemical Society" ;
+      <http://purl.org/dc/terms/title>
+              "Lipid-Inspired Ionic Liquids Containing Long-Chain Appendages: Novel Class of Biomaterials with Attractive Properties and Applications" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1021/bk-2012-1117.ch009" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "216" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "199" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1021/bk-2012-1117.ch009> , <doi:10.1021/bk-2012-1117.ch009> .
+
+<http://id.crossref.org/contributor/kevin-n-west-3pnmiacnyc9nz>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "West" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Kevin N." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Kevin N. West" .

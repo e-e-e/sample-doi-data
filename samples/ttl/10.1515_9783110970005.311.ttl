@@ -1,0 +1,22 @@
+<http://dx.doi.org/10.1515/9783110970005.311>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1515/9783110970005.311" ;
+      <http://purl.org/dc/terms/date>
+              "1993-01-31"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1515/9783110970005.311" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9783110970005> ;
+      <http://purl.org/dc/terms/publisher>
+              "DE GRUYTER SAUR" ;
+      <http://purl.org/dc/terms/title>
+              "Tamburini - Taylor, Jeremy" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1515/9783110970005.311" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1515/9783110970005.311> , <doi:10.1515/9783110970005.311> .
+
+<http://id.crossref.org/isbn/9783110970005>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Katalog der Graphischen Porträts in der Herzog August Bibliothek Wolfenbüttel: 1500-1850. Reihe A, Band 24, Ste - Te" .

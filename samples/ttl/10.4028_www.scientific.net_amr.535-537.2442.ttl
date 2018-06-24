@@ -1,0 +1,60 @@
+<http://id.crossref.org/issn/1662-8985>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1662-8985" ;
+      <http://purl.org/dc/terms/title>
+              "Advanced Materials Research" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1662-8985" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1662-8985" .
+
+<http://dx.doi.org/10.4028/www.scientific.net/amr.535-537.2442>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.4028/www.scientific.net/amr.535-537.2442" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "2445" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "2442" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "535-537" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/jun-ping-zhuang-4hbmcs91i0p3> , <http://id.crossref.org/contributor/xue-ping-li-4hbmcs91i0p3> ;
+      <http://purl.org/dc/terms/date>
+              "2012-06"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.4028/www.scientific.net/amr.535-537.2442" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1662-8985> ;
+      <http://purl.org/dc/terms/publisher>
+              "Trans Tech Publications" ;
+      <http://purl.org/dc/terms/title>
+              "Hydrolysis of Bamboo Fiber for Production of Fermentable Sugars in Saturated Formic Acid" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.4028/www.scientific.net/amr.535-537.2442" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "2445" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "2442" ;
+      <http://purl.org/ontology/bibo/volume>
+              "535-537" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.4028/www.scientific.net/amr.535-537.2442> , <info:doi/10.4028/www.scientific.net/amr.535-537.2442> .
+
+<http://id.crossref.org/contributor/xue-ping-li-4hbmcs91i0p3>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Li" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Xue Ping" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Xue Ping Li" .
+
+<http://id.crossref.org/contributor/jun-ping-zhuang-4hbmcs91i0p3>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Zhuang" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Jun Ping" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Jun Ping Zhuang" .

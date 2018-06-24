@@ -1,0 +1,26 @@
+<http://dx.doi.org/10.3410/f.13272070.14628183>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.3410/f.13272070.14628183" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/cheng-ming-chiang-7v4d4qv8j2ib> ;
+      <http://purl.org/dc/terms/date>
+              "2011-09-15"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.3410/f.13272070.14628183" ;
+      <http://purl.org/dc/terms/publisher>
+              "Faculty of 1000, Ltd." ;
+      <http://purl.org/dc/terms/title>
+              "Faculty of 1000 evaluation for A novel MLL5 isoform that is essential to activate E6 and E7 transcription in HPV16/18-associated cervical cancers." ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.3410/f.13272070.14628183" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.3410/f.13272070.14628183> , <info:doi/10.3410/f.13272070.14628183> .
+
+<http://id.crossref.org/contributor/cheng-ming-chiang-7v4d4qv8j2ib>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Chiang" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Cheng-Ming" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Cheng-Ming Chiang" .

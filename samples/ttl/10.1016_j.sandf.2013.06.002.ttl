@@ -1,0 +1,69 @@
+<http://dx.doi.org/10.1016/j.sandf.2013.06.002>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/j.sandf.2013.06.002" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "497" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "487" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "53" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/jia-chen-wang-36p0lp1a1sl5e> , <http://id.crossref.org/contributor/shu-wei-sun-36p0lp1a1sl5e> , <http://id.crossref.org/contributor/ben-zhen-zhu-36p0lp1a1sl5e> ;
+      <http://purl.org/dc/terms/date>
+              "2013-08"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/j.sandf.2013.06.002" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0038-0806> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Design method for stabilization of earth slopes with micropiles" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/j.sandf.2013.06.002" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "497" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "487" ;
+      <http://purl.org/ontology/bibo/volume>
+              "53" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1016/j.sandf.2013.06.002> , <info:doi/10.1016/j.sandf.2013.06.002> .
+
+<http://id.crossref.org/contributor/jia-chen-wang-36p0lp1a1sl5e>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Wang" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Jia-Chen" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Jia-Chen Wang" .
+
+<http://id.crossref.org/issn/0038-0806>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0038-0806" ;
+      <http://purl.org/dc/terms/title>
+              "Soils and Foundations" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0038-0806" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0038-0806" .
+
+<http://id.crossref.org/contributor/shu-wei-sun-36p0lp1a1sl5e>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Sun" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Shu-Wei" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Shu-Wei Sun" .
+
+<http://id.crossref.org/contributor/ben-zhen-zhu-36p0lp1a1sl5e>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Zhu" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Ben-Zhen" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Ben-Zhen Zhu" .

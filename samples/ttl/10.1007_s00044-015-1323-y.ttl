@@ -1,0 +1,87 @@
+<http://dx.doi.org/10.1007/s00044-015-1323-y>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1007/s00044-015-1323-y" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "2603" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "2591" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "24" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/guo-hua-gong-2qazzf175gv1k> , <http://id.crossref.org/contributor/zhe-shan-quan-2qazzf175gv1k> , <http://id.crossref.org/contributor/xiang-wen-2qazzf175gv1k> , <http://id.crossref.org/contributor/da-chuan-liu-2qazzf175gv1k> , <http://id.crossref.org/contributor/shi-ben-wang-2qazzf175gv1k> ;
+      <http://purl.org/dc/terms/date>
+              "2015-01-24"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1007/s00044-015-1323-y" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1054-2523> ;
+      <http://purl.org/dc/terms/publisher>
+              "Springer Nature" ;
+      <http://purl.org/dc/terms/title>
+              "Synthesis and evaluation of the anti-inflammatory activity of quinoline derivatives" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1007/s00044-015-1323-y" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "2603" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "2591" ;
+      <http://purl.org/ontology/bibo/volume>
+              "24" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1007/s00044-015-1323-y> , <info:doi/10.1007/s00044-015-1323-y> .
+
+<http://id.crossref.org/contributor/guo-hua-gong-2qazzf175gv1k>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Gong" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Guo-Hua" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Guo-Hua Gong" .
+
+<http://id.crossref.org/issn/1054-2523>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1054-2523" , "1554-8120" ;
+      <http://purl.org/dc/terms/title>
+              "Medicinal Chemistry Research" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1054-2523" , "1554-8120" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1054-2523" , "urn:issn:1554-8120" .
+
+<http://id.crossref.org/contributor/zhe-shan-quan-2qazzf175gv1k>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Quan" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Zhe-Shan" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Zhe-Shan Quan" .
+
+<http://id.crossref.org/contributor/xiang-wen-2qazzf175gv1k>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Wen" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Xiang" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Xiang Wen" .
+
+<http://id.crossref.org/contributor/da-chuan-liu-2qazzf175gv1k>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Liu" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Da-Chuan" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Da-Chuan Liu" .
+
+<http://id.crossref.org/contributor/shi-ben-wang-2qazzf175gv1k>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Wang" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Shi-Ben" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Shi-Ben Wang" .

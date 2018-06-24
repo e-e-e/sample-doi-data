@@ -1,0 +1,49 @@
+<http://dx.doi.org/10.15749/jts.2016.17.1.007>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.15749/jts.2016.17.1.007" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "169" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "147" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "17" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/choi-heekyung-2r16tk62q9c9> ;
+      <http://purl.org/dc/terms/date>
+              "2016-03"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.15749/jts.2016.17.1.007" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1229-795X> ;
+      <http://purl.org/dc/terms/publisher>
+              "The Korean Association of Translation Studies" ;
+      <http://purl.org/dc/terms/title>
+              "Revisiting the Concept of “Translationese” based on Corpus Analysis" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.15749/jts.2016.17.1.007" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "169" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "147" ;
+      <http://purl.org/ontology/bibo/volume>
+              "17" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.15749/jts.2016.17.1.007> , <info:doi/10.15749/jts.2016.17.1.007> .
+
+<http://id.crossref.org/issn/1229-795X>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1229-795X" ;
+      <http://purl.org/dc/terms/title>
+              "The Journal of Translation Studies" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1229-795X" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1229-795X" .
+
+<http://id.crossref.org/contributor/choi-heekyung-2r16tk62q9c9>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Choi, Heekyung" ;
+      <http://xmlns.com/foaf/0.1/name>
+              " Choi, Heekyung" .

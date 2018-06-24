@@ -1,0 +1,68 @@
+<http://id.crossref.org/contributor/v-schilling-77888er3qfae>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Schilling" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "V." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "V. Schilling" .
+
+<http://dx.doi.org/10.1007/978-3-642-83931-3_138>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1007/978-3-642-83931-3_138" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "141" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "139" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/v-schilling-77888er3qfae> , <http://id.crossref.org/contributor/d-mischke-77888er3qfae> , <http://id.crossref.org/contributor/h-lobeck-77888er3qfae> , <http://id.crossref.org/contributor/g-a-wild-77888er3qfae> ;
+      <http://purl.org/dc/terms/date>
+              "1989"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1007/978-3-642-83931-3_138" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9783540516576> ;
+      <http://purl.org/dc/terms/publisher>
+              "Springer Berlin Heidelberg" ;
+      <http://purl.org/dc/terms/title>
+              "Das Cholesteatom — Ein autonomes, hyperproliferatives Krankheitsbild?" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1007/978-3-642-83931-3_138" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "141" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "139" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1007/978-3-642-83931-3_138> , <info:doi/10.1007/978-3-642-83931-3_138> .
+
+<http://id.crossref.org/isbn/9783540516576>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Teil II: Sitzungsbericht" .
+
+<http://id.crossref.org/contributor/d-mischke-77888er3qfae>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Mischke" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "D." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "D. Mischke" .
+
+<http://id.crossref.org/contributor/h-lobeck-77888er3qfae>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Lobeck" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "H." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "H. Lobeck" .
+
+<http://id.crossref.org/contributor/g-a-wild-77888er3qfae>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Wild" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "G. A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "G. A. Wild" .

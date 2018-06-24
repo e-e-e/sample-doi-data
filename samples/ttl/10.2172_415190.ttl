@@ -1,0 +1,53 @@
+<http://dx.doi.org/10.2172/415190>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.2172/415190" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/h-m-chung-2iyzveux801ps> , <http://id.crossref.org/contributor/b-a-loomis-2iyzveux801ps> , <http://id.crossref.org/contributor/d-l-smith-2iyzveux801ps> , <http://id.crossref.org/contributor/l-nowicki-2iyzveux801ps> ;
+      <http://purl.org/dc/terms/date>
+              "1995-03-01"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.2172/415190" ;
+      <http://purl.org/dc/terms/publisher>
+              "Office of Scientific and Technical Information  (OSTI)" ;
+      <http://purl.org/dc/terms/title>
+              "Subtask 12G2: Effects of dynamically charged helium on tensile properties of V-4Cr-4Ti" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.2172/415190" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.2172/415190> , <doi:10.2172/415190> .
+
+<http://id.crossref.org/contributor/h-m-chung-2iyzveux801ps>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Chung" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "H M" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "H M Chung" .
+
+<http://id.crossref.org/contributor/b-a-loomis-2iyzveux801ps>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Loomis" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "B A" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "B A Loomis" .
+
+<http://id.crossref.org/contributor/d-l-smith-2iyzveux801ps>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Smith" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "D L" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "D L Smith" .
+
+<http://id.crossref.org/contributor/l-nowicki-2iyzveux801ps>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Nowicki" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "L" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "L Nowicki" .

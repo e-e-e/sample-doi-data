@@ -1,0 +1,65 @@
+<http://id.crossref.org/contributor/kyoko-ohishi-1507cv7c51tot>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "OHISHI" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Kyoko" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Kyoko OHISHI" .
+
+<http://id.crossref.org/issn/1882-7187>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1882-7187" , "0289-7806" ;
+      <http://purl.org/dc/terms/title>
+              "Doboku Gakkai Ronbunshu" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1882-7187" , "0289-7806" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0289-7806" , "urn:issn:1882-7187" .
+
+<http://id.crossref.org/contributor/tohru-futawatari-1507cv7c51tot>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "FUTAWATARI" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Tohru" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Tohru FUTAWATARI" .
+
+<http://dx.doi.org/10.2208/jscej.1992.452_71>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.2208/jscej.1992.452_71" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "79" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "71" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/kyoko-ohishi-1507cv7c51tot> , <http://id.crossref.org/contributor/tohru-futawatari-1507cv7c51tot> , <http://id.crossref.org/contributor/tetsuya-kusuda-1507cv7c51tot> ;
+      <http://purl.org/dc/terms/date>
+              "1992"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.2208/jscej.1992.452_71" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1882-7187> ;
+      <http://purl.org/dc/terms/publisher>
+              "Japan Society of Civil Engineers" ;
+      <http://purl.org/dc/terms/title>
+              "Characteristics of suspended solids concentration in well-mixed estuary." ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.2208/jscej.1992.452_71" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "79" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "71" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.2208/jscej.1992.452_71> , <doi:10.2208/jscej.1992.452_71> .
+
+<http://id.crossref.org/contributor/tetsuya-kusuda-1507cv7c51tot>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "KUSUDA" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Tetsuya" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Tetsuya KUSUDA" .

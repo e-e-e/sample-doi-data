@@ -1,0 +1,40 @@
+<http://id.crossref.org/issn/0307-1375>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0307-1375" , "2168-1074" ;
+      <http://purl.org/dc/terms/title>
+              "Arboricultural Journal" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0307-1375" , "2168-1074" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0307-1375" , "urn:issn:2168-1074" .
+
+<http://dx.doi.org/10.1080/03071375.2008.9747536>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1080/03071375.2008.9747536" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "217" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "215" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "31" ;
+      <http://purl.org/dc/terms/date>
+              "2008-10"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1080/03071375.2008.9747536" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0307-1375> ;
+      <http://purl.org/dc/terms/publisher>
+              "Informa UK Limited" ;
+      <http://purl.org/dc/terms/title>
+              "BOOK REVIEWS AND ABSTRACTS" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1080/03071375.2008.9747536" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "217" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "215" ;
+      <http://purl.org/ontology/bibo/volume>
+              "31" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1080/03071375.2008.9747536> , <info:doi/10.1080/03071375.2008.9747536> .

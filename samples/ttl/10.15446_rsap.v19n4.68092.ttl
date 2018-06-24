@@ -1,0 +1,69 @@
+<http://id.crossref.org/contributor/edgar-prieto-suarez-2ginzwb005re>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Prieto-Suarez" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Edgar" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Edgar Prieto-Suarez" .
+
+<http://id.crossref.org/contributor/alba-isabel-rodriguez-pilido-2ginzwb005re>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Rodríguez-Pilido" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Alba Isabel" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Alba Isabel Rodríguez-Pilido" .
+
+<http://id.crossref.org/contributor/sandra-c-cortes-iza-2ginzwb005re>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Cortés-Iza" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Sandra C." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Sandra C. Cortés-Iza" .
+
+<http://dx.doi.org/10.15446/rsap.v19n4.68092>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.15446/rsap.v19n4.68092" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "474" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "468" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "19" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/edgar-prieto-suarez-2ginzwb005re> , <http://id.crossref.org/contributor/alba-isabel-rodriguez-pilido-2ginzwb005re> , <http://id.crossref.org/contributor/sandra-c-cortes-iza-2ginzwb005re> ;
+      <http://purl.org/dc/terms/date>
+              "2017-07-01"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.15446/rsap.v19n4.68092" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/2539-3596> ;
+      <http://purl.org/dc/terms/publisher>
+              "Universidad Nacional de Colombia" ;
+      <http://purl.org/dc/terms/title>
+              "Evaluación de parámetros hematológicos en trabajadores expuestos a pesticidas organofosforados, carbamatos y piretroides, Cundinamarca 2016-2017" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.15446/rsap.v19n4.68092" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "474" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "468" ;
+      <http://purl.org/ontology/bibo/volume>
+              "19" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.15446/rsap.v19n4.68092> , <info:doi/10.15446/rsap.v19n4.68092> .
+
+<http://id.crossref.org/issn/2539-3596>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0124-0064" , "2539-3596" ;
+      <http://purl.org/dc/terms/title>
+              "Revista de Salud Pública" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0124-0064" , "2539-3596" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0124-0064" , "urn:issn:2539-3596" .

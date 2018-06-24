@@ -1,0 +1,69 @@
+<http://id.crossref.org/issn/0370-2693>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0370-2693" ;
+      <http://purl.org/dc/terms/title>
+              "Physics Letters B" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0370-2693" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0370-2693" .
+
+<http://id.crossref.org/contributor/wolfram-weise-1ah9h3zhpbgrj>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Weise" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Wolfram" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Wolfram Weise" .
+
+<http://dx.doi.org/10.1016/j.physletb.2013.01.003>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/j.physletb.2013.01.003" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "135" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "131" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "719" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/wolfram-weise-1ah9h3zhpbgrj> , <http://id.crossref.org/contributor/tetsuo-hatsuda-1ah9h3zhpbgrj> , <http://id.crossref.org/contributor/nino-bratovic-1ah9h3zhpbgrj> ;
+      <http://purl.org/dc/terms/date>
+              "2013-02"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/j.physletb.2013.01.003" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0370-2693> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Role of vector interaction and axial anomaly in the PNJL modeling of the QCD phase diagram" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/j.physletb.2013.01.003" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "135" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "131" ;
+      <http://purl.org/ontology/bibo/volume>
+              "719" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1016/j.physletb.2013.01.003> , <doi:10.1016/j.physletb.2013.01.003> .
+
+<http://id.crossref.org/contributor/nino-bratovic-1ah9h3zhpbgrj>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Bratovic" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Nino" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Nino Bratovic" .
+
+<http://id.crossref.org/contributor/tetsuo-hatsuda-1ah9h3zhpbgrj>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Hatsuda" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Tetsuo" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Tetsuo Hatsuda" .

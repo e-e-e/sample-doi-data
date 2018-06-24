@@ -1,0 +1,69 @@
+<http://id.crossref.org/contributor/victor-julio-florez-roncancio-2uv7zu496xjbg>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Flórez Roncancio" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Víctor Julio" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Víctor Julio Flórez Roncancio" .
+
+<http://dx.doi.org/10.15446/rfnam.v67n2.44170>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.15446/rfnam.v67n2.44170" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "7290" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "7281" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "67" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/victor-julio-florez-roncancio-2uv7zu496xjbg> , <http://id.crossref.org/contributor/andres-felipe-florez-rivera-2uv7zu496xjbg> , <http://id.crossref.org/contributor/nohora-astrid-velez-carvajal-2uv7zu496xjbg> ;
+      <http://purl.org/dc/terms/date>
+              "2014-06-26"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.15446/rfnam.v67n2.44170" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/2248-7026> ;
+      <http://purl.org/dc/terms/publisher>
+              "Universidad Nacional de Colombia" ;
+      <http://purl.org/dc/terms/title>
+              "Comportamiento de Variables Químicas en un Sistema de Cultivo sin Suelo para Clavel en la Sabana de Bogotá" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.15446/rfnam.v67n2.44170" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "7290" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "7281" ;
+      <http://purl.org/ontology/bibo/volume>
+              "67" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.15446/rfnam.v67n2.44170> , <doi:10.15446/rfnam.v67n2.44170> .
+
+<http://id.crossref.org/contributor/andres-felipe-florez-rivera-2uv7zu496xjbg>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Flórez Rivera" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Andrés Felipe" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Andrés Felipe Flórez Rivera" .
+
+<http://id.crossref.org/contributor/nohora-astrid-velez-carvajal-2uv7zu496xjbg>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Vélez Carvajal" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Nohora Astrid" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Nohora Astrid Vélez Carvajal" .
+
+<http://id.crossref.org/issn/2248-7026>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0304-2847" , "2248-7026" ;
+      <http://purl.org/dc/terms/title>
+              "Revista Facultad Nacional de Agronomía" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0304-2847" , "2248-7026" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0304-2847" , "urn:issn:2248-7026" .

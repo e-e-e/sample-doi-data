@@ -1,0 +1,20 @@
+<http://id.crossref.org/isbn/9781849773461>
+      a       <http://purl.org/ontology/bibo/Book> .
+
+<http://dx.doi.org/10.4324/9781849773461>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.4324/9781849773461" ;
+      <http://purl.org/dc/terms/date>
+              "2012-05-04"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.4324/9781849773461" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9781849773461> ;
+      <http://purl.org/dc/terms/publisher>
+              "Routledge" ;
+      <http://purl.org/dc/terms/title>
+              "Trust in Cooperative Risk Management" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.4324/9781849773461" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.4324/9781849773461> , <info:doi/10.4324/9781849773461> .

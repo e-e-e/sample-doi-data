@@ -1,0 +1,101 @@
+<http://id.crossref.org/contributor/rui-xue-1yisw9eblc7vc>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Xue" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Rui" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Rui Xue" .
+
+<http://id.crossref.org/issn/2261-236X>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "2261-236X" ;
+      <http://purl.org/dc/terms/title>
+              "MATEC Web of Conferences" ;
+      <http://purl.org/ontology/bibo/issn>
+              "2261-236X" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:2261-236X" .
+
+<http://id.crossref.org/contributor/j-cai-1yisw9eblc7vc>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Cai" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "J." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "J. Cai" .
+
+<http://id.crossref.org/contributor/a-xavior-1yisw9eblc7vc>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Xavior" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "A. Xavior" .
+
+<http://id.crossref.org/contributor/shuwei-shen-1yisw9eblc7vc>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Shen" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Shuwei" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Shuwei Shen" .
+
+<http://id.crossref.org/contributor/l-you-1yisw9eblc7vc>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "You" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "L." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "L. You" .
+
+<http://dx.doi.org/10.1051/matecconf/201710004019>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1051/matecconf/201710004019" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "04019" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "100" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/rui-xue-1yisw9eblc7vc> , <http://id.crossref.org/contributor/a-xavior-1yisw9eblc7vc> , <http://id.crossref.org/contributor/j-cai-1yisw9eblc7vc> , <http://id.crossref.org/contributor/l-you-1yisw9eblc7vc> , <http://id.crossref.org/contributor/shuwei-shen-1yisw9eblc7vc> , <http://id.crossref.org/contributor/kun-zhang-1yisw9eblc7vc> , <http://id.crossref.org/contributor/l-zhao-1yisw9eblc7vc> ;
+      <http://purl.org/dc/terms/date>
+              "2017"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1051/matecconf/201710004019" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/2261-236X> ;
+      <http://purl.org/dc/terms/publisher>
+              "EDP Sciences" ;
+      <http://purl.org/dc/terms/title>
+              "Heparin Coating Technology in Cardiopulmonary Bypass" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1051/matecconf/201710004019" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "04019" ;
+      <http://purl.org/ontology/bibo/volume>
+              "100" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1051/matecconf/201710004019> , <doi:10.1051/matecconf/201710004019> .
+
+<http://id.crossref.org/contributor/kun-zhang-1yisw9eblc7vc>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Zhang" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Kun" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Kun Zhang" .
+
+<http://id.crossref.org/contributor/l-zhao-1yisw9eblc7vc>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Zhao" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "L." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "L. Zhao" .

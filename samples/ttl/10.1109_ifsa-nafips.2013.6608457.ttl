@@ -1,0 +1,51 @@
+<http://id.crossref.org/contributor/martine-ceberio-948svokxxhju>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Ceberio" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Martine" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Martine Ceberio" .
+
+<http://id.crossref.org/isbn/9781479903481>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "2013 Joint IFSA World Congress and NAFIPS Annual Meeting (IFSA/NAFIPS)" .
+
+<http://id.crossref.org/contributor/xiaojing-wang-948svokxxhju>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Wang" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Xiaojing" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Xiaojing Wang" .
+
+<http://id.crossref.org/contributor/angel-f-garcia-contreras-948svokxxhju>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Garcia Contreras" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Angel F." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Angel F. Garcia Contreras" .
+
+<http://dx.doi.org/10.1109/ifsa-nafips.2013.6608457>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1109/ifsa-nafips.2013.6608457" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/martine-ceberio-948svokxxhju> , <http://id.crossref.org/contributor/xiaojing-wang-948svokxxhju> , <http://id.crossref.org/contributor/angel-f-garcia-contreras-948svokxxhju> ;
+      <http://purl.org/dc/terms/date>
+              "2013-06"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1109/ifsa-nafips.2013.6608457" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9781479903481> ;
+      <http://purl.org/dc/terms/publisher>
+              "IEEE" ;
+      <http://purl.org/dc/terms/title>
+              "Towards fuzzy method for estimating prediction accuracy for discrete inputs, with application to predicting at-risk students" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1109/ifsa-nafips.2013.6608457" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1109/ifsa-nafips.2013.6608457> , <info:doi/10.1109/ifsa-nafips.2013.6608457> .

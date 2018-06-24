@@ -1,0 +1,60 @@
+<http://dx.doi.org/10.1364/cleo_qels.2018.fm2g.2>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1364/cleo_qels.2018.fm2g.2" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/ido-kaminer-k4uk3jvj1hzx> , <http://id.crossref.org/contributor/marin-soljacic-k4uk3jvj1hzx> , <http://id.crossref.org/contributor/liang-jie-wong-k4uk3jvj1hzx> , <http://id.crossref.org/contributor/nicholas-rivera-k4uk3jvj1hzx> ;
+      <http://purl.org/dc/terms/date>
+              "2018"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1364/cleo_qels.2018.fm2g.2" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9781943580422> ;
+      <http://purl.org/dc/terms/publisher>
+              "OSA" ;
+      <http://purl.org/dc/terms/title>
+              "High harmonic plasmon generation by dressed electrons" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1364/cleo_qels.2018.fm2g.2" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1364/cleo_qels.2018.fm2g.2> , <info:doi/10.1364/cleo_qels.2018.fm2g.2> .
+
+<http://id.crossref.org/contributor/ido-kaminer-k4uk3jvj1hzx>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kaminer" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Ido" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Ido Kaminer" .
+
+<http://id.crossref.org/contributor/marin-soljacic-k4uk3jvj1hzx>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Soljacic" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Marin" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Marin Soljacic" .
+
+<http://id.crossref.org/contributor/liang-jie-wong-k4uk3jvj1hzx>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Wong" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Liang Jie" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Liang Jie Wong" .
+
+<http://id.crossref.org/contributor/nicholas-rivera-k4uk3jvj1hzx>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Rivera" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Nicholas" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Nicholas Rivera" .
+
+<http://id.crossref.org/isbn/9781943580422>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Conference on Lasers and Electro-Optics" .

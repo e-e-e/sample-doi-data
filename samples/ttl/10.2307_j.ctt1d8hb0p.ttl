@@ -1,0 +1,31 @@
+<http://id.crossref.org/contributor/may-swenson-38og80urih6sy>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Swenson" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "May" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "May Swenson" .
+
+<http://id.crossref.org/isbn/9780874216721>
+      a       <http://purl.org/ontology/bibo/Book> .
+
+<http://dx.doi.org/10.2307/j.ctt1d8hb0p>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.2307/j.ctt1d8hb0p" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/may-swenson-38og80urih6sy> ;
+      <http://purl.org/dc/terms/date>
+              "2003-03-08"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.2307/j.ctt1d8hb0p" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9780874216721> ;
+      <http://purl.org/dc/terms/publisher>
+              "Utah State University Press" ;
+      <http://purl.org/dc/terms/title>
+              "Centaur, The" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.2307/j.ctt1d8hb0p" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.2307/j.ctt1d8hb0p> , <info:doi/10.2307/j.ctt1d8hb0p> .

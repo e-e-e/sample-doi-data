@@ -1,0 +1,60 @@
+<http://dx.doi.org/10.1152/ajplegacy.1944.142.2.265>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1152/ajplegacy.1944.142.2.265" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "273" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "265" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "142" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/w-h-sebrell-7exwqpho7qg8> , <http://id.crossref.org/contributor/nathan-w-shock-7exwqpho7qg8> ;
+      <http://purl.org/dc/terms/date>
+              "1944-09"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1152/ajplegacy.1944.142.2.265" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0002-9513> ;
+      <http://purl.org/dc/terms/publisher>
+              "American Physiological Society" ;
+      <http://purl.org/dc/terms/title>
+              "THE EFFECT OF VITAMINS OF THE B COMPLEX ON THE WORK OUTPUT OF PERFUSED FROG MUSCLES" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1152/ajplegacy.1944.142.2.265" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "273" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "265" ;
+      <http://purl.org/ontology/bibo/volume>
+              "142" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1152/ajplegacy.1944.142.2.265> , <info:doi/10.1152/ajplegacy.1944.142.2.265> .
+
+<http://id.crossref.org/contributor/w-h-sebrell-7exwqpho7qg8>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Sebrell" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "W. H." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "W. H. Sebrell" .
+
+<http://id.crossref.org/issn/0002-9513>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0002-9513" ;
+      <http://purl.org/dc/terms/title>
+              "American Journal of Physiology-Legacy Content" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0002-9513" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0002-9513" .
+
+<http://id.crossref.org/contributor/nathan-w-shock-7exwqpho7qg8>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Shock" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Nathan W." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Nathan W. Shock" .

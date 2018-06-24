@@ -1,0 +1,47 @@
+<http://dx.doi.org/10.29123/jy.v11i1.252>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.29123/jy.v11i1.252" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "91" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "11" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/muhamad-syamsudin-3oyf88wdq8vo6> ;
+      <http://purl.org/dc/terms/date>
+              "2018-04-26"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.29123/jy.v11i1.252" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/2579-4868> ;
+      <http://purl.org/dc/terms/publisher>
+              "Komisi Yudisial" ;
+      <http://purl.org/dc/terms/title>
+              "PERLINDUNGAN HUKUM KONSUMEN ATAS PENERAPAN KLAUSULA BAKU" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.29123/jy.v11i1.252" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "91" ;
+      <http://purl.org/ontology/bibo/volume>
+              "11" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.29123/jy.v11i1.252> , <doi:10.29123/jy.v11i1.252> .
+
+<http://id.crossref.org/contributor/muhamad-syamsudin-3oyf88wdq8vo6>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Syamsudin" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Muhamad" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Muhamad Syamsudin" .
+
+<http://id.crossref.org/issn/2579-4868>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1978-6506" , "2579-4868" ;
+      <http://purl.org/dc/terms/title>
+              "Jurnal Yudisial" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1978-6506" , "2579-4868" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:2579-4868" , "urn:issn:1978-6506" .

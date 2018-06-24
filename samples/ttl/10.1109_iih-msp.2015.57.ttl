@@ -1,0 +1,60 @@
+<http://dx.doi.org/10.1109/iih-msp.2015.57>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1109/iih-msp.2015.57" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/chiang-lee-lee1fba7v0hk> , <http://id.crossref.org/contributor/pin-chieh-huang-lee1fba7v0hk> , <http://id.crossref.org/contributor/i-fang-su-lee1fba7v0hk> , <http://id.crossref.org/contributor/yu-chi-chung-lee1fba7v0hk> ;
+      <http://purl.org/dc/terms/date>
+              "2015-09"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1109/iih-msp.2015.57" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9781509001880> ;
+      <http://purl.org/dc/terms/publisher>
+              "IEEE" ;
+      <http://purl.org/dc/terms/title>
+              "Finding All Competitive Products Using the Dominant Relationship Analysis" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1109/iih-msp.2015.57" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1109/iih-msp.2015.57> , <info:doi/10.1109/iih-msp.2015.57> .
+
+<http://id.crossref.org/contributor/chiang-lee-lee1fba7v0hk>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Lee" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Chiang" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Chiang Lee" .
+
+<http://id.crossref.org/isbn/9781509001880>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "2015 International Conference on Intelligent Information Hiding and Multimedia Signal Processing (IIH-MSP)" .
+
+<http://id.crossref.org/contributor/pin-chieh-huang-lee1fba7v0hk>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Huang" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Pin-Chieh" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Pin-Chieh Huang" .
+
+<http://id.crossref.org/contributor/i-fang-su-lee1fba7v0hk>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Su" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "I-Fang" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "I-Fang Su" .
+
+<http://id.crossref.org/contributor/yu-chi-chung-lee1fba7v0hk>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Chung" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Yu-Chi" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Yu-Chi Chung" .

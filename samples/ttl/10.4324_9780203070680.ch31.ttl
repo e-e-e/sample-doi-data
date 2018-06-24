@@ -1,0 +1,33 @@
+<http://dx.doi.org/10.4324/9780203070680.ch31>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.4324/9780203070680.ch31" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/stephen-brown-3kxcaw9qf8iyc> ;
+      <http://purl.org/dc/terms/date>
+              ""^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.4324/9780203070680.ch31" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9780203070680> ;
+      <http://purl.org/dc/terms/publisher>
+              "Routledge" ;
+      <http://purl.org/dc/terms/title>
+              "Democracy Promotion" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.4324/9780203070680.ch31" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.4324/9780203070680.ch31> , <doi:10.4324/9780203070680.ch31> .
+
+<http://id.crossref.org/isbn/9780203070680>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Routledge Handbook of African Politics" .
+
+<http://id.crossref.org/contributor/stephen-brown-3kxcaw9qf8iyc>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Brown" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Stephen" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Stephen Brown" .

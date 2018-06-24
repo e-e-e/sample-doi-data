@@ -1,0 +1,116 @@
+<http://id.crossref.org/contributor/shanzhi-liu-1inqlxw6y2sli>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Liu" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Shanzhi" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Shanzhi Liu" .
+
+<http://id.crossref.org/contributor/na-xie-1inqlxw6y2sli>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Xie" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Na" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Na Xie" .
+
+<http://id.crossref.org/contributor/lianlian-zhang-1inqlxw6y2sli>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Zhang" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Lianlian" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Lianlian Zhang" .
+
+<http://id.crossref.org/contributor/fang-xu-1inqlxw6y2sli>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Xu" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Fang" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Fang Xu" .
+
+<http://id.crossref.org/contributor/he-yan-1inqlxw6y2sli>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <http://orcid.org/0000-0003-4299-5918> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Yan" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "He" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "He Yan" .
+
+<http://id.crossref.org/contributor/juntao-feng-1inqlxw6y2sli>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Feng" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Juntao" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Juntao Feng" .
+
+<http://id.crossref.org/contributor/wenhui-guo-1inqlxw6y2sli>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Guo" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Wenhui" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Wenhui Guo" .
+
+<http://id.crossref.org/contributor/zi-xiong-1inqlxw6y2sli>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Xiong" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Zi" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Zi Xiong" .
+
+<http://id.crossref.org/issn/0926-6690>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0926-6690" ;
+      <http://purl.org/dc/terms/title>
+              "Industrial Crops and Products" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0926-6690" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0926-6690" .
+
+<http://dx.doi.org/10.1016/j.indcrop.2018.05.037>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/j.indcrop.2018.05.037" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "359" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "352" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "121" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/na-xie-1inqlxw6y2sli> , <http://id.crossref.org/contributor/shanzhi-liu-1inqlxw6y2sli> , <http://id.crossref.org/contributor/lianlian-zhang-1inqlxw6y2sli> , <http://id.crossref.org/contributor/he-yan-1inqlxw6y2sli> , <http://id.crossref.org/contributor/fang-xu-1inqlxw6y2sli> , <http://id.crossref.org/contributor/juntao-feng-1inqlxw6y2sli> , <http://id.crossref.org/contributor/wenhui-guo-1inqlxw6y2sli> , <http://id.crossref.org/contributor/zi-xiong-1inqlxw6y2sli> ;
+      <http://purl.org/dc/terms/date>
+              "2018-10"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/j.indcrop.2018.05.037" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0926-6690> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Bioassay-guided isolation of antifungal amides against  Sclerotinia sclerotiorum  from the seeds of  Clausena lansium" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/j.indcrop.2018.05.037" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "359" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "352" ;
+      <http://purl.org/ontology/bibo/volume>
+              "121" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1016/j.indcrop.2018.05.037> , <doi:10.1016/j.indcrop.2018.05.037> .

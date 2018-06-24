@@ -1,0 +1,69 @@
+<http://id.crossref.org/contributor/eugeny-kukaev-2u5ek2incx5sq>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kukaev" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Eugeny" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Eugeny Kukaev" .
+
+<http://id.crossref.org/isbn/9781624100789>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "42nd AIAA Aerospace Sciences Meeting and Exhibit" .
+
+<http://id.crossref.org/contributor/andrei-starikovskii-2u5ek2incx5sq>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Starikovskii" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Andrei" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Andrei Starikovskii" .
+
+<http://dx.doi.org/10.2514/6.2004-870>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.2514/6.2004-870" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/eugeny-kukaev-2u5ek2incx5sq> , <http://id.crossref.org/contributor/andrei-starikovskii-2u5ek2incx5sq> , <http://id.crossref.org/contributor/dmitry-tsyganov-2u5ek2incx5sq> , <http://id.crossref.org/contributor/victor-zhukov-2u5ek2incx5sq> , <http://id.crossref.org/contributor/svetlana-starikovskaia-2u5ek2incx5sq> ;
+      <http://purl.org/dc/terms/date>
+              "2004-01-05"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.2514/6.2004-870" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9781624100789> ;
+      <http://purl.org/dc/terms/publisher>
+              "American Institute of Aeronautics and Astronautics" ;
+      <http://purl.org/dc/terms/title>
+              "Deflagration-to-Detonation Control by Non-equilibrium Gas Discharges and Its Applications for Pulsed Detonation Engine" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.2514/6.2004-870" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.2514/6.2004-870> , <doi:10.2514/6.2004-870> .
+
+<http://id.crossref.org/contributor/dmitry-tsyganov-2u5ek2incx5sq>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Tsyganov" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Dmitry" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Dmitry Tsyganov" .
+
+<http://id.crossref.org/contributor/svetlana-starikovskaia-2u5ek2incx5sq>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Starikovskaia" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Svetlana" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Svetlana Starikovskaia" .
+
+<http://id.crossref.org/contributor/victor-zhukov-2u5ek2incx5sq>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Zhukov" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Victor" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Victor Zhukov" .

@@ -1,0 +1,15 @@
+<http://dx.doi.org/10.1163/2468-1733_shafr_sim130080023>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1163/2468-1733_shafr_sim130080023" ;
+      <http://purl.org/dc/terms/date>
+              ""^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1163/2468-1733_shafr_sim130080023" ;
+      <http://purl.org/dc/terms/publisher>
+              "Brill Academic Publishers" ;
+      <http://purl.org/dc/terms/title>
+              "Special Envoy to Churchill and Stalin, 1941-1946" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1163/2468-1733_shafr_sim130080023" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1163/2468-1733_shafr_sim130080023> , <info:doi/10.1163/2468-1733_shafr_sim130080023> .

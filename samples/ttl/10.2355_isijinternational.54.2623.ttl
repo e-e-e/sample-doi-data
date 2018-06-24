@@ -1,0 +1,78 @@
+<http://id.crossref.org/contributor/yoshinari-hashimoto-2bgxcax6uv43s>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Hashimoto" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Yoshinari" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Yoshinari Hashimoto" .
+
+<http://dx.doi.org/10.2355/isijinternational.54.2623>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.2355/isijinternational.54.2623" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "2626" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "2623" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "54" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/yoshinari-hashimoto-2bgxcax6uv43s> , <http://id.crossref.org/contributor/michio-honma-2bgxcax6uv43s> , <http://id.crossref.org/contributor/kazuro-tsuda-2bgxcax6uv43s> , <http://id.crossref.org/contributor/seitaro-akiyama-2bgxcax6uv43s> ;
+      <http://purl.org/dc/terms/date>
+              "2014"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.2355/isijinternational.54.2623" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0915-1559> ;
+      <http://purl.org/dc/terms/publisher>
+              "Iron and Steel Institute of Japan" ;
+      <http://purl.org/dc/terms/title>
+              "Development of an Operation Guidance System to Reduce Pushing Load of Coke Ovens Based on Probabilistic Optimization" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.2355/isijinternational.54.2623" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "2626" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "2623" ;
+      <http://purl.org/ontology/bibo/volume>
+              "54" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.2355/isijinternational.54.2623> , <info:doi/10.2355/isijinternational.54.2623> .
+
+<http://id.crossref.org/contributor/michio-honma-2bgxcax6uv43s>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Honma" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Michio" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Michio Honma" .
+
+<http://id.crossref.org/contributor/kazuro-tsuda-2bgxcax6uv43s>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Tsuda" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Kazuro" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Kazuro Tsuda" .
+
+<http://id.crossref.org/issn/0915-1559>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0915-1559" , "1347-5460" ;
+      <http://purl.org/dc/terms/title>
+              "ISIJ International" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0915-1559" , "1347-5460" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1347-5460" , "urn:issn:0915-1559" .
+
+<http://id.crossref.org/contributor/seitaro-akiyama-2bgxcax6uv43s>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Akiyama" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Seitaro" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Seitaro Akiyama" .

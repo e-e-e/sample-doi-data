@@ -1,0 +1,70 @@
+<http://id.crossref.org/contributor/marsela-alejandra-alvarez-izazaga-9enswjadkbnd>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Álvarez Izazaga" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Marsela Alejandra" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Marsela Alejandra Álvarez Izazaga" .
+
+<http://id.crossref.org/contributor/claudia-lorena-martinez-higueros-9enswjadkbnd>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Martínez Higueros" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Claudia Lorena" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Claudia Lorena Martínez Higueros" .
+
+<http://id.crossref.org/contributor/m-eloisa-dickinson-bannack-9enswjadkbnd>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Dickinson Bannack" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Mª Eloísa" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Mª Eloísa Dickinson Bannack" .
+
+<http://dx.doi.org/10.4321/s1699-695x2010000300005>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.4321/s1699-695x2010000300005" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "3" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/marsela-alejandra-alvarez-izazaga-9enswjadkbnd> , <http://id.crossref.org/contributor/m-eloisa-dickinson-bannack-9enswjadkbnd> , <http://id.crossref.org/contributor/claudia-lorena-martinez-higueros-9enswjadkbnd> , <http://id.crossref.org/contributor/edith-padron-solomon-9enswjadkbnd> ;
+      <http://purl.org/dc/terms/date>
+              "2010-10"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.4321/s1699-695x2010000300005" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1699-695X> ;
+      <http://purl.org/dc/terms/publisher>
+              "Instituto de Salud Carlos III/BNCS/SciELO Espana" ;
+      <http://purl.org/dc/terms/title>
+              "Detección Temprana de Trastornos de Salud Mental: Diseño, Validación y Confiabilidad del Cuestionario de Salud Mental en Atención Primaria para Niños de 6 a 12 años" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.4321/s1699-695x2010000300005" ;
+      <http://purl.org/ontology/bibo/volume>
+              "3" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.4321/s1699-695x2010000300005> , <info:doi/10.4321/s1699-695x2010000300005> .
+
+<http://id.crossref.org/contributor/edith-padron-solomon-9enswjadkbnd>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Padrón Sólomon" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Edith" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Edith Padrón Sólomon" .
+
+<http://id.crossref.org/issn/1699-695X>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1699-695X" ;
+      <http://purl.org/dc/terms/title>
+              "Revista Clínica de Medicina de Familia" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1699-695X" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1699-695X" .

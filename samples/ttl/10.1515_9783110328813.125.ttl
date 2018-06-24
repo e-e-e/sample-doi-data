@@ -1,0 +1,33 @@
+<http://dx.doi.org/10.1515/9783110328813.125>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1515/9783110328813.125" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/john-edelman-16sjqei2yex9r> ;
+      <http://purl.org/dc/terms/date>
+              ""^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1515/9783110328813.125" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9783110328813> ;
+      <http://purl.org/dc/terms/publisher>
+              "DE GRUYTER" ;
+      <http://purl.org/dc/terms/title>
+              "Chapter 6. D. Z. Phillips: Contemplation, Understanding, and the Particularity of Meaning" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1515/9783110328813.125" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1515/9783110328813.125> , <info:doi/10.1515/9783110328813.125> .
+
+<http://id.crossref.org/contributor/john-edelman-16sjqei2yex9r>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Edelman" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "John" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "John Edelman" .
+
+<http://id.crossref.org/isbn/9783110328813>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Sense and Reality" .

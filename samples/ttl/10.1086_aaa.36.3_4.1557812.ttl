@@ -1,0 +1,51 @@
+<http://id.crossref.org/contributor/christine-i-oaklander-37tyep2vhj4ct>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Oaklander" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Christine I." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Christine I. Oaklander" .
+
+<http://dx.doi.org/10.1086/aaa.36.3_4.1557812>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1086/aaa.36.3_4.1557812" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "37" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "20" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "36" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/christine-i-oaklander-37tyep2vhj4ct> ;
+      <http://purl.org/dc/terms/date>
+              "1996-01"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1086/aaa.36.3_4.1557812" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0003-9853> ;
+      <http://purl.org/dc/terms/publisher>
+              "University of Chicago Press" ;
+      <http://purl.org/dc/terms/title>
+              "Clara Davidge's Madison Art Gallery: Sowing The Seed for The Armory Show" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1086/aaa.36.3_4.1557812" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "37" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "20" ;
+      <http://purl.org/ontology/bibo/volume>
+              "36" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1086/aaa.36.3_4.1557812> , <info:doi/10.1086/aaa.36.3_4.1557812> .
+
+<http://id.crossref.org/issn/0003-9853>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "2327-0667" , "0003-9853" ;
+      <http://purl.org/dc/terms/title>
+              "Archives of American Art Journal" ;
+      <http://purl.org/ontology/bibo/issn>
+              "2327-0667" , "0003-9853" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:2327-0667" , "urn:issn:0003-9853" .

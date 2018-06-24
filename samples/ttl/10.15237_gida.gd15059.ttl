@@ -1,0 +1,57 @@
+<http://dx.doi.org/10.15237/gida.gd15059>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.15237/gida.gd15059" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/nilufer-vural-wvzzwzpmu3rf> , <http://id.crossref.org/contributor/r-ertan-anl-wvzzwzpmu3rf> , <http://id.crossref.org/contributor/ozge-algan-cavuldak-wvzzwzpmu3rf> ;
+      <http://purl.org/dc/terms/date>
+              "2016"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.15237/gida.gd15059" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1300-3070> ;
+      <http://purl.org/dc/terms/publisher>
+              "Association of Food Technology, Turkey" ;
+      <http://purl.org/dc/terms/title>
+              "ULTRASOUND ASSISTED EXTRACTION OF PLANT-DERIVED PHENOLIC COMPOUNDS" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.15237/gida.gd15059" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.15237/gida.gd15059> , <doi:10.15237/gida.gd15059> .
+
+<http://id.crossref.org/contributor/nilufer-vural-wvzzwzpmu3rf>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Vural" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Nilüfer" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Nilüfer Vural" .
+
+<http://id.crossref.org/contributor/r-ertan-anl-wvzzwzpmu3rf>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Anlı" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "R. Ertan" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "R. Ertan Anlı" .
+
+<http://id.crossref.org/issn/1300-3070>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1309-6273" , "1300-3070" ;
+      <http://purl.org/dc/terms/title>
+              "GIDA / THE JOURNAL OF FOOD" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1309-6273" , "1300-3070" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1309-6273" , "urn:issn:1300-3070" .
+
+<http://id.crossref.org/contributor/ozge-algan-cavuldak-wvzzwzpmu3rf>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Algan Cavuldak" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Özge" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Özge Algan Cavuldak" .

@@ -1,0 +1,22 @@
+<http://dx.doi.org/10.1520/e2093-12>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1520/e2093-12" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/-iw9hv7ch2th9> ;
+      <http://purl.org/dc/terms/date>
+              ""^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1520/e2093-12" ;
+      <http://purl.org/dc/terms/publisher>
+              "ASTM International" ;
+      <http://purl.org/dc/terms/title>
+              "Guide for Optimizing, Controlling and Assessing Test Method Uncertainties from Multiple Workstations in the Same Laboratory Organization" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1520/e2093-12" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1520/e2093-12> , <info:doi/10.1520/e2093-12> .
+
+<http://id.crossref.org/contributor/-iw9hv7ch2th9>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/name>
+              " " .

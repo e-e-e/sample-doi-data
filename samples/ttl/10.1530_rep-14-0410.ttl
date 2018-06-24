@@ -1,0 +1,105 @@
+<http://id.crossref.org/contributor/t-liu-2498ubuv5stgk>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Liu" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "T." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "T. Liu" .
+
+<http://id.crossref.org/contributor/y-zhang-2498ubuv5stgk>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Zhang" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Y." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Y. Zhang" .
+
+<http://id.crossref.org/contributor/x-li-2498ubuv5stgk>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Li" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "X." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "X. Li" .
+
+<http://id.crossref.org/contributor/p-zhang-2498ubuv5stgk>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Zhang" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "P." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "P. Zhang" .
+
+<http://dx.doi.org/10.1530/rep-14-0410>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1530/rep-14-0410" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "496" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "485" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "149" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/y-zhang-2498ubuv5stgk> , <http://id.crossref.org/contributor/t-liu-2498ubuv5stgk> , <http://id.crossref.org/contributor/x-li-2498ubuv5stgk> , <http://id.crossref.org/contributor/p-zhang-2498ubuv5stgk> , <http://id.crossref.org/contributor/s-jiang-2498ubuv5stgk> , <http://id.crossref.org/contributor/f-han-2498ubuv5stgk> , <http://id.crossref.org/contributor/c-wei-2498ubuv5stgk> ;
+      <http://purl.org/dc/terms/date>
+              "2015-02-02"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1530/rep-14-0410" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1470-1626> ;
+      <http://purl.org/dc/terms/publisher>
+              "Bioscientifica" ;
+      <http://purl.org/dc/terms/title>
+              "Characterization of porcine partially reprogrammed iPSCs from adipose-derived stem cells" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1530/rep-14-0410" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "496" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "485" ;
+      <http://purl.org/ontology/bibo/volume>
+              "149" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1530/rep-14-0410> , <info:doi/10.1530/rep-14-0410> .
+
+<http://id.crossref.org/contributor/s-jiang-2498ubuv5stgk>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Jiang" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "S." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "S. Jiang" .
+
+<http://id.crossref.org/issn/1470-1626>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1470-1626" , "1741-7899" ;
+      <http://purl.org/dc/terms/title>
+              "Reproduction" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1470-1626" , "1741-7899" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1470-1626" , "urn:issn:1741-7899" .
+
+<http://id.crossref.org/contributor/f-han-2498ubuv5stgk>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Han" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "F." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "F. Han" .
+
+<http://id.crossref.org/contributor/c-wei-2498ubuv5stgk>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Wei" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "C." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "C. Wei" .

@@ -1,0 +1,51 @@
+<http://id.crossref.org/issn/1475-5610>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1475-5629" , "1475-5610" ;
+      <http://purl.org/dc/terms/title>
+              "Culture and Religion" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1475-5629" , "1475-5610" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1475-5629" , "urn:issn:1475-5610" .
+
+<http://dx.doi.org/10.1080/14755610.2016.1217898>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1080/14755610.2016.1217898" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "331" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "312" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "17" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/tehila-kalagy-1e1f78u2ertxk> ;
+      <http://purl.org/dc/terms/date>
+              "2016-07-02"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1080/14755610.2016.1217898" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1475-5610> ;
+      <http://purl.org/dc/terms/publisher>
+              "Informa UK Limited" ;
+      <http://purl.org/dc/terms/title>
+              "Three approaches to the connection between modernisation and traditionalism: a case study of the acquisition of academic education among ultra-Orthodox and Bedouin women" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1080/14755610.2016.1217898" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "331" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "312" ;
+      <http://purl.org/ontology/bibo/volume>
+              "17" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1080/14755610.2016.1217898> , <doi:10.1080/14755610.2016.1217898> .
+
+<http://id.crossref.org/contributor/tehila-kalagy-1e1f78u2ertxk>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kalagy" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Tehila" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Tehila Kalagy" .

@@ -1,0 +1,51 @@
+<http://id.crossref.org/contributor/joy-ufema-qzhivja8xpcu>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "UFEMA" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "JOY" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "JOY UFEMA" .
+
+<http://id.crossref.org/issn/0360-4039>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0360-4039" ;
+      <http://purl.org/dc/terms/title>
+              "Nursing" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0360-4039" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0360-4039" .
+
+<http://dx.doi.org/10.1097/00152193-200312000-00050>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1097/00152193-200312000-00050" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "71" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "70" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "33" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/joy-ufema-qzhivja8xpcu> ;
+      <http://purl.org/dc/terms/date>
+              "2003-12"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1097/00152193-200312000-00050" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0360-4039> ;
+      <http://purl.org/dc/terms/publisher>
+              "Ovid Technologies (Wolters Kluwer Health)" ;
+      <http://purl.org/dc/terms/title>
+              "Breaking down in tears" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1097/00152193-200312000-00050" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "71" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "70" ;
+      <http://purl.org/ontology/bibo/volume>
+              "33" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1097/00152193-200312000-00050> , <info:doi/10.1097/00152193-200312000-00050> .

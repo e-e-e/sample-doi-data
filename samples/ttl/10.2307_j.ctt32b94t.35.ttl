@@ -1,0 +1,30 @@
+<http://dx.doi.org/10.2307/j.ctt32b94t.35>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.2307/j.ctt32b94t.35" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "1726" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "1690" ;
+      <http://purl.org/dc/terms/date>
+              ""^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.2307/j.ctt32b94t.35" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9781781880685> ;
+      <http://purl.org/dc/terms/publisher>
+              "Modern Humanities Research Association" ;
+      <http://purl.org/dc/terms/title>
+              "Letters" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.2307/j.ctt32b94t.35" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "1726" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "1690" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.2307/j.ctt32b94t.35> , <info:doi/10.2307/j.ctt32b94t.35> .
+
+<http://id.crossref.org/isbn/9781781880685>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "An International Annotated Bibliography of Strindberg Studies 1870–2005: Vol. III" .

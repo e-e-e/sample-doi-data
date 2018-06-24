@@ -1,0 +1,78 @@
+<http://dx.doi.org/10.4028/www.scientific.net/amm.373-375.2061>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.4028/www.scientific.net/amm.373-375.2061" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "2067" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "2061" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "373-375" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/xing-yang-3dy42nrxd9y1f> , <http://id.crossref.org/contributor/shu-lei-qiao-3dy42nrxd9y1f> , <http://id.crossref.org/contributor/jun-wang-3dy42nrxd9y1f> , <http://id.crossref.org/contributor/li-hua-zhang-3dy42nrxd9y1f> ;
+      <http://purl.org/dc/terms/date>
+              "2013-08"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.4028/www.scientific.net/amm.373-375.2061" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1662-7482> ;
+      <http://purl.org/dc/terms/publisher>
+              "Trans Tech Publications" ;
+      <http://purl.org/dc/terms/title>
+              "Experimental Research of the Cleaning Device of Ginkgo" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.4028/www.scientific.net/amm.373-375.2061" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "2067" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "2061" ;
+      <http://purl.org/ontology/bibo/volume>
+              "373-375" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.4028/www.scientific.net/amm.373-375.2061> , <info:doi/10.4028/www.scientific.net/amm.373-375.2061> .
+
+<http://id.crossref.org/contributor/xing-yang-3dy42nrxd9y1f>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Yang" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Xing" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Xing Yang" .
+
+<http://id.crossref.org/contributor/shu-lei-qiao-3dy42nrxd9y1f>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Qiao" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Shu Lei" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Shu Lei Qiao" .
+
+<http://id.crossref.org/issn/1662-7482>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1662-7482" ;
+      <http://purl.org/dc/terms/title>
+              "Applied Mechanics and Materials" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1662-7482" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1662-7482" .
+
+<http://id.crossref.org/contributor/li-hua-zhang-3dy42nrxd9y1f>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Zhang" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Li Hua" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Li Hua Zhang" .
+
+<http://id.crossref.org/contributor/jun-wang-3dy42nrxd9y1f>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Wang" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Jun" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Jun Wang" .

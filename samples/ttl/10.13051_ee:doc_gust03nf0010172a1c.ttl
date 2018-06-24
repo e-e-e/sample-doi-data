@@ -1,0 +1,15 @@
+<http://dx.doi.org/10.13051/ee:doc/gust03nf0010172a1c>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.13051/ee:doc/gust03nf0010172a1c" ;
+      <http://purl.org/dc/terms/date>
+              "2000"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.13051/ee:doc/gust03nf0010172a1c" ;
+      <http://purl.org/dc/terms/publisher>
+              "Bodleian Libraries, University of Oxford" ;
+      <http://purl.org/dc/terms/title>
+              "Gustavus III, king of Sweden to Louisa Ulrica, queen of Sweden, Sunday, 1 November 1778 [gust03NF0010172a1c]" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.13051/ee:doc/gust03nf0010172a1c" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.13051/ee:doc/gust03nf0010172a1c> , <info:doi/10.13051/ee:doc/gust03nf0010172a1c> .

@@ -1,0 +1,42 @@
+<http://id.crossref.org/contributor/b-demoulin-11oevjsyoz9yw>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Demoulin" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "B." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "B. Demoulin" .
+
+<http://id.crossref.org/isbn/9781509031719>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "1984 International Symposium on Electromagnetic Compatibility" .
+
+<http://id.crossref.org/contributor/p-degauque-11oevjsyoz9yw>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Degauque" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "P." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "P. Degauque" .
+
+<http://dx.doi.org/10.1109/isemc2.1984.7568167>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1109/isemc2.1984.7568167" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/b-demoulin-11oevjsyoz9yw> , <http://id.crossref.org/contributor/p-degauque-11oevjsyoz9yw> ;
+      <http://purl.org/dc/terms/date>
+              "1984-10"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1109/isemc2.1984.7568167" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9781509031719> ;
+      <http://purl.org/dc/terms/publisher>
+              "IEEE" ;
+      <http://purl.org/dc/terms/title>
+              "Differential Mode Voltages Induced on Long Multifilar Shielded Lines" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1109/isemc2.1984.7568167" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1109/isemc2.1984.7568167> , <doi:10.1109/isemc2.1984.7568167> .

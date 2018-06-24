@@ -1,0 +1,60 @@
+<http://dx.doi.org/10.1017/s1743921312008733>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1017/s1743921312008733" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "58" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "56" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "7" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/jaehyun-lee-2aczo2d5r5yxm> , <http://id.crossref.org/contributor/sukyoung-k-yi-2aczo2d5r5yxm> ;
+      <http://purl.org/dc/terms/date>
+              "2011-09"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1017/s1743921312008733" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1743-9213> ;
+      <http://purl.org/dc/terms/publisher>
+              "Cambridge University Press (CUP)" ;
+      <http://purl.org/dc/terms/title>
+              "The UV upturn phenomenon in the hierarchical universe" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1017/s1743921312008733" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "58" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "56" ;
+      <http://purl.org/ontology/bibo/volume>
+              "7" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1017/s1743921312008733> , <doi:10.1017/s1743921312008733> .
+
+<http://id.crossref.org/contributor/sukyoung-k-yi-2aczo2d5r5yxm>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Yi" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Sukyoung K." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Sukyoung K. Yi" .
+
+<http://id.crossref.org/contributor/jaehyun-lee-2aczo2d5r5yxm>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Lee" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Jaehyun" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Jaehyun Lee" .
+
+<http://id.crossref.org/issn/1743-9213>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1743-9221" , "1743-9213" ;
+      <http://purl.org/dc/terms/title>
+              "Proceedings of the International Astronomical Union" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1743-9221" , "1743-9213" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1743-9213" , "urn:issn:1743-9221" .

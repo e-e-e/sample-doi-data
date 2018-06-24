@@ -1,0 +1,114 @@
+<http://id.crossref.org/contributor/daniela-golinelli-2d8tw2nxbukfm>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Golinelli" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Daniela" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Daniela Golinelli" .
+
+<http://id.crossref.org/contributor/david-p-kennedy-2d8tw2nxbukfm>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kennedy" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "David P." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "David P. Kennedy" .
+
+<http://id.crossref.org/contributor/joan-s-tucker-2d8tw2nxbukfm>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Tucker" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Joan S." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Joan S. Tucker" .
+
+<http://dx.doi.org/10.15288/jsad.2010.71.86>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.15288/jsad.2010.71.86" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "94" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "86" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "71" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/daniela-golinelli-2d8tw2nxbukfm> , <http://id.crossref.org/contributor/david-p-kennedy-2d8tw2nxbukfm> , <http://id.crossref.org/contributor/joan-s-tucker-2d8tw2nxbukfm> , <http://id.crossref.org/contributor/gery-ryan-2d8tw2nxbukfm> , <http://id.crossref.org/contributor/harold-d-green-2d8tw2nxbukfm> , <http://id.crossref.org/contributor/suzanne-l-wenzel-2d8tw2nxbukfm> , <http://id.crossref.org/contributor/robin-beckman-2d8tw2nxbukfm> , <http://id.crossref.org/contributor/annie-zhou-2d8tw2nxbukfm> ;
+      <http://purl.org/dc/terms/date>
+              "2010-01"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.15288/jsad.2010.71.86" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1937-1888> ;
+      <http://purl.org/dc/terms/publisher>
+              "Alcohol Research Documentation, Inc." ;
+      <http://purl.org/dc/terms/title>
+              "Is Substance Use a Barrier to Protected Sex Among Homeless Women? Results From Between- and Within-Subjects Event Analyses*" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.15288/jsad.2010.71.86" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "94" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "86" ;
+      <http://purl.org/ontology/bibo/volume>
+              "71" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.15288/jsad.2010.71.86> , <info:doi/10.15288/jsad.2010.71.86> .
+
+<http://id.crossref.org/contributor/gery-ryan-2d8tw2nxbukfm>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Ryan" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Gery" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Gery Ryan" .
+
+<http://id.crossref.org/contributor/harold-d-green-2d8tw2nxbukfm>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Green" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Harold D." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Harold D. Green" .
+
+<http://id.crossref.org/contributor/suzanne-l-wenzel-2d8tw2nxbukfm>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Wenzel" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Suzanne L." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Suzanne L. Wenzel" .
+
+<http://id.crossref.org/issn/1937-1888>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1938-4114" , "1937-1888" ;
+      <http://purl.org/dc/terms/title>
+              "Journal of Studies on Alcohol and Drugs" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1938-4114" , "1937-1888" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1937-1888" , "urn:issn:1938-4114" .
+
+<http://id.crossref.org/contributor/annie-zhou-2d8tw2nxbukfm>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Zhou" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Annie" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Annie Zhou" .
+
+<http://id.crossref.org/contributor/robin-beckman-2d8tw2nxbukfm>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Beckman" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Robin" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Robin Beckman" .

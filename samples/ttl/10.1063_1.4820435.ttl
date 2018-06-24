@@ -1,0 +1,83 @@
+<http://id.crossref.org/contributor/andy-mccabe-3l1vgl1q6suyr>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Mccabe" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Andy" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Andy Mccabe" .
+
+<http://id.crossref.org/issn/0003-6951>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1077-3118" , "0003-6951" ;
+      <http://purl.org/dc/terms/title>
+              "Applied Physics Letters" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1077-3118" , "0003-6951" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1077-3118" , "urn:issn:0003-6951" .
+
+<http://id.crossref.org/contributor/yifei-wang-3l1vgl1q6suyr>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Wang" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Yifei" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Yifei Wang" .
+
+<http://dx.doi.org/10.1063/1.4820435>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1063/1.4820435" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "103901" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "103" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/andy-mccabe-3l1vgl1q6suyr> , <http://id.crossref.org/contributor/yifei-wang-3l1vgl1q6suyr> , <http://id.crossref.org/contributor/dahai-zhang-3l1vgl1q6suyr> , <http://id.crossref.org/contributor/george-aggidis-3l1vgl1q6suyr> , <http://id.crossref.org/contributor/wei-li-3l1vgl1q6suyr> ;
+      <http://purl.org/dc/terms/date>
+              "2013-09-02"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1063/1.4820435" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0003-6951> ;
+      <http://purl.org/dc/terms/publisher>
+              "AIP Publishing" ;
+      <http://purl.org/dc/terms/title>
+              "Experimental results from wave tank trials of a multi-axis wave energy converter" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1063/1.4820435" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "103901" ;
+      <http://purl.org/ontology/bibo/volume>
+              "103" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1063/1.4820435> , <doi:10.1063/1.4820435> .
+
+<http://id.crossref.org/contributor/george-aggidis-3l1vgl1q6suyr>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Aggidis" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "George" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "George Aggidis" .
+
+<http://id.crossref.org/contributor/dahai-zhang-3l1vgl1q6suyr>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Zhang" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Dahai" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Dahai Zhang" .
+
+<http://id.crossref.org/contributor/wei-li-3l1vgl1q6suyr>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Li" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Wei" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Wei Li" .

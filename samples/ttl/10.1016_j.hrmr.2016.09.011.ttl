@@ -1,0 +1,69 @@
+<http://id.crossref.org/contributor/deniz-s-ones-3ocx98yzmuh6z>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Ones" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Deniz S." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Deniz S. Ones" .
+
+<http://id.crossref.org/contributor/frank-l-schmidt-3ocx98yzmuh6z>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Schmidt" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Frank L." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Frank L. Schmidt" .
+
+<http://id.crossref.org/contributor/chockalingam-viswesvaran-3ocx98yzmuh6z>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Viswesvaran" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Chockalingam" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Chockalingam Viswesvaran" .
+
+<http://id.crossref.org/issn/1053-4822>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1053-4822" ;
+      <http://purl.org/dc/terms/title>
+              "Human Resource Management Review" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1053-4822" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1053-4822" .
+
+<http://dx.doi.org/10.1016/j.hrmr.2016.09.011>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/j.hrmr.2016.09.011" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "215" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "201" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "27" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/deniz-s-ones-3ocx98yzmuh6z> , <http://id.crossref.org/contributor/chockalingam-viswesvaran-3ocx98yzmuh6z> , <http://id.crossref.org/contributor/frank-l-schmidt-3ocx98yzmuh6z> ;
+      <http://purl.org/dc/terms/date>
+              "2017-03"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/j.hrmr.2016.09.011" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1053-4822> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Realizing the full potential of psychometric meta-analysis for a cumulative science and practice of human resource management" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/j.hrmr.2016.09.011" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "215" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "201" ;
+      <http://purl.org/ontology/bibo/volume>
+              "27" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1016/j.hrmr.2016.09.011> , <doi:10.1016/j.hrmr.2016.09.011> .

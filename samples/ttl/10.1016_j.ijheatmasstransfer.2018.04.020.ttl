@@ -1,0 +1,87 @@
+<http://dx.doi.org/10.1016/j.ijheatmasstransfer.2018.04.020>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/j.ijheatmasstransfer.2018.04.020" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "952" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "943" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "124" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/shengqiang-shen-8kddcth27o0u> , <http://id.crossref.org/contributor/qinggang-qiu-8kddcth27o0u> , <http://id.crossref.org/contributor/xiaocui-zhang-8kddcth27o0u> , <http://id.crossref.org/contributor/shenglin-quan-8kddcth27o0u> , <http://id.crossref.org/contributor/xiaojing-zhu-8kddcth27o0u> ;
+      <http://purl.org/dc/terms/date>
+              "2018-09"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/j.ijheatmasstransfer.2018.04.020" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0017-9310> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "3D numerical study of the liquid film distribution on the surface of a horizontal-tube falling-film evaporator" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/j.ijheatmasstransfer.2018.04.020" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "952" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "943" ;
+      <http://purl.org/ontology/bibo/volume>
+              "124" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1016/j.ijheatmasstransfer.2018.04.020> , <doi:10.1016/j.ijheatmasstransfer.2018.04.020> .
+
+<http://id.crossref.org/contributor/shengqiang-shen-8kddcth27o0u>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Shen" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Shengqiang" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Shengqiang Shen" .
+
+<http://id.crossref.org/contributor/qinggang-qiu-8kddcth27o0u>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Qiu" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Qinggang" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Qinggang Qiu" .
+
+<http://id.crossref.org/contributor/xiaocui-zhang-8kddcth27o0u>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Zhang" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Xiaocui" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Xiaocui Zhang" .
+
+<http://id.crossref.org/contributor/shenglin-quan-8kddcth27o0u>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Quan" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Shenglin" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Shenglin Quan" .
+
+<http://id.crossref.org/contributor/xiaojing-zhu-8kddcth27o0u>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Zhu" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Xiaojing" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Xiaojing Zhu" .
+
+<http://id.crossref.org/issn/0017-9310>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0017-9310" ;
+      <http://purl.org/dc/terms/title>
+              "International Journal of Heat and Mass Transfer" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0017-9310" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0017-9310" .

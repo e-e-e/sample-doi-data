@@ -1,0 +1,87 @@
+<http://dx.doi.org/10.1080/17843286.1995.11718450>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1080/17843286.1995.11718450" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "226" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "222" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "50" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/p-recloux-1khjcln9ix48b> , <http://id.crossref.org/contributor/c-hubert-1khjcln9ix48b> , <http://id.crossref.org/contributor/g-watteeuw-1khjcln9ix48b> , <http://id.crossref.org/contributor/f-tannouri-1khjcln9ix48b> , <http://id.crossref.org/contributor/a-dhondt-1khjcln9ix48b> ;
+      <http://purl.org/dc/terms/date>
+              "1995-01"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1080/17843286.1995.11718450" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1784-3286> ;
+      <http://purl.org/dc/terms/publisher>
+              "Informa UK Limited" ;
+      <http://purl.org/dc/terms/title>
+              "Malignant Peritoneal Mesothelioma" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1080/17843286.1995.11718450" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "226" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "222" ;
+      <http://purl.org/ontology/bibo/volume>
+              "50" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1080/17843286.1995.11718450> , <doi:10.1080/17843286.1995.11718450> .
+
+<http://id.crossref.org/contributor/p-recloux-1khjcln9ix48b>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Recloux" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "P." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "P. Recloux" .
+
+<http://id.crossref.org/contributor/c-hubert-1khjcln9ix48b>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Hubert" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "C." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "C. Hubert" .
+
+<http://id.crossref.org/contributor/g-watteeuw-1khjcln9ix48b>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Watteeuw" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "G." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "G. Watteeuw" .
+
+<http://id.crossref.org/contributor/f-tannouri-1khjcln9ix48b>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Tannouri" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "F." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "F. Tannouri" .
+
+<http://id.crossref.org/contributor/a-dhondt-1khjcln9ix48b>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "D’Hondt" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "A. D’Hondt" .
+
+<http://id.crossref.org/issn/1784-3286>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1784-3286" , "2295-3337" ;
+      <http://purl.org/dc/terms/title>
+              "Acta Clinica Belgica" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1784-3286" , "2295-3337" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:2295-3337" , "urn:issn:1784-3286" .

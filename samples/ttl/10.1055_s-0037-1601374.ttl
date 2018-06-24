@@ -1,0 +1,69 @@
+<http://id.crossref.org/contributor/arman-serebrakian-3a3rvvrg9epdr>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Serebrakian" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Arman" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Arman Serebrakian" .
+
+<http://id.crossref.org/contributor/brent-pickrell-3a3rvvrg9epdr>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Pickrell" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Brent" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Brent Pickrell" .
+
+<http://id.crossref.org/issn/1535-2188>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1536-0067" , "1535-2188" ;
+      <http://purl.org/dc/terms/title>
+              "Seminars in Plastic Surgery" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1536-0067" , "1535-2188" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1535-2188" , "urn:issn:1536-0067" .
+
+<http://id.crossref.org/contributor/renata-maricevich-3a3rvvrg9epdr>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Maricevich" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Renata" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Renata Maricevich" .
+
+<http://dx.doi.org/10.1055/s-0037-1601374>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1055/s-0037-1601374" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "107" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "100" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "31" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/arman-serebrakian-3a3rvvrg9epdr> , <http://id.crossref.org/contributor/brent-pickrell-3a3rvvrg9epdr> , <http://id.crossref.org/contributor/renata-maricevich-3a3rvvrg9epdr> ;
+      <http://purl.org/dc/terms/date>
+              "2017-05-09"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1055/s-0037-1601374" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1535-2188> ;
+      <http://purl.org/dc/terms/publisher>
+              "Georg Thieme Verlag KG" ;
+      <http://purl.org/dc/terms/title>
+              "Mandible Fractures" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1055/s-0037-1601374" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "107" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "100" ;
+      <http://purl.org/ontology/bibo/volume>
+              "31" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1055/s-0037-1601374> , <info:doi/10.1055/s-0037-1601374> .
