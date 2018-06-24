@@ -1,0 +1,26 @@
+<http://id.crossref.org/isbn/9780123786241>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Thoughts on Interaction Design" .
+
+<http://dx.doi.org/10.1016/b978-0-12-378624-1.50019-2>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/b978-0-12-378624-1.50019-2" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "v" ;
+      <http://purl.org/dc/terms/date>
+              "2010"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/b978-0-12-378624-1.50019-2" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9780123786241> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier" ;
+      <http://purl.org/dc/terms/title>
+              "Dedication" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/b978-0-12-378624-1.50019-2" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "v" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1016/b978-0-12-378624-1.50019-2> , <info:doi/10.1016/b978-0-12-378624-1.50019-2> .

@@ -1,0 +1,43 @@
+<http://dx.doi.org/10.1515/arbi.2008.026>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1515/arbi.2008.026" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "26" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/petra-zaus-8mp303rgfybg> ;
+      <http://purl.org/dc/terms/date>
+              "2008-01"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1515/arbi.2008.026" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0723-2977> ;
+      <http://purl.org/dc/terms/publisher>
+              "Walter de Gruyter GmbH" ;
+      <http://purl.org/dc/terms/title>
+              "Hartmut Steinecke (Hg.), E.T.A. Hoffmann. Neue Wege der Forschung. 2006" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1515/arbi.2008.026" ;
+      <http://purl.org/ontology/bibo/volume>
+              "26" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1515/arbi.2008.026> , <doi:10.1515/arbi.2008.026> .
+
+<http://id.crossref.org/issn/0723-2977>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0723-2977" , "1865-8849" ;
+      <http://purl.org/dc/terms/title>
+              "Arbitrium" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0723-2977" , "1865-8849" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0723-2977" , "urn:issn:1865-8849" .
+
+<http://id.crossref.org/contributor/petra-zaus-8mp303rgfybg>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Zaus" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Petra" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Petra Zaus" .

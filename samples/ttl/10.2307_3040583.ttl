@@ -1,0 +1,56 @@
+<http://id.crossref.org/contributor/robert-champigny-14qmrrwil3955>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Champigny" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Robert" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Robert Champigny" .
+
+<http://id.crossref.org/contributor/rene-girard-14qmrrwil3955>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Girard" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Rene" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Rene Girard" .
+
+<http://id.crossref.org/issn/0149-6611>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0149-6611" ;
+      <http://purl.org/dc/terms/title>
+              "Modern Language Notes" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0149-6611" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0149-6611" .
+
+<http://dx.doi.org/10.2307/3040583>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.2307/3040583" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "82" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "75" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/robert-champigny-14qmrrwil3955> , <http://id.crossref.org/contributor/rene-girard-14qmrrwil3955> ;
+      <http://purl.org/dc/terms/date>
+              "1960-01"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.2307/3040583" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0149-6611> ;
+      <http://purl.org/dc/terms/publisher>
+              "JSTOR" ;
+      <http://purl.org/dc/terms/title>
+              "Stages on Sartre's Way." ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.2307/3040583" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "82" ;
+      <http://purl.org/ontology/bibo/volume>
+              "75" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.2307/3040583> , <doi:10.2307/3040583> .

@@ -1,0 +1,40 @@
+<http://dx.doi.org/10.1080/14443059909387493>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1080/14443059909387493" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "ebi" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "ebi" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "23" ;
+      <http://purl.org/dc/terms/date>
+              "1999-01"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1080/14443059909387493" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1444-3058> ;
+      <http://purl.org/dc/terms/publisher>
+              "Informa UK Limited" ;
+      <http://purl.org/dc/terms/title>
+              "Editorial board" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1080/14443059909387493" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "ebi" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "ebi" ;
+      <http://purl.org/ontology/bibo/volume>
+              "23" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1080/14443059909387493> , <info:doi/10.1080/14443059909387493> .
+
+<http://id.crossref.org/issn/1444-3058>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1444-3058" , "1835-6419" ;
+      <http://purl.org/dc/terms/title>
+              "Journal of Australian Studies" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1444-3058" , "1835-6419" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1444-3058" , "urn:issn:1835-6419" .

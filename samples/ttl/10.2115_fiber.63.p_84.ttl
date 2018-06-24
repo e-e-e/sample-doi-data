@@ -1,0 +1,60 @@
+<http://id.crossref.org/issn/0037-9875>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0037-9875" ;
+      <http://purl.org/dc/terms/title>
+              "FIBER" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0037-9875" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0037-9875" .
+
+<http://id.crossref.org/contributor/norihiro-minemura-325j92hueiqkl>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "MINEMURA" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "NORIHIRO" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "NORIHIRO MINEMURA" .
+
+<http://dx.doi.org/10.2115/fiber.63.p_84>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.2115/fiber.63.p_84" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "P.88" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "P.84" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "63" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/norihiro-minemura-325j92hueiqkl> , <http://id.crossref.org/contributor/miyoshi-okamoto-325j92hueiqkl> ;
+      <http://purl.org/dc/terms/date>
+              "2007"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.2115/fiber.63.p_84" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0037-9875> ;
+      <http://purl.org/dc/terms/publisher>
+              "Society of Fiber Science and Technology Japan" ;
+      <http://purl.org/dc/terms/title>
+              "" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.2115/fiber.63.p_84" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "P.88" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "P.84" ;
+      <http://purl.org/ontology/bibo/volume>
+              "63" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.2115/fiber.63.p_84> , <info:doi/10.2115/fiber.63.p_84> .
+
+<http://id.crossref.org/contributor/miyoshi-okamoto-325j92hueiqkl>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "OKAMOTO" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "MIYOSHI" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "MIYOSHI OKAMOTO" .

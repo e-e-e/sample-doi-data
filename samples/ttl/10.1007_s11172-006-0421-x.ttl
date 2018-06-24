@@ -1,0 +1,114 @@
+<http://id.crossref.org/contributor/s-a-kirlan-36yfphy6a3ks7>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kirlan" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "S. A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "S. A. Kirlan" .
+
+<http://dx.doi.org/10.1007/s11172-006-0421-x>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1007/s11172-006-0421-x" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "1327" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "1322" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "55" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/s-a-kirlan-36yfphy6a3ks7> , <http://id.crossref.org/contributor/yu-b-monakov-36yfphy6a3ks7> , <http://id.crossref.org/contributor/g-g-garifullina-36yfphy6a3ks7> , <http://id.crossref.org/contributor/a-ya-gerchikov-36yfphy6a3ks7> , <http://id.crossref.org/contributor/a-v-kirlan-36yfphy6a3ks7> , <http://id.crossref.org/contributor/l-a-tyurina-36yfphy6a3ks7> , <http://id.crossref.org/contributor/v-r-khairullina-36yfphy6a3ks7> , <http://id.crossref.org/contributor/e-a-kantor-36yfphy6a3ks7> ;
+      <http://purl.org/dc/terms/date>
+              "2006-08"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1007/s11172-006-0421-x" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1066-5285> ;
+      <http://purl.org/dc/terms/publisher>
+              "Springer Nature" ;
+      <http://purl.org/dc/terms/title>
+              "Computer-assisted prediction of antioxidant activities and toxicities of ionol, 5-hydroxy-6-methyluracil, and their derivatives" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1007/s11172-006-0421-x" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "1327" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "1322" ;
+      <http://purl.org/ontology/bibo/volume>
+              "55" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1007/s11172-006-0421-x> , <info:doi/10.1007/s11172-006-0421-x> .
+
+<http://id.crossref.org/issn/1066-5285>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1066-5285" , "1573-9171" ;
+      <http://purl.org/dc/terms/title>
+              "Russian Chemical Bulletin" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1066-5285" , "1573-9171" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1573-9171" , "urn:issn:1066-5285" .
+
+<http://id.crossref.org/contributor/yu-b-monakov-36yfphy6a3ks7>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Monakov" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Yu. B." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Yu. B. Monakov" .
+
+<http://id.crossref.org/contributor/g-g-garifullina-36yfphy6a3ks7>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Garifullina" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "G. G." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "G. G. Garifullina" .
+
+<http://id.crossref.org/contributor/a-v-kirlan-36yfphy6a3ks7>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kirlan" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "A. V." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "A. V. Kirlan" .
+
+<http://id.crossref.org/contributor/a-ya-gerchikov-36yfphy6a3ks7>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Gerchikov" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "A. Ya." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "A. Ya. Gerchikov" .
+
+<http://id.crossref.org/contributor/l-a-tyurina-36yfphy6a3ks7>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Tyurina" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "L. A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "L. A. Tyurina" .
+
+<http://id.crossref.org/contributor/v-r-khairullina-36yfphy6a3ks7>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Khairullina" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "V. R." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "V. R. Khairullina" .
+
+<http://id.crossref.org/contributor/e-a-kantor-36yfphy6a3ks7>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kantor" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "E. A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "E. A. Kantor" .

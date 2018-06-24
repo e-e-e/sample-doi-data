@@ -1,0 +1,51 @@
+<http://id.crossref.org/contributor/t-tanaka-xus18074touu>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Tanaka" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "T." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "T. Tanaka" .
+
+<http://dx.doi.org/10.1029/2001ja900061>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1029/2001ja900061" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "24516" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "24505" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "106" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/t-tanaka-xus18074touu> ;
+      <http://purl.org/dc/terms/date>
+              "2001-11-01"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1029/2001ja900061" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0148-0227> ;
+      <http://purl.org/dc/terms/publisher>
+              "American Geophysical Union (AGU)" ;
+      <http://purl.org/dc/terms/title>
+              "Interplanetary magnetic fieldByand auroral conductance effects on high-latitude ionospheric convection patterns" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1029/2001ja900061" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "24516" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "24505" ;
+      <http://purl.org/ontology/bibo/volume>
+              "106" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1029/2001ja900061> , <info:doi/10.1029/2001ja900061> .
+
+<http://id.crossref.org/issn/0148-0227>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0148-0227" ;
+      <http://purl.org/dc/terms/title>
+              "Journal of Geophysical Research: Space Physics" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0148-0227" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0148-0227" .

@@ -1,0 +1,78 @@
+<http://id.crossref.org/contributor/josef-flammer-1e3w6n9f6lj4l>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Flammer" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Josef" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Josef Flammer" .
+
+<http://id.crossref.org/contributor/markus-g-lang-1e3w6n9f6lj4l>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Lang" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Markus G." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Markus G. Lang" .
+
+<http://id.crossref.org/contributor/thomas-f-luscher-1e3w6n9f6lj4l>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Lüscher" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Thomas F." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Thomas F. Lüscher" .
+
+<http://dx.doi.org/10.1016/s0014-4835(05)80065-x>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/s0014-4835(05)80065-x" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "510" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "505" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "60" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/markus-g-lang-1e3w6n9f6lj4l> , <http://id.crossref.org/contributor/josef-flammer-1e3w6n9f6lj4l> , <http://id.crossref.org/contributor/thomas-f-luscher-1e3w6n9f6lj4l> , <http://id.crossref.org/contributor/peter-meyer-1e3w6n9f6lj4l> ;
+      <http://purl.org/dc/terms/date>
+              "1995-05"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/s0014-4835(05)80065-x" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0014-4835> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Effects of calcium channel blockers on the response to endothelin-1, bradykinin and sodium nitroprusside in porcine ciliary arteries" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/s0014-4835(05)80065-x" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "510" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "505" ;
+      <http://purl.org/ontology/bibo/volume>
+              "60" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1016/s0014-4835(05)80065-x> , <doi:10.1016/s0014-4835(05)80065-x> .
+
+<http://id.crossref.org/contributor/peter-meyer-1e3w6n9f6lj4l>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Meyer" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Peter" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Peter Meyer" .
+
+<http://id.crossref.org/issn/0014-4835>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0014-4835" ;
+      <http://purl.org/dc/terms/title>
+              "Experimental Eye Research" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0014-4835" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0014-4835" .

@@ -1,0 +1,47 @@
+<http://id.crossref.org/issn/0953-8984>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0953-8984" , "1361-648X" ;
+      <http://purl.org/dc/terms/title>
+              "Journal of Physics: Condensed Matter" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0953-8984" , "1361-648X" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0953-8984" , "urn:issn:1361-648X" .
+
+<http://dx.doi.org/10.1088/0953-8984/20/29/293202>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1088/0953-8984/20/29/293202" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "293202" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "20" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/a-m-panich-sacajvs7pjg5> ;
+      <http://purl.org/dc/terms/date>
+              "2008-07-01"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1088/0953-8984/20/29/293202" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0953-8984> ;
+      <http://purl.org/dc/terms/publisher>
+              "IOP Publishing" ;
+      <http://purl.org/dc/terms/title>
+              "Electronic properties and phase transitions in low-dimensional semiconductors" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1088/0953-8984/20/29/293202" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "293202" ;
+      <http://purl.org/ontology/bibo/volume>
+              "20" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1088/0953-8984/20/29/293202> , <info:doi/10.1088/0953-8984/20/29/293202> .
+
+<http://id.crossref.org/contributor/a-m-panich-sacajvs7pjg5>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Panich" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "A M" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "A M Panich" .

@@ -1,0 +1,51 @@
+<http://id.crossref.org/issn/0890-5339>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0890-5339" ;
+      <http://purl.org/dc/terms/title>
+              "Journal of Orthopaedic Trauma" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0890-5339" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0890-5339" .
+
+<http://id.crossref.org/contributor/thierry-judet-2xcqvb4hz6cwe>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Judet" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Thierry" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Thierry Judet" .
+
+<http://dx.doi.org/10.1097/00005131-200105000-00017>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1097/00005131-200105000-00017" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "309" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "308" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "15" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/thierry-judet-2xcqvb4hz6cwe> ;
+      <http://purl.org/dc/terms/date>
+              "2001-05"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1097/00005131-200105000-00017" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0890-5339> ;
+      <http://purl.org/dc/terms/publisher>
+              "Ovid Technologies (Wolters Kluwer Health)" ;
+      <http://purl.org/dc/terms/title>
+              "Letters to the Editor" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1097/00005131-200105000-00017" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "309" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "308" ;
+      <http://purl.org/ontology/bibo/volume>
+              "15" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1097/00005131-200105000-00017> , <info:doi/10.1097/00005131-200105000-00017> .

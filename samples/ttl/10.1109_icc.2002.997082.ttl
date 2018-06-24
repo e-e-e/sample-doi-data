@@ -1,0 +1,33 @@
+<http://id.crossref.org/contributor/p-o-vontobel-1jgvckxjg6eh4>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Vontobel" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "P.O." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "P.O. Vontobel" .
+
+<http://id.crossref.org/isbn/0780374002>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "2002 IEEE International Conference on Communications. Conference Proceedings. ICC 2002 (Cat. No.02CH37333)" .
+
+<http://dx.doi.org/10.1109/icc.2002.997082>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1109/icc.2002.997082" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/p-o-vontobel-1jgvckxjg6eh4> ;
+      <http://purl.org/dc/terms/date>
+              ""^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1109/icc.2002.997082" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/0780374002> ;
+      <http://purl.org/dc/terms/publisher>
+              "IEEE" ;
+      <http://purl.org/dc/terms/title>
+              "On the construction of turbo code interleavers based on graphs with large girth" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1109/icc.2002.997082" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1109/icc.2002.997082> , <doi:10.1109/icc.2002.997082> .

@@ -1,0 +1,60 @@
+<http://id.crossref.org/issn/0022-2364>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0022-2364" ;
+      <http://purl.org/dc/terms/title>
+              "Journal of Magnetic Resonance (1969)" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0022-2364" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0022-2364" .
+
+<http://dx.doi.org/10.1016/0022-2364(88)90144-8>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/0022-2364(88)90144-8" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "593" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "588" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "78" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/erik-r-p-zuiderweg-3cx04t62b78yo> , <http://id.crossref.org/contributor/stephen-w-fesik-3cx04t62b78yo> ;
+      <http://purl.org/dc/terms/date>
+              "1988-07"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/0022-2364(88)90144-8" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0022-2364> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Heteronuclear three-dimensional nmr spectroscopy. A strategy for the simplification of homonuclear two-dimensional NMR spectra" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/0022-2364(88)90144-8" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "593" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "588" ;
+      <http://purl.org/ontology/bibo/volume>
+              "78" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1016/0022-2364(88)90144-8> , <doi:10.1016/0022-2364(88)90144-8> .
+
+<http://id.crossref.org/contributor/erik-r-p-zuiderweg-3cx04t62b78yo>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Zuiderweg" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Erik R.P" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Erik R.P Zuiderweg" .
+
+<http://id.crossref.org/contributor/stephen-w-fesik-3cx04t62b78yo>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Fesik" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Stephen W" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Stephen W Fesik" .

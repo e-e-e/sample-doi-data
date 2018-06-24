@@ -1,0 +1,69 @@
+<http://id.crossref.org/issn/0945-6317>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1432-2307" , "0945-6317" ;
+      <http://purl.org/dc/terms/title>
+              "Virchows Archiv für Pathologische Anatomie und Physiologie und für Klinische Medizin" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1432-2307" , "0945-6317" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1432-2307" , "urn:issn:0945-6317" .
+
+<http://id.crossref.org/contributor/e-a-neukludowa-3dvjxmcsqk0tv>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Neukludowa" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "E. A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "E. A. Neukludowa" .
+
+<http://id.crossref.org/contributor/w-n-nekludow-3dvjxmcsqk0tv>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Nekludow" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "W. N." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "W. N. Nekludow" .
+
+<http://id.crossref.org/contributor/a-i-boschewolnow-3dvjxmcsqk0tv>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Boschewolnow" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "A. I." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "A. I. Boschewolnow" .
+
+<http://dx.doi.org/10.1007/bf01888430>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1007/bf01888430" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "447" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "438" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "293" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/e-a-neukludowa-3dvjxmcsqk0tv> , <http://id.crossref.org/contributor/w-n-nekludow-3dvjxmcsqk0tv> , <http://id.crossref.org/contributor/a-i-boschewolnow-3dvjxmcsqk0tv> ;
+      <http://purl.org/dc/terms/date>
+              "1934-10"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1007/bf01888430" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0945-6317> ;
+      <http://purl.org/dc/terms/publisher>
+              "Springer Nature" ;
+      <http://purl.org/dc/terms/title>
+              "Der Einfluß unipolar geladener Luft auf das weiße Blutbild bei Meerschweinchen" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1007/bf01888430" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "447" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "438" ;
+      <http://purl.org/ontology/bibo/volume>
+              "293" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1007/bf01888430> , <doi:10.1007/bf01888430> .

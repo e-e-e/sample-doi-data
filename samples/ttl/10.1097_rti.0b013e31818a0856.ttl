@@ -1,0 +1,141 @@
+<http://id.crossref.org/contributor/taro-setoguchi-bggfbvcfewfc>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Setoguchi" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Taro" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Taro Setoguchi" .
+
+<http://id.crossref.org/contributor/yoshio-matsuo-bggfbvcfewfc>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Matsuo" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Yoshio" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Yoshio Matsuo" .
+
+<http://id.crossref.org/contributor/aiko-suminoe-bggfbvcfewfc>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Suminoe" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Aiko" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Aiko Suminoe" .
+
+<http://dx.doi.org/10.1097/rti.0b013e31818a0856>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1097/rti.0b013e31818a0856" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "61" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "59" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "24" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/taro-setoguchi-bggfbvcfewfc> , <http://id.crossref.org/contributor/yoshio-matsuo-bggfbvcfewfc> , <http://id.crossref.org/contributor/hidetake-yabuuchi-bggfbvcfewfc> , <http://id.crossref.org/contributor/keiji-matsumoto-bggfbvcfewfc> , <http://id.crossref.org/contributor/aiko-suminoe-bggfbvcfewfc> , <http://id.crossref.org/contributor/masazumi-tsuneyoshi-bggfbvcfewfc> , <http://id.crossref.org/contributor/ichiro-yoshino-bggfbvcfewfc> , <http://id.crossref.org/contributor/shuji-sakai-bggfbvcfewfc> , <http://id.crossref.org/contributor/masamitsu-hatakenaka-bggfbvcfewfc> , <http://id.crossref.org/contributor/takeshi-kamitani-bggfbvcfewfc> , <http://id.crossref.org/contributor/hiroshi-honda-bggfbvcfewfc> ;
+      <http://purl.org/dc/terms/date>
+              "2009-02"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1097/rti.0b013e31818a0856" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0883-5993> ;
+      <http://purl.org/dc/terms/publisher>
+              "Ovid Technologies (Wolters Kluwer Health)" ;
+      <http://purl.org/dc/terms/title>
+              "Nonspecific Interstitial Pneumonia After Peripheral Blood Stem Cell Transplantation in an 11-year-old boy" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1097/rti.0b013e31818a0856" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "61" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "59" ;
+      <http://purl.org/ontology/bibo/volume>
+              "24" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1097/rti.0b013e31818a0856> , <info:doi/10.1097/rti.0b013e31818a0856> .
+
+<http://id.crossref.org/contributor/masazumi-tsuneyoshi-bggfbvcfewfc>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Tsuneyoshi" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Masazumi" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Masazumi Tsuneyoshi" .
+
+<http://id.crossref.org/contributor/masamitsu-hatakenaka-bggfbvcfewfc>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Hatakenaka" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Masamitsu" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Masamitsu Hatakenaka" .
+
+<http://id.crossref.org/contributor/hiroshi-honda-bggfbvcfewfc>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Honda" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Hiroshi" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Hiroshi Honda" .
+
+<http://id.crossref.org/contributor/hidetake-yabuuchi-bggfbvcfewfc>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Yabuuchi" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Hidetake" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Hidetake Yabuuchi" .
+
+<http://id.crossref.org/issn/0883-5993>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0883-5993" ;
+      <http://purl.org/dc/terms/title>
+              "Journal of Thoracic Imaging" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0883-5993" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0883-5993" .
+
+<http://id.crossref.org/contributor/keiji-matsumoto-bggfbvcfewfc>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Matsumoto" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Keiji" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Keiji Matsumoto" .
+
+<http://id.crossref.org/contributor/shuji-sakai-bggfbvcfewfc>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Sakai" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Shuji" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Shuji Sakai" .
+
+<http://id.crossref.org/contributor/ichiro-yoshino-bggfbvcfewfc>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Yoshino" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Ichiro" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Ichiro Yoshino" .
+
+<http://id.crossref.org/contributor/takeshi-kamitani-bggfbvcfewfc>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kamitani" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Takeshi" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Takeshi Kamitani" .

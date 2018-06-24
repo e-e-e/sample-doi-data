@@ -1,0 +1,51 @@
+<http://id.crossref.org/issn/0090-0036>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0090-0036" , "1541-0048" ;
+      <http://purl.org/dc/terms/title>
+              "American Journal of Public Health" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0090-0036" , "1541-0048" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1541-0048" , "urn:issn:0090-0036" .
+
+<http://dx.doi.org/10.2105/ajph.73.11.1329-a>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.2105/ajph.73.11.1329-a" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "1329" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "1329" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "73" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/john-e-patterson-23yr24x2qw7uo> ;
+      <http://purl.org/dc/terms/date>
+              "1983-11"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.2105/ajph.73.11.1329-a" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0090-0036> ;
+      <http://purl.org/dc/terms/publisher>
+              "American Public Health Association" ;
+      <http://purl.org/dc/terms/title>
+              "Response from Federal Director for Vital Statistics" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.2105/ajph.73.11.1329-a" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "1329" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "1329" ;
+      <http://purl.org/ontology/bibo/volume>
+              "73" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.2105/ajph.73.11.1329-a> , <doi:10.2105/ajph.73.11.1329-a> .
+
+<http://id.crossref.org/contributor/john-e-patterson-23yr24x2qw7uo>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Patterson" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "John E." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "John E. Patterson" .

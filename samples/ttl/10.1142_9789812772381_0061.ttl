@@ -1,0 +1,60 @@
+<http://id.crossref.org/contributor/tapan-kumar-bhowmik-lb1y3ghkrph3>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kumar Bhowmik" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Tapan" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Tapan Kumar Bhowmik" .
+
+<http://id.crossref.org/contributor/swapan-kumar-parui-lb1y3ghkrph3>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Parui" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Swapan Kumar" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Swapan Kumar Parui" .
+
+<http://id.crossref.org/contributor/utpal-roy-lb1y3ghkrph3>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Roy" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Utpal" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Utpal Roy" .
+
+<http://id.crossref.org/contributor/manika-kar-lb1y3ghkrph3>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kar" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Manika" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Manika Kar" .
+
+<http://dx.doi.org/10.1142/9789812772381_0061>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1142/9789812772381_0061" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/tapan-kumar-bhowmik-lb1y3ghkrph3> , <http://id.crossref.org/contributor/swapan-kumar-parui-lb1y3ghkrph3> , <http://id.crossref.org/contributor/utpal-roy-lb1y3ghkrph3> , <http://id.crossref.org/contributor/manika-kar-lb1y3ghkrph3> ;
+      <http://purl.org/dc/terms/date>
+              "2006-12"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1142/9789812772381_0061" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9789812705532> ;
+      <http://purl.org/dc/terms/publisher>
+              "WORLD SCIENTIFIC" ;
+      <http://purl.org/dc/terms/title>
+              "Segmental K-Means Algorithm Based Hidden Markov Model for Shape Recognition and its Applications" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1142/9789812772381_0061" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1142/9789812772381_0061> , <info:doi/10.1142/9789812772381_0061> .
+
+<http://id.crossref.org/isbn/9789812705532>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Advances in Pattern Recognition" .

@@ -1,0 +1,51 @@
+<http://id.crossref.org/issn/0272-6343>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1532-527X" , "0272-6343" ;
+      <http://purl.org/dc/terms/title>
+              "Electromagnetics" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1532-527X" , "0272-6343" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0272-6343" , "urn:issn:1532-527X" .
+
+<http://id.crossref.org/contributor/kyu-pyung-hwang-1jty22a4564p1>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "HWANG" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "KYU-PYUNG" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "KYU-PYUNG HWANG" .
+
+<http://dx.doi.org/10.1080/02726340390159450>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1080/02726340390159450" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "102" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "89" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "23" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/kyu-pyung-hwang-1jty22a4564p1> ;
+      <http://purl.org/dc/terms/date>
+              "2003-01"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1080/02726340390159450" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0272-6343> ;
+      <http://purl.org/dc/terms/publisher>
+              "Informa UK Limited" ;
+      <http://purl.org/dc/terms/title>
+              "Computational Efficiency of Fang’s Fourth-Order FDTD Schemes" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1080/02726340390159450" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "102" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "89" ;
+      <http://purl.org/ontology/bibo/volume>
+              "23" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1080/02726340390159450> , <doi:10.1080/02726340390159450> .

@@ -1,0 +1,41 @@
+<http://id.crossref.org/contributor/joanne-shattock-2swi8thlzw79a>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Shattock" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Joanne" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Joanne Shattock" .
+
+<http://id.crossref.org/isbn/9780511518683>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "The Cambridge Bibliography of English Literature" .
+
+<http://dx.doi.org/10.1017/cbo9780511518683.005>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1017/cbo9780511518683.005" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "858" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "207" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/joanne-shattock-2swi8thlzw79a> ;
+      <http://purl.org/dc/terms/date>
+              ""^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1017/cbo9780511518683.005" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9780511518683> ;
+      <http://purl.org/dc/terms/publisher>
+              "Cambridge University Press" ;
+      <http://purl.org/dc/terms/title>
+              "POETRY" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1017/cbo9780511518683.005" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "858" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "207" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1017/cbo9780511518683.005> , <doi:10.1017/cbo9780511518683.005> .

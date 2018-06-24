@@ -1,0 +1,60 @@
+<http://id.crossref.org/contributor/george-h-hitchings-11bsslz5g9fq8>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Hitchings" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "George H." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "George H. Hitchings" .
+
+<http://dx.doi.org/10.1021/ja01135a048>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1021/ja01135a048" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "3882" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "3877" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "74" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/george-h-hitchings-11bsslz5g9fq8> , <http://id.crossref.org/contributor/gertrude-b-elion-11bsslz5g9fq8> ;
+      <http://purl.org/dc/terms/date>
+              "1952-08"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1021/ja01135a048" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0002-7863> ;
+      <http://purl.org/dc/terms/publisher>
+              "American Chemical Society (ACS)" ;
+      <http://purl.org/dc/terms/title>
+              "The Identification of “β-Dihydroxanthopterin” as 2,4-Diamino-6-hydroxy-p-oxazino (2,3-d)pyrimidine" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1021/ja01135a048" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "3882" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "3877" ;
+      <http://purl.org/ontology/bibo/volume>
+              "74" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1021/ja01135a048> , <doi:10.1021/ja01135a048> .
+
+<http://id.crossref.org/contributor/gertrude-b-elion-11bsslz5g9fq8>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Elion" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Gertrude B." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Gertrude B. Elion" .
+
+<http://id.crossref.org/issn/0002-7863>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0002-7863" , "1520-5126" ;
+      <http://purl.org/dc/terms/title>
+              "Journal of the American Chemical Society" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0002-7863" , "1520-5126" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0002-7863" , "urn:issn:1520-5126" .

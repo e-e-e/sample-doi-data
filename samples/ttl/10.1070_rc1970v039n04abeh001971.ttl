@@ -1,0 +1,60 @@
+<http://id.crossref.org/contributor/v-v-korshak-2u5ahk11n6mhf>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Korshak" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "V V" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "V V Korshak" .
+
+<http://id.crossref.org/contributor/svetlana-v-vinogradova-2u5ahk11n6mhf>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Vinogradova" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Svetlana V" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Svetlana V Vinogradova" .
+
+<http://id.crossref.org/issn/0036-021X>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0036-021X" , "1468-4837" ;
+      <http://purl.org/dc/terms/title>
+              "Russian Chemical Reviews" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0036-021X" , "1468-4837" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0036-021X" , "urn:issn:1468-4837" .
+
+<http://dx.doi.org/10.1070/rc1970v039n04abeh001971>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1070/rc1970v039n04abeh001971" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "318" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "308" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "39" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/v-v-korshak-2u5ahk11n6mhf> , <http://id.crossref.org/contributor/svetlana-v-vinogradova-2u5ahk11n6mhf> ;
+      <http://purl.org/dc/terms/date>
+              "1970-04-30"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1070/rc1970v039n04abeh001971" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0036-021X> ;
+      <http://purl.org/dc/terms/publisher>
+              "IOP Publishing" ;
+      <http://purl.org/dc/terms/title>
+              "Advances in the Polycondensation Methods for the Synthesis of Thermostable Polymers" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1070/rc1970v039n04abeh001971" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "318" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "308" ;
+      <http://purl.org/ontology/bibo/volume>
+              "39" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1070/rc1970v039n04abeh001971> , <doi:10.1070/rc1970v039n04abeh001971> .

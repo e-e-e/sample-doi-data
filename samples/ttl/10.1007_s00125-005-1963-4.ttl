@@ -1,0 +1,137 @@
+<http://id.crossref.org/contributor/t-a-welborn-1wgqmjdpxljqk>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Welborn" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "T. A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "T. A. Welborn" .
+
+<http://id.crossref.org/contributor/d-jolley-1wgqmjdpxljqk>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Jolley" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "D." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "D. Jolley" .
+
+<http://id.crossref.org/issn/0012-186X>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1432-0428" , "0012-186X" ;
+      <http://purl.org/dc/terms/title>
+              "Diabetologia" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1432-0428" , "0012-186X" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0012-186X" , "urn:issn:1432-0428" .
+
+<http://id.crossref.org/contributor/t-armstrong-1wgqmjdpxljqk>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Armstrong" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "T." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "T. Armstrong" .
+
+<http://id.crossref.org/contributor/p-z-zimmet-1wgqmjdpxljqk>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Zimmet" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "P. Z." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "P. Z. Zimmet" .
+
+<http://id.crossref.org/contributor/a-j-cameron-1wgqmjdpxljqk>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Cameron" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "A. J." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "A. J. Cameron" .
+
+<http://id.crossref.org/contributor/t-dwyer-1wgqmjdpxljqk>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Dwyer" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "T." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "T. Dwyer" .
+
+<http://id.crossref.org/contributor/n-owen-1wgqmjdpxljqk>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Owen" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "N." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "N. Owen" .
+
+<http://id.crossref.org/contributor/j-salmon-1wgqmjdpxljqk>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Salmon" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "J." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "J. Salmon" .
+
+<http://id.crossref.org/contributor/j-e-shaw-1wgqmjdpxljqk>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Shaw" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "J. E." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "J. E. Shaw" .
+
+<http://id.crossref.org/contributor/d-w-dunstan-1wgqmjdpxljqk>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Dunstan" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "D. W." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "D. W. Dunstan" .
+
+<http://id.crossref.org/contributor/-1wgqmjdpxljqk>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/name>
+              " " .
+
+<http://dx.doi.org/10.1007/s00125-005-1963-4>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1007/s00125-005-1963-4" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "2261" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "2254" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "48" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/p-z-zimmet-1wgqmjdpxljqk> , <http://id.crossref.org/contributor/a-j-cameron-1wgqmjdpxljqk> , <http://id.crossref.org/contributor/t-a-welborn-1wgqmjdpxljqk> , <http://id.crossref.org/contributor/t-dwyer-1wgqmjdpxljqk> , <http://id.crossref.org/contributor/n-owen-1wgqmjdpxljqk> , <http://id.crossref.org/contributor/d-jolley-1wgqmjdpxljqk> , <http://id.crossref.org/contributor/j-salmon-1wgqmjdpxljqk> , <http://id.crossref.org/contributor/j-e-shaw-1wgqmjdpxljqk> , <http://id.crossref.org/contributor/-1wgqmjdpxljqk> , <http://id.crossref.org/contributor/d-w-dunstan-1wgqmjdpxljqk> , <http://id.crossref.org/contributor/t-armstrong-1wgqmjdpxljqk> ;
+      <http://purl.org/dc/terms/date>
+              "2005-10-07"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1007/s00125-005-1963-4" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0012-186X> ;
+      <http://purl.org/dc/terms/publisher>
+              "Springer Nature" ;
+      <http://purl.org/dc/terms/title>
+              "Associations of TV viewing and physical activity with the metabolic syndrome in Australian adults" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1007/s00125-005-1963-4" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "2261" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "2254" ;
+      <http://purl.org/ontology/bibo/volume>
+              "48" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1007/s00125-005-1963-4> , <info:doi/10.1007/s00125-005-1963-4> .

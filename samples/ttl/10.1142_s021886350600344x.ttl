@@ -1,0 +1,78 @@
+<http://id.crossref.org/contributor/zhenrong-sun-3txh1dhree0qw>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "SUN" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "ZHENRONG" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "ZHENRONG SUN" .
+
+<http://id.crossref.org/contributor/shian-zhang-3txh1dhree0qw>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "ZHANG" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "SHIAN" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "SHIAN ZHANG" .
+
+<http://dx.doi.org/10.1142/s021886350600344x>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1142/s021886350600344x" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "453" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "447" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "15" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/zhenrong-sun-3txh1dhree0qw> , <http://id.crossref.org/contributor/shian-zhang-3txh1dhree0qw> , <http://id.crossref.org/contributor/zugeng-wang-3txh1dhree0qw> , <http://id.crossref.org/contributor/li-deng-3txh1dhree0qw> ;
+      <http://purl.org/dc/terms/date>
+              "2006-12"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1142/s021886350600344x" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0218-8635> ;
+      <http://purl.org/dc/terms/publisher>
+              "World Scientific Pub Co Pte Lt" ;
+      <http://purl.org/dc/terms/title>
+              "SUPERCONTINUUM SPECTRUM GENERATION IN THE LIQUIDS WITH DIFFERENT BAND GAP THRESHOLDS" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1142/s021886350600344x" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "453" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "447" ;
+      <http://purl.org/ontology/bibo/volume>
+              "15" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1142/s021886350600344x> , <info:doi/10.1142/s021886350600344x> .
+
+<http://id.crossref.org/contributor/li-deng-3txh1dhree0qw>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "DENG" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "LI" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "LI DENG" .
+
+<http://id.crossref.org/contributor/zugeng-wang-3txh1dhree0qw>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "WANG" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "ZUGENG" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "ZUGENG WANG" .
+
+<http://id.crossref.org/issn/0218-8635>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0218-8635" , "1793-6624" ;
+      <http://purl.org/dc/terms/title>
+              "Journal of Nonlinear Optical Physics & Materials" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0218-8635" , "1793-6624" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0218-8635" , "urn:issn:1793-6624" .

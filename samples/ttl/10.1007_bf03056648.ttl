@@ -1,0 +1,60 @@
+<http://id.crossref.org/issn/1389-6555>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1389-6555" , "1876-5157" ;
+      <http://purl.org/dc/terms/title>
+              "Tijdschrift voor Medisch Onderwijs" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1389-6555" , "1876-5157" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1389-6555" , "urn:issn:1876-5157" .
+
+<http://id.crossref.org/contributor/a-h-blankenstein-2htpl0uuibcjp>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Blankenstein" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "A. H." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "A. H. Blankenstein" .
+
+<http://id.crossref.org/contributor/g-locher-2htpl0uuibcjp>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Locher" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "G." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "G. Locher" .
+
+<http://dx.doi.org/10.1007/bf03056648>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1007/bf03056648" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "152" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "143" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "23" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/a-h-blankenstein-2htpl0uuibcjp> , <http://id.crossref.org/contributor/g-locher-2htpl0uuibcjp> ;
+      <http://purl.org/dc/terms/date>
+              "2004-06"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1007/bf03056648" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1389-6555> ;
+      <http://purl.org/dc/terms/publisher>
+              "Springer Nature" ;
+      <http://purl.org/dc/terms/title>
+              "Wat doet supervisieonderwijs bij huisartsen in opleiding? Resultaten van een onderzoek naar effectbeleving onder HAIO’s aan de huisartsopleiding van het VUMC" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1007/bf03056648" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "152" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "143" ;
+      <http://purl.org/ontology/bibo/volume>
+              "23" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1007/bf03056648> , <info:doi/10.1007/bf03056648> .

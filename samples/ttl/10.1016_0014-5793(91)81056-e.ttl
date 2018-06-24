@@ -1,0 +1,60 @@
+<http://dx.doi.org/10.1016/0014-5793(91)81056-e>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/0014-5793(91)81056-e" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "150" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "148" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "289" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/philippe-morand-xsimthqhol5g> , <http://id.crossref.org/contributor/jean-francois-biellmann-xsimthqhol5g> ;
+      <http://purl.org/dc/terms/date>
+              "1991-09-09"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/0014-5793(91)81056-e" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0014-5793> ;
+      <http://purl.org/dc/terms/publisher>
+              "Wiley" ;
+      <http://purl.org/dc/terms/title>
+              "Modification of α-amylase fromBacillus licheniformisby the polyaldehyde derived from β-cyclodextrine and α-amylase thermostability" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/0014-5793(91)81056-e" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "150" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "148" ;
+      <http://purl.org/ontology/bibo/volume>
+              "289" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1016/0014-5793(91)81056-e> , <doi:10.1016/0014-5793(91)81056-e> .
+
+<http://id.crossref.org/contributor/philippe-morand-xsimthqhol5g>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Morand" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Philippe" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Philippe Morand" .
+
+<http://id.crossref.org/contributor/jean-francois-biellmann-xsimthqhol5g>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Biellmann" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Jean-François" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Jean-François Biellmann" .
+
+<http://id.crossref.org/issn/0014-5793>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0014-5793" ;
+      <http://purl.org/dc/terms/title>
+              "FEBS Letters" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0014-5793" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0014-5793" .

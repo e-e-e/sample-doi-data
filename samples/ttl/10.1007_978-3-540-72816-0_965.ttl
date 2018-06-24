@@ -1,0 +1,30 @@
+<http://dx.doi.org/10.1007/978-3-540-72816-0_965>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1007/978-3-540-72816-0_965" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "37" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "37" ;
+      <http://purl.org/dc/terms/date>
+              ""^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1007/978-3-540-72816-0_965" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9783540727958> ;
+      <http://purl.org/dc/terms/publisher>
+              "Springer Berlin Heidelberg" ;
+      <http://purl.org/dc/terms/title>
+              "anisotropic" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1007/978-3-540-72816-0_965" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "37" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "37" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1007/978-3-540-72816-0_965> , <info:doi/10.1007/978-3-540-72816-0_965> .
+
+<http://id.crossref.org/isbn/9783540727958>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Dictionary of Gems and Gemology" .

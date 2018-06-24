@@ -1,0 +1,69 @@
+<http://id.crossref.org/contributor/s-chanteau-24a15ooz45ukv>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Chanteau" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "S." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "S. Chanteau" .
+
+<http://id.crossref.org/contributor/c-guidi-24a15ooz45ukv>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Guidi" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "C." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "C. Guidi" .
+
+<http://id.crossref.org/contributor/j-l-durosoir-24a15ooz45ukv>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Durosoir" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "J.L." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "J.L. Durosoir" .
+
+<http://dx.doi.org/10.1016/0035-9203(86)90386-x>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/0035-9203(86)90386-x" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "799" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "795" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "80" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/s-chanteau-24a15ooz45ukv> , <http://id.crossref.org/contributor/c-guidi-24a15ooz45ukv> , <http://id.crossref.org/contributor/j-l-durosoir-24a15ooz45ukv> ;
+      <http://purl.org/dc/terms/date>
+              "1986-01"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/0035-9203(86)90386-x" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0035-9203> ;
+      <http://purl.org/dc/terms/publisher>
+              "Oxford University Press (OUP)" ;
+      <http://purl.org/dc/terms/title>
+              "Efficiency of papain-treated microfilariae of Wuchereria bancrofti (var. pacifica) as antigen for serodiagnosis of bancroftian filariasis in French Polynesia" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/0035-9203(86)90386-x" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "799" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "795" ;
+      <http://purl.org/ontology/bibo/volume>
+              "80" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1016/0035-9203(86)90386-x> , <doi:10.1016/0035-9203(86)90386-x> .
+
+<http://id.crossref.org/issn/0035-9203>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0035-9203" ;
+      <http://purl.org/dc/terms/title>
+              "Transactions of the Royal Society of Tropical Medicine and Hygiene" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0035-9203" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0035-9203" .

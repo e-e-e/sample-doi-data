@@ -1,0 +1,69 @@
+<http://id.crossref.org/contributor/donald-o-castell-22eecsw41jqd8>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Castell" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Donald O." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Donald O. Castell" .
+
+<http://id.crossref.org/issn/0194-5998>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1097-6817" , "0194-5998" ;
+      <http://purl.org/dc/terms/title>
+              "Otolaryngology-Head and Neck Surgery" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1097-6817" , "0194-5998" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0194-5998" , "urn:issn:1097-6817" .
+
+<http://id.crossref.org/contributor/bonnie-martin-harris-22eecsw41jqd8>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Martin-Harris" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Bonnie" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Bonnie Martin-Harris" .
+
+<http://id.crossref.org/contributor/yvonne-michel-22eecsw41jqd8>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Michel" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Yvonne" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Yvonne Michel" .
+
+<http://dx.doi.org/10.1016/j.otohns.2005.03.059>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/j.otohns.2005.03.059" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "240" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "234" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "133" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/donald-o-castell-22eecsw41jqd8> , <http://id.crossref.org/contributor/bonnie-martin-harris-22eecsw41jqd8> , <http://id.crossref.org/contributor/yvonne-michel-22eecsw41jqd8> ;
+      <http://purl.org/dc/terms/date>
+              "2005-08"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/j.otohns.2005.03.059" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0194-5998> ;
+      <http://purl.org/dc/terms/publisher>
+              "SAGE Publications" ;
+      <http://purl.org/dc/terms/title>
+              "Physiologic Model of Oropharyngeal Swallowing Revisited" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/j.otohns.2005.03.059" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "240" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "234" ;
+      <http://purl.org/ontology/bibo/volume>
+              "133" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1016/j.otohns.2005.03.059> , <doi:10.1016/j.otohns.2005.03.059> .

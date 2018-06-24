@@ -1,0 +1,42 @@
+<http://id.crossref.org/isbn/0818627557>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Proceedings of the Third Workshop on Future Trends of Distributed Computing Systems" .
+
+<http://dx.doi.org/10.1109/ftdcs.1992.217501>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1109/ftdcs.1992.217501" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/m-zitterbart-ui65jza5yfgi> , <http://id.crossref.org/contributor/a-tantawy-ui65jza5yfgi> ;
+      <http://purl.org/dc/terms/date>
+              ""^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1109/ftdcs.1992.217501" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/0818627557> ;
+      <http://purl.org/dc/terms/publisher>
+              "IEEE Comput. Soc. Press" ;
+      <http://purl.org/dc/terms/title>
+              "Internetworking across public ATM networks" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1109/ftdcs.1992.217501" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1109/ftdcs.1992.217501> , <doi:10.1109/ftdcs.1992.217501> .
+
+<http://id.crossref.org/contributor/m-zitterbart-ui65jza5yfgi>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Zitterbart" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "M." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "M. Zitterbart" .
+
+<http://id.crossref.org/contributor/a-tantawy-ui65jza5yfgi>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Tantawy" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "A. Tantawy" .

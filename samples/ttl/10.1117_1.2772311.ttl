@@ -1,0 +1,83 @@
+<http://id.crossref.org/contributor/tord-hompland-2zhdlprdz4fmh>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Hompland" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Tord" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Tord Hompland" .
+
+<http://id.crossref.org/contributor/catharina-de-lange-davies-2zhdlprdz4fmh>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "de Lange Davies" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Catharina" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Catharina de Lange Davies" .
+
+<http://id.crossref.org/contributor/jonas-ortegren-2zhdlprdz4fmh>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Örtegren" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Jonas" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Jonas Örtegren" .
+
+<http://id.crossref.org/contributor/arne-erikson-2zhdlprdz4fmh>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Erikson" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Arne" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Arne Erikson" .
+
+<http://id.crossref.org/contributor/mikael-lindgren-2zhdlprdz4fmh>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Lindgren" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Mikael" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Mikael Lindgren" .
+
+<http://id.crossref.org/issn/1083-3668>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1083-3668" ;
+      <http://purl.org/dc/terms/title>
+              "Journal of Biomedical Optics" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1083-3668" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1083-3668" .
+
+<http://dx.doi.org/10.1117/1.2772311>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1117/1.2772311" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "044002" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "12" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/tord-hompland-2zhdlprdz4fmh> , <http://id.crossref.org/contributor/catharina-de-lange-davies-2zhdlprdz4fmh> , <http://id.crossref.org/contributor/jonas-ortegren-2zhdlprdz4fmh> , <http://id.crossref.org/contributor/arne-erikson-2zhdlprdz4fmh> , <http://id.crossref.org/contributor/mikael-lindgren-2zhdlprdz4fmh> ;
+      <http://purl.org/dc/terms/date>
+              "2007"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1117/1.2772311" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1083-3668> ;
+      <http://purl.org/dc/terms/publisher>
+              "SPIE-Intl Soc Optical Eng" ;
+      <http://purl.org/dc/terms/title>
+              "Quantification of the second-order nonlinear susceptibility of collagen I using a laser scanning microscope" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1117/1.2772311" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "044002" ;
+      <http://purl.org/ontology/bibo/volume>
+              "12" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1117/1.2772311> , <info:doi/10.1117/1.2772311> .

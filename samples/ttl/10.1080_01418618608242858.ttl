@@ -1,0 +1,51 @@
+<http://id.crossref.org/issn/0141-8610>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0141-8610" , "1460-6992" ;
+      <http://purl.org/dc/terms/title>
+              "Philosophical Magazine A" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0141-8610" , "1460-6992" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0141-8610" , "urn:issn:1460-6992" .
+
+<http://dx.doi.org/10.1080/01418618608242858>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1080/01418618608242858" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "L73" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "L71" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "53" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/h-d-chandler-gvsin04rj3in> ;
+      <http://purl.org/dc/terms/date>
+              "1986-05"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1080/01418618608242858" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0141-8610> ;
+      <http://purl.org/dc/terms/publisher>
+              "Informa UK Limited" ;
+      <http://purl.org/dc/terms/title>
+              "Two mechanisms for primary creep in polycrystalline copper at 500 K" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1080/01418618608242858" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "L73" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "L71" ;
+      <http://purl.org/ontology/bibo/volume>
+              "53" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1080/01418618608242858> , <doi:10.1080/01418618608242858> .
+
+<http://id.crossref.org/contributor/h-d-chandler-gvsin04rj3in>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Chandler" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "H. D." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "H. D. Chandler" .

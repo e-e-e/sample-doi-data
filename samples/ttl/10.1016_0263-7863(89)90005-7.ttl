@@ -1,0 +1,51 @@
+<http://dx.doi.org/10.1016/0263-7863(89)90005-7>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/0263-7863(89)90005-7" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "208" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "205" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "7" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/jan-lauridsen-1ski1xd20divk> ;
+      <http://purl.org/dc/terms/date>
+              "1989-11"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/0263-7863(89)90005-7" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0263-7863> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Training of project managers: current practice and future developments in Denmark" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/0263-7863(89)90005-7" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "208" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "205" ;
+      <http://purl.org/ontology/bibo/volume>
+              "7" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1016/0263-7863(89)90005-7> , <info:doi/10.1016/0263-7863(89)90005-7> .
+
+<http://id.crossref.org/contributor/jan-lauridsen-1ski1xd20divk>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Lauridsen" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Jan" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Jan Lauridsen" .
+
+<http://id.crossref.org/issn/0263-7863>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0263-7863" ;
+      <http://purl.org/dc/terms/title>
+              "International Journal of Project Management" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0263-7863" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0263-7863" .

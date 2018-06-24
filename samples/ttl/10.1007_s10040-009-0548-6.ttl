@@ -1,0 +1,96 @@
+<http://id.crossref.org/contributor/kolja-rotzoll-1dw8imk4rpoby>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Rotzoll" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Kolja" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Kolja Rotzoll" .
+
+<http://id.crossref.org/issn/1431-2174>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1435-0157" , "1431-2174" ;
+      <http://purl.org/dc/terms/title>
+              "Hydrogeology Journal" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1435-0157" , "1431-2174" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1431-2174" , "urn:issn:1435-0157" .
+
+<http://id.crossref.org/contributor/daniel-chang-1dw8imk4rpoby>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Chang" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Daniel" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Daniel Chang" .
+
+<http://id.crossref.org/contributor/robert-b-whittier-1dw8imk4rpoby>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Whittier" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Robert B." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Robert B. Whittier" .
+
+<http://id.crossref.org/contributor/chittaranjan-ray-1dw8imk4rpoby>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Ray" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Chittaranjan" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Chittaranjan Ray" .
+
+<http://id.crossref.org/contributor/aly-i-el-kadi-1dw8imk4rpoby>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "El-Kadi" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Aly I." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Aly I. El-Kadi" .
+
+<http://dx.doi.org/10.1007/s10040-009-0548-6>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1007/s10040-009-0548-6" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "723" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "711" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "18" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/kolja-rotzoll-1dw8imk4rpoby> , <http://id.crossref.org/contributor/daniel-chang-1dw8imk4rpoby> , <http://id.crossref.org/contributor/robert-b-whittier-1dw8imk4rpoby> , <http://id.crossref.org/contributor/chittaranjan-ray-1dw8imk4rpoby> , <http://id.crossref.org/contributor/aly-i-el-kadi-1dw8imk4rpoby> , <http://id.crossref.org/contributor/sushant-dhal-1dw8imk4rpoby> ;
+      <http://purl.org/dc/terms/date>
+              "2009-11-25"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1007/s10040-009-0548-6" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1431-2174> ;
+      <http://purl.org/dc/terms/publisher>
+              "Springer Nature" ;
+      <http://purl.org/dc/terms/title>
+              "Groundwater source assessment program for the state of Hawaii, USA: methodology and example application" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1007/s10040-009-0548-6" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "723" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "711" ;
+      <http://purl.org/ontology/bibo/volume>
+              "18" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1007/s10040-009-0548-6> , <info:doi/10.1007/s10040-009-0548-6> .
+
+<http://id.crossref.org/contributor/sushant-dhal-1dw8imk4rpoby>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Dhal" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Sushant" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Sushant Dhal" .

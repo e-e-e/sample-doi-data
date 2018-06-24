@@ -1,0 +1,69 @@
+<http://id.crossref.org/contributor/l-ficker-1z5j0x0mnhoz6>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "FICKER" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "L" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "L FICKER" .
+
+<http://dx.doi.org/10.1136/bjo.83.12.1403g>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1136/bjo.83.12.1403g" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "1403g" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "1403g" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "83" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/l-ficker-1z5j0x0mnhoz6> , <http://id.crossref.org/contributor/n-ebenezer-1z5j0x0mnhoz6> , <http://id.crossref.org/contributor/a-assi-1z5j0x0mnhoz6> ;
+      <http://purl.org/dc/terms/date>
+              "1999-12-01"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1136/bjo.83.12.1403g" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0007-1161> ;
+      <http://purl.org/dc/terms/publisher>
+              "BMJ" ;
+      <http://purl.org/dc/terms/title>
+              "Corneal fleck dystrophy in an English family" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1136/bjo.83.12.1403g" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "1403g" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "1403g" ;
+      <http://purl.org/ontology/bibo/volume>
+              "83" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1136/bjo.83.12.1403g> , <doi:10.1136/bjo.83.12.1403g> .
+
+<http://id.crossref.org/contributor/a-assi-1z5j0x0mnhoz6>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "ASSI" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "A" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "A ASSI" .
+
+<http://id.crossref.org/contributor/n-ebenezer-1z5j0x0mnhoz6>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "EBENEZER" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "N" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "N EBENEZER" .
+
+<http://id.crossref.org/issn/0007-1161>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0007-1161" ;
+      <http://purl.org/dc/terms/title>
+              "British Journal of Ophthalmology" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0007-1161" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0007-1161" .

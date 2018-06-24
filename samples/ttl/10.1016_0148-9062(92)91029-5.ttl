@@ -1,0 +1,36 @@
+<http://dx.doi.org/10.1016/0148-9062(92)91029-5>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/0148-9062(92)91029-5" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "271" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "29" ;
+      <http://purl.org/dc/terms/date>
+              "1992-07"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/0148-9062(92)91029-5" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0148-9062> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Excess shear stress (ESS) — a case study" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/0148-9062(92)91029-5" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "271" ;
+      <http://purl.org/ontology/bibo/volume>
+              "29" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1016/0148-9062(92)91029-5> , <doi:10.1016/0148-9062(92)91029-5> .
+
+<http://id.crossref.org/issn/0148-9062>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0148-9062" ;
+      <http://purl.org/dc/terms/title>
+              "International Journal of Rock Mechanics and Mining Sciences & Geomechanics Abstracts" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0148-9062" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0148-9062" .

@@ -1,0 +1,101 @@
+<http://dx.doi.org/10.1097/01.tp.0000331388.71361.9a>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1097/01.tp.0000331388.71361.9a" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "476" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "86" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/r-m-lee-3vbvl2e6sak1d> , <http://id.crossref.org/contributor/r-r-alloway-3vbvl2e6sak1d> , <http://id.crossref.org/contributor/a-govil-3vbvl2e6sak1d> , <http://id.crossref.org/contributor/a-h-rike-3vbvl2e6sak1d> , <http://id.crossref.org/contributor/e-s-woodle-3vbvl2e6sak1d> , <http://id.crossref.org/contributor/j-durbin-3vbvl2e6sak1d> , <http://id.crossref.org/contributor/j-j-everly-3vbvl2e6sak1d> ;
+      <http://purl.org/dc/terms/date>
+              "2008-07"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1097/01.tp.0000331388.71361.9a" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0041-1337> ;
+      <http://purl.org/dc/terms/publisher>
+              "Ovid Technologies (Wolters Kluwer Health)" ;
+      <http://purl.org/dc/terms/title>
+              "STATIN THERAPY AND CORTICOSTEROID THERAPY IN KIDNEY TRANSPLANTATION: EFFECTS ON CARDIOVASCULAR EVENT AND DEATH RATES" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1097/01.tp.0000331388.71361.9a" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "476" ;
+      <http://purl.org/ontology/bibo/volume>
+              "86" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1097/01.tp.0000331388.71361.9a> , <info:doi/10.1097/01.tp.0000331388.71361.9a> .
+
+<http://id.crossref.org/contributor/r-m-lee-3vbvl2e6sak1d>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Lee" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "R M." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "R M. Lee" .
+
+<http://id.crossref.org/contributor/r-r-alloway-3vbvl2e6sak1d>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Alloway" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "R R." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "R R. Alloway" .
+
+<http://id.crossref.org/contributor/a-govil-3vbvl2e6sak1d>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Govil" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "A" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "A Govil" .
+
+<http://id.crossref.org/issn/0041-1337>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0041-1337" ;
+      <http://purl.org/dc/terms/title>
+              "Transplantation" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0041-1337" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0041-1337" .
+
+<http://id.crossref.org/contributor/a-h-rike-3vbvl2e6sak1d>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Rike" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "A H." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "A H. Rike" .
+
+<http://id.crossref.org/contributor/e-s-woodle-3vbvl2e6sak1d>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Woodle" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "E S." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "E S. Woodle" .
+
+<http://id.crossref.org/contributor/j-durbin-3vbvl2e6sak1d>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Durbin" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "J" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "J Durbin" .
+
+<http://id.crossref.org/contributor/j-j-everly-3vbvl2e6sak1d>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Everly" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "J J." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "J J. Everly" .

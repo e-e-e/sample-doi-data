@@ -1,0 +1,60 @@
+<http://id.crossref.org/issn/1057-7122>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1057-7122" ;
+      <http://purl.org/dc/terms/title>
+              "IEEE Transactions on Circuits and Systems I: Fundamental Theory and Applications" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1057-7122" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1057-7122" .
+
+<http://id.crossref.org/contributor/t-stojanovski-1h0l86n0uvi44>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Stojanovski" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "T." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "T. Stojanovski" .
+
+<http://id.crossref.org/contributor/l-kocarev-1h0l86n0uvi44>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kocarev" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "L." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "L. Kocarev" .
+
+<http://dx.doi.org/10.1109/81.915385>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1109/81.915385" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "288" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "281" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "48" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/l-kocarev-1h0l86n0uvi44> , <http://id.crossref.org/contributor/t-stojanovski-1h0l86n0uvi44> ;
+      <http://purl.org/dc/terms/date>
+              "2001-03"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1109/81.915385" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1057-7122> ;
+      <http://purl.org/dc/terms/publisher>
+              "Institute of Electrical and Electronics Engineers (IEEE)" ;
+      <http://purl.org/dc/terms/title>
+              "Chaos-based random number generators-part I: analysis [cryptography]" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1109/81.915385" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "288" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "281" ;
+      <http://purl.org/ontology/bibo/volume>
+              "48" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1109/81.915385> , <info:doi/10.1109/81.915385> .

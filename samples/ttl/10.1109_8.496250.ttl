@@ -1,0 +1,47 @@
+<http://id.crossref.org/contributor/d-j-page-1s3mcgsqhb2ux>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Page" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "D. J." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "D. J. Page" .
+
+<http://id.crossref.org/issn/0018-926X>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0018-926X" ;
+      <http://purl.org/dc/terms/title>
+              "IEEE Transactions on Antennas and Propagation" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0018-926X" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0018-926X" .
+
+<http://dx.doi.org/10.1109/8.496250>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1109/8.496250" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "652" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "44" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/d-j-page-1s3mcgsqhb2ux> ;
+      <http://purl.org/dc/terms/date>
+              "1996-05"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1109/8.496250" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0018-926X> ;
+      <http://purl.org/dc/terms/publisher>
+              "Institute of Electrical and Electronics Engineers (IEEE)" ;
+      <http://purl.org/dc/terms/title>
+              "An introduction to the optical commutator" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1109/8.496250" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "652" ;
+      <http://purl.org/ontology/bibo/volume>
+              "44" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1109/8.496250> , <info:doi/10.1109/8.496250> .

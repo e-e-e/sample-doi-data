@@ -1,0 +1,96 @@
+<http://id.crossref.org/contributor/v-b-motalov-1grrq9lmuusoe>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Motalov" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "V. B." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "V. B. Motalov" .
+
+<http://id.crossref.org/contributor/a-e-grishin-1grrq9lmuusoe>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Grishin" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "A. E." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "A. E. Grishin" .
+
+<http://id.crossref.org/contributor/a-s-kryuchkov-1grrq9lmuusoe>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kryuchkov" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "A. S." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "A. S. Kryuchkov" .
+
+<http://id.crossref.org/contributor/g-a-bergman-1grrq9lmuusoe>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Bergman" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "G. A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "G. A. Bergman" .
+
+<http://id.crossref.org/issn/0018-151X>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1608-3156" , "0018-151X" ;
+      <http://purl.org/dc/terms/title>
+              "High Temperature" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1608-3156" , "0018-151X" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0018-151X" , "urn:issn:1608-3156" .
+
+<http://id.crossref.org/contributor/l-s-kudin-1grrq9lmuusoe>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kudin" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "L. S." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "L. S. Kudin" .
+
+<http://dx.doi.org/10.1134/s0018151x08030097>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1134/s0018151x08030097" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "356" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "350" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "46" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/v-b-motalov-1grrq9lmuusoe> , <http://id.crossref.org/contributor/a-e-grishin-1grrq9lmuusoe> , <http://id.crossref.org/contributor/a-s-kryuchkov-1grrq9lmuusoe> , <http://id.crossref.org/contributor/g-a-bergman-1grrq9lmuusoe> , <http://id.crossref.org/contributor/l-s-kudin-1grrq9lmuusoe> , <http://id.crossref.org/contributor/m-f-butman-1grrq9lmuusoe> ;
+      <http://purl.org/dc/terms/date>
+              "2008-05-30"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1134/s0018151x08030097" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0018-151X> ;
+      <http://purl.org/dc/terms/publisher>
+              "Pleiades Publishing Ltd" ;
+      <http://purl.org/dc/terms/title>
+              "The thermodynamic parameters of monomer and dimer molecules of cerium and praseodymium tribromides" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1134/s0018151x08030097" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "356" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "350" ;
+      <http://purl.org/ontology/bibo/volume>
+              "46" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1134/s0018151x08030097> , <info:doi/10.1134/s0018151x08030097> .
+
+<http://id.crossref.org/contributor/m-f-butman-1grrq9lmuusoe>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Butman" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "M. F." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "M. F. Butman" .

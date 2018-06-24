@@ -1,0 +1,51 @@
+<http://id.crossref.org/contributor/donald-g-doehring-2xnr0iyrkqw08>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Doehring" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Donald G." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Donald G. Doehring" .
+
+<http://dx.doi.org/10.1037/h0043525>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1037/h0043525" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "296" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "292" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "54" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/donald-g-doehring-2xnr0iyrkqw08> ;
+      <http://purl.org/dc/terms/date>
+              "1957"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1037/h0043525" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0022-1015> ;
+      <http://purl.org/dc/terms/publisher>
+              "American Psychological Association (APA)" ;
+      <http://purl.org/dc/terms/title>
+              "Conditioning of muscle action potential responses resulting from passive hand movement." ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1037/h0043525" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "296" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "292" ;
+      <http://purl.org/ontology/bibo/volume>
+              "54" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1037/h0043525> , <info:doi/10.1037/h0043525> .
+
+<http://id.crossref.org/issn/0022-1015>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0022-1015" ;
+      <http://purl.org/dc/terms/title>
+              "Journal of Experimental Psychology" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0022-1015" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0022-1015" .

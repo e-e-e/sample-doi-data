@@ -1,0 +1,60 @@
+<http://id.crossref.org/contributor/bent-sosrensen-6kfldjs3yagq>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "S$osrensen" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Bent" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Bent S$osrensen" .
+
+<http://id.crossref.org/issn/0036-5556>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0036-5556" ;
+      <http://purl.org/dc/terms/title>
+              "Scandinavian Journal of Plastic and Reconstructive Surgery" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0036-5556" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0036-5556" .
+
+<http://dx.doi.org/10.3109/02844316809026197>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.3109/02844316809026197" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "7" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "3" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "2" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/bent-sosrensen-6kfldjs3yagq> , <http://id.crossref.org/contributor/mogens-thomsen-6kfldjs3yagq> ;
+      <http://purl.org/dc/terms/date>
+              "1968-01"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.3109/02844316809026197" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0036-5556> ;
+      <http://purl.org/dc/terms/publisher>
+              "Informa UK Limited" ;
+      <http://purl.org/dc/terms/title>
+              "The Burns Unit in Copenhagen: I.Principles of Treatment" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.3109/02844316809026197" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "7" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "3" ;
+      <http://purl.org/ontology/bibo/volume>
+              "2" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.3109/02844316809026197> , <doi:10.3109/02844316809026197> .
+
+<http://id.crossref.org/contributor/mogens-thomsen-6kfldjs3yagq>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Thomsen" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Mogens" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Mogens Thomsen" .

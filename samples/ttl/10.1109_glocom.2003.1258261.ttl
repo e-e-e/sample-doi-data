@@ -1,0 +1,60 @@
+<http://dx.doi.org/10.1109/glocom.2003.1258261>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1109/glocom.2003.1258261" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/a-svensson-3rba2fd73hx1> , <http://id.crossref.org/contributor/m-sternad-3rba2fd73hx1> , <http://id.crossref.org/contributor/s-falahati-3rba2fd73hx1> , <http://id.crossref.org/contributor/t-ekman-3rba2fd73hx1> ;
+      <http://purl.org/dc/terms/date>
+              ""^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1109/glocom.2003.1258261" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/0780379748> ;
+      <http://purl.org/dc/terms/publisher>
+              "IEEE" ;
+      <http://purl.org/dc/terms/title>
+              "Adaptive modulation systems for predicted wireless channels" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1109/glocom.2003.1258261" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1109/glocom.2003.1258261> , <info:doi/10.1109/glocom.2003.1258261> .
+
+<http://id.crossref.org/contributor/a-svensson-3rba2fd73hx1>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Svensson" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "A. Svensson" .
+
+<http://id.crossref.org/isbn/0780379748>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "GLOBECOM '03. IEEE Global Telecommunications Conference (IEEE Cat. No.03CH37489)" .
+
+<http://id.crossref.org/contributor/m-sternad-3rba2fd73hx1>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Sternad" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "M." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "M. Sternad" .
+
+<http://id.crossref.org/contributor/s-falahati-3rba2fd73hx1>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Falahati" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "S." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "S. Falahati" .
+
+<http://id.crossref.org/contributor/t-ekman-3rba2fd73hx1>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Ekman" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "T." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "T. Ekman" .

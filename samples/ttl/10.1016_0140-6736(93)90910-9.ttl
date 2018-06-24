@@ -1,0 +1,110 @@
+<http://id.crossref.org/contributor/l-fairbanks-24hwdzi57bs2j>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Fairbanks" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "L." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "L. Fairbanks" .
+
+<http://id.crossref.org/contributor/a-d-b-webster-24hwdzi57bs2j>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Webster" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "A.D.B." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "A.D.B. Webster" .
+
+<http://id.crossref.org/contributor/h-a-simmonds-24hwdzi57bs2j>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Simmonds" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "H.A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "H.A. Simmonds" .
+
+<http://id.crossref.org/contributor/c-l-shovlin-24hwdzi57bs2j>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Shovlin" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "C.L." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "C.L. Shovlin" .
+
+<http://id.crossref.org/contributor/i-roberts-24hwdzi57bs2j>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Roberts" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "I." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "I. Roberts" .
+
+<http://id.crossref.org/contributor/s-deacock-24hwdzi57bs2j>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Deacock" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "S." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "S. Deacock" .
+
+<http://id.crossref.org/contributor/j-m-b-hughes-24hwdzi57bs2j>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Hughes" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "J.M.B." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "J.M.B. Hughes" .
+
+<http://dx.doi.org/10.1016/0140-6736(93)90910-9>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/0140-6736(93)90910-9" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "1471" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "341" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/l-fairbanks-24hwdzi57bs2j> , <http://id.crossref.org/contributor/a-d-b-webster-24hwdzi57bs2j> , <http://id.crossref.org/contributor/c-l-shovlin-24hwdzi57bs2j> , <http://id.crossref.org/contributor/h-a-simmonds-24hwdzi57bs2j> , <http://id.crossref.org/contributor/i-roberts-24hwdzi57bs2j> , <http://id.crossref.org/contributor/s-deacock-24hwdzi57bs2j> , <http://id.crossref.org/contributor/j-m-b-hughes-24hwdzi57bs2j> , <http://id.crossref.org/contributor/r-lechler-24hwdzi57bs2j> ;
+      <http://purl.org/dc/terms/date>
+              "1993-06"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/0140-6736(93)90910-9" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0140-6736> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Adult presentation of adenosine deaminase deficiency" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/0140-6736(93)90910-9" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "1471" ;
+      <http://purl.org/ontology/bibo/volume>
+              "341" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1016/0140-6736(93)90910-9> , <info:doi/10.1016/0140-6736(93)90910-9> .
+
+<http://id.crossref.org/contributor/r-lechler-24hwdzi57bs2j>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Lechler" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "R." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "R. Lechler" .
+
+<http://id.crossref.org/issn/0140-6736>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0140-6736" ;
+      <http://purl.org/dc/terms/title>
+              "The Lancet" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0140-6736" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0140-6736" .

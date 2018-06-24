@@ -1,0 +1,56 @@
+<http://id.crossref.org/issn/0217-4472>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0217-4472" ;
+      <http://purl.org/dc/terms/title>
+              "Asean Economic Bulletin" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0217-4472" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0217-4472" .
+
+<http://id.crossref.org/contributor/wang-r-f-12351p4iur7>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "R. F." ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Wang" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Wang R. F." .
+
+<http://dx.doi.org/10.1355/ae18-3a>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1355/ae18-3a" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "262" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "251" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/wang-r-f-12351p4iur7> , <http://id.crossref.org/contributor/paul-s-l-yip-12351p4iur7> ;
+      <http://purl.org/dc/terms/date>
+              "2001"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1355/ae18-3a" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0217-4472> ;
+      <http://purl.org/dc/terms/publisher>
+              "Institute of Southeast Asian Studies" ;
+      <http://purl.org/dc/terms/title>
+              "On the Neutrality of Exchange Rate Policy in Singapore" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1355/ae18-3a" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "262" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "251" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1355/ae18-3a> , <info:doi/10.1355/ae18-3a> .
+
+<http://id.crossref.org/contributor/paul-s-l-yip-12351p4iur7>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "S. L. Yip" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Paul" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Paul S. L. Yip" .

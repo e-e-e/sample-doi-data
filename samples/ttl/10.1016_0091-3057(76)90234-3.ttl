@@ -1,0 +1,78 @@
+<http://id.crossref.org/contributor/haydee-m-fabian-3prudipl5akrc>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Fabian" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Haydée M." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Haydée M. Fabian" .
+
+<http://id.crossref.org/contributor/alicia-b-merlo-3prudipl5akrc>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Merlo" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Alicia B." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Alicia B. Merlo" .
+
+<http://dx.doi.org/10.1016/0091-3057(76)90234-3>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/0091-3057(76)90234-3" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "242" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "239" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "4" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/haydee-m-fabian-3prudipl5akrc> , <http://id.crossref.org/contributor/alicia-b-merlo-3prudipl5akrc> , <http://id.crossref.org/contributor/elba-chemerinski-3prudipl5akrc> , <http://id.crossref.org/contributor/magda-billiet-3prudipl5akrc> ;
+      <http://purl.org/dc/terms/date>
+              "1976-03"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/0091-3057(76)90234-3" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0091-3057> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Effect of d-amphetamine, ethanol and genever on learning in the rat" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/0091-3057(76)90234-3" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "242" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "239" ;
+      <http://purl.org/ontology/bibo/volume>
+              "4" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1016/0091-3057(76)90234-3> , <doi:10.1016/0091-3057(76)90234-3> .
+
+<http://id.crossref.org/issn/0091-3057>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0091-3057" ;
+      <http://purl.org/dc/terms/title>
+              "Pharmacology Biochemistry and Behavior" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0091-3057" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0091-3057" .
+
+<http://id.crossref.org/contributor/elba-chemerinski-3prudipl5akrc>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Chemerinski" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Elba" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Elba Chemerinski" .
+
+<http://id.crossref.org/contributor/magda-billiet-3prudipl5akrc>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Billiet" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Magda" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Magda Billiet" .

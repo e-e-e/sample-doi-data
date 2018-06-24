@@ -1,0 +1,69 @@
+<http://id.crossref.org/contributor/minoru-abe-2sxq16ei6vsz8>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Abe" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Minoru" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Minoru Abe" .
+
+<http://id.crossref.org/issn/8756-6621>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "8756-6621" , "1520-6424" ;
+      <http://purl.org/dc/terms/title>
+              "Electronics and Communications in Japan (Part I: Communications)" ;
+      <http://purl.org/ontology/bibo/issn>
+              "8756-6621" , "1520-6424" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:8756-6621" , "urn:issn:1520-6424" .
+
+<http://dx.doi.org/10.1002/ecja.4410681205>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1002/ecja.4410681205" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "46" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "37" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "68" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/minoru-abe-2sxq16ei6vsz8> , <http://id.crossref.org/contributor/noriyuki-kitahara-2sxq16ei6vsz8> , <http://id.crossref.org/contributor/kenji-ohshima-2sxq16ei6vsz8> ;
+      <http://purl.org/dc/terms/date>
+              "1985"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1002/ecja.4410681205" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/8756-6621> ;
+      <http://purl.org/dc/terms/publisher>
+              "Wiley" ;
+      <http://purl.org/dc/terms/title>
+              "Nonlinear oscillations in a series-resonant circuit with an iron core of highly saturable characteristic" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1002/ecja.4410681205" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "46" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "37" ;
+      <http://purl.org/ontology/bibo/volume>
+              "68" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1002/ecja.4410681205> , <info:doi/10.1002/ecja.4410681205> .
+
+<http://id.crossref.org/contributor/noriyuki-kitahara-2sxq16ei6vsz8>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kitahara" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Noriyuki" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Noriyuki Kitahara" .
+
+<http://id.crossref.org/contributor/kenji-ohshima-2sxq16ei6vsz8>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Ohshima" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Kenji" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Kenji Ohshima" .

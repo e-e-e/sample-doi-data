@@ -1,0 +1,87 @@
+<http://id.crossref.org/contributor/d-matejevic-1zolzahk4hvui>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Matejevic" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "D." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "D. Matejevic" .
+
+<http://dx.doi.org/10.1159/000052986>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1159/000052986" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "259" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "257" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "52" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/d-matejevic-1zolzahk4hvui> , <http://id.crossref.org/contributor/h-neudeck-1zolzahk4hvui> , <http://id.crossref.org/contributor/r-graf-1zolzahk4hvui> , <http://id.crossref.org/contributor/t-muller-1zolzahk4hvui> , <http://id.crossref.org/contributor/j-dietl-1zolzahk4hvui> ;
+      <http://purl.org/dc/terms/date>
+              "2001"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1159/000052986" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0378-7346> ;
+      <http://purl.org/dc/terms/publisher>
+              "S. Karger AG" ;
+      <http://purl.org/dc/terms/title>
+              "Localization of Hyaluronan with a Hyaluronan-Specific Hyaluronic Acid Binding Protein in the Placenta in Pre-Eclampsia" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1159/000052986" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "259" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "257" ;
+      <http://purl.org/ontology/bibo/volume>
+              "52" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1159/000052986> , <info:doi/10.1159/000052986> .
+
+<http://id.crossref.org/issn/0378-7346>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1423-002X" , "0378-7346" ;
+      <http://purl.org/dc/terms/title>
+              "Gynecologic and Obstetric Investigation" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1423-002X" , "0378-7346" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0378-7346" , "urn:issn:1423-002X" .
+
+<http://id.crossref.org/contributor/h-neudeck-1zolzahk4hvui>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Neudeck" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "H." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "H. Neudeck" .
+
+<http://id.crossref.org/contributor/r-graf-1zolzahk4hvui>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Graf" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "R." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "R. Graf" .
+
+<http://id.crossref.org/contributor/t-muller-1zolzahk4hvui>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Müller" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "T." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "T. Müller" .
+
+<http://id.crossref.org/contributor/j-dietl-1zolzahk4hvui>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Dietl" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "J." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "J. Dietl" .

@@ -1,0 +1,83 @@
+<http://id.crossref.org/contributor/mary-mcpartlin-2snr7oc96jw>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "McPartlin" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Mary" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Mary McPartlin" .
+
+<http://id.crossref.org/contributor/thomas-m-woodroffe-2snr7oc96jw>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Woodroffe" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Thomas M." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Thomas M. Woodroffe" .
+
+<http://id.crossref.org/contributor/s-w-annie-bligh-2snr7oc96jw>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Bligh" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "S. W. Annie" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "S. W. Annie Bligh" .
+
+<http://dx.doi.org/10.1039/b003241g>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1039/b003241g" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "2594" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "2587" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/mary-mcpartlin-2snr7oc96jw> , <http://id.crossref.org/contributor/thomas-m-woodroffe-2snr7oc96jw> , <http://id.crossref.org/contributor/s-w-annie-bligh-2snr7oc96jw> , <http://id.crossref.org/contributor/nick-choi-2snr7oc96jw> , <http://id.crossref.org/contributor/catherine-m-mcgrath-2snr7oc96jw> ;
+      <http://purl.org/dc/terms/date>
+              "2000"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1039/b003241g" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1470-479X> ;
+      <http://purl.org/dc/terms/publisher>
+              "Royal Society of Chemistry (RSC)" ;
+      <http://purl.org/dc/terms/title>
+              "Synthesis and structural properties of metal complexes of dialkyl α-hydroxyiminophosphonates" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1039/b003241g" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "2594" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "2587" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1039/b003241g> , <doi:10.1039/b003241g> .
+
+<http://id.crossref.org/contributor/catherine-m-mcgrath-2snr7oc96jw>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "McGrath" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Catherine M." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Catherine M. McGrath" .
+
+<http://id.crossref.org/contributor/nick-choi-2snr7oc96jw>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Choi" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Nick" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Nick Choi" .
+
+<http://id.crossref.org/issn/1470-479X>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1364-5447" , "1470-479X" ;
+      <http://purl.org/dc/terms/title>
+              "Journal of the Chemical Society, Dalton Transactions" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1364-5447" , "1470-479X" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1470-479X" , "urn:issn:1364-5447" .

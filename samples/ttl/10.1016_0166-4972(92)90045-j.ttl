@@ -1,0 +1,60 @@
+<http://id.crossref.org/issn/0166-4972>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0166-4972" ;
+      <http://purl.org/dc/terms/title>
+              "Technovation" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0166-4972" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0166-4972" .
+
+<http://dx.doi.org/10.1016/0166-4972(92)90045-j>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/0166-4972(92)90045-j" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "255" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "239" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "12" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/barry-bozeman-377xhlsjlvjy> , <http://id.crossref.org/contributor/karen-coker-377xhlsjlvjy> ;
+      <http://purl.org/dc/terms/date>
+              "1992-05"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/0166-4972(92)90045-j" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0166-4972> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Assessing the effectiveness of technology transfer from US government R&D laboratories: the impact of market orientation" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/0166-4972(92)90045-j" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "255" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "239" ;
+      <http://purl.org/ontology/bibo/volume>
+              "12" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1016/0166-4972(92)90045-j> , <doi:10.1016/0166-4972(92)90045-j> .
+
+<http://id.crossref.org/contributor/barry-bozeman-377xhlsjlvjy>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Bozeman" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Barry" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Barry Bozeman" .
+
+<http://id.crossref.org/contributor/karen-coker-377xhlsjlvjy>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Coker" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Karen" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Karen Coker" .

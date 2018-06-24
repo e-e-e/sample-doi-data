@@ -1,0 +1,60 @@
+<http://id.crossref.org/contributor/m-j-van-stipdonk-sp5bt21liko3>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Van Stipdonk" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "M. J." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "M. J. Van Stipdonk" .
+
+<http://dx.doi.org/10.1002/rcm.612>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1002/rcm.612" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "578" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "566" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "16" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/m-j-van-stipdonk-sp5bt21liko3> , <http://id.crossref.org/contributor/j-m-barr-sp5bt21liko3> ;
+      <http://purl.org/dc/terms/date>
+              "2002"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1002/rcm.612" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0951-4198> ;
+      <http://purl.org/dc/terms/publisher>
+              "Wiley" ;
+      <http://purl.org/dc/terms/title>
+              "Multi-stage tandem mass spectrometry of metal cationized leucine enkephalin and leucine enkephalin amide" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1002/rcm.612" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "578" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "566" ;
+      <http://purl.org/ontology/bibo/volume>
+              "16" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1002/rcm.612> , <doi:10.1002/rcm.612> .
+
+<http://id.crossref.org/issn/0951-4198>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1097-0231" , "0951-4198" ;
+      <http://purl.org/dc/terms/title>
+              "Rapid Communications in Mass Spectrometry" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1097-0231" , "0951-4198" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0951-4198" , "urn:issn:1097-0231" .
+
+<http://id.crossref.org/contributor/j-m-barr-sp5bt21liko3>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Barr" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "J. M." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "J. M. Barr" .

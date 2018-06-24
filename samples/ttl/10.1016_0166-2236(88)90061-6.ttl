@@ -1,0 +1,51 @@
+<http://dx.doi.org/10.1016/0166-2236(88)90061-6>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/0166-2236(88)90061-6" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "371" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "371" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "11" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/s-dunnett-1v7ibia94bmqj> ;
+      <http://purl.org/dc/terms/date>
+              "1988"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/0166-2236(88)90061-6" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0166-2236> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Neural plasticity: A lifespan approachedited by Ted L. Petit and Gwen O. Ivy, Alan R. Liss, 1988. $59.50 (xii + 383 pages) ISBN 0 8451 2738 1" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/0166-2236(88)90061-6" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "371" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "371" ;
+      <http://purl.org/ontology/bibo/volume>
+              "11" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1016/0166-2236(88)90061-6> , <doi:10.1016/0166-2236(88)90061-6> .
+
+<http://id.crossref.org/contributor/s-dunnett-1v7ibia94bmqj>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "DUNNETT" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "S" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "S DUNNETT" .
+
+<http://id.crossref.org/issn/0166-2236>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0166-2236" ;
+      <http://purl.org/dc/terms/title>
+              "Trends in Neurosciences" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0166-2236" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0166-2236" .

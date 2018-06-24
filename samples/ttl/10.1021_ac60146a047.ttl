@@ -1,0 +1,69 @@
+<http://id.crossref.org/contributor/e-h-ahrens-39u27t1kd1nc7>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Ahrens" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "E. H." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "E. H. Ahrens" .
+
+<http://dx.doi.org/10.1021/ac60146a047>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1021/ac60146a047" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "308" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "307" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "31" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/e-h-ahrens-39u27t1kd1nc7> , <http://id.crossref.org/contributor/wilhelm-stoffel-39u27t1kd1nc7> , <http://id.crossref.org/contributor/florence-chu-39u27t1kd1nc7> ;
+      <http://purl.org/dc/terms/date>
+              "1959-02"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1021/ac60146a047" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0003-2700> ;
+      <http://purl.org/dc/terms/publisher>
+              "American Chemical Society (ACS)" ;
+      <http://purl.org/dc/terms/title>
+              "Analysis of Long-Chain Fatty Acids by Gas-Liquid Chromatography" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1021/ac60146a047" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "308" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "307" ;
+      <http://purl.org/ontology/bibo/volume>
+              "31" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1021/ac60146a047> , <info:doi/10.1021/ac60146a047> .
+
+<http://id.crossref.org/contributor/wilhelm-stoffel-39u27t1kd1nc7>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Stoffel" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Wilhelm." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Wilhelm. Stoffel" .
+
+<http://id.crossref.org/contributor/florence-chu-39u27t1kd1nc7>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Chu" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Florence." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Florence. Chu" .
+
+<http://id.crossref.org/issn/0003-2700>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1520-6882" , "0003-2700" ;
+      <http://purl.org/dc/terms/title>
+              "Analytical Chemistry" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1520-6882" , "0003-2700" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0003-2700" , "urn:issn:1520-6882" .

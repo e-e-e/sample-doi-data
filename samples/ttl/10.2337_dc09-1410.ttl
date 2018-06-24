@@ -1,0 +1,105 @@
+<http://id.crossref.org/contributor/f-ning-3bdcigxe737in>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Ning" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "F." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "F. Ning" .
+
+<http://id.crossref.org/contributor/s-wang-3bdcigxe737in>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Wang" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "S." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "S. Wang" .
+
+<http://id.crossref.org/contributor/x-zhou-3bdcigxe737in>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Zhou" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "X." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "X. Zhou" .
+
+<http://id.crossref.org/contributor/q-qiao-3bdcigxe737in>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Qiao" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Q." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Q. Qiao" .
+
+<http://id.crossref.org/issn/0149-5992>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0149-5992" , "1935-5548" ;
+      <http://purl.org/dc/terms/title>
+              "Diabetes Care" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0149-5992" , "1935-5548" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1935-5548" , "urn:issn:0149-5992" .
+
+<http://dx.doi.org/10.2337/dc09-1410>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.2337/dc09-1410" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "550" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "545" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "33" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/f-ning-3bdcigxe737in> , <http://id.crossref.org/contributor/s-wang-3bdcigxe737in> , <http://id.crossref.org/contributor/x-zhou-3bdcigxe737in> , <http://id.crossref.org/contributor/q-qiao-3bdcigxe737in> , <http://id.crossref.org/contributor/z-pang-3bdcigxe737in> , <http://id.crossref.org/contributor/l-zhang-3bdcigxe737in> , <http://id.crossref.org/contributor/w-gao-3bdcigxe737in> ;
+      <http://purl.org/dc/terms/date>
+              "2009-12-10"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.2337/dc09-1410" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0149-5992> ;
+      <http://purl.org/dc/terms/publisher>
+              "American Diabetes Association" ;
+      <http://purl.org/dc/terms/title>
+              "Performance of an A1C and Fasting Capillary Blood Glucose Test for Screening Newly Diagnosed Diabetes and Pre-Diabetes Defined by an Oral Glucose Tolerance Test in Qingdao, China" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.2337/dc09-1410" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "550" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "545" ;
+      <http://purl.org/ontology/bibo/volume>
+              "33" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.2337/dc09-1410> , <doi:10.2337/dc09-1410> .
+
+<http://id.crossref.org/contributor/z-pang-3bdcigxe737in>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Pang" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Z." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Z. Pang" .
+
+<http://id.crossref.org/contributor/l-zhang-3bdcigxe737in>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Zhang" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "L." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "L. Zhang" .
+
+<http://id.crossref.org/contributor/w-gao-3bdcigxe737in>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Gao" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "W." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "W. Gao" .

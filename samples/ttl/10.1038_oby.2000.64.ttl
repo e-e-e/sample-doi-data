@@ -1,0 +1,87 @@
+<http://id.crossref.org/contributor/margaret-m-harris-24a21tqj54h1f>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Harris" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Margaret M." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Margaret M. Harris" .
+
+<http://id.crossref.org/contributor/aaron-r-folsom-24a21tqj54h1f>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Folsom" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Aaron R." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Aaron R. Folsom" .
+
+<http://id.crossref.org/contributor/pam-schreiner-24a21tqj54h1f>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Schreiner" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Pam" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Pam Schreiner" .
+
+<http://dx.doi.org/10.1038/oby.2000.64>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1038/oby.2000.64" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "524" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "516" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "8" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/margaret-m-harris-24a21tqj54h1f> , <http://id.crossref.org/contributor/aaron-r-folsom-24a21tqj54h1f> , <http://id.crossref.org/contributor/pam-schreiner-24a21tqj54h1f> , <http://id.crossref.org/contributor/neal-thomas-24a21tqj54h1f> , <http://id.crossref.org/contributor/june-stevens-24a21tqj54h1f> ;
+      <http://purl.org/dc/terms/date>
+              "2000-10"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1038/oby.2000.64" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1071-7323> ;
+      <http://purl.org/dc/terms/publisher>
+              "Wiley" ;
+      <http://purl.org/dc/terms/title>
+              "Associations of Fat Distribution and Obesity with Hypertension in a Bi-ethnic Population: The ARIC Study" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1038/oby.2000.64" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "524" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "516" ;
+      <http://purl.org/ontology/bibo/volume>
+              "8" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1038/oby.2000.64> , <doi:10.1038/oby.2000.64> .
+
+<http://id.crossref.org/issn/1071-7323>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1071-7323" ;
+      <http://purl.org/dc/terms/title>
+              "Obesity Research" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1071-7323" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1071-7323" .
+
+<http://id.crossref.org/contributor/neal-thomas-24a21tqj54h1f>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Thomas" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Neal" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Neal Thomas" .
+
+<http://id.crossref.org/contributor/june-stevens-24a21tqj54h1f>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Stevens" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "June" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "June Stevens" .

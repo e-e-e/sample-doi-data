@@ -1,0 +1,78 @@
+<http://id.crossref.org/issn/0014-2980>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0014-2980" , "1521-4141" ;
+      <http://purl.org/dc/terms/title>
+              "European Journal of Immunology" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0014-2980" , "1521-4141" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1521-4141" , "urn:issn:0014-2980" .
+
+<http://id.crossref.org/contributor/c-ropartz-gvduefiwv6pw>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Ropartz" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "C." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "C. Ropartz" .
+
+<http://dx.doi.org/10.1002/eji.1830030903>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1002/eji.1830030903" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "542" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "537" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "3" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/c-ropartz-gvduefiwv6pw> , <http://id.crossref.org/contributor/m-fontaine-gvduefiwv6pw> , <http://id.crossref.org/contributor/c-rivat-gvduefiwv6pw> , <http://id.crossref.org/contributor/c-caullet-gvduefiwv6pw> ;
+      <http://purl.org/dc/terms/date>
+              "1973-09"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1002/eji.1830030903" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0014-2980> ;
+      <http://purl.org/dc/terms/publisher>
+              "Wiley" ;
+      <http://purl.org/dc/terms/title>
+              "Electrochemical reduction of immunoglobulins specific reduction of the inter-heavy chain disulfide bridges of igg" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1002/eji.1830030903" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "542" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "537" ;
+      <http://purl.org/ontology/bibo/volume>
+              "3" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1002/eji.1830030903> , <doi:10.1002/eji.1830030903> .
+
+<http://id.crossref.org/contributor/m-fontaine-gvduefiwv6pw>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Fontaine" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "M." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "M. Fontaine" .
+
+<http://id.crossref.org/contributor/c-rivat-gvduefiwv6pw>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Rivat" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "C." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "C. Rivat" .
+
+<http://id.crossref.org/contributor/c-caullet-gvduefiwv6pw>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Caullet" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "C." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "C. Caullet" .

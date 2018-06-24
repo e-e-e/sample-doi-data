@@ -1,0 +1,96 @@
+<http://id.crossref.org/contributor/ruth-e-rosenstein-2wqi6keseas0>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Rosenstein" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Ruth E." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Ruth E. Rosenstein" .
+
+<http://dx.doi.org/10.1046/j.0022-3042.2001.00723.x>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1046/j.0022-3042.2001.00723.x" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "519" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "512" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "80" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/ruth-e-rosenstein-2wqi6keseas0> , <http://id.crossref.org/contributor/geraldine-b-sacca-2wqi6keseas0> , <http://id.crossref.org/contributor/analia-de-nichilo-2wqi6keseas0> , <http://id.crossref.org/contributor/maria-i-keller-sarmiento-2wqi6keseas0> , <http://id.crossref.org/contributor/daniel-a-saenz-2wqi6keseas0> , <http://id.crossref.org/contributor/cora-b-cymeryng-2wqi6keseas0> ;
+      <http://purl.org/dc/terms/date>
+              "2002-02"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1046/j.0022-3042.2001.00723.x" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0022-3042> ;
+      <http://purl.org/dc/terms/publisher>
+              "Wiley" ;
+      <http://purl.org/dc/terms/title>
+              "Photic regulation of l-arginine uptake in the golden hamster retina" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1046/j.0022-3042.2001.00723.x" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "519" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "512" ;
+      <http://purl.org/ontology/bibo/volume>
+              "80" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1046/j.0022-3042.2001.00723.x> , <info:doi/10.1046/j.0022-3042.2001.00723.x> .
+
+<http://id.crossref.org/contributor/geraldine-b-sacca-2wqi6keseas0>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Sacca" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Geraldine B." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Geraldine B. Sacca" .
+
+<http://id.crossref.org/contributor/analia-de-nichilo-2wqi6keseas0>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "De Nichilo" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Analia" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Analia De Nichilo" .
+
+<http://id.crossref.org/contributor/maria-i-keller-sarmiento-2wqi6keseas0>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Keller Sarmiento" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Maria I." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Maria I. Keller Sarmiento" .
+
+<http://id.crossref.org/contributor/daniel-a-saenz-2wqi6keseas0>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Saenz" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Daniel A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Daniel A. Saenz" .
+
+<http://id.crossref.org/issn/0022-3042>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0022-3042" , "1471-4159" ;
+      <http://purl.org/dc/terms/title>
+              "Journal of Neurochemistry" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0022-3042" , "1471-4159" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0022-3042" , "urn:issn:1471-4159" .
+
+<http://id.crossref.org/contributor/cora-b-cymeryng-2wqi6keseas0>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Cymeryng" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Cora B." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Cora B. Cymeryng" .

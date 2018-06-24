@@ -1,0 +1,96 @@
+<http://id.crossref.org/issn/0884-2914>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "2044-5326" , "0884-2914" ;
+      <http://purl.org/dc/terms/title>
+              "Journal of Materials Research" ;
+      <http://purl.org/ontology/bibo/issn>
+              "2044-5326" , "0884-2914" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0884-2914" , "urn:issn:2044-5326" .
+
+<http://id.crossref.org/contributor/c-h-kam-2iu5330h8rk3n>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kam" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "C. H." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "C. H. Kam" .
+
+<http://dx.doi.org/10.1557/jmr.1999.0220>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1557/jmr.1999.0220" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "1644" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "1638" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "14" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/c-h-kam-2iu5330h8rk3n> , <http://id.crossref.org/contributor/j-s-pan-2iu5330h8rk3n> , <http://id.crossref.org/contributor/s-c-ng-2iu5330h8rk3n> , <http://id.crossref.org/contributor/a-wee-2iu5330h8rk3n> , <http://id.crossref.org/contributor/h-jones-2iu5330h8rk3n> , <http://id.crossref.org/contributor/y-li-2iu5330h8rk3n> ;
+      <http://purl.org/dc/terms/date>
+              "1999-04"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1557/jmr.1999.0220" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0884-2914> ;
+      <http://purl.org/dc/terms/publisher>
+              "Cambridge University Press (CUP)" ;
+      <http://purl.org/dc/terms/title>
+              "The Effect of Heat Treatment on the Corrosion Behavior of Amorphous Mg–Ni–Nd Alloys" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1557/jmr.1999.0220" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "1644" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "1638" ;
+      <http://purl.org/ontology/bibo/volume>
+              "14" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1557/jmr.1999.0220> , <info:doi/10.1557/jmr.1999.0220> .
+
+<http://id.crossref.org/contributor/j-s-pan-2iu5330h8rk3n>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Pan" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "J. S." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "J. S. Pan" .
+
+<http://id.crossref.org/contributor/s-c-ng-2iu5330h8rk3n>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Ng" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "S. C." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "S. C. Ng" .
+
+<http://id.crossref.org/contributor/a-wee-2iu5330h8rk3n>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Wee" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "A. Wee" .
+
+<http://id.crossref.org/contributor/h-jones-2iu5330h8rk3n>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Jones" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "H." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "H. Jones" .
+
+<http://id.crossref.org/contributor/y-li-2iu5330h8rk3n>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Li" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Y." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Y. Li" .

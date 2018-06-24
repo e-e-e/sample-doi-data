@@ -1,0 +1,51 @@
+<http://id.crossref.org/issn/0009-2509>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0009-2509" ;
+      <http://purl.org/dc/terms/title>
+              "Chemical Engineering Science" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0009-2509" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0009-2509" .
+
+<http://id.crossref.org/contributor/italo-mazzarino-1z0nnrt8hdbt8>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Mazzarino" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Italo" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Italo Mazzarino" .
+
+<http://dx.doi.org/10.1016/s0009-2509(98)00431-x>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/s0009-2509(98)00431-x" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "3682" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "3677" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "54" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/italo-mazzarino-1z0nnrt8hdbt8> ;
+      <http://purl.org/dc/terms/date>
+              "1999-07"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/s0009-2509(98)00431-x" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0009-2509> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "A comparative study of sandwich cross-flow and random catalytic packings for multiphase chemical reactors" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/s0009-2509(98)00431-x" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "3682" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "3677" ;
+      <http://purl.org/ontology/bibo/volume>
+              "54" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1016/s0009-2509(98)00431-x> , <info:doi/10.1016/s0009-2509(98)00431-x> .

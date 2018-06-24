@@ -1,0 +1,61 @@
+<http://dx.doi.org/10.1007/bf00242469>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1007/bf00242469" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "195" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/g-scarlato-24r8g9vq3h4wj> , <http://id.crossref.org/contributor/f-cornelio-24r8g9vq3h4wj> , <http://id.crossref.org/contributor/g-prenna-24r8g9vq3h4wj> ;
+      <http://purl.org/dc/terms/date>
+              "1969"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1007/bf00242469" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0340-5354> ;
+      <http://purl.org/dc/terms/publisher>
+              "Springer Nature" ;
+      <http://purl.org/dc/terms/title>
+              "Histochemische und mikrospektrofluorometrische Untersuchungen �ber regressive Vorg�nge an der menschlichen Muskelfaser bei neurogenen Atrophien" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1007/bf00242469" ;
+      <http://purl.org/ontology/bibo/volume>
+              "195" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1007/bf00242469> , <doi:10.1007/bf00242469> .
+
+<http://id.crossref.org/contributor/f-cornelio-24r8g9vq3h4wj>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Cornelio" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "F." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "F. Cornelio" .
+
+<http://id.crossref.org/contributor/g-scarlato-24r8g9vq3h4wj>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Scarlato" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "G." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "G. Scarlato" .
+
+<http://id.crossref.org/contributor/g-prenna-24r8g9vq3h4wj>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Prenna" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "G." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "G. Prenna" .
+
+<http://id.crossref.org/issn/0340-5354>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1432-1459" , "0340-5354" ;
+      <http://purl.org/dc/terms/title>
+              "Deutsche Zeitschrift f�r Nervenheilkunde" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1432-1459" , "0340-5354" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1432-1459" , "urn:issn:0340-5354" .

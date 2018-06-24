@@ -1,0 +1,40 @@
+<http://id.crossref.org/issn/0002-9904>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0002-9904" ;
+      <http://purl.org/dc/terms/title>
+              "Bulletin of the American Mathematical Society" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0002-9904" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0002-9904" .
+
+<http://dx.doi.org/10.1090/s0002-9904-1950-09396-3>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1090/s0002-9904-1950-09396-3" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "216" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "212" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "56" ;
+      <http://purl.org/dc/terms/date>
+              "1950-03-01"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1090/s0002-9904-1950-09396-3" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0002-9904> ;
+      <http://purl.org/dc/terms/publisher>
+              "American Mathematical Society (AMS)" ;
+      <http://purl.org/dc/terms/title>
+              "Notes" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1090/s0002-9904-1950-09396-3" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "216" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "212" ;
+      <http://purl.org/ontology/bibo/volume>
+              "56" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1090/s0002-9904-1950-09396-3> , <info:doi/10.1090/s0002-9904-1950-09396-3> .

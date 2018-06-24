@@ -1,0 +1,51 @@
+<http://id.crossref.org/issn/0945-6317>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1432-2307" , "0945-6317" ;
+      <http://purl.org/dc/terms/title>
+              "Archiv für Pathologische Anatomie und Physiologie und für Klinische Medicin" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1432-2307" , "0945-6317" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1432-2307" , "urn:issn:0945-6317" .
+
+<http://id.crossref.org/contributor/max-glogner-165ja2m0zk9j>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Glogner" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Max" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Max Glogner" .
+
+<http://dx.doi.org/10.1007/bf01928760>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1007/bf01928760" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "162" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "129" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "146" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/max-glogner-165ja2m0zk9j> ;
+      <http://purl.org/dc/terms/date>
+              "1896-10"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1007/bf01928760" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0945-6317> ;
+      <http://purl.org/dc/terms/publisher>
+              "Springer Nature" ;
+      <http://purl.org/dc/terms/title>
+              "Ueber die klinischen Formen der Beri-Beri-krankheit" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1007/bf01928760" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "162" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "129" ;
+      <http://purl.org/ontology/bibo/volume>
+              "146" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1007/bf01928760> , <info:doi/10.1007/bf01928760> .

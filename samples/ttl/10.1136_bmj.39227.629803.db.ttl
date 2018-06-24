@@ -1,0 +1,51 @@
+<http://id.crossref.org/issn/0959-8138>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1468-5833" , "0959-8138" ;
+      <http://purl.org/dc/terms/title>
+              "BMJ" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1468-5833" , "0959-8138" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1468-5833" , "urn:issn:0959-8138" .
+
+<http://id.crossref.org/contributor/michael-day-397sd9e1axk8>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Day" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Michael" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Michael Day" .
+
+<http://dx.doi.org/10.1136/bmj.39227.629803.db>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1136/bmj.39227.629803.db" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "1133" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "1133.2" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "334" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/michael-day-397sd9e1axk8> ;
+      <http://purl.org/dc/terms/date>
+              "2007-05-31"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1136/bmj.39227.629803.db" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0959-8138> ;
+      <http://purl.org/dc/terms/publisher>
+              "BMJ" ;
+      <http://purl.org/dc/terms/title>
+              "AIDS expert doubts vaccine will be found in near future" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1136/bmj.39227.629803.db" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "1133" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "1133.2" ;
+      <http://purl.org/ontology/bibo/volume>
+              "334" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1136/bmj.39227.629803.db> , <doi:10.1136/bmj.39227.629803.db> .

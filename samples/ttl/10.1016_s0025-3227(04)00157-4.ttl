@@ -1,0 +1,40 @@
+<http://dx.doi.org/10.1016/s0025-3227(04)00157-4>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/s0025-3227(04)00157-4" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "269" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "267" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "207" ;
+      <http://purl.org/dc/terms/date>
+              "2004-06"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/s0025-3227(04)00157-4" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0025-3227> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Author Index Volume 207 (2004)" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/s0025-3227(04)00157-4" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "269" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "267" ;
+      <http://purl.org/ontology/bibo/volume>
+              "207" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1016/s0025-3227(04)00157-4> , <doi:10.1016/s0025-3227(04)00157-4> .
+
+<http://id.crossref.org/issn/0025-3227>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0025-3227" ;
+      <http://purl.org/dc/terms/title>
+              "Marine Geology" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0025-3227" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0025-3227" .

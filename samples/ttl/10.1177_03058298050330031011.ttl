@@ -1,0 +1,51 @@
+<http://id.crossref.org/issn/0305-8298>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1477-9021" , "0305-8298" ;
+      <http://purl.org/dc/terms/title>
+              "Millennium: Journal of International Studies" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1477-9021" , "0305-8298" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1477-9021" , "urn:issn:0305-8298" .
+
+<http://dx.doi.org/10.1177/03058298050330031011>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1177/03058298050330031011" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "909" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "907" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "33" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/aparajita-gangopadhyay-1w6y3oj4llvd3> ;
+      <http://purl.org/dc/terms/date>
+              "2005-06"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1177/03058298050330031011" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0305-8298> ;
+      <http://purl.org/dc/terms/publisher>
+              "SAGE Publications" ;
+      <http://purl.org/dc/terms/title>
+              "Book Review: Stephanie Lawson (ed.), The New Agenda for International Relations: From Polarization to Globalization in World Politics? (Cambridge: Polity Press, 2002, 234 pp., £55.00 hbk, £15.99 pbk.)" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1177/03058298050330031011" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "909" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "907" ;
+      <http://purl.org/ontology/bibo/volume>
+              "33" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1177/03058298050330031011> , <doi:10.1177/03058298050330031011> .
+
+<http://id.crossref.org/contributor/aparajita-gangopadhyay-1w6y3oj4llvd3>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Gangopadhyay" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Aparajita" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Aparajita Gangopadhyay" .

@@ -1,0 +1,69 @@
+<http://id.crossref.org/contributor/bernard-dubnick-2pfvlmp55038s>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Dubnick" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Bernard" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Bernard Dubnick" .
+
+<http://id.crossref.org/contributor/george-e-phillips-2pfvlmp55038s>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Phillips" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "George E." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "George E. Phillips" .
+
+<http://id.crossref.org/issn/0006-2952>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0006-2952" ;
+      <http://purl.org/dc/terms/title>
+              "Biochemical Pharmacology" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0006-2952" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0006-2952" .
+
+<http://id.crossref.org/contributor/gerald-a-leeson-2pfvlmp55038s>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Leeson" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Gerald A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Gerald A. Leeson" .
+
+<http://dx.doi.org/10.1016/0006-2952(62)90089-8>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/0006-2952(62)90089-8" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "52" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "45" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "11" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/bernard-dubnick-2pfvlmp55038s> , <http://id.crossref.org/contributor/george-e-phillips-2pfvlmp55038s> , <http://id.crossref.org/contributor/gerald-a-leeson-2pfvlmp55038s> ;
+      <http://purl.org/dc/terms/date>
+              "1962-01"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/0006-2952(62)90089-8" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0006-2952> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "In vivo-inhibition of serotonin synthesis in mouse brain by β-phenylethylhydrazine, an inhibitor of monoamine oxidase" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/0006-2952(62)90089-8" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "52" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "45" ;
+      <http://purl.org/ontology/bibo/volume>
+              "11" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1016/0006-2952(62)90089-8> , <info:doi/10.1016/0006-2952(62)90089-8> .

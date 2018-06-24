@@ -1,0 +1,78 @@
+<http://id.crossref.org/contributor/a-rammul-1utj9hxcx8ee9>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Rammul" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "A. Rammul" .
+
+<http://id.crossref.org/contributor/c-a-neufeld-1utj9hxcx8ee9>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Neufeld" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "C. A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "C. A. Neufeld" .
+
+<http://id.crossref.org/issn/1438-2377>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1438-2377" , "1438-2385" ;
+      <http://purl.org/dc/terms/title>
+              "Zeitschrift für Untersuchung der Nahrungs- und Genußmittel" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1438-2377" , "1438-2385" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1438-2377" , "urn:issn:1438-2385" .
+
+<http://dx.doi.org/10.1007/bf01999110>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1007/bf01999110" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "169" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "163" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "8" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/a-rammul-1utj9hxcx8ee9> , <http://id.crossref.org/contributor/c-a-neufeld-1utj9hxcx8ee9> , <http://id.crossref.org/contributor/a-oelker-1utj9hxcx8ee9> , <http://id.crossref.org/contributor/max-muller-1utj9hxcx8ee9> ;
+      <http://purl.org/dc/terms/date>
+              "1904-07"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1007/bf01999110" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1438-2377> ;
+      <http://purl.org/dc/terms/publisher>
+              "Springer Nature" ;
+      <http://purl.org/dc/terms/title>
+              "Trink- und Gebrauchswasser" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1007/bf01999110" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "169" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "163" ;
+      <http://purl.org/ontology/bibo/volume>
+              "8" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1007/bf01999110> , <doi:10.1007/bf01999110> .
+
+<http://id.crossref.org/contributor/a-oelker-1utj9hxcx8ee9>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Oelker" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "A. Oelker" .
+
+<http://id.crossref.org/contributor/max-muller-1utj9hxcx8ee9>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Müller" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Max" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Max Müller" .

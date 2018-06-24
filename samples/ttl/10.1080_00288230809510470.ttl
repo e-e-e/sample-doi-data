@@ -1,0 +1,87 @@
+<http://id.crossref.org/contributor/p-c-h-morel-14bljzz3ler60>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Morel" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "P. C. H." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "P. C. H. Morel" .
+
+<http://dx.doi.org/10.1080/00288230809510470>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1080/00288230809510470" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "407" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "397" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "51" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/p-c-h-morel-14bljzz3ler60> , <http://id.crossref.org/contributor/p-d-kemp-14bljzz3ler60> , <http://id.crossref.org/contributor/p-r-kenyon-14bljzz3ler60> , <http://id.crossref.org/contributor/s-t-morris-14bljzz3ler60> , <http://id.crossref.org/contributor/g-denicolo-14bljzz3ler60> ;
+      <http://purl.org/dc/terms/date>
+              "2008-12"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1080/00288230809510470" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0028-8233> ;
+      <http://purl.org/dc/terms/publisher>
+              "Informa UK Limited" ;
+      <http://purl.org/dc/terms/title>
+              "Ewe reproduction and lambing performance in a five period mating system" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1080/00288230809510470" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "407" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "397" ;
+      <http://purl.org/ontology/bibo/volume>
+              "51" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1080/00288230809510470> , <info:doi/10.1080/00288230809510470> .
+
+<http://id.crossref.org/issn/0028-8233>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0028-8233" , "1175-8775" ;
+      <http://purl.org/dc/terms/title>
+              "New Zealand Journal of Agricultural Research" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0028-8233" , "1175-8775" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0028-8233" , "urn:issn:1175-8775" .
+
+<http://id.crossref.org/contributor/p-d-kemp-14bljzz3ler60>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kemp" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "P. D." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "P. D. Kemp" .
+
+<http://id.crossref.org/contributor/s-t-morris-14bljzz3ler60>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Morris" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "S. T." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "S. T. Morris" .
+
+<http://id.crossref.org/contributor/p-r-kenyon-14bljzz3ler60>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kenyon" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "P. R." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "P. R. Kenyon" .
+
+<http://id.crossref.org/contributor/g-denicolo-14bljzz3ler60>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "deNicolo" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "G." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "G. deNicolo" .

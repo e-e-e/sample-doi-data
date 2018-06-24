@@ -1,0 +1,69 @@
+<http://dx.doi.org/10.1145/505008.505037>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1145/505008.505037" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/christopher-d-shaw-2yjsyv4lpd6zl> , <http://id.crossref.org/contributor/william-ribarsky-2yjsyv4lpd6zl> , <http://id.crossref.org/contributor/larry-f-hodges-2yjsyv4lpd6zl> , <http://id.crossref.org/contributor/nickolas-faust-2yjsyv4lpd6zl> , <http://id.crossref.org/contributor/david-m-krum-2yjsyv4lpd6zl> ;
+      <http://purl.org/dc/terms/date>
+              "2001"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1145/505008.505037" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/1581134274> ;
+      <http://purl.org/dc/terms/publisher>
+              "ACM Press" ;
+      <http://purl.org/dc/terms/title>
+              "Situational visualization" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1145/505008.505037" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1145/505008.505037> , <doi:10.1145/505008.505037> .
+
+<http://id.crossref.org/contributor/christopher-d-shaw-2yjsyv4lpd6zl>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Shaw" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Christopher D." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Christopher D. Shaw" .
+
+<http://id.crossref.org/contributor/william-ribarsky-2yjsyv4lpd6zl>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Ribarsky" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "William" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "William Ribarsky" .
+
+<http://id.crossref.org/contributor/larry-f-hodges-2yjsyv4lpd6zl>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Hodges" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Larry F." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Larry F. Hodges" .
+
+<http://id.crossref.org/isbn/1581134274>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Proceedings of the ACM symposium on Virtual reality software and technology  - VRST '01" .
+
+<http://id.crossref.org/contributor/nickolas-faust-2yjsyv4lpd6zl>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Faust" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Nickolas" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Nickolas Faust" .
+
+<http://id.crossref.org/contributor/david-m-krum-2yjsyv4lpd6zl>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Krum" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "David M." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "David M. Krum" .

@@ -1,0 +1,69 @@
+<http://id.crossref.org/contributor/michael-perry-268b1amlketez>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Perry" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Michael" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Michael Perry" .
+
+<http://id.crossref.org/contributor/steve-white-268b1amlketez>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "White" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Steve" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Steve White" .
+
+<http://id.crossref.org/issn/0266-4356>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0266-4356" ;
+      <http://purl.org/dc/terms/title>
+              "British Journal of Oral and Maxillofacial Surgery" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0266-4356" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0266-4356" .
+
+<http://dx.doi.org/10.1016/j.bjoms.2006.02.006>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/j.bjoms.2006.02.006" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "174" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "173" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "45" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/michael-perry-268b1amlketez> , <http://id.crossref.org/contributor/steve-white-268b1amlketez> , <http://id.crossref.org/contributor/kathleen-richardson-268b1amlketez> ;
+      <http://purl.org/dc/terms/date>
+              "2007-03"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/j.bjoms.2006.02.006" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0266-4356> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Post-traumatic eye observations M.C. Bater, P.L. Ramchandani, P.A. Brennan, Br. J. Oral Maxillofac. Surg. 43 (2005) 410–416" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/j.bjoms.2006.02.006" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "174" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "173" ;
+      <http://purl.org/ontology/bibo/volume>
+              "45" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1016/j.bjoms.2006.02.006> , <info:doi/10.1016/j.bjoms.2006.02.006> .
+
+<http://id.crossref.org/contributor/kathleen-richardson-268b1amlketez>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Richardson" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Kathleen" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Kathleen Richardson" .

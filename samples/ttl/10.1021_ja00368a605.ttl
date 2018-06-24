@@ -1,0 +1,87 @@
+<http://id.crossref.org/contributor/e-schlemper-38ry8ahe5iyk4>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Schlemper" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "E" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "E Schlemper" .
+
+<http://dx.doi.org/10.1021/ja00368a605>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1021/ja00368a605" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "1156" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "1156" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "104" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/e-schlemper-38ry8ahe5iyk4> , <http://id.crossref.org/contributor/gary-long-38ry8ahe5iyk4> , <http://id.crossref.org/contributor/james-wrobleski-38ry8ahe5iyk4> , <http://id.crossref.org/contributor/raju-thundathil-38ry8ahe5iyk4> , <http://id.crossref.org/contributor/don-sparlin-38ry8ahe5iyk4> ;
+      <http://purl.org/dc/terms/date>
+              "1982-02"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1021/ja00368a605" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0002-7863> ;
+      <http://purl.org/dc/terms/publisher>
+              "American Chemical Society (ACS)" ;
+      <http://purl.org/dc/terms/title>
+              "Transition-Metal Complexes of Vitamin B6 Related Compounds.3. X-ray, Mossbauer, and Magnetic Properties of a Binuclear Iron (III). Complex Containing an Unusual Pyridoxal Derivative - Correction" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1021/ja00368a605" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "1156" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "1156" ;
+      <http://purl.org/ontology/bibo/volume>
+              "104" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1021/ja00368a605> , <info:doi/10.1021/ja00368a605> .
+
+<http://id.crossref.org/contributor/gary-long-38ry8ahe5iyk4>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Long" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Gary" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Gary Long" .
+
+<http://id.crossref.org/contributor/james-wrobleski-38ry8ahe5iyk4>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Wrobleski" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "James" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "James Wrobleski" .
+
+<http://id.crossref.org/contributor/don-sparlin-38ry8ahe5iyk4>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Sparlin" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Don" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Don Sparlin" .
+
+<http://id.crossref.org/contributor/raju-thundathil-38ry8ahe5iyk4>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Thundathil" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Raju" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Raju Thundathil" .
+
+<http://id.crossref.org/issn/0002-7863>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0002-7863" ;
+      <http://purl.org/dc/terms/title>
+              "Journal of the American Chemical Society" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0002-7863" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0002-7863" .

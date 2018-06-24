@@ -1,0 +1,47 @@
+<http://dx.doi.org/10.1016/s0140-6736(01)55456-2>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/s0140-6736(01)55456-2" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "1155" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "169" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/john-reid-3t3048h7foaz2> ;
+      <http://purl.org/dc/terms/date>
+              "1907-04"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/s0140-6736(01)55456-2" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0140-6736> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "A CASE OF POISONING BY COAL-GAS." ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/s0140-6736(01)55456-2" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "1155" ;
+      <http://purl.org/ontology/bibo/volume>
+              "169" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1016/s0140-6736(01)55456-2> , <info:doi/10.1016/s0140-6736(01)55456-2> .
+
+<http://id.crossref.org/contributor/john-reid-3t3048h7foaz2>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Reid" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "John" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "John Reid" .
+
+<http://id.crossref.org/issn/0140-6736>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0140-6736" ;
+      <http://purl.org/dc/terms/title>
+              "The Lancet" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0140-6736" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0140-6736" .

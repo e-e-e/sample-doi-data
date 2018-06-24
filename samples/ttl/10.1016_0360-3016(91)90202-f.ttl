@@ -1,0 +1,78 @@
+<http://dx.doi.org/10.1016/0360-3016(91)90202-f>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/0360-3016(91)90202-f" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "1045" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "1039" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "20" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/ross-b-mikkelsen-11nsplwpjywki> , <http://id.crossref.org/contributor/timothy-stedman-11nsplwpjywki> , <http://id.crossref.org/contributor/rupert-schmidt-ullrich-11nsplwpjywki> , <http://id.crossref.org/contributor/peck-sun-lin-11nsplwpjywki> ;
+      <http://purl.org/dc/terms/date>
+              "1991-05"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/0360-3016(91)90202-f" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0360-3016> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Effects of tamoxifen and protein kinase C inhibitors on hyperthermic cell killing" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/0360-3016(91)90202-f" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "1045" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "1039" ;
+      <http://purl.org/ontology/bibo/volume>
+              "20" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1016/0360-3016(91)90202-f> , <info:doi/10.1016/0360-3016(91)90202-f> .
+
+<http://id.crossref.org/contributor/timothy-stedman-11nsplwpjywki>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Stedman" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Timothy" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Timothy Stedman" .
+
+<http://id.crossref.org/contributor/ross-b-mikkelsen-11nsplwpjywki>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Mikkelsen" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Ross B." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Ross B. Mikkelsen" .
+
+<http://id.crossref.org/contributor/rupert-schmidt-ullrich-11nsplwpjywki>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Schmidt-Ullrich" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Rupert" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Rupert Schmidt-Ullrich" .
+
+<http://id.crossref.org/contributor/peck-sun-lin-11nsplwpjywki>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Lin" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Peck-Sun" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Peck-Sun Lin" .
+
+<http://id.crossref.org/issn/0360-3016>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0360-3016" ;
+      <http://purl.org/dc/terms/title>
+              "International Journal of Radiation Oncology*Biology*Physics" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0360-3016" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0360-3016" .

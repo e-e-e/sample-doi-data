@@ -1,0 +1,60 @@
+<http://dx.doi.org/10.1103/physrevd.35.774>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1103/physrevd.35.774" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "777" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "774" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "35" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/l-c-r-wijewardhana-sxuhd2xhu73w> , <http://id.crossref.org/contributor/thomas-appelquist-sxuhd2xhu73w> ;
+      <http://purl.org/dc/terms/date>
+              "1987-01-15"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1103/physrevd.35.774" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0556-2821> ;
+      <http://purl.org/dc/terms/publisher>
+              "American Physical Society (APS)" ;
+      <http://purl.org/dc/terms/title>
+              "Chiral hierarchies and chiral perturbations in technicolor theories" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1103/physrevd.35.774" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "777" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "774" ;
+      <http://purl.org/ontology/bibo/volume>
+              "35" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1103/physrevd.35.774> , <info:doi/10.1103/physrevd.35.774> .
+
+<http://id.crossref.org/contributor/l-c-r-wijewardhana-sxuhd2xhu73w>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Wijewardhana" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "L. C. R." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "L. C. R. Wijewardhana" .
+
+<http://id.crossref.org/issn/0556-2821>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0556-2821" ;
+      <http://purl.org/dc/terms/title>
+              "Physical Review D" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0556-2821" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0556-2821" .
+
+<http://id.crossref.org/contributor/thomas-appelquist-sxuhd2xhu73w>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Appelquist" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Thomas" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Thomas Appelquist" .

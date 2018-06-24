@@ -1,0 +1,60 @@
+<http://dx.doi.org/10.1002/recl.19951141114>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1002/recl.19951141114" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "503" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "498" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "114" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/dietrich-dopp-xl13r7gu7e1m> , <http://id.crossref.org/contributor/michael-alexander-fischer-xl13r7gu7e1m> ;
+      <http://purl.org/dc/terms/date>
+              "2010-09-02"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1002/recl.19951141114" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0165-0513> ;
+      <http://purl.org/dc/terms/publisher>
+              "Wiley" ;
+      <http://purl.org/dc/terms/title>
+              "[2 + 2] Photoaddition of 2-aminopropenenitriles to diarylethanediones. A product study" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1002/recl.19951141114" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "503" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "498" ;
+      <http://purl.org/ontology/bibo/volume>
+              "114" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1002/recl.19951141114> , <doi:10.1002/recl.19951141114> .
+
+<http://id.crossref.org/contributor/dietrich-dopp-xl13r7gu7e1m>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Döpp" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Dietrich" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Dietrich Döpp" .
+
+<http://id.crossref.org/contributor/michael-alexander-fischer-xl13r7gu7e1m>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Fischer" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Michael-Alexander" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Michael-Alexander Fischer" .
+
+<http://id.crossref.org/issn/0165-0513>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0165-0513" ;
+      <http://purl.org/dc/terms/title>
+              "Recueil des Travaux Chimiques des Pays-Bas" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0165-0513" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0165-0513" .

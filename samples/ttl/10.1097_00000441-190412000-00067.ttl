@@ -1,0 +1,47 @@
+<http://id.crossref.org/contributor/thomas-and-linton-1n5itd05fq4vy>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "and Linton" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Thomas" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Thomas and Linton" .
+
+<http://dx.doi.org/10.1097/00000441-190412000-00067>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1097/00000441-190412000-00067" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "1116" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "128" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/thomas-and-linton-1n5itd05fq4vy> ;
+      <http://purl.org/dc/terms/date>
+              "1904-12"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1097/00000441-190412000-00067" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0002-9629> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "A Comparison of the Animal Reactions of the Trypanosomes of Uganda and Congo Free State Sleeping Sickness with Those of Trypanosoma Gambiense (Dutton)" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1097/00000441-190412000-00067" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "1116" ;
+      <http://purl.org/ontology/bibo/volume>
+              "128" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1097/00000441-190412000-00067> , <doi:10.1097/00000441-190412000-00067> .
+
+<http://id.crossref.org/issn/0002-9629>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0002-9629" ;
+      <http://purl.org/dc/terms/title>
+              "The American Journal of the Medical Sciences" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0002-9629" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0002-9629" .

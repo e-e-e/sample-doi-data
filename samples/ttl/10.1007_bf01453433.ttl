@@ -1,0 +1,51 @@
+<http://id.crossref.org/issn/0025-5831>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1432-1807" , "0025-5831" ;
+      <http://purl.org/dc/terms/title>
+              "Mathematische Annalen" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1432-1807" , "0025-5831" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1432-1807" , "urn:issn:0025-5831" .
+
+<http://dx.doi.org/10.1007/bf01453433>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1007/bf01453433" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "171" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "161" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "34" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/alfred-kpcke-3nc76b1k5gule> ;
+      <http://purl.org/dc/terms/date>
+              "1889-06"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1007/bf01453433" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0025-5831> ;
+      <http://purl.org/dc/terms/publisher>
+              "Springer Nature" ;
+      <http://purl.org/dc/terms/title>
+              "Ueber eine durchaus differentiirbare, stetige Function mit Oscillationen in jedem Intervalle" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1007/bf01453433" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "171" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "161" ;
+      <http://purl.org/ontology/bibo/volume>
+              "34" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1007/bf01453433> , <doi:10.1007/bf01453433> .
+
+<http://id.crossref.org/contributor/alfred-kpcke-3nc76b1k5gule>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "K�pcke" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Alfred" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Alfred K�pcke" .

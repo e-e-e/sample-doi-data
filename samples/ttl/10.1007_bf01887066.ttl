@@ -1,0 +1,78 @@
+<http://id.crossref.org/contributor/bernard-levin-1gpqrkucb1zuw>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Levin" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Bernard" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Bernard Levin" .
+
+<http://dx.doi.org/10.1007/bf01887066>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1007/bf01887066" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "219" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "209" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "3" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/bernard-levin-1gpqrkucb1zuw> , <http://id.crossref.org/contributor/robert-h-riddell-1gpqrkucb1zuw> , <http://id.crossref.org/contributor/paul-h-frank-1gpqrkucb1zuw> , <http://id.crossref.org/contributor/peter-j-feczko-1gpqrkucb1zuw> ;
+      <http://purl.org/dc/terms/date>
+              "1978-12"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1007/bf01887066" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0364-2356> ;
+      <http://purl.org/dc/terms/publisher>
+              "Springer Nature" ;
+      <http://purl.org/dc/terms/title>
+              "Radiological detection of colonic dysplasia (precarcinoma) in chronic ulcerative colitis" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1007/bf01887066" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "219" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "209" ;
+      <http://purl.org/ontology/bibo/volume>
+              "3" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1007/bf01887066> , <doi:10.1007/bf01887066> .
+
+<http://id.crossref.org/contributor/robert-h-riddell-1gpqrkucb1zuw>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Riddell" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Robert H." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Robert H. Riddell" .
+
+<http://id.crossref.org/issn/0364-2356>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1432-0509" , "0364-2356" ;
+      <http://purl.org/dc/terms/title>
+              "Gastrointestinal Radiology" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1432-0509" , "0364-2356" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0364-2356" , "urn:issn:1432-0509" .
+
+<http://id.crossref.org/contributor/peter-j-feczko-1gpqrkucb1zuw>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Feczko" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Peter J." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Peter J. Feczko" .
+
+<http://id.crossref.org/contributor/paul-h-frank-1gpqrkucb1zuw>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Frank" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Paul H." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Paul H. Frank" .

@@ -1,0 +1,87 @@
+<http://id.crossref.org/contributor/michael-green-15vvzqhwhrnhw>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Green" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Michael" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Michael Green" .
+
+<http://id.crossref.org/contributor/steven-webber-15vvzqhwhrnhw>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Webber" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Steven" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Steven Webber" .
+
+<http://id.crossref.org/contributor/elizabeth-schauer-15vvzqhwhrnhw>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Schauer" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Elizabeth" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Elizabeth Schauer" .
+
+<http://dx.doi.org/10.1111/j.1399-3046.2008.00918.x>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1111/j.1399-3046.2008.00918.x" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "318" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "311" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "13" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/michael-green-15vvzqhwhrnhw> , <http://id.crossref.org/contributor/steven-webber-15vvzqhwhrnhw> , <http://id.crossref.org/contributor/elizabeth-schauer-15vvzqhwhrnhw> , <http://id.crossref.org/contributor/david-rowe-15vvzqhwhrnhw> , <http://id.crossref.org/contributor/laurence-kingsley-15vvzqhwhrnhw> ;
+      <http://purl.org/dc/terms/date>
+              "2009-05"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1111/j.1399-3046.2008.00918.x" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1397-3142> ;
+      <http://purl.org/dc/terms/publisher>
+              "Wiley" ;
+      <http://purl.org/dc/terms/title>
+              "Increased Ig-null B lymphocytes in the peripheral blood of pediatric solid organ transplant recipients with elevated Epstein-Barr viral loads" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1111/j.1399-3046.2008.00918.x" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "318" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "311" ;
+      <http://purl.org/ontology/bibo/volume>
+              "13" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1111/j.1399-3046.2008.00918.x> , <info:doi/10.1111/j.1399-3046.2008.00918.x> .
+
+<http://id.crossref.org/contributor/david-rowe-15vvzqhwhrnhw>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Rowe" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "David" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "David Rowe" .
+
+<http://id.crossref.org/contributor/laurence-kingsley-15vvzqhwhrnhw>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kingsley" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Laurence" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Laurence Kingsley" .
+
+<http://id.crossref.org/issn/1397-3142>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1399-3046" , "1397-3142" ;
+      <http://purl.org/dc/terms/title>
+              "Pediatric Transplantation" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1399-3046" , "1397-3142" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1399-3046" , "urn:issn:1397-3142" .

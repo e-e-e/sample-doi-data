@@ -1,0 +1,69 @@
+<http://dx.doi.org/10.1016/s0278-4343(99)00022-9>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/s0278-4343(99)00022-9" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "1283" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "1265" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "19" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/thomas-a-mcclimans-3ffnj5fa4fvlu> , <http://id.crossref.org/contributor/trond-jenserud-3ffnj5fa4fvlu> , <http://id.crossref.org/contributor/bjrn-olaf-johannessen-3ffnj5fa4fvlu> ;
+      <http://purl.org/dc/terms/date>
+              "1999-08"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/s0278-4343(99)00022-9" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0278-4343> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Monitoring a shelf edge current using bottom pressures or coastal sea-level data" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/s0278-4343(99)00022-9" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "1283" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "1265" ;
+      <http://purl.org/ontology/bibo/volume>
+              "19" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1016/s0278-4343(99)00022-9> , <info:doi/10.1016/s0278-4343(99)00022-9> .
+
+<http://id.crossref.org/contributor/thomas-a-mcclimans-3ffnj5fa4fvlu>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "McClimans" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Thomas A" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Thomas A McClimans" .
+
+<http://id.crossref.org/contributor/trond-jenserud-3ffnj5fa4fvlu>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Jenserud" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Trond" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Trond Jenserud" .
+
+<http://id.crossref.org/issn/0278-4343>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0278-4343" ;
+      <http://purl.org/dc/terms/title>
+              "Continental Shelf Research" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0278-4343" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0278-4343" .
+
+<http://id.crossref.org/contributor/bjrn-olaf-johannessen-3ffnj5fa4fvlu>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Johannessen" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Bjørn Olaf" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Bjørn Olaf Johannessen" .

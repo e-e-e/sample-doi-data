@@ -1,0 +1,51 @@
+<http://dx.doi.org/10.1177/153476560200800305>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1177/153476560200800305" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "204" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "181" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "8" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/raija-leena-punamaki-38c02myowpxqf> ;
+      <http://purl.org/dc/terms/date>
+              "2002"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1177/153476560200800305" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1085-9373> ;
+      <http://purl.org/dc/terms/publisher>
+              "American Psychological Association (APA)" ;
+      <http://purl.org/dc/terms/title>
+              "The uninvited guest of war enters childhood: Developmental and personality aspects of war and military violence." ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1177/153476560200800305" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "204" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "181" ;
+      <http://purl.org/ontology/bibo/volume>
+              "8" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1177/153476560200800305> , <info:doi/10.1177/153476560200800305> .
+
+<http://id.crossref.org/contributor/raija-leena-punamaki-38c02myowpxqf>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Punamäki" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Raija-Leena" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Raija-Leena Punamäki" .
+
+<http://id.crossref.org/issn/1085-9373>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1534-7656" , "1085-9373" ;
+      <http://purl.org/dc/terms/title>
+              "Traumatology" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1534-7656" , "1085-9373" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1085-9373" , "urn:issn:1534-7656" .

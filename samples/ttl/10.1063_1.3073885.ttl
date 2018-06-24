@@ -1,0 +1,74 @@
+<http://dx.doi.org/10.1063/1.3073885>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1063/1.3073885" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "041917" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "94" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/zugang-mao-mepe3qfmwopl> , <http://id.crossref.org/contributor/david-n-seidman-mepe3qfmwopl> , <http://id.crossref.org/contributor/christopher-booth-morrison-mepe3qfmwopl> , <http://id.crossref.org/contributor/yaron-amouyal-mepe3qfmwopl> ;
+      <http://purl.org/dc/terms/date>
+              "2009-01-26"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1063/1.3073885" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0003-6951> ;
+      <http://purl.org/dc/terms/publisher>
+              "AIP Publishing" ;
+      <http://purl.org/dc/terms/title>
+              "On the interplay between tungsten and tantalum atoms in Ni-based superalloys: An atom-probe tomographic and first-principles study" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1063/1.3073885" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "041917" ;
+      <http://purl.org/ontology/bibo/volume>
+              "94" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1063/1.3073885> , <info:doi/10.1063/1.3073885> .
+
+<http://id.crossref.org/contributor/zugang-mao-mepe3qfmwopl>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Mao" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Zugang" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Zugang Mao" .
+
+<http://id.crossref.org/issn/0003-6951>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1077-3118" , "0003-6951" ;
+      <http://purl.org/dc/terms/title>
+              "Applied Physics Letters" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1077-3118" , "0003-6951" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1077-3118" , "urn:issn:0003-6951" .
+
+<http://id.crossref.org/contributor/david-n-seidman-mepe3qfmwopl>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Seidman" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "David N." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "David N. Seidman" .
+
+<http://id.crossref.org/contributor/christopher-booth-morrison-mepe3qfmwopl>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Booth-Morrison" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Christopher" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Christopher Booth-Morrison" .
+
+<http://id.crossref.org/contributor/yaron-amouyal-mepe3qfmwopl>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Amouyal" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Yaron" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Yaron Amouyal" .

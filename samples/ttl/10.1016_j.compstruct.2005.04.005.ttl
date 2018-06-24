@@ -1,0 +1,78 @@
+<http://id.crossref.org/contributor/seung-min-lee-3j6qtd7r7wb6i>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Lee" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Seung Min" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Seung Min Lee" .
+
+<http://id.crossref.org/contributor/dong-chang-park-3j6qtd7r7wb6i>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Park" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Dong Chang" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Dong Chang Park" .
+
+<http://dx.doi.org/10.1016/j.compstruct.2005.04.005>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/j.compstruct.2005.04.005" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "152" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "145" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "74" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/seung-min-lee-3j6qtd7r7wb6i> , <http://id.crossref.org/contributor/dong-chang-park-3j6qtd7r7wb6i> , <http://id.crossref.org/contributor/byung-chul-kim-3j6qtd7r7wb6i> , <http://id.crossref.org/contributor/dai-gil-lee-3j6qtd7r7wb6i> ;
+      <http://purl.org/dc/terms/date>
+              "2006-07"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/j.compstruct.2005.04.005" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0263-8223> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Strength of functionally gradient composite hemispherical bearings" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/j.compstruct.2005.04.005" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "152" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "145" ;
+      <http://purl.org/ontology/bibo/volume>
+              "74" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1016/j.compstruct.2005.04.005> , <doi:10.1016/j.compstruct.2005.04.005> .
+
+<http://id.crossref.org/contributor/byung-chul-kim-3j6qtd7r7wb6i>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kim" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Byung Chul" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Byung Chul Kim" .
+
+<http://id.crossref.org/contributor/dai-gil-lee-3j6qtd7r7wb6i>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Lee" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Dai Gil" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Dai Gil Lee" .
+
+<http://id.crossref.org/issn/0263-8223>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0263-8223" ;
+      <http://purl.org/dc/terms/title>
+              "Composite Structures" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0263-8223" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0263-8223" .

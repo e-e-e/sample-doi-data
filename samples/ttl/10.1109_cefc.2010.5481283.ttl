@@ -1,0 +1,42 @@
+<http://id.crossref.org/contributor/yasushi-kanai-1ejux254l4abn>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kanai" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Yasushi" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Yasushi Kanai" .
+
+<http://id.crossref.org/contributor/tadao-ohtani-1ejux254l4abn>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Ohtani" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Tadao" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Tadao Ohtani" .
+
+<http://dx.doi.org/10.1109/cefc.2010.5481283>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1109/cefc.2010.5481283" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/tadao-ohtani-1ejux254l4abn> , <http://id.crossref.org/contributor/yasushi-kanai-1ejux254l4abn> ;
+      <http://purl.org/dc/terms/date>
+              "2010-05"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1109/cefc.2010.5481283" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9781424470594> ;
+      <http://purl.org/dc/terms/publisher>
+              "IEEE" ;
+      <http://purl.org/dc/terms/title>
+              "Optimal coefficients of the special FD operator for the CNS-FDTD method" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1109/cefc.2010.5481283" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1109/cefc.2010.5481283> , <info:doi/10.1109/cefc.2010.5481283> .
+
+<http://id.crossref.org/isbn/9781424470594>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Digests of the 2010 14th Biennial IEEE Conference on Electromagnetic Field Computation" .

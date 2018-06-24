@@ -1,0 +1,78 @@
+<http://id.crossref.org/contributor/gilles-devouassoux-150u25e2kdi83>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Devouassoux" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Gilles" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Gilles Devouassoux" .
+
+<http://id.crossref.org/issn/1755-0017>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1755-0017" ;
+      <http://purl.org/dc/terms/title>
+              "Respiratory Medicine CME" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1755-0017" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1755-0017" .
+
+<http://id.crossref.org/contributor/yves-pacheco-150u25e2kdi83>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Pacheco" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Yves" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Yves Pacheco" .
+
+<http://id.crossref.org/contributor/nathalie-freymond-150u25e2kdi83>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Freymond" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Nathalie" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Nathalie Freymond" .
+
+<http://id.crossref.org/contributor/christophe-malcus-150u25e2kdi83>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Malcus" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Christophe" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Christophe Malcus" .
+
+<http://dx.doi.org/10.1016/j.rmedc.2009.04.001>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/j.rmedc.2009.04.001" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "115" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "113" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "3" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/gilles-devouassoux-150u25e2kdi83> , <http://id.crossref.org/contributor/yves-pacheco-150u25e2kdi83> , <http://id.crossref.org/contributor/nathalie-freymond-150u25e2kdi83> , <http://id.crossref.org/contributor/christophe-malcus-150u25e2kdi83> ;
+      <http://purl.org/dc/terms/date>
+              "2010"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/j.rmedc.2009.04.001" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1755-0017> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Lymphocytopenia-associated sarcoidosis: CD4+ T-cell hypo-responsiveness to IL-2 and lectin" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/j.rmedc.2009.04.001" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "115" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "113" ;
+      <http://purl.org/ontology/bibo/volume>
+              "3" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1016/j.rmedc.2009.04.001> , <info:doi/10.1016/j.rmedc.2009.04.001> .

@@ -1,0 +1,78 @@
+<http://id.crossref.org/contributor/thale-sofie-wester-4olm2lul1hue>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Wester" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Thale Sofie" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Thale Sofie Wester" .
+
+<http://dx.doi.org/10.1002/(sici)1521-3935(19980901)199:9<1989::aid-macp1989>3.0.co;2-5>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1002/(sici)1521-3935(19980901)199:9<1989::aid-macp1989>3.0.co;2-5" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "2004" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "1989" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "199" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/thale-sofie-wester-4olm2lul1hue> , <http://id.crossref.org/contributor/pal-kittilsen-4olm2lul1hue> , <http://id.crossref.org/contributor/erling-rytter-4olm2lul1hue> , <http://id.crossref.org/contributor/heidi-johnsen-4olm2lul1hue> ;
+      <http://purl.org/dc/terms/date>
+              "1998-09-01"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1002/(sici)1521-3935(19980901)199:9<1989::aid-macp1989>3.0.co;2-5" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1022-1352> ;
+      <http://purl.org/dc/terms/publisher>
+              "Wiley" ;
+      <http://purl.org/dc/terms/title>
+              "The effect of temperature on the polymerization of propene with dimethylsilylbis(1-indenyl)zirconium dichloride/methylaluminoxane and dimethylsilylbis(2-methyl-1-indenyl)zirconium dichloride/methylaluminoxane. Modeling of kinetics" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1002/(sici)1521-3935(19980901)199:9<1989::aid-macp1989>3.0.co;2-5" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "2004" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "1989" ;
+      <http://purl.org/ontology/bibo/volume>
+              "199" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1002/(sici)1521-3935(19980901)199:9<1989::aid-macp1989>3.0.co;2-5> , <doi:10.1002/(sici)1521-3935(19980901)199:9<1989::aid-macp1989>3.0.co;2-5> .
+
+<http://id.crossref.org/contributor/pal-kittilsen-4olm2lul1hue>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kittilsen" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Pål" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Pål Kittilsen" .
+
+<http://id.crossref.org/contributor/erling-rytter-4olm2lul1hue>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Rytter" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Erling" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Erling Rytter" .
+
+<http://id.crossref.org/issn/1022-1352>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1521-3935" , "1022-1352" ;
+      <http://purl.org/dc/terms/title>
+              "Macromolecular Chemistry and Physics" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1521-3935" , "1022-1352" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1521-3935" , "urn:issn:1022-1352" .
+
+<http://id.crossref.org/contributor/heidi-johnsen-4olm2lul1hue>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Johnsen" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Heidi" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Heidi Johnsen" .

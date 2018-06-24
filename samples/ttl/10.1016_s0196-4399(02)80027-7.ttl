@@ -1,0 +1,60 @@
+<http://id.crossref.org/contributor/sharon-parshall-1qk983ttj5f45>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Parshall" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Sharon" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Sharon Parshall" .
+
+<http://id.crossref.org/contributor/gerri-s-hall-1qk983ttj5f45>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Hall" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Gerri S." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Gerri S. Hall" .
+
+<http://id.crossref.org/issn/0196-4399>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0196-4399" ;
+      <http://purl.org/dc/terms/title>
+              "Clinical Microbiology Newsletter" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0196-4399" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0196-4399" .
+
+<http://dx.doi.org/10.1016/s0196-4399(02)80027-7>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/s0196-4399(02)80027-7" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "109" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "105" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "24" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/sharon-parshall-1qk983ttj5f45> , <http://id.crossref.org/contributor/gerri-s-hall-1qk983ttj5f45> ;
+      <http://purl.org/dc/terms/date>
+              "2002-07"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/s0196-4399(02)80027-7" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0196-4399> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Use of the concentration gradient diffusion assay (Etest) for susceptibility testing of anaerobes, fungi, and Mycobacterium spp." ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/s0196-4399(02)80027-7" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "109" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "105" ;
+      <http://purl.org/ontology/bibo/volume>
+              "24" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1016/s0196-4399(02)80027-7> , <doi:10.1016/s0196-4399(02)80027-7> .

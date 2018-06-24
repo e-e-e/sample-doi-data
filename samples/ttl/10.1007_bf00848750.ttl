@@ -1,0 +1,60 @@
+<http://id.crossref.org/issn/0568-5230>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0568-5230" , "1573-9171" ;
+      <http://purl.org/dc/terms/title>
+              "Bulletin of the Academy of Sciences, USSR Division of Chemical Science" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0568-5230" , "1573-9171" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1573-9171" , "urn:issn:0568-5230" .
+
+<http://id.crossref.org/contributor/v-b-shur-2d6cfi98pi5y6>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Shur" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "V. B." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "V. B. Shur" .
+
+<http://id.crossref.org/contributor/m-e-volpin-2d6cfi98pi5y6>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Vol'pin" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "M. E." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "M. E. Vol'pin" .
+
+<http://dx.doi.org/10.1007/bf00848750>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1007/bf00848750" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "1819" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "1819" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "15" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/v-b-shur-2d6cfi98pi5y6> , <http://id.crossref.org/contributor/m-e-volpin-2d6cfi98pi5y6> ;
+      <http://purl.org/dc/terms/date>
+              "1966-10"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1007/bf00848750" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0568-5230> ;
+      <http://purl.org/dc/terms/publisher>
+              "Springer Nature" ;
+      <http://purl.org/dc/terms/title>
+              "Preparation of amines in the reactions of molecular nitrogen" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1007/bf00848750" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "1819" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "1819" ;
+      <http://purl.org/ontology/bibo/volume>
+              "15" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1007/bf00848750> , <doi:10.1007/bf00848750> .

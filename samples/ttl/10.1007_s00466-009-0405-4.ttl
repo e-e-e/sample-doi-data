@@ -1,0 +1,78 @@
+<http://id.crossref.org/contributor/keijo-nissen-13sugen0i3l6n>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Nissen" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Keijo" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Keijo Nissen" .
+
+<http://id.crossref.org/contributor/wolfgang-a-wall-13sugen0i3l6n>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Wall" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Wolfgang A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Wolfgang A. Wall" .
+
+<http://dx.doi.org/10.1007/s00466-009-0405-4>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1007/s00466-009-0405-4" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "300" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "287" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "46" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/keijo-nissen-13sugen0i3l6n> , <http://id.crossref.org/contributor/wolfgang-a-wall-13sugen0i3l6n> , <http://id.crossref.org/contributor/volker-gravemeier-13sugen0i3l6n> , <http://id.crossref.org/contributor/christian-j-cyron-13sugen0i3l6n> ;
+      <http://purl.org/dc/terms/date>
+              "2009-07-15"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1007/s00466-009-0405-4" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0178-7675> ;
+      <http://purl.org/dc/terms/publisher>
+              "Springer Nature" ;
+      <http://purl.org/dc/terms/title>
+              "Stable meshfree methods in fluid mechanics based on Green’s functions" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1007/s00466-009-0405-4" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "300" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "287" ;
+      <http://purl.org/ontology/bibo/volume>
+              "46" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1007/s00466-009-0405-4> , <info:doi/10.1007/s00466-009-0405-4> .
+
+<http://id.crossref.org/contributor/volker-gravemeier-13sugen0i3l6n>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Gravemeier" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Volker" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Volker Gravemeier" .
+
+<http://id.crossref.org/issn/0178-7675>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1432-0924" , "0178-7675" ;
+      <http://purl.org/dc/terms/title>
+              "Computational Mechanics" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1432-0924" , "0178-7675" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0178-7675" , "urn:issn:1432-0924" .
+
+<http://id.crossref.org/contributor/christian-j-cyron-13sugen0i3l6n>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Cyron" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Christian J." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Christian J. Cyron" .

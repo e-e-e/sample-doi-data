@@ -1,0 +1,87 @@
+<http://id.crossref.org/contributor/ahti-anttila-3o2u5hxuhdu2i>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Anttila" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Ahti" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Ahti Anttila" .
+
+<http://id.crossref.org/contributor/marja-liisa-lindbohm-3o2u5hxuhdu2i>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Lindbohm" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Marja-Liisa" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Marja-Liisa Lindbohm" .
+
+<http://id.crossref.org/contributor/helena-taskinen-3o2u5hxuhdu2i>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Taskinen" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Helena" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Helena Taskinen" .
+
+<http://id.crossref.org/contributor/kari-hemminki-3o2u5hxuhdu2i>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Hemminki" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Kari" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Kari Hemminki" .
+
+<http://id.crossref.org/issn/1044-3983>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1044-3983" ;
+      <http://purl.org/dc/terms/title>
+              "Epidemiology" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1044-3983" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1044-3983" .
+
+<http://id.crossref.org/contributor/markku-sallmen-3o2u5hxuhdu2i>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Sallmén" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Markku" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Markku Sallmén" .
+
+<http://dx.doi.org/10.1097/00001648-200003000-00010>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1097/00001648-200003000-00010" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "147" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "141" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "11" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/ahti-anttila-3o2u5hxuhdu2i> , <http://id.crossref.org/contributor/helena-taskinen-3o2u5hxuhdu2i> , <http://id.crossref.org/contributor/marja-liisa-lindbohm-3o2u5hxuhdu2i> , <http://id.crossref.org/contributor/kari-hemminki-3o2u5hxuhdu2i> , <http://id.crossref.org/contributor/markku-sallmen-3o2u5hxuhdu2i> ;
+      <http://purl.org/dc/terms/date>
+              "2000-03"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1097/00001648-200003000-00010" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1044-3983> ;
+      <http://purl.org/dc/terms/publisher>
+              "Ovid Technologies (Wolters Kluwer Health)" ;
+      <http://purl.org/dc/terms/title>
+              "Time to Pregnancy among the Wives of Men Occupationally Exposed to Lead" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1097/00001648-200003000-00010" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "147" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "141" ;
+      <http://purl.org/ontology/bibo/volume>
+              "11" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1097/00001648-200003000-00010> , <doi:10.1097/00001648-200003000-00010> .

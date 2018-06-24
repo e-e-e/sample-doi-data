@@ -1,0 +1,65 @@
+<http://id.crossref.org/contributor/frederic-a-rasio-8fthicntl04n>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Rasio" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Frederic A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Frederic A. Rasio" .
+
+<http://id.crossref.org/issn/0067-0049>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0067-0049" , "1538-4365" ;
+      <http://purl.org/dc/terms/title>
+              "The Astrophysical Journal Supplement Series" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0067-0049" , "1538-4365" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1538-4365" , "urn:issn:0067-0049" .
+
+<http://dx.doi.org/10.1086/191822>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1086/191822" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "205" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "88" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/frederic-a-rasio-8fthicntl04n> , <http://id.crossref.org/contributor/dong-lai-8fthicntl04n> , <http://id.crossref.org/contributor/stuart-l-shapiro-8fthicntl04n> ;
+      <http://purl.org/dc/terms/date>
+              "1993-09"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1086/191822" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0067-0049> ;
+      <http://purl.org/dc/terms/publisher>
+              "IOP Publishing" ;
+      <http://purl.org/dc/terms/title>
+              "Ellipsoidal figures of equilibrium - Compressible models" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1086/191822" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "205" ;
+      <http://purl.org/ontology/bibo/volume>
+              "88" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1086/191822> , <info:doi/10.1086/191822> .
+
+<http://id.crossref.org/contributor/dong-lai-8fthicntl04n>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Lai" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Dong" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Dong Lai" .
+
+<http://id.crossref.org/contributor/stuart-l-shapiro-8fthicntl04n>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Shapiro" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Stuart L." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Stuart L. Shapiro" .

@@ -1,0 +1,96 @@
+<http://dx.doi.org/10.1097/00019501-199003000-00010>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1097/00019501-199003000-00010" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "220" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "215" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "1" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/milton-grossman-1uguh0441ln39> , <http://id.crossref.org/contributor/m-rene-malinow-1uguh0441ln39> , <http://id.crossref.org/contributor/barbara-upson-1uguh0441ln39> , <http://id.crossref.org/contributor/mark-averbuch-1uguh0441ln39> , <http://id.crossref.org/contributor/gary-sexton-1uguh0441ln39> , <http://id.crossref.org/contributor/david-wilson-1uguh0441ln39> ;
+      <http://purl.org/dc/terms/date>
+              "1990-03"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1097/00019501-199003000-00010" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0954-6928> ;
+      <http://purl.org/dc/terms/publisher>
+              "Ovid Technologies (Wolters Kluwer Health)" ;
+      <http://purl.org/dc/terms/title>
+              "Homocyst(e)inemia in daily practice" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1097/00019501-199003000-00010" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "220" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "215" ;
+      <http://purl.org/ontology/bibo/volume>
+              "1" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1097/00019501-199003000-00010> , <doi:10.1097/00019501-199003000-00010> .
+
+<http://id.crossref.org/contributor/m-rene-malinow-1uguh0441ln39>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Malinow" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "M. Rene" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "M. Rene Malinow" .
+
+<http://id.crossref.org/contributor/milton-grossman-1uguh0441ln39>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Grossman" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Milton" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Milton Grossman" .
+
+<http://id.crossref.org/contributor/barbara-upson-1uguh0441ln39>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Upson" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Barbara" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Barbara Upson" .
+
+<http://id.crossref.org/contributor/mark-averbuch-1uguh0441ln39>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Averbuch" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Mark" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Mark Averbuch" .
+
+<http://id.crossref.org/issn/0954-6928>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0954-6928" ;
+      <http://purl.org/dc/terms/title>
+              "Coronary Artery Disease" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0954-6928" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0954-6928" .
+
+<http://id.crossref.org/contributor/gary-sexton-1uguh0441ln39>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Sexton" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Gary" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Gary Sexton" .
+
+<http://id.crossref.org/contributor/david-wilson-1uguh0441ln39>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Wilson" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "David" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "David Wilson" .

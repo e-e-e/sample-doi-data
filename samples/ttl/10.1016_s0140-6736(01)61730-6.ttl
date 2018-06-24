@@ -1,0 +1,40 @@
+<http://dx.doi.org/10.1016/s0140-6736(01)61730-6>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/s0140-6736(01)61730-6" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "578" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "577" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "171" ;
+      <http://purl.org/dc/terms/date>
+              "1908-02"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/s0140-6736(01)61730-6" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0140-6736> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "WHAT IS VINEGAR P" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/s0140-6736(01)61730-6" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "578" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "577" ;
+      <http://purl.org/ontology/bibo/volume>
+              "171" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1016/s0140-6736(01)61730-6> , <doi:10.1016/s0140-6736(01)61730-6> .
+
+<http://id.crossref.org/issn/0140-6736>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0140-6736" ;
+      <http://purl.org/dc/terms/title>
+              "The Lancet" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0140-6736" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0140-6736" .

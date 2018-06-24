@@ -1,0 +1,87 @@
+<http://id.crossref.org/contributor/jackson-roberto-guedes-da-silva-almeida-7d8ysw5uoc9b>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Almeida" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Jackson Roberto Guedes da Silva" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Jackson Roberto Guedes da Silva Almeida" .
+
+<http://id.crossref.org/contributor/livia-amorim-porto-7d8ysw5uoc9b>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Porto" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Lívia Amorim" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Lívia Amorim Porto" .
+
+<http://id.crossref.org/contributor/luciene-nascimento-seixas-7d8ysw5uoc9b>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Seixas" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Luciene Nascimento" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Luciene Nascimento Seixas" .
+
+<http://id.crossref.org/contributor/jullyana-de-souza-siqueira-7d8ysw5uoc9b>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Siqueira" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Jullyana de Souza" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Jullyana de Souza Siqueira" .
+
+<http://id.crossref.org/contributor/lucindo-jose-quintans-junior-7d8ysw5uoc9b>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Quintans-Júnior" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Lucindo José" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Lucindo José Quintans-Júnior" .
+
+<http://id.crossref.org/issn/1676-2649>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1676-2649" ;
+      <http://purl.org/dc/terms/title>
+              "Journal of Epilepsy and Clinical Neurophysiology" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1676-2649" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1676-2649" .
+
+<http://dx.doi.org/10.1590/s1676-26492007000400005>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1590/s1676-26492007000400005" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "175" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "169" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "13" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/jackson-roberto-guedes-da-silva-almeida-7d8ysw5uoc9b> , <http://id.crossref.org/contributor/livia-amorim-porto-7d8ysw5uoc9b> , <http://id.crossref.org/contributor/luciene-nascimento-seixas-7d8ysw5uoc9b> , <http://id.crossref.org/contributor/jullyana-de-souza-siqueira-7d8ysw5uoc9b> , <http://id.crossref.org/contributor/lucindo-jose-quintans-junior-7d8ysw5uoc9b> ;
+      <http://purl.org/dc/terms/date>
+              "2007-12"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1590/s1676-26492007000400005" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1676-2649> ;
+      <http://purl.org/dc/terms/publisher>
+              "FapUNIFESP (SciELO)" ;
+      <http://purl.org/dc/terms/title>
+              "O papel dos canais iônicos nas epilepsias e considerações sobre as drogas antiepilépticas: uma breve revisão" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1590/s1676-26492007000400005" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "175" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "169" ;
+      <http://purl.org/ontology/bibo/volume>
+              "13" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1590/s1676-26492007000400005> , <doi:10.1590/s1676-26492007000400005> .

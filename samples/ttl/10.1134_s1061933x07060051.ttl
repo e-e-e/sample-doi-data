@@ -1,0 +1,51 @@
+<http://id.crossref.org/contributor/k-v-erin-ykjw7cwmca47>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Erin" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "K. V." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "K. V. Erin" .
+
+<http://id.crossref.org/issn/1061-933X>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1608-3067" , "1061-933X" ;
+      <http://purl.org/dc/terms/title>
+              "Colloid Journal" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1608-3067" , "1061-933X" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1061-933X" , "urn:issn:1608-3067" .
+
+<http://dx.doi.org/10.1134/s1061933x07060051>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1134/s1061933x07060051" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "705" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "700" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "69" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/k-v-erin-ykjw7cwmca47> ;
+      <http://purl.org/dc/terms/date>
+              "2007-12"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1134/s1061933x07060051" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1061-933X> ;
+      <http://purl.org/dc/terms/publisher>
+              "Pleiades Publishing Ltd" ;
+      <http://purl.org/dc/terms/title>
+              "Electric dipole moments of magnetite colloidal particles in liquid dielectrics" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1134/s1061933x07060051" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "705" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "700" ;
+      <http://purl.org/ontology/bibo/volume>
+              "69" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1134/s1061933x07060051> , <info:doi/10.1134/s1061933x07060051> .

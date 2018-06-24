@@ -1,0 +1,87 @@
+<http://id.crossref.org/contributor/m-bernal-2it9t5zo6027r>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Bernal" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "M." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "M. Bernal" .
+
+<http://id.crossref.org/contributor/p-vague-2it9t5zo6027r>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Vague" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "P." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "P. Vague" .
+
+<http://dx.doi.org/10.1007/bf00265549>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1007/bf00265549" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "321" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "316" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "32" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/m-bernal-2it9t5zo6027r> , <http://id.crossref.org/contributor/p-vague-2it9t5zo6027r> , <http://id.crossref.org/contributor/v-lassmann-vague-2it9t5zo6027r> , <http://id.crossref.org/contributor/b-vialettes-2it9t5zo6027r> , <http://id.crossref.org/contributor/r-picq-2it9t5zo6027r> ;
+      <http://purl.org/dc/terms/date>
+              "1989-05"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1007/bf00265549" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0012-186X> ;
+      <http://purl.org/dc/terms/publisher>
+              "Springer Nature" ;
+      <http://purl.org/dc/terms/title>
+              "Effect of nicotinamide treatment on the residual insulin secretion in Type 1 (insulin-dependent) diabetic patients" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1007/bf00265549" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "321" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "316" ;
+      <http://purl.org/ontology/bibo/volume>
+              "32" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1007/bf00265549> , <doi:10.1007/bf00265549> .
+
+<http://id.crossref.org/contributor/v-lassmann-vague-2it9t5zo6027r>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Lassmann-Vague" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "V." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "V. Lassmann-Vague" .
+
+<http://id.crossref.org/issn/0012-186X>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1432-0428" , "0012-186X" ;
+      <http://purl.org/dc/terms/title>
+              "Diabetologia" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1432-0428" , "0012-186X" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0012-186X" , "urn:issn:1432-0428" .
+
+<http://id.crossref.org/contributor/b-vialettes-2it9t5zo6027r>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Vialettes" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "B." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "B. Vialettes" .
+
+<http://id.crossref.org/contributor/r-picq-2it9t5zo6027r>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Picq" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "R." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "R. Picq" .

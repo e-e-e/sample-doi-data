@@ -1,0 +1,33 @@
+<http://id.crossref.org/contributor/a-sarkar-2isok0mpvzggu>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Sarkar" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "A. Sarkar" .
+
+<http://id.crossref.org/isbn/081867573X>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Proceedings EURO-DAC '96. European Design Automation Conference with EURO-VHDL '96 and Exhibition" .
+
+<http://dx.doi.org/10.1109/eurdac.1996.558256>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1109/eurdac.1996.558256" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/a-sarkar-2isok0mpvzggu> ;
+      <http://purl.org/dc/terms/date>
+              ""^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1109/eurdac.1996.558256" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/081867573X> ;
+      <http://purl.org/dc/terms/publisher>
+              "IEEE Comput. Soc. Press" ;
+      <http://purl.org/dc/terms/title>
+              "System design using an integrated specification and performance modeling methodology" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1109/eurdac.1996.558256" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1109/eurdac.1996.558256> , <doi:10.1109/eurdac.1996.558256> .

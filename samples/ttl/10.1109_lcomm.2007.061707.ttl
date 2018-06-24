@@ -1,0 +1,69 @@
+<http://id.crossref.org/contributor/guillaume-jourjon-n34ts2f14vh5>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Jourjon" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Guillaume" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Guillaume Jourjon" .
+
+<http://id.crossref.org/issn/1089-7798>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1089-7798" ;
+      <http://purl.org/dc/terms/title>
+              "IEEE Communications Letters" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1089-7798" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1089-7798" .
+
+<http://id.crossref.org/contributor/laurent-dairaine-n34ts2f14vh5>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Dairaine" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Laurent" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Laurent Dairaine" .
+
+<http://id.crossref.org/contributor/emmanuel-lochin-n34ts2f14vh5>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Lochin" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Emmanuel" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Emmanuel Lochin" .
+
+<http://dx.doi.org/10.1109/lcomm.2007.061707>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1109/lcomm.2007.061707" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "278" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "276" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "11" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/guillaume-jourjon-n34ts2f14vh5> , <http://id.crossref.org/contributor/laurent-dairaine-n34ts2f14vh5> , <http://id.crossref.org/contributor/emmanuel-lochin-n34ts2f14vh5> ;
+      <http://purl.org/dc/terms/date>
+              "2007-03"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1109/lcomm.2007.061707" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1089-7798> ;
+      <http://purl.org/dc/terms/publisher>
+              "Institute of Electrical and Electronics Engineers (IEEE)" ;
+      <http://purl.org/dc/terms/title>
+              "Optimization of TFRC Loss History Initialization" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1109/lcomm.2007.061707" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "278" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "276" ;
+      <http://purl.org/ontology/bibo/volume>
+              "11" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1109/lcomm.2007.061707> , <doi:10.1109/lcomm.2007.061707> .

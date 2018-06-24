@@ -1,0 +1,60 @@
+<http://id.crossref.org/issn/0006-291X>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0006-291X" ;
+      <http://purl.org/dc/terms/title>
+              "Biochemical and Biophysical Research Communications" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0006-291X" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0006-291X" .
+
+<http://id.crossref.org/contributor/chiharu-nakai-mdylgavww5j1>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Nakai" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Chiharu" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Chiharu Nakai" .
+
+<http://id.crossref.org/contributor/walter-glinsmann-mdylgavww5j1>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Glinsmann" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Walter" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Walter Glinsmann" .
+
+<http://dx.doi.org/10.1016/0006-291x(77)90600-3>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/0006-291x(77)90600-3" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "1425" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "1419" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "74" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/chiharu-nakai-mdylgavww5j1> , <http://id.crossref.org/contributor/walter-glinsmann-mdylgavww5j1> ;
+      <http://purl.org/dc/terms/date>
+              "1977-02"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/0006-291x(77)90600-3" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0006-291X> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Effects of polyamines on nucleosidediphosphate kinase activity" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/0006-291x(77)90600-3" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "1425" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "1419" ;
+      <http://purl.org/ontology/bibo/volume>
+              "74" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1016/0006-291x(77)90600-3> , <info:doi/10.1016/0006-291x(77)90600-3> .

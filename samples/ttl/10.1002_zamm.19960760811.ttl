@@ -1,0 +1,60 @@
+<http://id.crossref.org/contributor/i-pop-36vm203nwf8wr>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Pop" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "I." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "I. Pop" .
+
+<http://dx.doi.org/10.1002/zamm.19960760811>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1002/zamm.19960760811" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "480" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "479" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "76" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/i-pop-36vm203nwf8wr> , <http://id.crossref.org/contributor/t-y-na-36vm203nwf8wr> ;
+      <http://purl.org/dc/terms/date>
+              "1996"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1002/zamm.19960760811" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0044-2267> ;
+      <http://purl.org/dc/terms/publisher>
+              "Wiley" ;
+      <http://purl.org/dc/terms/title>
+              "MHD Free Convection from a Vertical Semi-Infinite Flat Plate with a Step Change in the Magnetic Field" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1002/zamm.19960760811" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "480" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "479" ;
+      <http://purl.org/ontology/bibo/volume>
+              "76" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1002/zamm.19960760811> , <doi:10.1002/zamm.19960760811> .
+
+<http://id.crossref.org/contributor/t-y-na-36vm203nwf8wr>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Na" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "T.-Y." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "T.-Y. Na" .
+
+<http://id.crossref.org/issn/0044-2267>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1521-4001" , "0044-2267" ;
+      <http://purl.org/dc/terms/title>
+              "ZAMM - Journal of Applied Mathematics and Mechanics / Zeitschrift für Angewandte Mathematik und Mechanik" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1521-4001" , "0044-2267" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0044-2267" , "urn:issn:1521-4001" .

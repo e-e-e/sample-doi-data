@@ -1,0 +1,78 @@
+<http://id.crossref.org/issn/1040-0400>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1040-0400" , "1572-9001" ;
+      <http://purl.org/dc/terms/title>
+              "Structural Chemistry" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1040-0400" , "1572-9001" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1572-9001" , "urn:issn:1040-0400" .
+
+<http://id.crossref.org/contributor/cherif-ben-nasr-3k0vhrr6s63yb>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Nasr" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Cherif Ben" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Cherif Ben Nasr" .
+
+<http://id.crossref.org/contributor/frederic-lefebvre-3k0vhrr6s63yb>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Lefebvre" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Frederic" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Frederic Lefebvre" .
+
+<http://id.crossref.org/contributor/erwann-jeanneau-3k0vhrr6s63yb>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Jeanneau" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Erwann" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Erwann Jeanneau" .
+
+<http://dx.doi.org/10.1007/s11224-007-9215-5>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1007/s11224-007-9215-5" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "929" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "923" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "18" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/cherif-ben-nasr-3k0vhrr6s63yb> , <http://id.crossref.org/contributor/frederic-lefebvre-3k0vhrr6s63yb> , <http://id.crossref.org/contributor/erwann-jeanneau-3k0vhrr6s63yb> , <http://id.crossref.org/contributor/riadh-kefi-3k0vhrr6s63yb> ;
+      <http://purl.org/dc/terms/date>
+              "2007-07-18"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1007/s11224-007-9215-5" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1040-0400> ;
+      <http://purl.org/dc/terms/publisher>
+              "Springer Nature" ;
+      <http://purl.org/dc/terms/title>
+              "Synthesis and characterization of a new monophosphate (C6H16N2)(H2PO4)2" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1007/s11224-007-9215-5" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "929" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "923" ;
+      <http://purl.org/ontology/bibo/volume>
+              "18" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1007/s11224-007-9215-5> , <doi:10.1007/s11224-007-9215-5> .
+
+<http://id.crossref.org/contributor/riadh-kefi-3k0vhrr6s63yb>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kefi" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Riadh" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Riadh Kefi" .

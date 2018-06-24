@@ -1,0 +1,58 @@
+<http://id.crossref.org/contributor/david-johnson-u0z3546z55c>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Johnson" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "David" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "David Johnson" .
+
+<http://dx.doi.org/10.1023/a:1005328611460>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1023/a:1005328611460" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "333" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "273" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "20" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/david-johnson-u0z3546z55c> , <http://id.crossref.org/contributor/shalom-lappin-u0z3546z55c> ;
+      <http://purl.org/dc/terms/date>
+              "1997"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1023/a:1005328611460" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0165-0157> ;
+      <http://purl.org/dc/terms/publisher>
+              "Springer Nature" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1023/a:1005328611460" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "333" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "273" ;
+      <http://purl.org/ontology/bibo/volume>
+              "20" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1023/a:1005328611460> , <info:doi/10.1023/a:1005328611460> .
+
+<http://id.crossref.org/contributor/shalom-lappin-u0z3546z55c>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Lappin" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Shalom" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Shalom Lappin" .
+
+<http://id.crossref.org/issn/0165-0157>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0165-0157" ;
+      <http://purl.org/dc/terms/title>
+              "Linguistics and Philosophy" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0165-0157" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0165-0157" .

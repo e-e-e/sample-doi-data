@@ -1,0 +1,78 @@
+<http://id.crossref.org/contributor/a-s-minot-3rof5ao8chf5g>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "MINOT" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "A S" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "A S MINOT" .
+
+<http://id.crossref.org/contributor/lawrence-t-fairhall-3rof5ao8chf5g>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "FAIRHALL" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "LAWRENCE T." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "LAWRENCE T. FAIRHALL" .
+
+<http://id.crossref.org/contributor/paul-reznikoff-3rof5ao8chf5g>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "REZNIKOFF" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "PAUL" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "PAUL REZNIKOFF" .
+
+<http://dx.doi.org/10.1097/00005792-192504010-00007>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1097/00005792-192504010-00007" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "83" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "76" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "4" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/a-s-minot-3rof5ao8chf5g> , <http://id.crossref.org/contributor/lawrence-t-fairhall-3rof5ao8chf5g> , <http://id.crossref.org/contributor/paul-reznikoff-3rof5ao8chf5g> , <http://id.crossref.org/contributor/joseph-c-aub-3rof5ao8chf5g> ;
+      <http://purl.org/dc/terms/date>
+              "1925"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1097/00005792-192504010-00007" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0025-7974> ;
+      <http://purl.org/dc/terms/publisher>
+              "Ovid Technologies (Wolters Kluwer Health)" ;
+      <http://purl.org/dc/terms/title>
+              "EXCRETION OF LEAD" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1097/00005792-192504010-00007" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "83" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "76" ;
+      <http://purl.org/ontology/bibo/volume>
+              "4" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1097/00005792-192504010-00007> , <doi:10.1097/00005792-192504010-00007> .
+
+<http://id.crossref.org/issn/0025-7974>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0025-7974" ;
+      <http://purl.org/dc/terms/title>
+              "Medicine" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0025-7974" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0025-7974" .
+
+<http://id.crossref.org/contributor/joseph-c-aub-3rof5ao8chf5g>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "AUB" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "JOSEPH C." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "JOSEPH C. AUB" .

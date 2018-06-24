@@ -1,0 +1,78 @@
+<http://id.crossref.org/contributor/v-k-belskii-1uyr0845t20dd>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "BEL'SKII" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "V. K." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "V. K. BEL'SKII" .
+
+<http://id.crossref.org/contributor/i-v-bodrikov-1uyr0845t20dd>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "BODRIKOV" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "I. V." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "I. V. BODRIKOV" .
+
+<http://id.crossref.org/issn/0931-7597>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0931-7597" ;
+      <http://purl.org/dc/terms/title>
+              "ChemInform" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0931-7597" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0931-7597" .
+
+<http://id.crossref.org/contributor/v-l-krasnov-1uyr0845t20dd>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "KRASNOV" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "V. L." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "V. L. KRASNOV" .
+
+<http://id.crossref.org/contributor/o-v-pigin-1uyr0845t20dd>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "PIGIN" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "O. V." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "O. V. PIGIN" .
+
+<http://dx.doi.org/10.1002/chin.199401120>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1002/chin.199401120" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "no" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "no" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "25" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/v-k-belskii-1uyr0845t20dd> , <http://id.crossref.org/contributor/i-v-bodrikov-1uyr0845t20dd> , <http://id.crossref.org/contributor/v-l-krasnov-1uyr0845t20dd> , <http://id.crossref.org/contributor/o-v-pigin-1uyr0845t20dd> ;
+      <http://purl.org/dc/terms/date>
+              "2010-08-19"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1002/chin.199401120" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0931-7597> ;
+      <http://purl.org/dc/terms/publisher>
+              "Wiley" ;
+      <http://purl.org/dc/terms/title>
+              "ChemInform Abstract: Nucleophilic Sulfonation of Alkenes with the System SO2-Amine-Water. Stereochemical Regularities." ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1002/chin.199401120" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "no" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "no" ;
+      <http://purl.org/ontology/bibo/volume>
+              "25" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1002/chin.199401120> , <info:doi/10.1002/chin.199401120> .

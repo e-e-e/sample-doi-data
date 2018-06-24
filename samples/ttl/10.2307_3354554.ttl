@@ -1,0 +1,47 @@
+<http://id.crossref.org/issn/0958-8434>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0958-8434" ;
+      <http://purl.org/dc/terms/title>
+              "The Musical Times and Singing Class Circular" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0958-8434" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0958-8434" .
+
+<http://dx.doi.org/10.2307/3354554>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.2307/3354554" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "334" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "17" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/j-hornsey-casson-31io6bqm3ut2h> ;
+      <http://purl.org/dc/terms/date>
+              "1876-01-01"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.2307/3354554" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0958-8434> ;
+      <http://purl.org/dc/terms/publisher>
+              "JSTOR" ;
+      <http://purl.org/dc/terms/title>
+              "Lay Not up for Yourselves. A Short Anthem or Offertory for Treble Solo and Chorus" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.2307/3354554" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "334" ;
+      <http://purl.org/ontology/bibo/volume>
+              "17" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.2307/3354554> , <info:doi/10.2307/3354554> .
+
+<http://id.crossref.org/contributor/j-hornsey-casson-31io6bqm3ut2h>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Casson" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "J. Hornsey" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "J. Hornsey Casson" .

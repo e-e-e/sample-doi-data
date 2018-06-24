@@ -1,0 +1,51 @@
+<http://id.crossref.org/issn/1052-1151>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1533-8568" , "1052-1151" ;
+      <http://purl.org/dc/terms/title>
+              "Religion and American Culture: A Journal of Interpretation" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1533-8568" , "1052-1151" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1052-1151" , "urn:issn:1533-8568" .
+
+<http://dx.doi.org/10.1525/rac.2001.11.1.53>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1525/rac.2001.11.1.53" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "81" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "53" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "11" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/belden-c-lane-2a79r6xmpicd> ;
+      <http://purl.org/dc/terms/date>
+              "2001-01"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1525/rac.2001.11.1.53" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1052-1151> ;
+      <http://purl.org/dc/terms/publisher>
+              "Cambridge University Press (CUP)" ;
+      <http://purl.org/dc/terms/title>
+              "Giving Voice to Place: Three Models for Understanding American Sacred Space" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1525/rac.2001.11.1.53" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "81" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "53" ;
+      <http://purl.org/ontology/bibo/volume>
+              "11" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1525/rac.2001.11.1.53> , <doi:10.1525/rac.2001.11.1.53> .
+
+<http://id.crossref.org/contributor/belden-c-lane-2a79r6xmpicd>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Lane" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Belden C." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Belden C. Lane" .

@@ -1,0 +1,40 @@
+<http://id.crossref.org/isbn/9781424416219>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "2008 International Conference on Condition Monitoring and Diagnosis" .
+
+<http://dx.doi.org/10.1109/cmd.2008.4580365>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1109/cmd.2008.4580365" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/c-y-tang-3v691usuikeue> , <http://id.crossref.org/contributor/joe-3v691usuikeue> ;
+      <http://purl.org/dc/terms/date>
+              "2008"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1109/cmd.2008.4580365" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9781424416219> ;
+      <http://purl.org/dc/terms/publisher>
+              "IEEE" ;
+      <http://purl.org/dc/terms/title>
+              "Condition monitoring plans of CLP power Hong Kong and its roadmap to condition based maintenance" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1109/cmd.2008.4580365" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1109/cmd.2008.4580365> , <doi:10.1109/cmd.2008.4580365> .
+
+<http://id.crossref.org/contributor/c-y-tang-3v691usuikeue>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Tang" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "C.Y." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "C.Y. Tang" .
+
+<http://id.crossref.org/contributor/joe-3v691usuikeue>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Joe" ;
+      <http://xmlns.com/foaf/0.1/name>
+              " Joe" .

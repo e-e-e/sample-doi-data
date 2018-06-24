@@ -1,0 +1,60 @@
+<http://dx.doi.org/10.1016/s0163-1047(88)90732-7>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/s0163-1047(88)90732-7" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "23" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "16" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "50" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/norman-e-spear-tl49zyripbh7> , <http://id.crossref.org/contributor/heather-hoffmann-tl49zyripbh7> ;
+      <http://purl.org/dc/terms/date>
+              "1988-07"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/s0163-1047(88)90732-7" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0163-1047> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Ontogenetic differences in conditioning of an aversion to a gustatory CS with a peripheral US" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/s0163-1047(88)90732-7" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "23" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "16" ;
+      <http://purl.org/ontology/bibo/volume>
+              "50" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1016/s0163-1047(88)90732-7> , <info:doi/10.1016/s0163-1047(88)90732-7> .
+
+<http://id.crossref.org/issn/0163-1047>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0163-1047" ;
+      <http://purl.org/dc/terms/title>
+              "Behavioral and Neural Biology" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0163-1047" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0163-1047" .
+
+<http://id.crossref.org/contributor/norman-e-spear-tl49zyripbh7>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Spear" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Norman E." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Norman E. Spear" .
+
+<http://id.crossref.org/contributor/heather-hoffmann-tl49zyripbh7>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Hoffmann" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Heather" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Heather Hoffmann" .

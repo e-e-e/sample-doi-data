@@ -1,0 +1,51 @@
+<http://id.crossref.org/contributor/jay-a-wilcoxen-3duigumiysr8d>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Wilcoxen" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Jay A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Jay A. Wilcoxen" .
+
+<http://dx.doi.org/10.1086/485489>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1086/485489" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "301" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "300" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "42" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/jay-a-wilcoxen-3duigumiysr8d> ;
+      <http://purl.org/dc/terms/date>
+              "1962-10"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1086/485489" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0022-4189> ;
+      <http://purl.org/dc/terms/publisher>
+              "University of Chicago Press" ;
+      <http://purl.org/dc/terms/title>
+              "Jeremiah: Man and Prophet. Sheldon H. Blank" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1086/485489" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "301" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "300" ;
+      <http://purl.org/ontology/bibo/volume>
+              "42" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1086/485489> , <doi:10.1086/485489> .
+
+<http://id.crossref.org/issn/0022-4189>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1549-6538" , "0022-4189" ;
+      <http://purl.org/dc/terms/title>
+              "The Journal of Religion" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1549-6538" , "0022-4189" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1549-6538" , "urn:issn:0022-4189" .

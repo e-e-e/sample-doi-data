@@ -1,0 +1,60 @@
+<http://id.crossref.org/contributor/karsten-gohl-w7jvzvnhhi5s>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Gohl" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Karsten" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Karsten Gohl" .
+
+<http://dx.doi.org/10.1007/s00254-008-1622-4>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1007/s00254-008-1622-4" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "1250" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "1249" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "56" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/karsten-gohl-w7jvzvnhhi5s> , <http://id.crossref.org/contributor/alan-haywood-w7jvzvnhhi5s> ;
+      <http://purl.org/dc/terms/date>
+              "2008-11-11"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1007/s00254-008-1622-4" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0943-0105> ;
+      <http://purl.org/dc/terms/publisher>
+              "Springer Nature" ;
+      <http://purl.org/dc/terms/title>
+              "International viewpoint and news" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1007/s00254-008-1622-4" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "1250" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "1249" ;
+      <http://purl.org/ontology/bibo/volume>
+              "56" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1007/s00254-008-1622-4> , <doi:10.1007/s00254-008-1622-4> .
+
+<http://id.crossref.org/issn/0943-0105>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0943-0105" , "1432-0495" ;
+      <http://purl.org/dc/terms/title>
+              "Environmental Geology" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0943-0105" , "1432-0495" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1432-0495" , "urn:issn:0943-0105" .
+
+<http://id.crossref.org/contributor/alan-haywood-w7jvzvnhhi5s>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Haywood" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Alan" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Alan Haywood" .

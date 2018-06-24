@@ -1,0 +1,51 @@
+<http://id.crossref.org/contributor/v-e-verijenko-2ite911cdcbl9>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Verijenko" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "V.E." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "V.E. Verijenko" .
+
+<http://dx.doi.org/10.1016/0263-8223(93)90163-k>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/0263-8223(93)90163-k" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "185" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "173" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "25" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/v-e-verijenko-2ite911cdcbl9> ;
+      <http://purl.org/dc/terms/date>
+              "1993-01"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/0263-8223(93)90163-k" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0263-8223> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Nonlinear analysis of laminated composite plates and shells including the effects of shear and normal deformation" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/0263-8223(93)90163-k" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "185" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "173" ;
+      <http://purl.org/ontology/bibo/volume>
+              "25" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1016/0263-8223(93)90163-k> , <doi:10.1016/0263-8223(93)90163-k> .
+
+<http://id.crossref.org/issn/0263-8223>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0263-8223" ;
+      <http://purl.org/dc/terms/title>
+              "Composite Structures" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0263-8223" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0263-8223" .

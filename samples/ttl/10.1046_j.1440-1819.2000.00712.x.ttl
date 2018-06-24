@@ -1,0 +1,105 @@
+<http://id.crossref.org/contributor/hisao-maeda-16yusktovsofe>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Maeda" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Hisao" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Hisao Maeda" .
+
+<http://dx.doi.org/10.1046/j.1440-1819.2000.00712.x>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1046/j.1440-1819.2000.00712.x" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "355" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "354" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "54" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/hisao-maeda-16yusktovsofe> , <http://id.crossref.org/contributor/tetsuro-sakamoto-16yusktovsofe> , <http://id.crossref.org/contributor/masaki-mukai-16yusktovsofe> , <http://id.crossref.org/contributor/yoshifumi-waseda-16yusktovsofe> , <http://id.crossref.org/contributor/noboru-takeuchi-16yusktovsofe> , <http://id.crossref.org/contributor/naohisa-uchimura-16yusktovsofe> , <http://id.crossref.org/contributor/junko-takaishi-16yusktovsofe> ;
+      <http://purl.org/dc/terms/date>
+              "2000-06"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1046/j.1440-1819.2000.00712.x" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1323-1316> ;
+      <http://purl.org/dc/terms/publisher>
+              "Wiley" ;
+      <http://purl.org/dc/terms/title>
+              "Therapeutic progress of two sibling cases exhibiting sleep-wake rhythm disorder" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1046/j.1440-1819.2000.00712.x" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "355" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "354" ;
+      <http://purl.org/ontology/bibo/volume>
+              "54" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1046/j.1440-1819.2000.00712.x> , <info:doi/10.1046/j.1440-1819.2000.00712.x> .
+
+<http://id.crossref.org/contributor/tetsuro-sakamoto-16yusktovsofe>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Sakamoto" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Tetsuro" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Tetsuro Sakamoto" .
+
+<http://id.crossref.org/contributor/masaki-mukai-16yusktovsofe>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Mukai" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Masaki" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Masaki Mukai" .
+
+<http://id.crossref.org/contributor/yoshifumi-waseda-16yusktovsofe>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Waseda" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Yoshifumi" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Yoshifumi Waseda" .
+
+<http://id.crossref.org/contributor/noboru-takeuchi-16yusktovsofe>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Takeuchi" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Noboru" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Noboru Takeuchi" .
+
+<http://id.crossref.org/contributor/naohisa-uchimura-16yusktovsofe>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Uchimura" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Naohisa" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Naohisa Uchimura" .
+
+<http://id.crossref.org/contributor/junko-takaishi-16yusktovsofe>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Takaishi" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Junko" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Junko Takaishi" .
+
+<http://id.crossref.org/issn/1323-1316>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1323-1316" , "1440-1819" ;
+      <http://purl.org/dc/terms/title>
+              "Psychiatry and Clinical Neurosciences" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1323-1316" , "1440-1819" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1323-1316" , "urn:issn:1440-1819" .

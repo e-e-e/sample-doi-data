@@ -1,0 +1,87 @@
+<http://id.crossref.org/contributor/fiona-m-e-ewing-2kzx03c8e4wct>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Ewing" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Fiona M. E." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Fiona M. E. Ewing" .
+
+<http://id.crossref.org/contributor/anders-lindholm-2kzx03c8e4wct>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Lindholm" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Anders" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Anders Lindholm" .
+
+<http://id.crossref.org/contributor/birgitte-hylleberg-2kzx03c8e4wct>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Hylleberg" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Birgitte" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Birgitte Hylleberg" .
+
+<http://id.crossref.org/contributor/brian-m-frier-2kzx03c8e4wct>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Frier" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Brian M." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Brian M. Frier" .
+
+<http://id.crossref.org/contributor/karin-kanc-2kzx03c8e4wct>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kanc" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Karin" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Karin Kanc" .
+
+<http://id.crossref.org/issn/1520-7552>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1520-7552" , "1520-7560" ;
+      <http://purl.org/dc/terms/title>
+              "Diabetes/Metabolism Research and Reviews" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1520-7552" , "1520-7560" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1520-7560" , "urn:issn:1520-7552" .
+
+<http://dx.doi.org/10.1002/1520-7560(2000)9999:9999<::aid-dmrr120>3.0.co;2-1>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1002/1520-7560(2000)9999:9999<::aid-dmrr120>3.0.co;2-1" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "268" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "262" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "16" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/fiona-m-e-ewing-2kzx03c8e4wct> , <http://id.crossref.org/contributor/anders-lindholm-2kzx03c8e4wct> , <http://id.crossref.org/contributor/birgitte-hylleberg-2kzx03c8e4wct> , <http://id.crossref.org/contributor/karin-kanc-2kzx03c8e4wct> , <http://id.crossref.org/contributor/brian-m-frier-2kzx03c8e4wct> ;
+      <http://purl.org/dc/terms/date>
+              "2000"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1002/1520-7560(2000)9999:9999<::aid-dmrr120>3.0.co;2-1" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1520-7552> ;
+      <http://purl.org/dc/terms/publisher>
+              "Wiley" ;
+      <http://purl.org/dc/terms/title>
+              "Symptomatic and counterregulatory hormonal responses to acute hypoglycaemia induced by insulin aspart and soluble human insulin in Type 1 diabetes" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1002/1520-7560(2000)9999:9999<::aid-dmrr120>3.0.co;2-1" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "268" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "262" ;
+      <http://purl.org/ontology/bibo/volume>
+              "16" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1002/1520-7560(2000)9999:9999<::aid-dmrr120>3.0.co;2-1> , <info:doi/10.1002/1520-7560(2000)9999:9999<::aid-dmrr120>3.0.co;2-1> .

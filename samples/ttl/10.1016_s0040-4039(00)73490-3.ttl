@@ -1,0 +1,69 @@
+<http://dx.doi.org/10.1016/s0040-4039(00)73490-3>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/s0040-4039(00)73490-3" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "5326" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "5323" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "35" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/liren-huang-2mkmz7ylh1eoh> , <http://id.crossref.org/contributor/j-william-lown-2mkmz7ylh1eoh> , <http://id.crossref.org/contributor/james-c-quada-2mkmz7ylh1eoh> ;
+      <http://purl.org/dc/terms/date>
+              "1994-07"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/s0040-4039(00)73490-3" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0040-4039> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Design and synthesis of DNA cleaving bleomycin models: 1,2-trans-disubstituted cyclopropane units as novel linkers" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/s0040-4039(00)73490-3" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "5326" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "5323" ;
+      <http://purl.org/ontology/bibo/volume>
+              "35" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1016/s0040-4039(00)73490-3> , <info:doi/10.1016/s0040-4039(00)73490-3> .
+
+<http://id.crossref.org/contributor/liren-huang-2mkmz7ylh1eoh>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Huang" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Liren" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Liren Huang" .
+
+<http://id.crossref.org/issn/0040-4039>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0040-4039" ;
+      <http://purl.org/dc/terms/title>
+              "Tetrahedron Letters" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0040-4039" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0040-4039" .
+
+<http://id.crossref.org/contributor/j-william-lown-2mkmz7ylh1eoh>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Lown" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "J.William" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "J.William Lown" .
+
+<http://id.crossref.org/contributor/james-c-quada-2mkmz7ylh1eoh>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Quada" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "James C." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "James C. Quada" .

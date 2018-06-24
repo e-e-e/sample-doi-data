@@ -1,0 +1,87 @@
+<http://dx.doi.org/10.1107/s0907444904002963>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1107/s0907444904002963" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "791" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "788" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "60" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/kefang-xie-1lcjsc47p21h4> , <http://id.crossref.org/contributor/shuh-chyung-song-1lcjsc47p21h4> , <http://id.crossref.org/contributor/joseph-e-wedekind-1lcjsc47p21h4> , <http://id.crossref.org/contributor/steven-l-spitalnik-1lcjsc47p21h4> , <http://id.crossref.org/contributor/marcin-czerwinski-1lcjsc47p21h4> ;
+      <http://purl.org/dc/terms/date>
+              "2004-03-23"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1107/s0907444904002963" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0907-4449> ;
+      <http://purl.org/dc/terms/publisher>
+              "International Union of Crystallography (IUCr)" ;
+      <http://purl.org/dc/terms/title>
+              "Purification, crystallization and X-ray diffraction analysis of a recombinant Fab that recognizes a human blood-group antigen" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1107/s0907444904002963" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "791" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "788" ;
+      <http://purl.org/ontology/bibo/volume>
+              "60" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1107/s0907444904002963> , <doi:10.1107/s0907444904002963> .
+
+<http://id.crossref.org/contributor/kefang-xie-1lcjsc47p21h4>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Xie" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Kefang" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Kefang Xie" .
+
+<http://id.crossref.org/contributor/shuh-chyung-song-1lcjsc47p21h4>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Song" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Shuh-Chyung" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Shuh-Chyung Song" .
+
+<http://id.crossref.org/issn/0907-4449>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0907-4449" ;
+      <http://purl.org/dc/terms/title>
+              "Acta Crystallographica Section D Biological Crystallography" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0907-4449" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0907-4449" .
+
+<http://id.crossref.org/contributor/steven-l-spitalnik-1lcjsc47p21h4>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Spitalnik" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Steven L." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Steven L. Spitalnik" .
+
+<http://id.crossref.org/contributor/joseph-e-wedekind-1lcjsc47p21h4>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Wedekind" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Joseph E." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Joseph E. Wedekind" .
+
+<http://id.crossref.org/contributor/marcin-czerwinski-1lcjsc47p21h4>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Czerwinski" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Marcin" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Marcin Czerwinski" .

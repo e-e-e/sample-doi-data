@@ -1,0 +1,52 @@
+<http://id.crossref.org/contributor/pramesh-chand-3oap0vwg9meyv>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Chand" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Pramesh" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Pramesh Chand" .
+
+<http://dx.doi.org/10.5019/j.ijcir.2008.143>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.5019/j.ijcir.2008.143" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "4" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/pramesh-chand-3oap0vwg9meyv> , <http://id.crossref.org/contributor/ly-fie-sugianto-3oap0vwg9meyv> ;
+      <http://purl.org/dc/terms/date>
+              "2008"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.5019/j.ijcir.2008.143" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0974-1259> ;
+      <http://purl.org/dc/terms/publisher>
+              "Soft Computing and Intelligent Information Systems" ;
+      <http://purl.org/dc/terms/title>
+              "Horizon-Scan: In search for consistent outcomes" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.5019/j.ijcir.2008.143" ;
+      <http://purl.org/ontology/bibo/volume>
+              "4" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.5019/j.ijcir.2008.143> , <info:doi/10.5019/j.ijcir.2008.143> .
+
+<http://id.crossref.org/contributor/ly-fie-sugianto-3oap0vwg9meyv>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Sugianto" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Ly Fie" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Ly Fie Sugianto" .
+
+<http://id.crossref.org/issn/0974-1259>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0974-1259" ;
+      <http://purl.org/dc/terms/title>
+              "International Journal of Computational Intelligence Research" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0974-1259" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0974-1259" .

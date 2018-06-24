@@ -1,0 +1,60 @@
+<http://dx.doi.org/10.1016/0304-3800(82)90007-2>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/0304-3800(82)90007-2" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "189" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "173" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "16" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/d-o-logofet-2z3bmq9lwpaq9> , <http://id.crossref.org/contributor/n-b-ulianov-2z3bmq9lwpaq9> ;
+      <http://purl.org/dc/terms/date>
+              "1982-08"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/0304-3800(82)90007-2" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0304-3800> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Sign stability in model ecosystems: A complete class of sign-stable patterns" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/0304-3800(82)90007-2" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "189" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "173" ;
+      <http://purl.org/ontology/bibo/volume>
+              "16" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1016/0304-3800(82)90007-2> , <doi:10.1016/0304-3800(82)90007-2> .
+
+<http://id.crossref.org/contributor/d-o-logofet-2z3bmq9lwpaq9>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Logofet" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "D.O." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "D.O. Logofet" .
+
+<http://id.crossref.org/contributor/n-b-ulianov-2z3bmq9lwpaq9>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Ulianov" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "N.B." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "N.B. Ulianov" .
+
+<http://id.crossref.org/issn/0304-3800>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0304-3800" ;
+      <http://purl.org/dc/terms/title>
+              "Ecological Modelling" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0304-3800" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0304-3800" .

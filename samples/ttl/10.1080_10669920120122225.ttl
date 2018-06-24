@@ -1,0 +1,51 @@
+<http://id.crossref.org/issn/1066-9922>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1066-9922" ;
+      <http://purl.org/dc/terms/title>
+              "Critique: Critical Middle Eastern Studies" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1066-9922" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1066-9922" .
+
+<http://id.crossref.org/contributor/zuhtu-arslan-11r8tszgud8sh>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Arslan" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Zühtü" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Zühtü Arslan" .
+
+<http://dx.doi.org/10.1080/10669920120122225>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1080/10669920120122225" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "25" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "9" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "11" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/zuhtu-arslan-11r8tszgud8sh> ;
+      <http://purl.org/dc/terms/date>
+              "2002-03"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1080/10669920120122225" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1066-9922> ;
+      <http://purl.org/dc/terms/publisher>
+              "Informa UK Limited" ;
+      <http://purl.org/dc/terms/title>
+              "Conflicting Paradigms: Political Rights in the Turkish Constitutional Court" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1080/10669920120122225" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "25" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "9" ;
+      <http://purl.org/ontology/bibo/volume>
+              "11" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1080/10669920120122225> , <info:doi/10.1080/10669920120122225> .

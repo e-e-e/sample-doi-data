@@ -1,0 +1,47 @@
+<http://dx.doi.org/10.1097/00008483-198610200-00038>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1097/00008483-198610200-00038" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "436" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "6" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/t-nash-david-2pxai414vd2zs> ;
+      <http://purl.org/dc/terms/date>
+              "1986-10"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1097/00008483-198610200-00038" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0883-9212> ;
+      <http://purl.org/dc/terms/publisher>
+              "Ovid Technologies (Wolters Kluwer Health)" ;
+      <http://purl.org/dc/terms/title>
+              "A COMPARISON OF THE LONG-TERM EFFECTS OF HYDROCHLOROTHIAZIDE, PROPRANOLOL, AND ATENOLOL ON CARBOHYDRATE AND LIPID METABOLISM" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1097/00008483-198610200-00038" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "436" ;
+      <http://purl.org/ontology/bibo/volume>
+              "6" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1097/00008483-198610200-00038> , <info:doi/10.1097/00008483-198610200-00038> .
+
+<http://id.crossref.org/contributor/t-nash-david-2pxai414vd2zs>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "David" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "T. Nash" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "T. Nash David" .
+
+<http://id.crossref.org/issn/0883-9212>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0883-9212" ;
+      <http://purl.org/dc/terms/title>
+              "Journal of Cardiopulmonary Rehabilitation" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0883-9212" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0883-9212" .

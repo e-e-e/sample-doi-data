@@ -1,0 +1,105 @@
+<http://id.crossref.org/contributor/j-perkowski-o4eebaxs4eem>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Perkowski" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "J." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "J. Perkowski" .
+
+<http://id.crossref.org/contributor/j-andrzejewski-o4eebaxs4eem>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Andrzejewski" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "J." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "J. Andrzejewski" .
+
+<http://id.crossref.org/contributor/w-h-trzaska-o4eebaxs4eem>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Trzaska" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "W.H." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "W.H. Trzaska" .
+
+<http://id.crossref.org/contributor/t-malkiewicz-o4eebaxs4eem>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Malkiewicz" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "T." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "T. Malkiewicz" .
+
+<http://id.crossref.org/contributor/a-virtanen-o4eebaxs4eem>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Virtanen" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "A. Virtanen" .
+
+<http://id.crossref.org/contributor/k-sobczak-o4eebaxs4eem>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Sobczak" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "K." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "K. Sobczak" .
+
+<http://id.crossref.org/issn/0042-207X>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0042-207X" ;
+      <http://purl.org/dc/terms/title>
+              "Vacuum" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0042-207X" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0042-207X" .
+
+<http://dx.doi.org/10.1016/j.vacuum.2009.01.025>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/j.vacuum.2009.01.025" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "S76" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "S73" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "83" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/j-perkowski-o4eebaxs4eem> , <http://id.crossref.org/contributor/j-andrzejewski-o4eebaxs4eem> , <http://id.crossref.org/contributor/w-h-trzaska-o4eebaxs4eem> , <http://id.crossref.org/contributor/t-malkiewicz-o4eebaxs4eem> , <http://id.crossref.org/contributor/a-virtanen-o4eebaxs4eem> , <http://id.crossref.org/contributor/k-sobczak-o4eebaxs4eem> , <http://id.crossref.org/contributor/a-javanainen-o4eebaxs4eem> ;
+      <http://purl.org/dc/terms/date>
+              "2009-05"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/j.vacuum.2009.01.025" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0042-207X> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "The first experimental values for the stopping power of 89Y ions in carbon, nickel and gold" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/j.vacuum.2009.01.025" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "S76" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "S73" ;
+      <http://purl.org/ontology/bibo/volume>
+              "83" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1016/j.vacuum.2009.01.025> , <doi:10.1016/j.vacuum.2009.01.025> .
+
+<http://id.crossref.org/contributor/a-javanainen-o4eebaxs4eem>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Javanainen" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "A. Javanainen" .

@@ -1,0 +1,60 @@
+<http://id.crossref.org/contributor/kamal-k-bharadwaj-3ndilx131mcwa>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Bharadwaj" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Kamal K." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Kamal K. Bharadwaj" .
+
+<http://id.crossref.org/issn/1567-4223>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1567-4223" ;
+      <http://purl.org/dc/terms/title>
+              "Electronic Commerce Research and Applications" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1567-4223" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1567-4223" .
+
+<http://id.crossref.org/contributor/mohammad-yahya-h-al-shamri-3ndilx131mcwa>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Al-Shamri" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Mohammad Yahya H." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Mohammad Yahya H. Al-Shamri" .
+
+<http://dx.doi.org/10.1016/j.elerap.2008.08.001>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/j.elerap.2008.08.001" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "47" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "37" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "8" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/kamal-k-bharadwaj-3ndilx131mcwa> , <http://id.crossref.org/contributor/mohammad-yahya-h-al-shamri-3ndilx131mcwa> ;
+      <http://purl.org/dc/terms/date>
+              "2009-01"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/j.elerap.2008.08.001" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1567-4223> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Fuzzy computational models for trust and reputation systems" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/j.elerap.2008.08.001" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "47" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "37" ;
+      <http://purl.org/ontology/bibo/volume>
+              "8" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1016/j.elerap.2008.08.001> , <info:doi/10.1016/j.elerap.2008.08.001> .

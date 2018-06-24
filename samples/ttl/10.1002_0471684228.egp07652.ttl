@@ -1,0 +1,22 @@
+<http://id.crossref.org/isbn/0471684228>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Encyclopedic Dictionary of Genetics, Genomics and Proteomics" .
+
+<http://dx.doi.org/10.1002/0471684228.egp07652>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1002/0471684228.egp07652" ;
+      <http://purl.org/dc/terms/date>
+              "2004-07-15"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1002/0471684228.egp07652" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/0471684228> ;
+      <http://purl.org/dc/terms/publisher>
+              "John Wiley & Sons, Inc." ;
+      <http://purl.org/dc/terms/title>
+              "Methyltetrahydrofolate Cyclohydrolase Deficiency" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1002/0471684228.egp07652" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1002/0471684228.egp07652> , <doi:10.1002/0471684228.egp07652> .

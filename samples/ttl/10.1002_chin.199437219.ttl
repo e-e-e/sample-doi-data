@@ -1,0 +1,60 @@
+<http://dx.doi.org/10.1002/chin.199437219>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1002/chin.199437219" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "no" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "no" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "25" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/b-koehler-1l36mo6wdu6b> , <http://id.crossref.org/contributor/f-w-lichtenthaler-1l36mo6wdu6b> ;
+      <http://purl.org/dc/terms/date>
+              "2010-08-19"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1002/chin.199437219" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0931-7597> ;
+      <http://purl.org/dc/terms/publisher>
+              "Wiley" ;
+      <http://purl.org/dc/terms/title>
+              "ChemInform Abstract: An Expedient Route to Acylated Glucosyl Halides with a Free 2-OH Group." ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1002/chin.199437219" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "no" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "no" ;
+      <http://purl.org/ontology/bibo/volume>
+              "25" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1002/chin.199437219> , <info:doi/10.1002/chin.199437219> .
+
+<http://id.crossref.org/issn/0931-7597>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0931-7597" ;
+      <http://purl.org/dc/terms/title>
+              "ChemInform" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0931-7597" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0931-7597" .
+
+<http://id.crossref.org/contributor/b-koehler-1l36mo6wdu6b>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "KOEHLER" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "B." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "B. KOEHLER" .
+
+<http://id.crossref.org/contributor/f-w-lichtenthaler-1l36mo6wdu6b>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "LICHTENTHALER" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "F. W." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "F. W. LICHTENTHALER" .

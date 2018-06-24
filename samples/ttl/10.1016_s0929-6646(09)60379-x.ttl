@@ -1,0 +1,51 @@
+<http://id.crossref.org/issn/0929-6646>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0929-6646" ;
+      <http://purl.org/dc/terms/title>
+              "Journal of the Formosan Medical Association" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0929-6646" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0929-6646" .
+
+<http://dx.doi.org/10.1016/s0929-6646(09)60379-x>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/s0929-6646(09)60379-x" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "598" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "595" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "108" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/huan-yao-lei-2skswjtfad7mz> ;
+      <http://purl.org/dc/terms/date>
+              "2009-08"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/s0929-6646(09)60379-x" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0929-6646> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Transient Hemophagocytic Activity in Dengue Immunopathogenesis" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/s0929-6646(09)60379-x" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "598" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "595" ;
+      <http://purl.org/ontology/bibo/volume>
+              "108" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1016/s0929-6646(09)60379-x> , <doi:10.1016/s0929-6646(09)60379-x> .
+
+<http://id.crossref.org/contributor/huan-yao-lei-2skswjtfad7mz>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Lei" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Huan-Yao" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Huan-Yao Lei" .

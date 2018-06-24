@@ -1,0 +1,87 @@
+<http://id.crossref.org/contributor/maurice-m-best-1nzh8ypf9q8i>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Best" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Maurice M." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Maurice M. Best" .
+
+<http://id.crossref.org/contributor/edsel-s-reed-1nzh8ypf9q8i>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Reed" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Edsel S." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Edsel S. Reed" .
+
+<http://id.crossref.org/contributor/walter-s-coe-1nzh8ypf9q8i>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Coe" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Walter S." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Walter S. Coe" .
+
+<http://dx.doi.org/10.1097/00000441-195003000-00005>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1097/00000441-195003000-00005" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "280" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "276" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "219" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/edsel-s-reed-1nzh8ypf9q8i> , <http://id.crossref.org/contributor/maurice-m-best-1nzh8ypf9q8i> , <http://id.crossref.org/contributor/walter-s-coe-1nzh8ypf9q8i> , <http://id.crossref.org/contributor/john-walker-moore-1nzh8ypf9q8i> , <http://id.crossref.org/contributor/herbert-l-clay-1nzh8ypf9q8i> ;
+      <http://purl.org/dc/terms/date>
+              "1950-03"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1097/00000441-195003000-00005" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0002-9629> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "IRRADIATION OF THE PITUITARY GLAND IN HYPERTENSIVE VASCULAR DISEASE" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1097/00000441-195003000-00005" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "280" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "276" ;
+      <http://purl.org/ontology/bibo/volume>
+              "219" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1097/00000441-195003000-00005> , <info:doi/10.1097/00000441-195003000-00005> .
+
+<http://id.crossref.org/contributor/john-walker-moore-1nzh8ypf9q8i>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Moore" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "John Walker" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "John Walker Moore" .
+
+<http://id.crossref.org/issn/0002-9629>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0002-9629" ;
+      <http://purl.org/dc/terms/title>
+              "The American Journal of the Medical Sciences" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0002-9629" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0002-9629" .
+
+<http://id.crossref.org/contributor/herbert-l-clay-1nzh8ypf9q8i>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Clay" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Herbert L." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Herbert L. Clay" .

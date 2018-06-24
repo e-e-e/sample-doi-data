@@ -1,0 +1,60 @@
+<http://id.crossref.org/contributor/f-garcia-novo-1bltqoxw1i8ij>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "GARCIA-NOVO" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "F." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "F. GARCIA-NOVO" .
+
+<http://id.crossref.org/issn/0028-646X>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1469-8137" , "0028-646X" ;
+      <http://purl.org/dc/terms/title>
+              "New Phytologist" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1469-8137" , "0028-646X" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1469-8137" , "urn:issn:0028-646X" .
+
+<http://dx.doi.org/10.1111/j.1469-8137.1973.tb02079.x>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1111/j.1469-8137.1973.tb02079.x" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "1039" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "1031" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "72" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/f-garcia-novo-1bltqoxw1i8ij> , <http://id.crossref.org/contributor/r-m-m-crawford-1bltqoxw1i8ij> ;
+      <http://purl.org/dc/terms/date>
+              "1973-09"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1111/j.1469-8137.1973.tb02079.x" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0028-646X> ;
+      <http://purl.org/dc/terms/publisher>
+              "Wiley" ;
+      <http://purl.org/dc/terms/title>
+              "SOIL AERATION, NITRATE REDUCTION AND FLOODING TOLERANCE IN HIGHER PLANTS" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1111/j.1469-8137.1973.tb02079.x" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "1039" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "1031" ;
+      <http://purl.org/ontology/bibo/volume>
+              "72" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1111/j.1469-8137.1973.tb02079.x> , <info:doi/10.1111/j.1469-8137.1973.tb02079.x> .
+
+<http://id.crossref.org/contributor/r-m-m-crawford-1bltqoxw1i8ij>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "CRAWFORD" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "R. M. M." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "R. M. M. CRAWFORD" .

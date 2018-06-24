@@ -1,0 +1,40 @@
+<http://dx.doi.org/10.1002/etep.4450020211>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1002/etep.4450020211" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "131" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "127" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "2" ;
+      <http://purl.org/dc/terms/date>
+              "2007-09-06"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1002/etep.4450020211" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1430-144X> ;
+      <http://purl.org/dc/terms/publisher>
+              "Wiley" ;
+      <http://purl.org/dc/terms/title>
+              "Guidelines for ETEP-authors" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1002/etep.4450020211" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "131" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "127" ;
+      <http://purl.org/ontology/bibo/volume>
+              "2" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1002/etep.4450020211> , <doi:10.1002/etep.4450020211> .
+
+<http://id.crossref.org/issn/1430-144X>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1546-3109" , "1430-144X" ;
+      <http://purl.org/dc/terms/title>
+              "European Transactions on Electrical Power" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1546-3109" , "1430-144X" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1546-3109" , "urn:issn:1430-144X" .

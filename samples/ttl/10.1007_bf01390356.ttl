@@ -1,0 +1,60 @@
+<http://id.crossref.org/contributor/caryn-l-beck-dudley-3hmg5lywxz6cz>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Beck-Dudley" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Caryn L." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Caryn L. Beck-Dudley" .
+
+<http://id.crossref.org/contributor/glenn-m-mcevoy-3hmg5lywxz6cz>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "McEvoy" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Glenn M." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Glenn M. McEvoy" .
+
+<http://id.crossref.org/issn/0892-7545>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0892-7545" , "1573-3378" ;
+      <http://purl.org/dc/terms/title>
+              "Employee Responsibilities and Rights Journal" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0892-7545" , "1573-3378" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0892-7545" , "urn:issn:1573-3378" .
+
+<http://dx.doi.org/10.1007/bf01390356>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1007/bf01390356" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "163" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "149" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "4" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/glenn-m-mcevoy-3hmg5lywxz6cz> , <http://id.crossref.org/contributor/caryn-l-beck-dudley-3hmg5lywxz6cz> ;
+      <http://purl.org/dc/terms/date>
+              "1991-06"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1007/bf01390356" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0892-7545> ;
+      <http://purl.org/dc/terms/publisher>
+              "Springer Nature" ;
+      <http://purl.org/dc/terms/title>
+              "Performance appraisals and discrimination suits: Do courts pay attention to validity?" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1007/bf01390356" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "163" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "149" ;
+      <http://purl.org/ontology/bibo/volume>
+              "4" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1007/bf01390356> , <info:doi/10.1007/bf01390356> .

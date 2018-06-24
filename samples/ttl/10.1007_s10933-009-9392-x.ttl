@@ -1,0 +1,60 @@
+<http://id.crossref.org/contributor/b-odwyer-3n8tutfl9attz>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "O’Dwyer" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "B." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "B. O’Dwyer" .
+
+<http://id.crossref.org/contributor/d-taylor-3n8tutfl9attz>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Taylor" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "D." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "D. Taylor" .
+
+<http://dx.doi.org/10.1007/s10933-009-9392-x>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1007/s10933-009-9392-x" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "142" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "123" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "44" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/b-odwyer-3n8tutfl9attz> , <http://id.crossref.org/contributor/d-taylor-3n8tutfl9attz> ;
+      <http://purl.org/dc/terms/date>
+              "2009-10-27"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1007/s10933-009-9392-x" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0921-2728> ;
+      <http://purl.org/dc/terms/publisher>
+              "Springer Nature" ;
+      <http://purl.org/dc/terms/title>
+              "Variations in levels of deposition of atmosphere-borne industrial pollutants at three oligotrophic lakes in Ireland over the last 50–150 years: sediment-based archives of sources, levels and ecological sensitivity" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1007/s10933-009-9392-x" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "142" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "123" ;
+      <http://purl.org/ontology/bibo/volume>
+              "44" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1007/s10933-009-9392-x> , <info:doi/10.1007/s10933-009-9392-x> .
+
+<http://id.crossref.org/issn/0921-2728>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0921-2728" , "1573-0417" ;
+      <http://purl.org/dc/terms/title>
+              "Journal of Paleolimnology" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0921-2728" , "1573-0417" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1573-0417" , "urn:issn:0921-2728" .

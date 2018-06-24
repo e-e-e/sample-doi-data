@@ -1,0 +1,69 @@
+<http://id.crossref.org/contributor/s-lescaux-33z041toxvpb8>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Lescaux" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "S." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "S. Lescaux" .
+
+<http://id.crossref.org/contributor/o-fouassier-33z041toxvpb8>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Fouassier" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "O." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "O. Fouassier" .
+
+<http://id.crossref.org/contributor/j-f-silvain-33z041toxvpb8>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Silvain" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "J. F." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "J. F. Silvain" .
+
+<http://dx.doi.org/10.1063/1.1787625>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1063/1.1787625" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "4951" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "4945" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "96" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/s-lescaux-33z041toxvpb8> , <http://id.crossref.org/contributor/j-f-silvain-33z041toxvpb8> , <http://id.crossref.org/contributor/o-fouassier-33z041toxvpb8> ;
+      <http://purl.org/dc/terms/date>
+              "2004-11"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1063/1.1787625" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0021-8979> ;
+      <http://purl.org/dc/terms/publisher>
+              "AIP Publishing" ;
+      <http://purl.org/dc/terms/title>
+              "Atomic force microscopy and x-ray photoelectron spectroscopy investigations of the morphology and chemistry of a PdCl2∕SnCl2 electroless plating catalysis system adsorbed onto shape memory alloy particles" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1063/1.1787625" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "4951" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "4945" ;
+      <http://purl.org/ontology/bibo/volume>
+              "96" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1063/1.1787625> , <info:doi/10.1063/1.1787625> .
+
+<http://id.crossref.org/issn/0021-8979>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1089-7550" , "0021-8979" ;
+      <http://purl.org/dc/terms/title>
+              "Journal of Applied Physics" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1089-7550" , "0021-8979" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1089-7550" , "urn:issn:0021-8979" .

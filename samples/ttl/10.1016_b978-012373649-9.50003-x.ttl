@@ -1,0 +1,50 @@
+<http://id.crossref.org/contributor/kevin-staley-1bkp7smkrp5rv>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Staley" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Kevin" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Kevin Staley" .
+
+<http://id.crossref.org/contributor/ivan-soltesz-1bkp7smkrp5rv>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Soltesz" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Ivan" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Ivan Soltesz" .
+
+<http://dx.doi.org/10.1016/b978-012373649-9.50003-x>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/b978-012373649-9.50003-x" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "xix" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "xv" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/kevin-staley-1bkp7smkrp5rv> , <http://id.crossref.org/contributor/ivan-soltesz-1bkp7smkrp5rv> ;
+      <http://purl.org/dc/terms/date>
+              "2008"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/b978-012373649-9.50003-x" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9780123736499> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier" ;
+      <http://purl.org/dc/terms/title>
+              "Introduction" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/b978-012373649-9.50003-x" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "xix" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "xv" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1016/b978-012373649-9.50003-x> , <info:doi/10.1016/b978-012373649-9.50003-x> .
+
+<http://id.crossref.org/isbn/9780123736499>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Computational Neuroscience in Epilepsy" .

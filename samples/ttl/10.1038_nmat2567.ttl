@@ -1,0 +1,132 @@
+<http://id.crossref.org/contributor/steven-l-suib-1yuzokkrbyvj0>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Suib" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Steven L." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Steven L. Suib" .
+
+<http://dx.doi.org/10.1038/nmat2567>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1038/nmat2567" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "59" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "54" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "9" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/steven-l-suib-1yuzokkrbyvj0> , <http://id.crossref.org/contributor/yuefeng-nie-1yuzokkrbyvj0> , <http://id.crossref.org/contributor/raymond-joesten-1yuzokkrbyvj0> , <http://id.crossref.org/contributor/aimee-morey-1yuzokkrbyvj0> , <http://id.crossref.org/contributor/chun-hu-chen-1yuzokkrbyvj0> , <http://id.crossref.org/contributor/mark-aindow-1yuzokkrbyvj0> , <http://id.crossref.org/contributor/anais-e-espinal-1yuzokkrbyvj0> , <http://id.crossref.org/contributor/laura-espinal-1yuzokkrbyvj0> , <http://id.crossref.org/contributor/lichun-zhang-1yuzokkrbyvj0> , <http://id.crossref.org/contributor/barrett-o-wells-1yuzokkrbyvj0> ;
+      <http://purl.org/dc/terms/date>
+              "2009-11-01"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1038/nmat2567" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1476-1122> ;
+      <http://purl.org/dc/terms/publisher>
+              "Springer Nature" ;
+      <http://purl.org/dc/terms/title>
+              "Nanostructured arrays of semiconducting octahedral molecular sieves by pulsed-laser deposition" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1038/nmat2567" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "59" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "54" ;
+      <http://purl.org/ontology/bibo/volume>
+              "9" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1038/nmat2567> , <info:doi/10.1038/nmat2567> .
+
+<http://id.crossref.org/contributor/yuefeng-nie-1yuzokkrbyvj0>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Nie" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Yuefeng" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Yuefeng Nie" .
+
+<http://id.crossref.org/contributor/raymond-joesten-1yuzokkrbyvj0>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Joesten" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Raymond" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Raymond Joesten" .
+
+<http://id.crossref.org/contributor/aimee-morey-1yuzokkrbyvj0>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Morey" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Aimee" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Aimee Morey" .
+
+<http://id.crossref.org/contributor/chun-hu-chen-1yuzokkrbyvj0>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Chen" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Chun-Hu" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Chun-Hu Chen" .
+
+<http://id.crossref.org/contributor/mark-aindow-1yuzokkrbyvj0>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Aindow" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Mark" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Mark Aindow" .
+
+<http://id.crossref.org/contributor/anais-e-espinal-1yuzokkrbyvj0>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Espinal" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Anais E." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Anais E. Espinal" .
+
+<http://id.crossref.org/contributor/laura-espinal-1yuzokkrbyvj0>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Espinal" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Laura" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Laura Espinal" .
+
+<http://id.crossref.org/contributor/lichun-zhang-1yuzokkrbyvj0>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Zhang" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Lichun" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Lichun Zhang" .
+
+<http://id.crossref.org/contributor/barrett-o-wells-1yuzokkrbyvj0>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Wells" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Barrett O." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Barrett O. Wells" .
+
+<http://id.crossref.org/issn/1476-1122>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1476-1122" , "1476-4660" ;
+      <http://purl.org/dc/terms/title>
+              "Nature Materials" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1476-1122" , "1476-4660" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1476-4660" , "urn:issn:1476-1122" .

@@ -1,0 +1,51 @@
+<http://dx.doi.org/10.1007/bf00437137>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1007/bf00437137" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "46" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "35" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "78" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/georg-holfelder-2xttom7qntlwm> ;
+      <http://purl.org/dc/terms/date>
+              "1956"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1007/bf00437137" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0340-6199> ;
+      <http://purl.org/dc/terms/publisher>
+              "Springer Nature" ;
+      <http://purl.org/dc/terms/title>
+              "K�rpergewichte von S�uglingen einer Gro�stadt" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1007/bf00437137" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "46" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "35" ;
+      <http://purl.org/ontology/bibo/volume>
+              "78" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1007/bf00437137> , <info:doi/10.1007/bf00437137> .
+
+<http://id.crossref.org/issn/0340-6199>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1432-1076" , "0340-6199" ;
+      <http://purl.org/dc/terms/title>
+              "Zeitschrift f�r Kinderheilkunde" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1432-1076" , "0340-6199" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0340-6199" , "urn:issn:1432-1076" .
+
+<http://id.crossref.org/contributor/georg-holfelder-2xttom7qntlwm>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Holfelder" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Georg" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Georg Holfelder" .

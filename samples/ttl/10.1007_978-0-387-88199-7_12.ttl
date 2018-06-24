@@ -1,0 +1,50 @@
+<http://id.crossref.org/contributor/jukka-gronow-ro1hyjeljeff>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Gronow" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Jukka" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Jukka Gronow" .
+
+<http://id.crossref.org/isbn/9780387881980>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Handbook of European Societies" .
+
+<http://id.crossref.org/contributor/dale-southerton-ro1hyjeljeff>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Southerton" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Dale" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Dale Southerton" .
+
+<http://dx.doi.org/10.1007/978-0-387-88199-7_12>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1007/978-0-387-88199-7_12" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "384" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "355" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/jukka-gronow-ro1hyjeljeff> , <http://id.crossref.org/contributor/dale-southerton-ro1hyjeljeff> ;
+      <http://purl.org/dc/terms/date>
+              "2009-11-16"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1007/978-0-387-88199-7_12" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9780387881980> ;
+      <http://purl.org/dc/terms/publisher>
+              "Springer New York" ;
+      <http://purl.org/dc/terms/title>
+              "Leisure and Consumption in Europe" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1007/978-0-387-88199-7_12" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "384" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "355" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1007/978-0-387-88199-7_12> , <doi:10.1007/978-0-387-88199-7_12> .

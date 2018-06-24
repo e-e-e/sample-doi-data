@@ -1,0 +1,51 @@
+<http://id.crossref.org/contributor/peter-kesting-nxqyo96imp5m>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kesting" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Peter" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Peter Kesting" .
+
+<http://dx.doi.org/10.1080/00036840701720796>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1080/00036840701720796" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "738" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "727" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "42" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/peter-kesting-nxqyo96imp5m> ;
+      <http://purl.org/dc/terms/date>
+              "2010-03"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1080/00036840701720796" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0003-6846> ;
+      <http://purl.org/dc/terms/publisher>
+              "Informa UK Limited" ;
+      <http://purl.org/dc/terms/title>
+              "Why it is possible that wages and pensions can increase simultaneously in an ageing and stagnating % A theoretical investigation and a simulation of the German case" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1080/00036840701720796" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "738" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "727" ;
+      <http://purl.org/ontology/bibo/volume>
+              "42" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1080/00036840701720796> , <doi:10.1080/00036840701720796> .
+
+<http://id.crossref.org/issn/0003-6846>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1466-4283" , "0003-6846" ;
+      <http://purl.org/dc/terms/title>
+              "Applied Economics" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1466-4283" , "0003-6846" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0003-6846" , "urn:issn:1466-4283" .

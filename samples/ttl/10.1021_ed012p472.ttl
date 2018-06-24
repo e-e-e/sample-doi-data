@@ -1,0 +1,47 @@
+<http://id.crossref.org/issn/0021-9584>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1938-1328" , "0021-9584" ;
+      <http://purl.org/dc/terms/title>
+              "Journal of Chemical Education" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1938-1328" , "0021-9584" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0021-9584" , "urn:issn:1938-1328" .
+
+<http://dx.doi.org/10.1021/ed012p472>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1021/ed012p472" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "472" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "12" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/oden-e-sheppard-1ixcrg66awu26> ;
+      <http://purl.org/dc/terms/date>
+              "1935-10"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1021/ed012p472" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0021-9584> ;
+      <http://purl.org/dc/terms/publisher>
+              "American Chemical Society (ACS)" ;
+      <http://purl.org/dc/terms/title>
+              "The chemistry student still needs a reading knowledge of German" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1021/ed012p472" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "472" ;
+      <http://purl.org/ontology/bibo/volume>
+              "12" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1021/ed012p472> , <doi:10.1021/ed012p472> .
+
+<http://id.crossref.org/contributor/oden-e-sheppard-1ixcrg66awu26>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Sheppard" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Oden E." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Oden E. Sheppard" .

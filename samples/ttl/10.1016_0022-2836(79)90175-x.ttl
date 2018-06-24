@@ -1,0 +1,78 @@
+<http://dx.doi.org/10.1016/0022-2836(79)90175-x>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/0022-2836(79)90175-x" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "756" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "753" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "135" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/paul-j-stankiewicz-1r15lsn7jasim> , <http://id.crossref.org/contributor/stephanie-campbell-smith-1r15lsn7jasim> , <http://id.crossref.org/contributor/paula-m-d-fitzgerald-1r15lsn7jasim> , <http://id.crossref.org/contributor/alexander-mcpherson-1r15lsn7jasim> ;
+      <http://purl.org/dc/terms/date>
+              "1979-12"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/0022-2836(79)90175-x" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0022-2836> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Internal dihedral symmetry of α-amylase and α-mannosidase" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/0022-2836(79)90175-x" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "756" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "753" ;
+      <http://purl.org/ontology/bibo/volume>
+              "135" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1016/0022-2836(79)90175-x> , <info:doi/10.1016/0022-2836(79)90175-x> .
+
+<http://id.crossref.org/issn/0022-2836>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0022-2836" ;
+      <http://purl.org/dc/terms/title>
+              "Journal of Molecular Biology" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0022-2836" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0022-2836" .
+
+<http://id.crossref.org/contributor/paul-j-stankiewicz-1r15lsn7jasim>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Stankiewicz" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Paul J." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Paul J. Stankiewicz" .
+
+<http://id.crossref.org/contributor/stephanie-campbell-smith-1r15lsn7jasim>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Smith" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Stephanie Campbell" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Stephanie Campbell Smith" .
+
+<http://id.crossref.org/contributor/paula-m-d-fitzgerald-1r15lsn7jasim>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Fitzgerald" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Paula M.D." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Paula M.D. Fitzgerald" .
+
+<http://id.crossref.org/contributor/alexander-mcpherson-1r15lsn7jasim>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "McPherson" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Alexander" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Alexander McPherson" .

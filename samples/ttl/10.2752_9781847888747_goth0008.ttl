@@ -1,0 +1,44 @@
+<http://dx.doi.org/10.2752/9781847888747/goth0008>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.2752/9781847888747/goth0008" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/paul-hodkinson-2pdgs3u1tx4r3> ;
+      <http://purl.org/dc/terms/date>
+              ""^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.2752/9781847888747/goth0008" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1360-466X> , <http://id.crossref.org/isbn/9781847888747> ;
+      <http://purl.org/dc/terms/publisher>
+              "Berg Publishers" ;
+      <http://purl.org/dc/terms/title>
+              "5 Events, Friendships and Commitment" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.2752/9781847888747/goth0008" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.2752/9781847888747/goth0008> , <doi:10.2752/9781847888747/goth0008> .
+
+<http://id.crossref.org/issn/1360-466X>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1360-466X" ;
+      <http://purl.org/dc/terms/title>
+              "Dress, Body, Culture" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1360-466X" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1360-466X" .
+
+<http://id.crossref.org/contributor/paul-hodkinson-2pdgs3u1tx4r3>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Hodkinson" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Paul" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Paul Hodkinson" .
+
+<http://id.crossref.org/isbn/9781847888747>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Dress, Body, Culture" .

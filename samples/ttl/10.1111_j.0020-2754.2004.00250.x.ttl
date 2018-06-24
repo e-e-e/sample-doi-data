@@ -1,0 +1,69 @@
+<http://id.crossref.org/contributor/danny-mackinnon-2ynr3om3qpz6h>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "MacKinnon" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Danny" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Danny MacKinnon" .
+
+<http://id.crossref.org/contributor/keith-chapman-2ynr3om3qpz6h>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Chapman" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Keith" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Keith Chapman" .
+
+<http://id.crossref.org/contributor/andrew-cumbers-2ynr3om3qpz6h>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Cumbers" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Andrew" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Andrew Cumbers" .
+
+<http://dx.doi.org/10.1111/j.0020-2754.2004.00250.x>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1111/j.0020-2754.2004.00250.x" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "396" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "382" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "29" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/danny-mackinnon-2ynr3om3qpz6h> , <http://id.crossref.org/contributor/keith-chapman-2ynr3om3qpz6h> , <http://id.crossref.org/contributor/andrew-cumbers-2ynr3om3qpz6h> ;
+      <http://purl.org/dc/terms/date>
+              "2004-09"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1111/j.0020-2754.2004.00250.x" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0020-2754> ;
+      <http://purl.org/dc/terms/publisher>
+              "Wiley" ;
+      <http://purl.org/dc/terms/title>
+              "Adjustment or renewal in regional clusters? A study of diversification amongst SMEs in the Aberdeen oil complex" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1111/j.0020-2754.2004.00250.x" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "396" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "382" ;
+      <http://purl.org/ontology/bibo/volume>
+              "29" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1111/j.0020-2754.2004.00250.x> , <doi:10.1111/j.0020-2754.2004.00250.x> .
+
+<http://id.crossref.org/issn/0020-2754>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1475-5661" , "0020-2754" ;
+      <http://purl.org/dc/terms/title>
+              "Transactions of the Institute of British Geographers" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1475-5661" , "0020-2754" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1475-5661" , "urn:issn:0020-2754" .

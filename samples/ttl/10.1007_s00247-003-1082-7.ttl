@@ -1,0 +1,60 @@
+<http://id.crossref.org/issn/0301-0449>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0301-0449" , "1432-1998" ;
+      <http://purl.org/dc/terms/title>
+              "Pediatric Radiology" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0301-0449" , "1432-1998" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0301-0449" , "urn:issn:1432-1998" .
+
+<http://dx.doi.org/10.1007/s00247-003-1082-7>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1007/s00247-003-1082-7" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "108" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "97" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "34" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/oscar-navarro-2gh8g7umfag1v> , <http://id.crossref.org/contributor/alan-daneman-2gh8g7umfag1v> ;
+      <http://purl.org/dc/terms/date>
+              "2004-02-01"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1007/s00247-003-1082-7" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0301-0449> ;
+      <http://purl.org/dc/terms/publisher>
+              "Springer Nature" ;
+      <http://purl.org/dc/terms/title>
+              "Intussusception" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1007/s00247-003-1082-7" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "108" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "97" ;
+      <http://purl.org/ontology/bibo/volume>
+              "34" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1007/s00247-003-1082-7> , <info:doi/10.1007/s00247-003-1082-7> .
+
+<http://id.crossref.org/contributor/oscar-navarro-2gh8g7umfag1v>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Navarro" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Oscar" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Oscar Navarro" .
+
+<http://id.crossref.org/contributor/alan-daneman-2gh8g7umfag1v>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Daneman" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Alan" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Alan Daneman" .

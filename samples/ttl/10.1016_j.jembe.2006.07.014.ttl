@@ -1,0 +1,78 @@
+<http://id.crossref.org/contributor/e-a-titlyanov-2brow17nf0eit>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Titlyanov" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "E.A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "E.A. Titlyanov" .
+
+<http://id.crossref.org/contributor/k-luning-2brow17nf0eit>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Lüning" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "K." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "K. Lüning" .
+
+<http://id.crossref.org/issn/0022-0981>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0022-0981" ;
+      <http://purl.org/dc/terms/title>
+              "Journal of Experimental Marine Biology and Ecology" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0022-0981" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0022-0981" .
+
+<http://id.crossref.org/contributor/t-v-titlyanova-2brow17nf0eit>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Titlyanova" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "T.V." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "T.V. Titlyanova" .
+
+<http://id.crossref.org/contributor/p-kadel-2brow17nf0eit>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kadel" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "P." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "P. Kadel" .
+
+<http://dx.doi.org/10.1016/j.jembe.2006.07.014>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/j.jembe.2006.07.014" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "64" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "55" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "339" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/e-a-titlyanov-2brow17nf0eit> , <http://id.crossref.org/contributor/k-luning-2brow17nf0eit> , <http://id.crossref.org/contributor/t-v-titlyanova-2brow17nf0eit> , <http://id.crossref.org/contributor/p-kadel-2brow17nf0eit> ;
+      <http://purl.org/dc/terms/date>
+              "2006-11"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/j.jembe.2006.07.014" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0022-0981> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "New methods of obtaining plantlets and tetraspores from fragments and cell aggregates of meristematic and submeristematic tissue of the red alga Palmaria palmata" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/j.jembe.2006.07.014" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "64" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "55" ;
+      <http://purl.org/ontology/bibo/volume>
+              "339" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1016/j.jembe.2006.07.014> , <info:doi/10.1016/j.jembe.2006.07.014> .

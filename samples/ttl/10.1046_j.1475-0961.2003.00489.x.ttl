@@ -1,0 +1,105 @@
+<http://id.crossref.org/contributor/kari-u-o-tahvanainen-1ro9gkvydd100>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Tahvanainen" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Kari U.O." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Kari U.O. Tahvanainen" .
+
+<http://id.crossref.org/contributor/leslie-j-badra-1ro9gkvydd100>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Badra" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Leslie J." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Leslie J. Badra" .
+
+<http://id.crossref.org/issn/1475-0961>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1475-097X" , "1475-0961" ;
+      <http://purl.org/dc/terms/title>
+              "Clinical Physiology and Functional Imaging" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1475-097X" , "1475-0961" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1475-0961" , "urn:issn:1475-097X" .
+
+<http://id.crossref.org/contributor/william-h-cooke-1ro9gkvydd100>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Cooke" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "William H." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "William H. Cooke" .
+
+<http://id.crossref.org/contributor/tom-a-kuusela-1ro9gkvydd100>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kuusela" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Tom A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Tom A. Kuusela" .
+
+<http://id.crossref.org/contributor/dwain-l-eckberg-1ro9gkvydd100>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Eckberg" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Dwain L." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Dwain L. Eckberg" .
+
+<http://id.crossref.org/contributor/jeffrey-b-hoag-1ro9gkvydd100>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Hoag" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Jeffrey B." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Jeffrey B. Hoag" .
+
+<http://dx.doi.org/10.1046/j.1475-0961.2003.00489.x>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1046/j.1475-0961.2003.00489.x" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "313" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "307" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "23" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/leslie-j-badra-1ro9gkvydd100> , <http://id.crossref.org/contributor/kari-u-o-tahvanainen-1ro9gkvydd100> , <http://id.crossref.org/contributor/william-h-cooke-1ro9gkvydd100> , <http://id.crossref.org/contributor/tom-a-kuusela-1ro9gkvydd100> , <http://id.crossref.org/contributor/dwain-l-eckberg-1ro9gkvydd100> , <http://id.crossref.org/contributor/jeffrey-b-hoag-1ro9gkvydd100> , <http://id.crossref.org/contributor/brian-w-rothlisberger-1ro9gkvydd100> ;
+      <http://purl.org/dc/terms/date>
+              "2003-11"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1046/j.1475-0961.2003.00489.x" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1475-0961> ;
+      <http://purl.org/dc/terms/publisher>
+              "Wiley" ;
+      <http://purl.org/dc/terms/title>
+              "Spontaneous 'baroreflex sequences' occur as deterministic functions of breathing phase" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1046/j.1475-0961.2003.00489.x" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "313" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "307" ;
+      <http://purl.org/ontology/bibo/volume>
+              "23" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1046/j.1475-0961.2003.00489.x> , <doi:10.1046/j.1475-0961.2003.00489.x> .
+
+<http://id.crossref.org/contributor/brian-w-rothlisberger-1ro9gkvydd100>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Rothlisberger" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Brian W." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Brian W. Rothlisberger" .

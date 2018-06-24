@@ -1,0 +1,51 @@
+<http://id.crossref.org/contributor/blase-a-carabello-2ghqhw5lf4qt9>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Carabello" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Blase A" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Blase A Carabello" .
+
+<http://id.crossref.org/issn/0735-1097>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0735-1097" ;
+      <http://purl.org/dc/terms/title>
+              "Journal of the American College of Cardiology" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0735-1097" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0735-1097" .
+
+<http://dx.doi.org/10.1016/s0735-1097(99)00475-1>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/s0735-1097(99)00475-1" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "2087" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "2086" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "34" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/blase-a-carabello-2ghqhw5lf4qt9> ;
+      <http://purl.org/dc/terms/date>
+              "1999-12"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/s0735-1097(99)00475-1" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0735-1097> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Sudden death in mitral regurgitation: why was I so surprised?∗∗Editorials published in the Journal of the American College of Cardiologyreflect the views of the authors and do not necessarily represent the views of JACCor the American College of Cardiology." ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/s0735-1097(99)00475-1" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "2087" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "2086" ;
+      <http://purl.org/ontology/bibo/volume>
+              "34" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1016/s0735-1097(99)00475-1> , <doi:10.1016/s0735-1097(99)00475-1> .

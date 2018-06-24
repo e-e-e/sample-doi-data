@@ -1,0 +1,51 @@
+<http://id.crossref.org/issn/0370-2774>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0370-2774" ;
+      <http://purl.org/dc/terms/title>
+              "Proceedings of the Zoological Society of London" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0370-2774" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0370-2774" .
+
+<http://dx.doi.org/10.1111/j.1096-3642.1884.tb02817.x>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1111/j.1096-3642.1884.tb02817.x" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "187" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "177" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "52" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/j-b-sutton-2whoq5gvbt372> ;
+      <http://purl.org/dc/terms/date>
+              "2009-08-21"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1111/j.1096-3642.1884.tb02817.x" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0370-2774> ;
+      <http://purl.org/dc/terms/publisher>
+              "Wiley" ;
+      <http://purl.org/dc/terms/title>
+              "On the Diseases of the Carnivorous Mammals in the Society's Gardens" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1111/j.1096-3642.1884.tb02817.x" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "187" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "177" ;
+      <http://purl.org/ontology/bibo/volume>
+              "52" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1111/j.1096-3642.1884.tb02817.x> , <info:doi/10.1111/j.1096-3642.1884.tb02817.x> .
+
+<http://id.crossref.org/contributor/j-b-sutton-2whoq5gvbt372>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Sutton" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "J. B." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "J. B. Sutton" .

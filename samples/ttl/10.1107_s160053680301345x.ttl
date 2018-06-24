@@ -1,0 +1,69 @@
+<http://id.crossref.org/contributor/marilyn-m-olmstead-3k22pktg2kaf4>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Olmstead" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Marilyn M." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Marilyn M. Olmstead" .
+
+<http://id.crossref.org/contributor/christina-troeltzsch-3k22pktg2kaf4>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Troeltzsch" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Christina" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Christina Troeltzsch" .
+
+<http://id.crossref.org/issn/1600-5368>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1600-5368" ;
+      <http://purl.org/dc/terms/title>
+              "Acta Crystallographica Section E Structure Reports Online" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1600-5368" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1600-5368" .
+
+<http://id.crossref.org/contributor/timothy-e-patten-3k22pktg2kaf4>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Patten" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Timothy E." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Timothy E. Patten" .
+
+<http://dx.doi.org/10.1107/s160053680301345x>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1107/s160053680301345x" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "m503" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "m502" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "59" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/marilyn-m-olmstead-3k22pktg2kaf4> , <http://id.crossref.org/contributor/christina-troeltzsch-3k22pktg2kaf4> , <http://id.crossref.org/contributor/timothy-e-patten-3k22pktg2kaf4> ;
+      <http://purl.org/dc/terms/date>
+              "2003-06-24"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1107/s160053680301345x" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1600-5368> ;
+      <http://purl.org/dc/terms/publisher>
+              "International Union of Crystallography (IUCr)" ;
+      <http://purl.org/dc/terms/title>
+              "Dichloro{N-(2,6-diisopropylphenyl)-2-[(di-2-pyridylmethyl)amino]ethanamido}iron(II) acetonitrile solvate" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1107/s160053680301345x" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "m503" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "m502" ;
+      <http://purl.org/ontology/bibo/volume>
+              "59" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1107/s160053680301345x> , <doi:10.1107/s160053680301345x> .

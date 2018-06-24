@@ -1,0 +1,51 @@
+<http://id.crossref.org/issn/0027-4321>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0027-4321" , "1945-0087" ;
+      <http://purl.org/dc/terms/title>
+              "Music Educators Journal" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0027-4321" , "1945-0087" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1945-0087" , "urn:issn:0027-4321" .
+
+<http://dx.doi.org/10.2307/3392758>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.2307/3392758" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "83" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "75" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "56" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/irwin-sonenfield-2r93pwgngyfgo> ;
+      <http://purl.org/dc/terms/date>
+              "1970-03"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.2307/3392758" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0027-4321> ;
+      <http://purl.org/dc/terms/publisher>
+              "SAGE Publications" ;
+      <http://purl.org/dc/terms/title>
+              "A Bird's-Eye View of Musical Aesthetics" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.2307/3392758" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "83" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "75" ;
+      <http://purl.org/ontology/bibo/volume>
+              "56" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.2307/3392758> , <doi:10.2307/3392758> .
+
+<http://id.crossref.org/contributor/irwin-sonenfield-2r93pwgngyfgo>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Sonenfield" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Irwin" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Irwin Sonenfield" .

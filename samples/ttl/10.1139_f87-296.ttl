@@ -1,0 +1,69 @@
+<http://id.crossref.org/contributor/m-p-stainton-4uioard17mrd>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Stainton" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "M. P." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "M. P. Stainton" .
+
+<http://id.crossref.org/contributor/d-w-schindler-4uioard17mrd>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Schindler" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "D. W." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "D. W. Schindler" .
+
+<http://id.crossref.org/contributor/g-a-linsey-4uioard17mrd>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Linsey" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "G. A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "G. A. Linsey" .
+
+<http://id.crossref.org/issn/0706-652X>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1205-7533" , "0706-652X" ;
+      <http://purl.org/dc/terms/title>
+              "Canadian Journal of Fisheries and Aquatic Sciences" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1205-7533" , "0706-652X" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0706-652X" , "urn:issn:1205-7533" .
+
+<http://dx.doi.org/10.1139/f87-296>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1139/f87-296" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "s214" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "s206" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "44" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/m-p-stainton-4uioard17mrd> , <http://id.crossref.org/contributor/d-w-schindler-4uioard17mrd> , <http://id.crossref.org/contributor/g-a-linsey-4uioard17mrd> ;
+      <http://purl.org/dc/terms/date>
+              "1987-12-18"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1139/f87-296" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0706-652X> ;
+      <http://purl.org/dc/terms/publisher>
+              "Canadian Science Publishing" ;
+      <http://purl.org/dc/terms/title>
+              "Atmospheric Deposition of Nutrients and Major Ions at the Experimental Lakes Area in Northwestern Ontario, 1970 to 1982" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1139/f87-296" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "s214" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "s206" ;
+      <http://purl.org/ontology/bibo/volume>
+              "44" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1139/f87-296> , <doi:10.1139/f87-296> .

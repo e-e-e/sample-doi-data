@@ -1,0 +1,78 @@
+<http://dx.doi.org/10.1007/s10067-002-0695-9>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1007/s10067-002-0695-9" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "250" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "248" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "22" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/etsuro-ito-3gc55jljcbflb> , <http://id.crossref.org/contributor/koichi-suzuki-3gc55jljcbflb> , <http://id.crossref.org/contributor/hiroshi-tanaka-3gc55jljcbflb> , <http://id.crossref.org/contributor/tohru-nakahata-3gc55jljcbflb> ;
+      <http://purl.org/dc/terms/date>
+              "2003-09-01"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1007/s10067-002-0695-9" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0770-3198> ;
+      <http://purl.org/dc/terms/publisher>
+              "Springer Nature" ;
+      <http://purl.org/dc/terms/title>
+              "Successful treatment with leukocytapheresis in refractory Henoch-Sch�nlein purpura: case report" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1007/s10067-002-0695-9" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "250" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "248" ;
+      <http://purl.org/ontology/bibo/volume>
+              "22" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1007/s10067-002-0695-9> , <doi:10.1007/s10067-002-0695-9> .
+
+<http://id.crossref.org/issn/0770-3198>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0770-3198" , "1434-9949" ;
+      <http://purl.org/dc/terms/title>
+              "Clinical Rheumatology" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0770-3198" , "1434-9949" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1434-9949" , "urn:issn:0770-3198" .
+
+<http://id.crossref.org/contributor/koichi-suzuki-3gc55jljcbflb>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Suzuki" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Koichi" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Koichi Suzuki" .
+
+<http://id.crossref.org/contributor/etsuro-ito-3gc55jljcbflb>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Ito" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Etsuro" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Etsuro Ito" .
+
+<http://id.crossref.org/contributor/hiroshi-tanaka-3gc55jljcbflb>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Tanaka" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Hiroshi" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Hiroshi Tanaka" .
+
+<http://id.crossref.org/contributor/tohru-nakahata-3gc55jljcbflb>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Nakahata" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Tohru" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Tohru Nakahata" .

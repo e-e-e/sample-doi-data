@@ -1,0 +1,51 @@
+<http://id.crossref.org/contributor/l-finkelstein-2zd0qosbidfdp>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Finkelstein" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "L." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "L. Finkelstein" .
+
+<http://dx.doi.org/10.1080/716099569>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1080/716099569" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "1033" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "1033" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "28" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/l-finkelstein-2zd0qosbidfdp> ;
+      <http://purl.org/dc/terms/date>
+              "1981-08"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1080/716099569" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0030-3909> ;
+      <http://purl.org/dc/terms/publisher>
+              "Informa UK Limited" ;
+      <http://purl.org/dc/terms/title>
+              "Applications of Digital Image Processing" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1080/716099569" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "1033" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "1033" ;
+      <http://purl.org/ontology/bibo/volume>
+              "28" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1080/716099569> , <doi:10.1080/716099569> .
+
+<http://id.crossref.org/issn/0030-3909>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0030-3909" ;
+      <http://purl.org/dc/terms/title>
+              "Optica Acta: International Journal of Optics" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0030-3909" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0030-3909" .

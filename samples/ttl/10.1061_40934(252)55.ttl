@@ -1,0 +1,33 @@
+<http://id.crossref.org/contributor/darrin-d-lary-2xa5lckl32129>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Lary" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Darrin D." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Darrin D. Lary" .
+
+<http://dx.doi.org/10.1061/40934(252)55>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1061/40934(252)55" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/darrin-d-lary-2xa5lckl32129> ;
+      <http://purl.org/dc/terms/date>
+              "2007-07-06"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1061/40934(252)55" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9780784409343> ;
+      <http://purl.org/dc/terms/publisher>
+              "American Society of Civil Engineers" ;
+      <http://purl.org/dc/terms/title>
+              "How a Directional Drilled River Crossing Water Main Saved Significant Permitting Requirements, Construction Time, and Money, Aroostook River, Caribou, Maine" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1061/40934(252)55" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1061/40934(252)55> , <info:doi/10.1061/40934(252)55> .
+
+<http://id.crossref.org/isbn/9780784409343>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Pipelines 2007" .

@@ -1,0 +1,134 @@
+<http://id.crossref.org/contributor/demetri-psaltis-2ff5nxe4xritz>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Psaltis" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Demetri" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Demetri Psaltis" .
+
+<http://id.crossref.org/contributor/vincent-jaouen-2ff5nxe4xritz>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Jaouen" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Vincent" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Vincent Jaouen" .
+
+<http://id.crossref.org/contributor/benjamin-j-eggleton-2ff5nxe4xritz>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Eggleton" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Benjamin J." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Benjamin J. Eggleton" .
+
+<http://id.crossref.org/contributor/yeshaiahu-fainman-2ff5nxe4xritz>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Fainman" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Yeshaiahu" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Yeshaiahu Fainman" .
+
+<http://id.crossref.org/contributor/mark-croning-golomb-2ff5nxe4xritz>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Croning-Golomb" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Mark" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Mark Croning-Golomb" .
+
+<http://id.crossref.org/contributor/gary-rosengarten-2ff5nxe4xritz>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Rosengarten" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Gary" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Gary Rosengarten" .
+
+<http://id.crossref.org/contributor/simon-mutzenich-2ff5nxe4xritz>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Mutzenich" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Simon" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Simon Mutzenich" .
+
+<http://id.crossref.org/contributor/christian-grillet-2ff5nxe4xritz>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Grillet" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Christian" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Christian Grillet" .
+
+<http://id.crossref.org/contributor/tanveer-mahmud-2ff5nxe4xritz>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Mahmud" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Tanveer" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Tanveer Mahmud" .
+
+<http://id.crossref.org/contributor/ian-littler-2ff5nxe4xritz>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Littler" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Ian" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Ian Littler" .
+
+<http://id.crossref.org/contributor/arnan-mitchell-2ff5nxe4xritz>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Mitchell" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Arnan" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Arnan Mitchell" .
+
+<http://id.crossref.org/contributor/peter-domachuk-2ff5nxe4xritz>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Domachuk" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Peter" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Peter Domachuk" .
+
+<http://dx.doi.org/10.1117/12.678008>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1117/12.678008" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/demetri-psaltis-2ff5nxe4xritz> , <http://id.crossref.org/contributor/vincent-jaouen-2ff5nxe4xritz> , <http://id.crossref.org/contributor/benjamin-j-eggleton-2ff5nxe4xritz> , <http://id.crossref.org/contributor/yeshaiahu-fainman-2ff5nxe4xritz> , <http://id.crossref.org/contributor/mark-croning-golomb-2ff5nxe4xritz> , <http://id.crossref.org/contributor/gary-rosengarten-2ff5nxe4xritz> , <http://id.crossref.org/contributor/simon-mutzenich-2ff5nxe4xritz> , <http://id.crossref.org/contributor/christian-grillet-2ff5nxe4xritz> , <http://id.crossref.org/contributor/tanveer-mahmud-2ff5nxe4xritz> , <http://id.crossref.org/contributor/ian-littler-2ff5nxe4xritz> , <http://id.crossref.org/contributor/arnan-mitchell-2ff5nxe4xritz> , <http://id.crossref.org/contributor/peter-domachuk-2ff5nxe4xritz> , <http://id.crossref.org/contributor/christelle-monat-2ff5nxe4xritz> ;
+      <http://purl.org/dc/terms/date>
+              "2006-08-31"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1117/12.678008" ;
+      <http://purl.org/dc/terms/publisher>
+              "SPIE" ;
+      <http://purl.org/dc/terms/title>
+              " Micron-scale tunability in photonic devices using microfluidics " ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1117/12.678008" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1117/12.678008> , <info:doi/10.1117/12.678008> .
+
+<http://id.crossref.org/contributor/christelle-monat-2ff5nxe4xritz>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Monat" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Christelle" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Christelle Monat" .

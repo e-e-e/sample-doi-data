@@ -1,0 +1,40 @@
+<http://id.crossref.org/issn/0167-2738>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0167-2738" ;
+      <http://purl.org/dc/terms/title>
+              "Solid State Ionics" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0167-2738" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0167-2738" .
+
+<http://dx.doi.org/10.1016/0167-2738(81)90185-5>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/0167-2738(81)90185-5" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "xx" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "xiii" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "5" ;
+      <http://purl.org/dc/terms/date>
+              "1981-10"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/0167-2738(81)90185-5" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0167-2738> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "List of participants" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/0167-2738(81)90185-5" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "xx" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "xiii" ;
+      <http://purl.org/ontology/bibo/volume>
+              "5" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1016/0167-2738(81)90185-5> , <doi:10.1016/0167-2738(81)90185-5> .

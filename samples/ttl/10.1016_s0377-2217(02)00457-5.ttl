@@ -1,0 +1,60 @@
+<http://id.crossref.org/contributor/w-c-benton-3bus0hknlh17>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Benton" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "W.C." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "W.C. Benton" .
+
+<http://id.crossref.org/contributor/paul-a-rubin-3bus0hknlh17>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Rubin" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Paul A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Paul A. Rubin" .
+
+<http://id.crossref.org/issn/0377-2217>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0377-2217" ;
+      <http://purl.org/dc/terms/title>
+              "European Journal of Operational Research" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0377-2217" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0377-2217" .
+
+<http://dx.doi.org/10.1016/s0377-2217(02)00457-5>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/s0377-2217(02)00457-5" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "570" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "557" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "149" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/w-c-benton-3bus0hknlh17> , <http://id.crossref.org/contributor/paul-a-rubin-3bus0hknlh17> ;
+      <http://purl.org/dc/terms/date>
+              "2003-09"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/s0377-2217(02)00457-5" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0377-2217> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Evaluating jointly constrained order quantity complexities for incremental discounts" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/s0377-2217(02)00457-5" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "570" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "557" ;
+      <http://purl.org/ontology/bibo/volume>
+              "149" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1016/s0377-2217(02)00457-5> , <doi:10.1016/s0377-2217(02)00457-5> .

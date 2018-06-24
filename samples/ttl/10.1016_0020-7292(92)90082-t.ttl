@@ -1,0 +1,213 @@
+<http://id.crossref.org/issn/0020-7292>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0020-7292" ;
+      <http://purl.org/dc/terms/title>
+              "International Journal of Gynecology & Obstetrics" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0020-7292" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0020-7292" .
+
+<http://id.crossref.org/contributor/w-de-goeij-31x6n99v2sfv1>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "De Goeij" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "W" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "W De Goeij" .
+
+<http://id.crossref.org/contributor/f-beguin-31x6n99v2sfv1>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Beguin" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "F" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "F Beguin" .
+
+<http://id.crossref.org/contributor/m-seiner-31x6n99v2sfv1>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Seiner" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "M" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "M Seiner" .
+
+<http://id.crossref.org/contributor/g-colace-31x6n99v2sfv1>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Colace" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "G" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "G Colace" .
+
+<http://id.crossref.org/contributor/jl-caballero-diaz-31x6n99v2sfv1>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Caballero-Diaz" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "JL" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "JL Caballero-Diaz" .
+
+<http://id.crossref.org/contributor/gb-melis-31x6n99v2sfv1>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Melis" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "GB" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "GB Melis" .
+
+<http://id.crossref.org/contributor/a-gianoni-31x6n99v2sfv1>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Gianoni" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "A" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "A Gianoni" .
+
+<http://id.crossref.org/contributor/a-paloetti-31x6n99v2sfv1>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Paloetti" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "A" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "A Paloetti" .
+
+<http://id.crossref.org/contributor/m-thiery-31x6n99v2sfv1>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Thiery" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "M" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "M Thiery" .
+
+<http://id.crossref.org/contributor/c-mongouya-31x6n99v2sfv1>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Mongouya" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "C" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "C Mongouya" .
+
+<http://id.crossref.org/contributor/l-falsetti-31x6n99v2sfv1>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Falsetti" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "L" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "L Falsetti" .
+
+<http://id.crossref.org/contributor/g-thorbert-31x6n99v2sfv1>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Thorbert" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "G" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "G Thorbert" .
+
+<http://id.crossref.org/contributor/c-nappi-31x6n99v2sfv1>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Nappi" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "C" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "C Nappi" .
+
+<http://id.crossref.org/contributor/w-volker-31x6n99v2sfv1>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Volker" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "W" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "W Volker" .
+
+<http://id.crossref.org/contributor/p-defoort-31x6n99v2sfv1>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Defoort" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "P" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "P Defoort" .
+
+<http://id.crossref.org/contributor/a-vokaer-31x6n99v2sfv1>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Vokaer" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "A" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "A Vokaer" .
+
+<http://dx.doi.org/10.1016/0020-7292(92)90082-t>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/0020-7292(92)90082-t" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "153" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "153" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "38" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/w-de-goeij-31x6n99v2sfv1> , <http://id.crossref.org/contributor/f-beguin-31x6n99v2sfv1> , <http://id.crossref.org/contributor/m-seiner-31x6n99v2sfv1> , <http://id.crossref.org/contributor/g-colace-31x6n99v2sfv1> , <http://id.crossref.org/contributor/jl-caballero-diaz-31x6n99v2sfv1> , <http://id.crossref.org/contributor/gb-melis-31x6n99v2sfv1> , <http://id.crossref.org/contributor/a-gianoni-31x6n99v2sfv1> , <http://id.crossref.org/contributor/a-paloetti-31x6n99v2sfv1> , <http://id.crossref.org/contributor/m-thiery-31x6n99v2sfv1> , <http://id.crossref.org/contributor/c-mongouya-31x6n99v2sfv1> , <http://id.crossref.org/contributor/l-falsetti-31x6n99v2sfv1> , <http://id.crossref.org/contributor/g-thorbert-31x6n99v2sfv1> , <http://id.crossref.org/contributor/c-nappi-31x6n99v2sfv1> , <http://id.crossref.org/contributor/w-volker-31x6n99v2sfv1> , <http://id.crossref.org/contributor/p-defoort-31x6n99v2sfv1> , <http://id.crossref.org/contributor/a-vokaer-31x6n99v2sfv1> , <http://id.crossref.org/contributor/r-rolland-31x6n99v2sfv1> , <http://id.crossref.org/contributor/a-cabellero-gordo-31x6n99v2sfv1> , <http://id.crossref.org/contributor/e-galbignani-31x6n99v2sfv1> ;
+      <http://purl.org/dc/terms/date>
+              "1992-06"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/0020-7292(92)90082-t" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0020-7292> ;
+      <http://purl.org/dc/terms/publisher>
+              "Wiley" ;
+      <http://purl.org/dc/terms/title>
+              "Single dose cabergoline versus bromocriptine in inhibition of puerperal lactation: Randomised, double blind, multicentre study" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/0020-7292(92)90082-t" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "153" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "153" ;
+      <http://purl.org/ontology/bibo/volume>
+              "38" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1016/0020-7292(92)90082-t> , <info:doi/10.1016/0020-7292(92)90082-t> .
+
+<http://id.crossref.org/contributor/r-rolland-31x6n99v2sfv1>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Rolland" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "R" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "R Rolland" .
+
+<http://id.crossref.org/contributor/a-cabellero-gordo-31x6n99v2sfv1>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Cabellero-Gordo" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "A" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "A Cabellero-Gordo" .
+
+<http://id.crossref.org/contributor/e-galbignani-31x6n99v2sfv1>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Galbignani" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "E" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "E Galbignani" .

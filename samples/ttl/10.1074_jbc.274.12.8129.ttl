@@ -1,0 +1,105 @@
+<http://dx.doi.org/10.1074/jbc.274.12.8129>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1074/jbc.274.12.8129" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "8136" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "8129" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "274" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/mark-m-rich-1pbuor6rts0kq> , <http://id.crossref.org/contributor/roland-g-kallen-1pbuor6rts0kq> , <http://id.crossref.org/contributor/catherine-s-zorc-1pbuor6rts0kq> , <http://id.crossref.org/contributor/martha-a-sholl-1pbuor6rts0kq> , <http://id.crossref.org/contributor/susan-d-kraner-1pbuor6rts0kq> , <http://id.crossref.org/contributor/robert-l-barchi-1pbuor6rts0kq> , <http://id.crossref.org/contributor/huanying-zhou-1pbuor6rts0kq> ;
+      <http://purl.org/dc/terms/date>
+              "1999-03-19"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1074/jbc.274.12.8129" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0021-9258> ;
+      <http://purl.org/dc/terms/publisher>
+              "American Society for Biochemistry & Molecular Biology (ASBMB)" ;
+      <http://purl.org/dc/terms/title>
+              "Interaction between the Skeletal Muscle Type 1 Na+Channel Promoter E-box and an Upstream Repressor Element" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1074/jbc.274.12.8129" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "8136" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "8129" ;
+      <http://purl.org/ontology/bibo/volume>
+              "274" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1074/jbc.274.12.8129> , <doi:10.1074/jbc.274.12.8129> .
+
+<http://id.crossref.org/contributor/mark-m-rich-1pbuor6rts0kq>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Rich" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Mark M." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Mark M. Rich" .
+
+<http://id.crossref.org/contributor/roland-g-kallen-1pbuor6rts0kq>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kallen" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Roland G." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Roland G. Kallen" .
+
+<http://id.crossref.org/contributor/catherine-s-zorc-1pbuor6rts0kq>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Zorc" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Catherine S." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Catherine S. Zorc" .
+
+<http://id.crossref.org/contributor/martha-a-sholl-1pbuor6rts0kq>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Sholl" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Martha A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Martha A. Sholl" .
+
+<http://id.crossref.org/contributor/susan-d-kraner-1pbuor6rts0kq>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kraner" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Susan D." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Susan D. Kraner" .
+
+<http://id.crossref.org/issn/0021-9258>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1083-351X" , "0021-9258" ;
+      <http://purl.org/dc/terms/title>
+              "Journal of Biological Chemistry" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1083-351X" , "0021-9258" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1083-351X" , "urn:issn:0021-9258" .
+
+<http://id.crossref.org/contributor/huanying-zhou-1pbuor6rts0kq>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Zhou" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Huanying" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Huanying Zhou" .
+
+<http://id.crossref.org/contributor/robert-l-barchi-1pbuor6rts0kq>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Barchi" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Robert L." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Robert L. Barchi" .

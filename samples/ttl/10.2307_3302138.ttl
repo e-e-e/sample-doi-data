@@ -1,0 +1,47 @@
+<http://dx.doi.org/10.2307/3302138>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.2307/3302138" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "254" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "5" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/frederick-c-brightly-6q0d8k6u9fv> ;
+      <http://purl.org/dc/terms/date>
+              "1857-02"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.2307/3302138" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1558-3813> ;
+      <http://purl.org/dc/terms/publisher>
+              "JSTOR" ;
+      <http://purl.org/dc/terms/title>
+              "An Analytical Digest of the Laws of the United States" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.2307/3302138" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "254" ;
+      <http://purl.org/ontology/bibo/volume>
+              "5" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.2307/3302138> , <info:doi/10.2307/3302138> .
+
+<http://id.crossref.org/contributor/frederick-c-brightly-6q0d8k6u9fv>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Brightly" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Frederick C." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Frederick C. Brightly" .
+
+<http://id.crossref.org/issn/1558-3813>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1558-3813" ;
+      <http://purl.org/dc/terms/title>
+              "The American Law Register (1852-1891)" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1558-3813" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1558-3813" .

@@ -1,0 +1,36 @@
+<http://dx.doi.org/10.1016/0148-9062(86)90914-9>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/0148-9062(86)90914-9" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "161" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "23" ;
+      <http://purl.org/dc/terms/date>
+              "1986-08"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/0148-9062(86)90914-9" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0148-9062> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Design and construction of Bristol Southern foul water interceptor — stages 2 and 3" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/0148-9062(86)90914-9" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "161" ;
+      <http://purl.org/ontology/bibo/volume>
+              "23" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1016/0148-9062(86)90914-9> , <doi:10.1016/0148-9062(86)90914-9> .
+
+<http://id.crossref.org/issn/0148-9062>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0148-9062" ;
+      <http://purl.org/dc/terms/title>
+              "International Journal of Rock Mechanics and Mining Sciences & Geomechanics Abstracts" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0148-9062" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0148-9062" .

@@ -1,0 +1,96 @@
+<http://dx.doi.org/10.1016/s1607-551x(09)70191-3>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/s1607-551x(09)70191-3" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "227" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "220" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "21" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/pei-hsi-chou-1wzm90m637b2a> , <http://id.crossref.org/contributor/peng-ju-huang-1wzm90m637b2a> , <http://id.crossref.org/contributor/yu-jue-hong-1wzm90m637b2a> , <http://id.crossref.org/contributor/yun-min-cheng-1wzm90m637b2a> , <http://id.crossref.org/contributor/shen-kai-chen-1wzm90m637b2a> , <http://id.crossref.org/contributor/yen-chung-lin-1wzm90m637b2a> ;
+      <http://purl.org/dc/terms/date>
+              "2005-05"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/s1607-551x(09)70191-3" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1607-551X> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Investigation of Management Models in Elite Athlete Injuries" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/s1607-551x(09)70191-3" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "227" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "220" ;
+      <http://purl.org/ontology/bibo/volume>
+              "21" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1016/s1607-551x(09)70191-3> , <doi:10.1016/s1607-551x(09)70191-3> .
+
+<http://id.crossref.org/contributor/pei-hsi-chou-1wzm90m637b2a>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Chou" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Pei-Hsi" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Pei-Hsi Chou" .
+
+<http://id.crossref.org/contributor/yu-jue-hong-1wzm90m637b2a>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Hong" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Yu-Jue" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Yu-Jue Hong" .
+
+<http://id.crossref.org/contributor/peng-ju-huang-1wzm90m637b2a>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Huang" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Peng-Ju" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Peng-Ju Huang" .
+
+<http://id.crossref.org/contributor/yun-min-cheng-1wzm90m637b2a>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Cheng" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Yun-Min" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Yun-Min Cheng" .
+
+<http://id.crossref.org/issn/1607-551X>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1607-551X" ;
+      <http://purl.org/dc/terms/title>
+              "The Kaohsiung Journal of Medical Sciences" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1607-551X" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1607-551X" .
+
+<http://id.crossref.org/contributor/shen-kai-chen-1wzm90m637b2a>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Chen" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Shen-Kai" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Shen-Kai Chen" .
+
+<http://id.crossref.org/contributor/yen-chung-lin-1wzm90m637b2a>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Lin" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Yen-Chung" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Yen-Chung Lin" .

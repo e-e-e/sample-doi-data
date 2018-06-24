@@ -1,0 +1,79 @@
+<http://dx.doi.org/10.1002/chin.200635133>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1002/chin.200635133" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "37" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/eleonora-rizzi-b2eexlm8lrkj> , <http://id.crossref.org/contributor/franco-zunino-b2eexlm8lrkj> , <http://id.crossref.org/contributor/sabrina-dallavalle-b2eexlm8lrkj> , <http://id.crossref.org/contributor/graziella-pratesi-b2eexlm8lrkj> , <http://id.crossref.org/contributor/lucio-merlini-b2eexlm8lrkj> ;
+      <http://purl.org/dc/terms/date>
+              "2006-08-29"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1002/chin.200635133" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0931-7597> ;
+      <http://purl.org/dc/terms/publisher>
+              "Wiley" ;
+      <http://purl.org/dc/terms/title>
+              "Short Synthesis of Cytotoxic 4-Arylcoumarins." ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1002/chin.200635133" ;
+      <http://purl.org/ontology/bibo/volume>
+              "37" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1002/chin.200635133> , <info:doi/10.1002/chin.200635133> .
+
+<http://id.crossref.org/contributor/eleonora-rizzi-b2eexlm8lrkj>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Rizzi" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Eleonora" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Eleonora Rizzi" .
+
+<http://id.crossref.org/issn/0931-7597>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1522-2667" , "0931-7597" ;
+      <http://purl.org/dc/terms/title>
+              "ChemInform" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1522-2667" , "0931-7597" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0931-7597" , "urn:issn:1522-2667" .
+
+<http://id.crossref.org/contributor/franco-zunino-b2eexlm8lrkj>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Zunino" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Franco" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Franco Zunino" .
+
+<http://id.crossref.org/contributor/sabrina-dallavalle-b2eexlm8lrkj>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Dallavalle" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Sabrina" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Sabrina Dallavalle" .
+
+<http://id.crossref.org/contributor/graziella-pratesi-b2eexlm8lrkj>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Pratesi" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Graziella" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Graziella Pratesi" .
+
+<http://id.crossref.org/contributor/lucio-merlini-b2eexlm8lrkj>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Merlini" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Lucio" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Lucio Merlini" .

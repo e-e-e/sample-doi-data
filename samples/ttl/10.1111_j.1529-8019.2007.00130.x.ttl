@@ -1,0 +1,40 @@
+<http://id.crossref.org/issn/1396-0296>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1529-8019" , "1396-0296" ;
+      <http://purl.org/dc/terms/title>
+              "Dermatologic Therapy" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1529-8019" , "1396-0296" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1529-8019" , "urn:issn:1396-0296" .
+
+<http://dx.doi.org/10.1111/j.1529-8019.2007.00130.x>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1111/j.1529-8019.2007.00130.x" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "159" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "159" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "20" ;
+      <http://purl.org/dc/terms/date>
+              "2007-07"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1111/j.1529-8019.2007.00130.x" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1396-0296> ;
+      <http://purl.org/dc/terms/publisher>
+              "Wiley" ;
+      <http://purl.org/dc/terms/title>
+              "Update on immune modulators – introductory remarks" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1111/j.1529-8019.2007.00130.x" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "159" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "159" ;
+      <http://purl.org/ontology/bibo/volume>
+              "20" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1111/j.1529-8019.2007.00130.x> , <info:doi/10.1111/j.1529-8019.2007.00130.x> .

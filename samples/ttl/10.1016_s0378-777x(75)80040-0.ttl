@@ -1,0 +1,40 @@
+<http://id.crossref.org/issn/0378-777X>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0378-777X" ;
+      <http://purl.org/dc/terms/title>
+              "Environmental Policy and Law" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0378-777X" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0378-777X" .
+
+<http://dx.doi.org/10.1016/s0378-777x(75)80040-0>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/s0378-777x(75)80040-0" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "126" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "126" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "1" ;
+      <http://purl.org/dc/terms/date>
+              "1975-12"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/s0378-777x(75)80040-0" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0378-777X> ;
+      <http://purl.org/dc/terms/publisher>
+              "IOS Press" ;
+      <http://purl.org/dc/terms/title>
+              "Changes at UNEP" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/s0378-777x(75)80040-0" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "126" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "126" ;
+      <http://purl.org/ontology/bibo/volume>
+              "1" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1016/s0378-777x(75)80040-0> , <doi:10.1016/s0378-777x(75)80040-0> .

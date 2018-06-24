@@ -1,0 +1,51 @@
+<http://dx.doi.org/10.1111/j.1748-3131.2006.00013.x>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1111/j.1748-3131.2006.00013.x" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "133" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "131" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "1" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/shinji-asanuma-2uxnnt5luxpi> ;
+      <http://purl.org/dc/terms/date>
+              "2006-06"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1111/j.1748-3131.2006.00013.x" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1832-8105> ;
+      <http://purl.org/dc/terms/publisher>
+              "Wiley" ;
+      <http://purl.org/dc/terms/title>
+              "Comment on \"The Economic Rise of China: Challenges and Opportunities for ASEAN\"" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1111/j.1748-3131.2006.00013.x" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "133" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "131" ;
+      <http://purl.org/ontology/bibo/volume>
+              "1" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1111/j.1748-3131.2006.00013.x> , <doi:10.1111/j.1748-3131.2006.00013.x> .
+
+<http://id.crossref.org/issn/1832-8105>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1832-8105" , "1748-3131" ;
+      <http://purl.org/dc/terms/title>
+              "Asian Economic Policy Review" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1832-8105" , "1748-3131" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1748-3131" , "urn:issn:1832-8105" .
+
+<http://id.crossref.org/contributor/shinji-asanuma-2uxnnt5luxpi>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "ASANUMA" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Shinji" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Shinji ASANUMA" .

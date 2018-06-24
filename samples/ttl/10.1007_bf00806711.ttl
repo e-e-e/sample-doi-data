@@ -1,0 +1,51 @@
+<http://dx.doi.org/10.1007/bf00806711>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1007/bf00806711" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "234" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "231" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "30" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/jernej-zupancic-2234z7hamtgjq> ;
+      <http://purl.org/dc/terms/date>
+              "1993-07"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1007/bf00806711" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0343-2521> ;
+      <http://purl.org/dc/terms/publisher>
+              "Springer Nature" ;
+      <http://purl.org/dc/terms/title>
+              "Socialgeographic transformation and national identity — the case of the Slovene minority in Carinthia (Austria)" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1007/bf00806711" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "234" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "231" ;
+      <http://purl.org/ontology/bibo/volume>
+              "30" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1007/bf00806711> , <doi:10.1007/bf00806711> .
+
+<http://id.crossref.org/contributor/jernej-zupancic-2234z7hamtgjq>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Zupančič" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Jernej" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Jernej Zupančič" .
+
+<http://id.crossref.org/issn/0343-2521>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1572-9893" , "0343-2521" ;
+      <http://purl.org/dc/terms/title>
+              "GeoJournal" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1572-9893" , "0343-2521" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0343-2521" , "urn:issn:1572-9893" .

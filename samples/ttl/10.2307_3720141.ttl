@@ -1,0 +1,47 @@
+<http://dx.doi.org/10.2307/3720141>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.2307/3720141" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "320" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "60" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/a-r-taylor-8guqunx3xeiy> ;
+      <http://purl.org/dc/terms/date>
+              "1965-04"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.2307/3720141" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0026-7937> ;
+      <http://purl.org/dc/terms/publisher>
+              "JSTOR" ;
+      <http://purl.org/dc/terms/title>
+              "Islenzk Tunga: Lingua Islandica IV" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.2307/3720141" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "320" ;
+      <http://purl.org/ontology/bibo/volume>
+              "60" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.2307/3720141> , <info:doi/10.2307/3720141> .
+
+<http://id.crossref.org/contributor/a-r-taylor-8guqunx3xeiy>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Taylor" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "A. R." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "A. R. Taylor" .
+
+<http://id.crossref.org/issn/0026-7937>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0026-7937" ;
+      <http://purl.org/dc/terms/title>
+              "The Modern Language Review" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0026-7937" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0026-7937" .

@@ -1,0 +1,69 @@
+<http://id.crossref.org/contributor/qing-zhu-2aclkn3qdaps>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Zhu" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Qing" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Qing Zhu" .
+
+<http://id.crossref.org/contributor/qinmin-pan-2aclkn3qdaps>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Pan" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Qinmin" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Qinmin Pan" .
+
+<http://id.crossref.org/issn/1944-8244>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1944-8244" , "1944-8252" ;
+      <http://purl.org/dc/terms/title>
+              "ACS Applied Materials & Interfaces" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1944-8244" , "1944-8252" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1944-8252" , "urn:issn:1944-8244" .
+
+<http://id.crossref.org/contributor/jia-liu-2aclkn3qdaps>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Liu" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Jia" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Jia Liu" .
+
+<http://dx.doi.org/10.1021/am100308z>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1021/am100308z" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "2030" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "2026" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "2" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/qing-zhu-2aclkn3qdaps> , <http://id.crossref.org/contributor/qinmin-pan-2aclkn3qdaps> , <http://id.crossref.org/contributor/jia-liu-2aclkn3qdaps> ;
+      <http://purl.org/dc/terms/date>
+              "2010-06-22"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1021/am100308z" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1944-8244> ;
+      <http://purl.org/dc/terms/publisher>
+              "American Chemical Society (ACS)" ;
+      <http://purl.org/dc/terms/title>
+              "A Water Strider-Like Model with Large and Stable Loading Capacity Fabricated from Superhydrophobic Copper Foils" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1021/am100308z" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "2030" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "2026" ;
+      <http://purl.org/ontology/bibo/volume>
+              "2" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1021/am100308z> , <info:doi/10.1021/am100308z> .

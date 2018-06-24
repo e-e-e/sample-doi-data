@@ -1,0 +1,87 @@
+<http://dx.doi.org/10.1016/s1003-6326(09)60423-4>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/s1003-6326(09)60423-4" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "2095" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "2092" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "20" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/xi-qin-liu-m4owss6uvvbw> , <http://id.crossref.org/contributor/zi-li-liu-m4owss6uvvbw> , <http://id.crossref.org/contributor/liang-meng-m4owss6uvvbw> , <http://id.crossref.org/contributor/ping-shen-m4owss6uvvbw> , <http://id.crossref.org/contributor/xiu-rong-zhu-m4owss6uvvbw> ;
+      <http://purl.org/dc/terms/date>
+              "2010-11"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/s1003-6326(09)60423-4" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1003-6326> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Effect of ball-milling parameter on mechanical and damping properties of sintered Mg-Zr alloy" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/s1003-6326(09)60423-4" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "2095" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "2092" ;
+      <http://purl.org/ontology/bibo/volume>
+              "20" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1016/s1003-6326(09)60423-4> , <info:doi/10.1016/s1003-6326(09)60423-4> .
+
+<http://id.crossref.org/contributor/zi-li-liu-m4owss6uvvbw>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "LIU" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Zi-li" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Zi-li LIU" .
+
+<http://id.crossref.org/contributor/xi-qin-liu-m4owss6uvvbw>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "LIU" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Xi-qin" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Xi-qin LIU" .
+
+<http://id.crossref.org/issn/1003-6326>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1003-6326" ;
+      <http://purl.org/dc/terms/title>
+              "Transactions of Nonferrous Metals Society of China" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1003-6326" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1003-6326" .
+
+<http://id.crossref.org/contributor/liang-meng-m4owss6uvvbw>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "MENG" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Liang" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Liang MENG" .
+
+<http://id.crossref.org/contributor/ping-shen-m4owss6uvvbw>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "SHEN" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Ping" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Ping SHEN" .
+
+<http://id.crossref.org/contributor/xiu-rong-zhu-m4owss6uvvbw>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "ZHU" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Xiu-rong" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Xiu-rong ZHU" .

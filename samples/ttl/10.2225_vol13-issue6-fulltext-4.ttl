@@ -1,0 +1,87 @@
+<http://id.crossref.org/contributor/jianming-yao-1msc8dvwpdqio>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Yao" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Jianming" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Jianming Yao" .
+
+<http://id.crossref.org/contributor/yuanyuan-cao-1msc8dvwpdqio>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Cao" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Yuanyuan" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Yuanyuan Cao" .
+
+<http://id.crossref.org/contributor/jinyong-wu-1msc8dvwpdqio>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Wu" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Jinyong" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Jinyong Wu" .
+
+<http://id.crossref.org/issn/0717-3458>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0717-3458" ;
+      <http://purl.org/dc/terms/title>
+              "Electronic Journal of Biotechnology" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0717-3458" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0717-3458" .
+
+<http://id.crossref.org/contributor/jun-li-1msc8dvwpdqio>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Li" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Jun" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Jun Li" .
+
+<http://dx.doi.org/10.2225/vol13-issue6-fulltext-4>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.2225/vol13-issue6-fulltext-4" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "0" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "0" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "13" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/jianming-yao-1msc8dvwpdqio> , <http://id.crossref.org/contributor/yuanyuan-cao-1msc8dvwpdqio> , <http://id.crossref.org/contributor/jinyong-wu-1msc8dvwpdqio> , <http://id.crossref.org/contributor/jun-li-1msc8dvwpdqio> , <http://id.crossref.org/contributor/xiangsong-chen-1msc8dvwpdqio> ;
+      <http://purl.org/dc/terms/date>
+              "2010-11-15"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.2225/vol13-issue6-fulltext-4" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0717-3458> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Breeding of high lipid producing strain of Geotrichum robustum by ion beam implantation" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.2225/vol13-issue6-fulltext-4" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "0" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "0" ;
+      <http://purl.org/ontology/bibo/volume>
+              "13" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.2225/vol13-issue6-fulltext-4> , <doi:10.2225/vol13-issue6-fulltext-4> .
+
+<http://id.crossref.org/contributor/xiangsong-chen-1msc8dvwpdqio>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Chen" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Xiangsong" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Xiangsong Chen" .

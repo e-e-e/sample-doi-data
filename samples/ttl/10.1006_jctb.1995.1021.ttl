@@ -1,0 +1,60 @@
+<http://dx.doi.org/10.1006/jctb.1995.1021>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1006/jctb.1995.1021" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "309" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "294" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "63" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/f-maffray-3357ecwlhmz83> , <http://id.crossref.org/contributor/m-preissmann-3357ecwlhmz83> ;
+      <http://purl.org/dc/terms/date>
+              "1995-03"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1006/jctb.1995.1021" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0095-8956> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Split-Neighborhood Graphs and the Strong Perfect Graph Conjecture" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1006/jctb.1995.1021" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "309" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "294" ;
+      <http://purl.org/ontology/bibo/volume>
+              "63" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1006/jctb.1995.1021> , <info:doi/10.1006/jctb.1995.1021> .
+
+<http://id.crossref.org/contributor/f-maffray-3357ecwlhmz83>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Maffray" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "F." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "F. Maffray" .
+
+<http://id.crossref.org/contributor/m-preissmann-3357ecwlhmz83>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Preissmann" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "M." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "M. Preissmann" .
+
+<http://id.crossref.org/issn/0095-8956>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0095-8956" ;
+      <http://purl.org/dc/terms/title>
+              "Journal of Combinatorial Theory, Series B" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0095-8956" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0095-8956" .

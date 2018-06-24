@@ -1,0 +1,51 @@
+<http://id.crossref.org/issn/0377-0427>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0377-0427" ;
+      <http://purl.org/dc/terms/title>
+              "Journal of Computational and Applied Mathematics" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0377-0427" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0377-0427" .
+
+<http://dx.doi.org/10.1016/j.cam.2003.12.025>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/j.cam.2003.12.025" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "275" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "255" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "169" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/maharavo-randrianarivony-2bt3cwcrz1y2g> ;
+      <http://purl.org/dc/terms/date>
+              "2004-08"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/j.cam.2003.12.025" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0377-0427> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Anisotropic finite elements for the Stokes problem: a posteriori error estimator and adaptive mesh" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/j.cam.2003.12.025" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "275" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "255" ;
+      <http://purl.org/ontology/bibo/volume>
+              "169" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1016/j.cam.2003.12.025> , <doi:10.1016/j.cam.2003.12.025> .
+
+<http://id.crossref.org/contributor/maharavo-randrianarivony-2bt3cwcrz1y2g>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Randrianarivony" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Maharavo" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Maharavo Randrianarivony" .

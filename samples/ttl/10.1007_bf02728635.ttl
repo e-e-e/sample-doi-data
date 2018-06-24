@@ -1,0 +1,51 @@
+<http://dx.doi.org/10.1007/bf02728635>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1007/bf02728635" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "175" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "166" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "45" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/p-violino-2g749le3a18az> ;
+      <http://purl.org/dc/terms/date>
+              "1966-10"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1007/bf02728635" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0369-3554> ;
+      <http://purl.org/dc/terms/publisher>
+              "Springer Nature" ;
+      <http://purl.org/dc/terms/title>
+              "Optical pumping rates in an alkali beam" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1007/bf02728635" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "175" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "166" ;
+      <http://purl.org/ontology/bibo/volume>
+              "45" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1007/bf02728635> , <info:doi/10.1007/bf02728635> .
+
+<http://id.crossref.org/issn/0369-3554>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0369-3554" , "1826-9877" ;
+      <http://purl.org/dc/terms/title>
+              "Il Nuovo Cimento B Series 10" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0369-3554" , "1826-9877" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1826-9877" , "urn:issn:0369-3554" .
+
+<http://id.crossref.org/contributor/p-violino-2g749le3a18az>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Violino" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "P." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "P. Violino" .

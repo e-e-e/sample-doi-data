@@ -1,0 +1,51 @@
+<http://id.crossref.org/contributor/lewis-h-king-1h7yzhx1cyv35>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "King" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Lewis H." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Lewis H. King" .
+
+<http://id.crossref.org/issn/0267-8179>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0267-8179" , "1099-1417" ;
+      <http://purl.org/dc/terms/title>
+              "Journal of Quaternary Science" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0267-8179" , "1099-1417" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0267-8179" , "urn:issn:1099-1417" .
+
+<http://dx.doi.org/10.1002/jqs.3390080406>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1002/jqs.3390080406" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "358" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "347" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "8" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/lewis-h-king-1h7yzhx1cyv35> ;
+      <http://purl.org/dc/terms/date>
+              "1993"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1002/jqs.3390080406" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0267-8179> ;
+      <http://purl.org/dc/terms/publisher>
+              "Wiley" ;
+      <http://purl.org/dc/terms/title>
+              "Till in the marine environment" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1002/jqs.3390080406" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "358" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "347" ;
+      <http://purl.org/ontology/bibo/volume>
+              "8" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1002/jqs.3390080406> , <doi:10.1002/jqs.3390080406> .

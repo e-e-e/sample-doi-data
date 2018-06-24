@@ -1,0 +1,56 @@
+<http://id.crossref.org/contributor/g-h-walker-up59o3hzzes1>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Walker" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "G. H." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "G. H. Walker" .
+
+<http://id.crossref.org/issn/0003-2654>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0003-2654" , "1364-5528" ;
+      <http://purl.org/dc/terms/title>
+              "The Analyst" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0003-2654" , "1364-5528" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1364-5528" , "urn:issn:0003-2654" .
+
+<http://id.crossref.org/contributor/h-h-bagnall-up59o3hzzes1>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Bagnall" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "H. H." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "H. H. Bagnall" .
+
+<http://dx.doi.org/10.1039/an9396400592>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1039/an9396400592" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "592" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "64" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/g-h-walker-up59o3hzzes1> , <http://id.crossref.org/contributor/h-h-bagnall-up59o3hzzes1> ;
+      <http://purl.org/dc/terms/date>
+              "1939"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1039/an9396400592" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0003-2654> ;
+      <http://purl.org/dc/terms/publisher>
+              "Royal Society of Chemistry (RSC)" ;
+      <http://purl.org/dc/terms/title>
+              "Notes from the Reports of Public Analysts" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1039/an9396400592" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "592" ;
+      <http://purl.org/ontology/bibo/volume>
+              "64" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1039/an9396400592> , <info:doi/10.1039/an9396400592> .

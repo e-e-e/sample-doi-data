@@ -1,0 +1,36 @@
+<http://id.crossref.org/issn/0734-9750>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0734-9750" ;
+      <http://purl.org/dc/terms/title>
+              "Biotechnology Advances" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0734-9750" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0734-9750" .
+
+<http://dx.doi.org/10.1016/0734-9750(88)90445-4>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/0734-9750(88)90445-4" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "318" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "6" ;
+      <http://purl.org/dc/terms/date>
+              "1988-01"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/0734-9750(88)90445-4" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0734-9750> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "4734439 Foam-containing polyurethane(urea) compositions and process for the preparation thereof" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/0734-9750(88)90445-4" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "318" ;
+      <http://purl.org/ontology/bibo/volume>
+              "6" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1016/0734-9750(88)90445-4> , <info:doi/10.1016/0734-9750(88)90445-4> .

@@ -1,0 +1,51 @@
+<http://id.crossref.org/issn/0028-0836>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1476-4687" , "0028-0836" ;
+      <http://purl.org/dc/terms/title>
+              "Nature" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1476-4687" , "0028-0836" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0028-0836" , "urn:issn:1476-4687" .
+
+<http://dx.doi.org/10.1038/312524a0>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1038/312524a0" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "527" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "524" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "312" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/p-c-w-davies-2qbhbnjuxaf9u> ;
+      <http://purl.org/dc/terms/date>
+              "1984-12"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1038/312524a0" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0028-0836> ;
+      <http://purl.org/dc/terms/publisher>
+              "Springer Nature" ;
+      <http://purl.org/dc/terms/title>
+              "Inflation in the universe and time asymmetry" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1038/312524a0" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "527" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "524" ;
+      <http://purl.org/ontology/bibo/volume>
+              "312" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1038/312524a0> , <info:doi/10.1038/312524a0> .
+
+<http://id.crossref.org/contributor/p-c-w-davies-2qbhbnjuxaf9u>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Davies" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "P. C. W." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "P. C. W. Davies" .

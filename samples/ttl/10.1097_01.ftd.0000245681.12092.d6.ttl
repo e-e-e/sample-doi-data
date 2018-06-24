@@ -1,0 +1,78 @@
+<http://id.crossref.org/contributor/charles-j-l-la-porte-34p4xkaxe9jrz>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "la Porte" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Charles J. L" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Charles J. L la Porte" .
+
+<http://id.crossref.org/issn/0163-4356>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0163-4356" ;
+      <http://purl.org/dc/terms/title>
+              "Therapeutic Drug Monitoring" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0163-4356" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0163-4356" .
+
+<http://id.crossref.org/contributor/peter-p-koopmans-34p4xkaxe9jrz>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Koopmans" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Peter P" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Peter P Koopmans" .
+
+<http://dx.doi.org/10.1097/01.ftd.0000245681.12092.d6>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1097/01.ftd.0000245681.12092.d6" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "653" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "650" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "28" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/charles-j-l-la-porte-34p4xkaxe9jrz> , <http://id.crossref.org/contributor/peter-p-koopmans-34p4xkaxe9jrz> , <http://id.crossref.org/contributor/martijn-r-van-der-leur-34p4xkaxe9jrz> , <http://id.crossref.org/contributor/david-m-burger-34p4xkaxe9jrz> ;
+      <http://purl.org/dc/terms/date>
+              "2006-10"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1097/01.ftd.0000245681.12092.d6" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0163-4356> ;
+      <http://purl.org/dc/terms/publisher>
+              "Ovid Technologies (Wolters Kluwer Health)" ;
+      <http://purl.org/dc/terms/title>
+              "A Retrospective TDM Database Analysis of Interpatient Variability in the Pharmacokinetics of Lopinavir in HIV-infected Adults" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1097/01.ftd.0000245681.12092.d6" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "653" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "650" ;
+      <http://purl.org/ontology/bibo/volume>
+              "28" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1097/01.ftd.0000245681.12092.d6> , <info:doi/10.1097/01.ftd.0000245681.12092.d6> .
+
+<http://id.crossref.org/contributor/martijn-r-van-der-leur-34p4xkaxe9jrz>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "van der Leur" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Martijn R" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Martijn R van der Leur" .
+
+<http://id.crossref.org/contributor/david-m-burger-34p4xkaxe9jrz>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Burger" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "David M" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "David M Burger" .

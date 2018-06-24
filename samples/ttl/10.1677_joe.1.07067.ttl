@@ -1,0 +1,78 @@
+<http://dx.doi.org/10.1677/joe.1.07067>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1677/joe.1.07067" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "636" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "625" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "191" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/a-r-finch-3fm3rbd6klt16> , <http://id.crossref.org/contributor/k-r-sedgley-3fm3rbd6klt16> , <http://id.crossref.org/contributor/c-a-mcardle-3fm3rbd6klt16> , <http://id.crossref.org/contributor/c-j-caunt-3fm3rbd6klt16> ;
+      <http://purl.org/dc/terms/date>
+              "2006-12-01"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1677/joe.1.07067" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0022-0795> ;
+      <http://purl.org/dc/terms/publisher>
+              "Bioscientifica" ;
+      <http://purl.org/dc/terms/title>
+              "Intracellular gonadotropin-releasing hormone receptors in breast cancer and gonadotrope lineage cells" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1677/joe.1.07067" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "636" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "625" ;
+      <http://purl.org/ontology/bibo/volume>
+              "191" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1677/joe.1.07067> , <doi:10.1677/joe.1.07067> .
+
+<http://id.crossref.org/contributor/a-r-finch-3fm3rbd6klt16>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Finch" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "A. R" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "A. R Finch" .
+
+<http://id.crossref.org/issn/0022-0795>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0022-0795" , "1479-6805" ;
+      <http://purl.org/dc/terms/title>
+              "Journal of Endocrinology" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0022-0795" , "1479-6805" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0022-0795" , "urn:issn:1479-6805" .
+
+<http://id.crossref.org/contributor/k-r-sedgley-3fm3rbd6klt16>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Sedgley" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "K. R" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "K. R Sedgley" .
+
+<http://id.crossref.org/contributor/c-a-mcardle-3fm3rbd6klt16>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "McArdle" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "C. A" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "C. A McArdle" .
+
+<http://id.crossref.org/contributor/c-j-caunt-3fm3rbd6klt16>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Caunt" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "C. J" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "C. J Caunt" .

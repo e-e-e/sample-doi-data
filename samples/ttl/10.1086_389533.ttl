@@ -1,0 +1,51 @@
+<http://dx.doi.org/10.1086/389533>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1086/389533" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "155" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "154" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "60" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/john-m-fein-1fw5qyyxxs1kt> ;
+      <http://purl.org/dc/terms/date>
+              "1962-11"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1086/389533" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0026-8232> ;
+      <http://purl.org/dc/terms/publisher>
+              "University of Chicago Press" ;
+      <http://purl.org/dc/terms/title>
+              "The Brazilian Othello of Machado de Assis: A Study of Dom Casmurro. Helen Caldwell" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1086/389533" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "155" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "154" ;
+      <http://purl.org/ontology/bibo/volume>
+              "60" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1086/389533> , <doi:10.1086/389533> .
+
+<http://id.crossref.org/issn/0026-8232>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0026-8232" , "1545-6951" ;
+      <http://purl.org/dc/terms/title>
+              "Modern Philology" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0026-8232" , "1545-6951" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0026-8232" , "urn:issn:1545-6951" .
+
+<http://id.crossref.org/contributor/john-m-fein-1fw5qyyxxs1kt>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Fein" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "John M." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "John M. Fein" .

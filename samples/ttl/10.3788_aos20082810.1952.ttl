@@ -1,0 +1,60 @@
+<http://id.crossref.org/contributor/li-li-1z7qv8v3hfzsv>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Li Li" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "李莉" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "李莉 Li Li" .
+
+<http://id.crossref.org/contributor/lu-qisheng-1z7qv8v3hfzsv>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Lu Qisheng" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "陆启生" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "陆启生 Lu Qisheng" .
+
+<http://id.crossref.org/issn/0253-2239>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0253-2239" ;
+      <http://purl.org/dc/terms/title>
+              "Acta Optica Sinica" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0253-2239" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0253-2239" .
+
+<http://dx.doi.org/10.3788/aos20082810.1952>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.3788/aos20082810.1952" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "1958" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "1952" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "28" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/li-li-1z7qv8v3hfzsv> , <http://id.crossref.org/contributor/lu-qisheng-1z7qv8v3hfzsv> ;
+      <http://purl.org/dc/terms/date>
+              "2008"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.3788/aos20082810.1952" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0253-2239> ;
+      <http://purl.org/dc/terms/publisher>
+              "Shanghai Institute of Optics and Fine Mechanics" ;
+      <http://purl.org/dc/terms/title>
+              "Numerical Simulation of Dynamic Response of PC-Type HgCdTe Detector Irradiated by in-Band and Out-of-Band Laser Beams" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.3788/aos20082810.1952" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "1958" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "1952" ;
+      <http://purl.org/ontology/bibo/volume>
+              "28" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.3788/aos20082810.1952> , <info:doi/10.3788/aos20082810.1952> .

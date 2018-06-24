@@ -1,0 +1,78 @@
+<http://dx.doi.org/10.1016/j.robot.2006.12.011>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/j.robot.2006.12.011" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "596" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "589" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "55" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/k-g-jolly-3w1lwyhsmrn73> , <http://id.crossref.org/contributor/k-p-ravindran-3w1lwyhsmrn73> , <http://id.crossref.org/contributor/r-sreerama-kumar-3w1lwyhsmrn73> , <http://id.crossref.org/contributor/r-vijayakumar-3w1lwyhsmrn73> ;
+      <http://purl.org/dc/terms/date>
+              "2007-07"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/j.robot.2006.12.011" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0921-8890> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Intelligent decision making in multi-agent robot soccer system through compounded artificial neural networks" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/j.robot.2006.12.011" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "596" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "589" ;
+      <http://purl.org/ontology/bibo/volume>
+              "55" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1016/j.robot.2006.12.011> , <doi:10.1016/j.robot.2006.12.011> .
+
+<http://id.crossref.org/contributor/k-g-jolly-3w1lwyhsmrn73>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Jolly" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "K.G." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "K.G. Jolly" .
+
+<http://id.crossref.org/contributor/k-p-ravindran-3w1lwyhsmrn73>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Ravindran" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "K.P." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "K.P. Ravindran" .
+
+<http://id.crossref.org/issn/0921-8890>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0921-8890" ;
+      <http://purl.org/dc/terms/title>
+              "Robotics and Autonomous Systems" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0921-8890" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0921-8890" .
+
+<http://id.crossref.org/contributor/r-sreerama-kumar-3w1lwyhsmrn73>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Sreerama Kumar" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "R." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "R. Sreerama Kumar" .
+
+<http://id.crossref.org/contributor/r-vijayakumar-3w1lwyhsmrn73>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Vijayakumar" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "R." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "R. Vijayakumar" .

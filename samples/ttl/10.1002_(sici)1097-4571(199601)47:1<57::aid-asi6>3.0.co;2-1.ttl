@@ -1,0 +1,96 @@
+<http://id.crossref.org/contributor/f-w-lancaster-1uwa8t2k0exyv>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Lancaster" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "F.W." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "F.W. Lancaster" .
+
+<http://id.crossref.org/contributor/linda-c-smith-1uwa8t2k0exyv>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Smith" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Linda C." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Linda C. Smith" .
+
+<http://id.crossref.org/contributor/susanne-m-humphrey-1uwa8t2k0exyv>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Humphrey" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Susanne M." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Susanne M. Humphrey" .
+
+<http://id.crossref.org/contributor/jacob-w-ulvila-1uwa8t2k0exyv>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Ulvila" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Jacob W." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Jacob W. Ulvila" .
+
+<http://id.crossref.org/issn/0002-8231>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1097-4571" , "0002-8231" ;
+      <http://purl.org/dc/terms/title>
+              "Journal of the American Society for Information Science" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1097-4571" , "0002-8231" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0002-8231" , "urn:issn:1097-4571" .
+
+<http://id.crossref.org/contributor/saul-herner-1uwa8t2k0exyv>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Herner" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Saul" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Saul Herner" .
+
+<http://dx.doi.org/10.1002/(sici)1097-4571(199601)47:1<57::aid-asi6>3.0.co;2-1>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1002/(sici)1097-4571(199601)47:1<57::aid-asi6>3.0.co;2-1" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "69" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "57" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "47" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/f-w-lancaster-1uwa8t2k0exyv> , <http://id.crossref.org/contributor/linda-c-smith-1uwa8t2k0exyv> , <http://id.crossref.org/contributor/susanne-m-humphrey-1uwa8t2k0exyv> , <http://id.crossref.org/contributor/jacob-w-ulvila-1uwa8t2k0exyv> , <http://id.crossref.org/contributor/saul-herner-1uwa8t2k0exyv> , <http://id.crossref.org/contributor/bryce-allen-1uwa8t2k0exyv> ;
+      <http://purl.org/dc/terms/date>
+              "1996-01"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1002/(sici)1097-4571(199601)47:1<57::aid-asi6>3.0.co;2-1" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0002-8231> ;
+      <http://purl.org/dc/terms/publisher>
+              "Wiley" ;
+      <http://purl.org/dc/terms/title>
+              "Evaluation of interactive knowledge-based systems: Overview and design for empirical testing" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1002/(sici)1097-4571(199601)47:1<57::aid-asi6>3.0.co;2-1" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "69" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "57" ;
+      <http://purl.org/ontology/bibo/volume>
+              "47" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1002/(sici)1097-4571(199601)47:1<57::aid-asi6>3.0.co;2-1> , <doi:10.1002/(sici)1097-4571(199601)47:1<57::aid-asi6>3.0.co;2-1> .
+
+<http://id.crossref.org/contributor/bryce-allen-1uwa8t2k0exyv>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Allen" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Bryce" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Bryce Allen" .

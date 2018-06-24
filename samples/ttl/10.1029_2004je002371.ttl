@@ -1,0 +1,52 @@
+<http://dx.doi.org/10.1029/2004je002371>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1029/2004je002371" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "110" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/amy-c-barr-2km57bs4lx9sr> , <http://id.crossref.org/contributor/robert-t-pappalardo-2km57bs4lx9sr> ;
+      <http://purl.org/dc/terms/date>
+              "2005"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1029/2004je002371" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0148-0227> ;
+      <http://purl.org/dc/terms/publisher>
+              "American Geophysical Union (AGU)" ;
+      <http://purl.org/dc/terms/title>
+              "Onset of convection in the icy Galilean satellites: Influence of rheology" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1029/2004je002371" ;
+      <http://purl.org/ontology/bibo/volume>
+              "110" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1029/2004je002371> , <doi:10.1029/2004je002371> .
+
+<http://id.crossref.org/contributor/amy-c-barr-2km57bs4lx9sr>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Barr" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Amy C." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Amy C. Barr" .
+
+<http://id.crossref.org/contributor/robert-t-pappalardo-2km57bs4lx9sr>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Pappalardo" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Robert T." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Robert T. Pappalardo" .
+
+<http://id.crossref.org/issn/0148-0227>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0148-0227" ;
+      <http://purl.org/dc/terms/title>
+              "Journal of Geophysical Research" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0148-0227" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0148-0227" .

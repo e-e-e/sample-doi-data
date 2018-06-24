@@ -1,0 +1,78 @@
+<http://id.crossref.org/contributor/c-m-sellars-2jnjmmzdd3k4r>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Sellars" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "C.M." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "C.M. Sellars" .
+
+<http://id.crossref.org/contributor/h-jones-2jnjmmzdd3k4r>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Jones" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "H." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "H. Jones" .
+
+<http://id.crossref.org/contributor/r-a-buckley-2jnjmmzdd3k4r>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Buckley" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "R.A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "R.A. Buckley" .
+
+<http://id.crossref.org/issn/1359-6462>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1359-6462" ;
+      <http://purl.org/dc/terms/title>
+              "Scripta Materialia" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1359-6462" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1359-6462" .
+
+<http://dx.doi.org/10.1016/1359-6462(95)00578-1>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/1359-6462(95)00578-1" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "728" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "721" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "34" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/c-m-sellars-2jnjmmzdd3k4r> , <http://id.crossref.org/contributor/h-jones-2jnjmmzdd3k4r> , <http://id.crossref.org/contributor/r-a-buckley-2jnjmmzdd3k4r> , <http://id.crossref.org/contributor/j-r-blackford-2jnjmmzdd3k4r> ;
+      <http://purl.org/dc/terms/date>
+              "1996-03"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/1359-6462(95)00578-1" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1359-6462> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Production of iron alumevides by co-rolling of elemental foils followed by heat treatment" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/1359-6462(95)00578-1" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "728" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "721" ;
+      <http://purl.org/ontology/bibo/volume>
+              "34" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1016/1359-6462(95)00578-1> , <info:doi/10.1016/1359-6462(95)00578-1> .
+
+<http://id.crossref.org/contributor/j-r-blackford-2jnjmmzdd3k4r>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Blackford" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "J.R." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "J.R. Blackford" .

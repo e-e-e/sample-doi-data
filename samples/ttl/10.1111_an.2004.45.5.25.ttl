@@ -1,0 +1,51 @@
+<http://id.crossref.org/contributor/paul-stoller-2g5eteciu1xob>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Stoller" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Paul" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Paul Stoller" .
+
+<http://id.crossref.org/issn/1541-6151>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1541-6151" ;
+      <http://purl.org/dc/terms/title>
+              "Anthropology News" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1541-6151" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1541-6151" .
+
+<http://dx.doi.org/10.1111/an.2004.45.5.25>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1111/an.2004.45.5.25" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "26" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "25" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "45" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/paul-stoller-2g5eteciu1xob> ;
+      <http://purl.org/dc/terms/date>
+              "2004-05"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1111/an.2004.45.5.25" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1541-6151> ;
+      <http://purl.org/dc/terms/publisher>
+              "Wiley" ;
+      <http://purl.org/dc/terms/title>
+              "“The Work Must Go On”" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1111/an.2004.45.5.25" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "26" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "25" ;
+      <http://purl.org/ontology/bibo/volume>
+              "45" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1111/an.2004.45.5.25> , <info:doi/10.1111/an.2004.45.5.25> .

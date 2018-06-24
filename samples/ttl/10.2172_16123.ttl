@@ -1,0 +1,53 @@
+<http://id.crossref.org/contributor/donald-p-mccollor-2i74l4r1h338w>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "McCollor" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Donald P." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Donald P. McCollor" .
+
+<http://id.crossref.org/contributor/robert-o-ness-jr-2i74l4r1h338w>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Ness Jr." ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Robert O." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Robert O. Ness Jr." .
+
+<http://id.crossref.org/contributor/john-p-hurley-2i74l4r1h338w>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Hurley" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "John P." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "John P. Hurley" .
+
+<http://dx.doi.org/10.2172/16123>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.2172/16123" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/donald-p-mccollor-2i74l4r1h338w> , <http://id.crossref.org/contributor/robert-o-ness-jr-2i74l4r1h338w> , <http://id.crossref.org/contributor/john-p-hurley-2i74l4r1h338w> , <http://id.crossref.org/contributor/michael-l-swanson-2i74l4r1h338w> ;
+      <http://purl.org/dc/terms/date>
+              "1997-06-01"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.2172/16123" ;
+      <http://purl.org/dc/terms/publisher>
+              "Office of Scientific and Technical Information  (OSTI)" ;
+      <http://purl.org/dc/terms/title>
+              "Task 6.5 - Gas Separation and Hot-Gas Cleanup" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.2172/16123" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.2172/16123> , <doi:10.2172/16123> .
+
+<http://id.crossref.org/contributor/michael-l-swanson-2i74l4r1h338w>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Swanson" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Michael L." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Michael L. Swanson" .

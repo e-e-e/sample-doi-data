@@ -1,0 +1,60 @@
+<http://dx.doi.org/10.1046/j.1439-0469.2003.00179.x>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1046/j.1439-0469.2003.00179.x" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "46" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "2" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "41" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/i-sanmartin-1eov7d158ldfs> , <http://id.crossref.org/contributor/f-martin-piera-1eov7d158ldfs> ;
+      <http://purl.org/dc/terms/date>
+              "2003-02"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1046/j.1439-0469.2003.00179.x" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0947-5745> ;
+      <http://purl.org/dc/terms/publisher>
+              "Wiley" ;
+      <http://purl.org/dc/terms/title>
+              "First phylogenetic analysis of the subfamily Pachydeminae (Coleoptera, Scarabaeoidea, Melolonthidae): the Palearctic Pachydeminae*" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1046/j.1439-0469.2003.00179.x" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "46" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "2" ;
+      <http://purl.org/ontology/bibo/volume>
+              "41" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1046/j.1439-0469.2003.00179.x> , <info:doi/10.1046/j.1439-0469.2003.00179.x> .
+
+<http://id.crossref.org/contributor/i-sanmartin-1eov7d158ldfs>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "SANMARTIN" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "I." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "I. SANMARTIN" .
+
+<http://id.crossref.org/contributor/f-martin-piera-1eov7d158ldfs>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "MARTIN-PIERA" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "F." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "F. MARTIN-PIERA" .
+
+<http://id.crossref.org/issn/0947-5745>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0947-5745" , "1439-0469" ;
+      <http://purl.org/dc/terms/title>
+              "Journal of Zoological Systematics and Evolutionary Research" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0947-5745" , "1439-0469" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1439-0469" , "urn:issn:0947-5745" .

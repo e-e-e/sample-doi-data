@@ -1,0 +1,61 @@
+<http://id.crossref.org/issn/1098-0121>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1098-0121" , "1550-235X" ;
+      <http://purl.org/dc/terms/title>
+              "Physical Review B" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1098-0121" , "1550-235X" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1098-0121" , "urn:issn:1550-235X" .
+
+<http://dx.doi.org/10.1103/physrevb.80.195102>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1103/physrevb.80.195102" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "80" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/zoran-ristivojevic-27vbzx4q12lgt> , <http://id.crossref.org/contributor/leiming-chen-27vbzx4q12lgt> , <http://id.crossref.org/contributor/thomas-nattermann-27vbzx4q12lgt> ;
+      <http://purl.org/dc/terms/date>
+              "2009-11-02"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1103/physrevb.80.195102" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1098-0121> ;
+      <http://purl.org/dc/terms/publisher>
+              "American Physical Society (APS)" ;
+      <http://purl.org/dc/terms/title>
+              "Transport in a Luttinger liquid with dissipation: Two impurities" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1103/physrevb.80.195102" ;
+      <http://purl.org/ontology/bibo/volume>
+              "80" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1103/physrevb.80.195102> , <info:doi/10.1103/physrevb.80.195102> .
+
+<http://id.crossref.org/contributor/zoran-ristivojevic-27vbzx4q12lgt>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Ristivojevic" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Zoran" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Zoran Ristivojevic" .
+
+<http://id.crossref.org/contributor/leiming-chen-27vbzx4q12lgt>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Chen" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Leiming" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Leiming Chen" .
+
+<http://id.crossref.org/contributor/thomas-nattermann-27vbzx4q12lgt>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Nattermann" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Thomas" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Thomas Nattermann" .

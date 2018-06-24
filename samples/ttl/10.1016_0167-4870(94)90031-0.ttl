@@ -1,0 +1,60 @@
+<http://id.crossref.org/contributor/stephen-e-g-lea-3td05p7t68c30>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Lea" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Stephen E.G." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Stephen E.G. Lea" .
+
+<http://id.crossref.org/issn/0167-4870>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0167-4870" ;
+      <http://purl.org/dc/terms/title>
+              "Journal of Economic Psychology" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0167-4870" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0167-4870" .
+
+<http://id.crossref.org/contributor/russell-w-belk-3td05p7t68c30>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Belk" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Russell W." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Russell W. Belk" .
+
+<http://dx.doi.org/10.1016/0167-4870(94)90031-0>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/0167-4870(94)90031-0" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "4" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "1" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "15" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/stephen-e-g-lea-3td05p7t68c30> , <http://id.crossref.org/contributor/russell-w-belk-3td05p7t68c30> ;
+      <http://purl.org/dc/terms/date>
+              "1994-03"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/0167-4870(94)90031-0" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0167-4870> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "New developments in consumer psychology" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/0167-4870(94)90031-0" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "4" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "1" ;
+      <http://purl.org/ontology/bibo/volume>
+              "15" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1016/0167-4870(94)90031-0> , <info:doi/10.1016/0167-4870(94)90031-0> .

@@ -1,0 +1,60 @@
+<http://id.crossref.org/contributor/lacra-pavel-3lgtkue7nu3wv>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Pavel" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Lacra" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Lacra Pavel" .
+
+<http://id.crossref.org/contributor/nem-stefanovic-3lgtkue7nu3wv>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Stefanovic" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Nem" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Nem Stefanovic" .
+
+<http://id.crossref.org/issn/1474-6670>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1474-6670" ;
+      <http://purl.org/dc/terms/title>
+              "IFAC Proceedings Volumes" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1474-6670" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1474-6670" .
+
+<http://dx.doi.org/10.3182/20080706-5-kr-1001.00488>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.3182/20080706-5-kr-1001.00488" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "2906" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "2901" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "41" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/lacra-pavel-3lgtkue7nu3wv> , <http://id.crossref.org/contributor/nem-stefanovic-3lgtkue7nu3wv> ;
+      <http://purl.org/dc/terms/date>
+              "2008"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.3182/20080706-5-kr-1001.00488" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1474-6670> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Primal-Dual Power Control of Optical Networks with Time-Delay⋆ ⋆The authors gratefully acknowledge the support of the Natural Science and Engineering Research Council of Canada." ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.3182/20080706-5-kr-1001.00488" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "2906" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "2901" ;
+      <http://purl.org/ontology/bibo/volume>
+              "41" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.3182/20080706-5-kr-1001.00488> , <doi:10.3182/20080706-5-kr-1001.00488> .

@@ -1,0 +1,87 @@
+<http://id.crossref.org/contributor/h-blefgen-1459w5zsxoku>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Blefgen" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "H." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "H. Blefgen" .
+
+<http://id.crossref.org/contributor/e-r-vingilis-1459w5zsxoku>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Vingilis" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "E.R." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "E.R. Vingilis" .
+
+<http://id.crossref.org/issn/0001-4575>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0001-4575" ;
+      <http://purl.org/dc/terms/title>
+              "Accident Analysis & Prevention" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0001-4575" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0001-4575" .
+
+<http://id.crossref.org/contributor/g-leigh-1459w5zsxoku>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Leigh" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "G." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "G. Leigh" .
+
+<http://dx.doi.org/10.1016/0001-4575(86)90046-1>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/0001-4575(86)90046-1" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "337" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "325" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "18" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/h-blefgen-1459w5zsxoku> , <http://id.crossref.org/contributor/e-r-vingilis-1459w5zsxoku> , <http://id.crossref.org/contributor/g-leigh-1459w5zsxoku> , <http://id.crossref.org/contributor/r-e-mann-1459w5zsxoku> , <http://id.crossref.org/contributor/l-anglin-1459w5zsxoku> ;
+      <http://purl.org/dc/terms/date>
+              "1986-08"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/0001-4575(86)90046-1" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0001-4575> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "School-based programmes for the prevention of drinking and driving: Issues and results" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/0001-4575(86)90046-1" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "337" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "325" ;
+      <http://purl.org/ontology/bibo/volume>
+              "18" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1016/0001-4575(86)90046-1> , <doi:10.1016/0001-4575(86)90046-1> .
+
+<http://id.crossref.org/contributor/r-e-mann-1459w5zsxoku>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Mann" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "R.E." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "R.E. Mann" .
+
+<http://id.crossref.org/contributor/l-anglin-1459w5zsxoku>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Anglin" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "L." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "L. Anglin" .

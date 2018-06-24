@@ -1,0 +1,40 @@
+<http://id.crossref.org/issn/0001-4273>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0001-4273" , "1948-0989" ;
+      <http://purl.org/dc/terms/title>
+              "Academy of Management Journal" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0001-4273" , "1948-0989" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0001-4273" , "urn:issn:1948-0989" .
+
+<http://dx.doi.org/10.2307/256585>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.2307/256585" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "652" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "652" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "33" ;
+      <http://purl.org/dc/terms/date>
+              "1990-09-01"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.2307/256585" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0001-4273> ;
+      <http://purl.org/dc/terms/publisher>
+              "Academy of Management" ;
+      <http://purl.org/dc/terms/title>
+              "Errata." ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.2307/256585" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "652" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "652" ;
+      <http://purl.org/ontology/bibo/volume>
+              "33" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.2307/256585> , <doi:10.2307/256585> .

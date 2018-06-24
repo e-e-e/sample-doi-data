@@ -1,0 +1,40 @@
+<http://id.crossref.org/issn/0005-0423>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0005-0423" , "1751-0813" ;
+      <http://purl.org/dc/terms/title>
+              "Australian Veterinary Journal" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0005-0423" , "1751-0813" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0005-0423" , "urn:issn:1751-0813" .
+
+<http://dx.doi.org/10.1111/j.1751-0813.1948.tb04635.x>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1111/j.1751-0813.1948.tb04635.x" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "99" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "98" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "24" ;
+      <http://purl.org/dc/terms/date>
+              "1948-04"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1111/j.1751-0813.1948.tb04635.x" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0005-0423> ;
+      <http://purl.org/dc/terms/publisher>
+              "Wiley" ;
+      <http://purl.org/dc/terms/title>
+              "SCIENCE IN FARMING" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1111/j.1751-0813.1948.tb04635.x" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "99" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "98" ;
+      <http://purl.org/ontology/bibo/volume>
+              "24" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1111/j.1751-0813.1948.tb04635.x> , <doi:10.1111/j.1751-0813.1948.tb04635.x> .

@@ -1,0 +1,69 @@
+<http://id.crossref.org/issn/0021-4922>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0021-4922" , "1347-4065" ;
+      <http://purl.org/dc/terms/title>
+              "Japanese Journal of Applied Physics" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0021-4922" , "1347-4065" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0021-4922" , "urn:issn:1347-4065" .
+
+<http://id.crossref.org/contributor/mikio-ashikawa-2kux74ou9tc4f>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Ashikawa" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Mikio" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Mikio Ashikawa" .
+
+<http://id.crossref.org/contributor/hiroo-usui-2kux74ou9tc4f>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Usui" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Hiroo" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Hiroo Usui" .
+
+<http://dx.doi.org/10.1143/jjap.14.1351>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1143/jjap.14.1351" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "1356" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "1351" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "14" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/hiroo-usui-2kux74ou9tc4f> , <http://id.crossref.org/contributor/mikio-ashikawa-2kux74ou9tc4f> , <http://id.crossref.org/contributor/yasuo-wada-2kux74ou9tc4f> ;
+      <http://purl.org/dc/terms/date>
+              "1975-09"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1143/jjap.14.1351" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0021-4922> ;
+      <http://purl.org/dc/terms/publisher>
+              "Japan Society of Applied Physics" ;
+      <http://purl.org/dc/terms/title>
+              "Substrate Temperature Measurement during Ion Implantation" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1143/jjap.14.1351" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "1356" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "1351" ;
+      <http://purl.org/ontology/bibo/volume>
+              "14" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1143/jjap.14.1351> , <doi:10.1143/jjap.14.1351> .
+
+<http://id.crossref.org/contributor/yasuo-wada-2kux74ou9tc4f>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Wada" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Yasuo" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Yasuo Wada" .

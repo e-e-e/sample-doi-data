@@ -1,0 +1,87 @@
+<http://id.crossref.org/contributor/g-campagnari-3c5twr7fgk04o>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Campagnari" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "G." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "G. Campagnari" .
+
+<http://id.crossref.org/contributor/f-cristofori-3c5twr7fgk04o>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Cristofori" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "F." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "F. Cristofori" .
+
+<http://id.crossref.org/contributor/f-tagliaro-3c5twr7fgk04o>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Tagliaro" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "F." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "F. Tagliaro" .
+
+<http://id.crossref.org/contributor/m-marigo-3c5twr7fgk04o>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Marigo" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "M." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "M. Marigo" .
+
+<http://id.crossref.org/issn/0009-5893>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1612-1112" , "0009-5893" ;
+      <http://purl.org/dc/terms/title>
+              "Chromatographia" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1612-1112" , "0009-5893" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1612-1112" , "urn:issn:0009-5893" .
+
+<http://dx.doi.org/10.1007/bf02268144>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1007/bf02268144" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "167" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "163" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "26" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/m-marigo-3c5twr7fgk04o> , <http://id.crossref.org/contributor/f-cristofori-3c5twr7fgk04o> , <http://id.crossref.org/contributor/g-campagnari-3c5twr7fgk04o> , <http://id.crossref.org/contributor/f-tagliaro-3c5twr7fgk04o> , <http://id.crossref.org/contributor/g-carli-3c5twr7fgk04o> ;
+      <http://purl.org/dc/terms/date>
+              "1988-12"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1007/bf02268144" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0009-5893> ;
+      <http://purl.org/dc/terms/publisher>
+              "Springer Nature" ;
+      <http://purl.org/dc/terms/title>
+              "HPLC determination of morphine with amperometric detection at low potentials under basic pH conditions" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1007/bf02268144" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "167" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "163" ;
+      <http://purl.org/ontology/bibo/volume>
+              "26" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1007/bf02268144> , <info:doi/10.1007/bf02268144> .
+
+<http://id.crossref.org/contributor/g-carli-3c5twr7fgk04o>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Carli" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "G." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "G. Carli" .

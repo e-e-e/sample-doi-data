@@ -1,0 +1,51 @@
+<http://dx.doi.org/10.1038/455713a>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1038/455713a" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "713" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "713" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "455" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/eric-hand-15tuxqifvkclr> ;
+      <http://purl.org/dc/terms/date>
+              "2008-10-08"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1038/455713a" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0028-0836> ;
+      <http://purl.org/dc/terms/publisher>
+              "Springer Nature" ;
+      <http://purl.org/dc/terms/title>
+              "Kavli invests in institutes" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1038/455713a" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "713" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "713" ;
+      <http://purl.org/ontology/bibo/volume>
+              "455" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1038/455713a> , <info:doi/10.1038/455713a> .
+
+<http://id.crossref.org/issn/0028-0836>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1476-4687" , "0028-0836" ;
+      <http://purl.org/dc/terms/title>
+              "Nature" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1476-4687" , "0028-0836" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0028-0836" , "urn:issn:1476-4687" .
+
+<http://id.crossref.org/contributor/eric-hand-15tuxqifvkclr>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Hand" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Eric" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Eric Hand" .

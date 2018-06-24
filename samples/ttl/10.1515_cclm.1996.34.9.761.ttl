@@ -1,0 +1,70 @@
+<http://id.crossref.org/issn/1434-6621>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1434-6621" , "1437-4331" ;
+      <http://purl.org/dc/terms/title>
+              "Clinical Chemistry and Laboratory Medicine" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1434-6621" , "1437-4331" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1434-6621" , "urn:issn:1437-4331" .
+
+<http://id.crossref.org/contributor/adelbert-a-roscher-1hxtjxroo6pgy>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Roscher" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Adelbert A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Adelbert A. Roscher" .
+
+<http://id.crossref.org/contributor/peter-meyer-1hxtjxroo6pgy>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Meyer" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Peter" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Peter Meyer" .
+
+<http://dx.doi.org/10.1515/cclm.1996.34.9.761>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1515/cclm.1996.34.9.761" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "34" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/adelbert-a-roscher-1hxtjxroo6pgy> , <http://id.crossref.org/contributor/andreas-braun-1hxtjxroo6pgy> , <http://id.crossref.org/contributor/peter-meyer-1hxtjxroo6pgy> , <http://id.crossref.org/contributor/hartwig-cleve-1hxtjxroo6pgy> ;
+      <http://purl.org/dc/terms/date>
+              "1996"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1515/cclm.1996.34.9.761" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1434-6621> ;
+      <http://purl.org/dc/terms/publisher>
+              "Walter de Gruyter GmbH" ;
+      <http://purl.org/dc/terms/title>
+              "Rapid and Simple Diagnosis of the Two Common α 1 -Proteinase Inhibitor Deficiency Alleles Pi*Z and Pi*S by DNA Analysis" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1515/cclm.1996.34.9.761" ;
+      <http://purl.org/ontology/bibo/volume>
+              "34" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1515/cclm.1996.34.9.761> , <info:doi/10.1515/cclm.1996.34.9.761> .
+
+<http://id.crossref.org/contributor/andreas-braun-1hxtjxroo6pgy>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Braun" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Andreas" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Andreas Braun" .
+
+<http://id.crossref.org/contributor/hartwig-cleve-1hxtjxroo6pgy>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Cleve †" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Hartwig" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Hartwig Cleve †" .

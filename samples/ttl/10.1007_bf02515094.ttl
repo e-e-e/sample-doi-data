@@ -1,0 +1,78 @@
+<http://id.crossref.org/issn/0090-2977>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1573-9007" , "0090-2977" ;
+      <http://purl.org/dc/terms/title>
+              "Neurophysiology" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1573-9007" , "0090-2977" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0090-2977" , "urn:issn:1573-9007" .
+
+<http://dx.doi.org/10.1007/bf02515094>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1007/bf02515094" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "232" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "227" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "31" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/i-i-abramets-3u9led5sv8u3c> , <http://id.crossref.org/contributor/yu-v-kuznetsov-3u9led5sv8u3c> , <http://id.crossref.org/contributor/i-m-samoilovich-3u9led5sv8u3c> , <http://id.crossref.org/contributor/l-ya-zinkovskaya-3u9led5sv8u3c> ;
+      <http://purl.org/dc/terms/date>
+              "1999-07"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1007/bf02515094" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0090-2977> ;
+      <http://purl.org/dc/terms/publisher>
+              "Springer Nature" ;
+      <http://purl.org/dc/terms/title>
+              "Neurochemical mechanisms underlying NMDA-independent long-term post-tetanic potentiation of synaptic transmission" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1007/bf02515094" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "232" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "227" ;
+      <http://purl.org/ontology/bibo/volume>
+              "31" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1007/bf02515094> , <doi:10.1007/bf02515094> .
+
+<http://id.crossref.org/contributor/i-i-abramets-3u9led5sv8u3c>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Abramets" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "I. I." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "I. I. Abramets" .
+
+<http://id.crossref.org/contributor/yu-v-kuznetsov-3u9led5sv8u3c>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kuznetsov" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Yu. V." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Yu. V. Kuznetsov" .
+
+<http://id.crossref.org/contributor/i-m-samoilovich-3u9led5sv8u3c>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Samoilovich" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "I. M." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "I. M. Samoilovich" .
+
+<http://id.crossref.org/contributor/l-ya-zinkovskaya-3u9led5sv8u3c>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Zin’kovskaya" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "L. Ya." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "L. Ya. Zin’kovskaya" .

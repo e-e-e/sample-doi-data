@@ -1,0 +1,60 @@
+<http://dx.doi.org/10.1055/s-2005-870191>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1055/s-2005-870191" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "128" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "117" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "1" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/thorsten-lewalter-332iw1kr3gyuo> , <http://id.crossref.org/contributor/berndt-luderitz-332iw1kr3gyuo> ;
+      <http://purl.org/dc/terms/date>
+              "2005-06"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1055/s-2005-870191" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1611-6534> ;
+      <http://purl.org/dc/terms/publisher>
+              "Georg Thieme Verlag KG" ;
+      <http://purl.org/dc/terms/title>
+              "Vorhofflimmern und Vorhofflattern - konservative vs. interventionelle Therapie" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1055/s-2005-870191" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "128" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "117" ;
+      <http://purl.org/ontology/bibo/volume>
+              "1" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1055/s-2005-870191> , <info:doi/10.1055/s-2005-870191> .
+
+<http://id.crossref.org/contributor/thorsten-lewalter-332iw1kr3gyuo>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Lewalter" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Thorsten" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Thorsten Lewalter" .
+
+<http://id.crossref.org/contributor/berndt-luderitz-332iw1kr3gyuo>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Lüderitz" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Berndt" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Berndt Lüderitz" .
+
+<http://id.crossref.org/issn/1611-6534>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1860-3513" , "1611-6534" ;
+      <http://purl.org/dc/terms/title>
+              "Kardiologie up2date" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1860-3513" , "1611-6534" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1611-6534" , "urn:issn:1860-3513" .

@@ -1,0 +1,51 @@
+<http://dx.doi.org/10.1007/bf02804270>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1007/bf02804270" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "35" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "32" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "15" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/bruce-russell-1mko8rqiphme> ;
+      <http://purl.org/dc/terms/date>
+              "1976-03"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1007/bf02804270" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0038-1527> ;
+      <http://purl.org/dc/terms/publisher>
+              "Springer Nature" ;
+      <http://purl.org/dc/terms/title>
+              "Probability, utility and rational belief" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1007/bf02804270" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "35" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "32" ;
+      <http://purl.org/ontology/bibo/volume>
+              "15" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1007/bf02804270> , <info:doi/10.1007/bf02804270> .
+
+<http://id.crossref.org/contributor/bruce-russell-1mko8rqiphme>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Russell" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Bruce" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Bruce Russell" .
+
+<http://id.crossref.org/issn/0038-1527>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0038-1527" , "1873-930X" ;
+      <http://purl.org/dc/terms/title>
+              "Sophia" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0038-1527" , "1873-930X" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0038-1527" , "urn:issn:1873-930X" .

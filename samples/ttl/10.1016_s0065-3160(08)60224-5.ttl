@@ -1,0 +1,70 @@
+<http://id.crossref.org/issn/0065-3160>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0065-3160" ;
+      <http://purl.org/dc/terms/title>
+              "Advances in Physical Organic Chemistry" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0065-3160" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0065-3160" .
+
+<http://dx.doi.org/10.1016/s0065-3160(08)60224-5>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/s0065-3160(08)60224-5" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "379" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "223" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/g-jonall-1bilbc0n2ogoz> , <http://id.crossref.org/contributor/p-ahlberg-1bilbc0n2ogoz> , <http://id.crossref.org/contributor/c-engdahl-1bilbc0n2ogoz> ;
+      <http://purl.org/dc/terms/date>
+              "1983"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/s0065-3160(08)60224-5" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0065-3160> , <http://id.crossref.org/isbn/9780120335190> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier" ;
+      <http://purl.org/dc/terms/title>
+              "Degenerate Carbocation Rearrangements" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/s0065-3160(08)60224-5" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "379" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "223" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1016/s0065-3160(08)60224-5> , <info:doi/10.1016/s0065-3160(08)60224-5> .
+
+<http://id.crossref.org/contributor/g-jonall-1bilbc0n2ogoz>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Jonäll" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "G." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "G. Jonäll" .
+
+<http://id.crossref.org/contributor/p-ahlberg-1bilbc0n2ogoz>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Ahlberg" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "P." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "P. Ahlberg" .
+
+<http://id.crossref.org/isbn/9780120335190>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Advances in Physical Organic Chemistry" .
+
+<http://id.crossref.org/contributor/c-engdahl-1bilbc0n2ogoz>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Engdahl" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "C." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "C. Engdahl" .

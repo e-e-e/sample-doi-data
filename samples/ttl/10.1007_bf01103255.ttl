@@ -1,0 +1,60 @@
+<http://id.crossref.org/contributor/i-i-zhechev-lt8ycszz4063>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Zhechev" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "I. I." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "I. I. Zhechev" .
+
+<http://id.crossref.org/contributor/i-v-boikov-lt8ycszz4063>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Boikov" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "I. V." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "I. V. Boikov" .
+
+<http://id.crossref.org/issn/0090-4104>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1573-8795" , "0090-4104" ;
+      <http://purl.org/dc/terms/title>
+              "Journal of Soviet Mathematics" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1573-8795" , "0090-4104" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0090-4104" , "urn:issn:1573-8795" .
+
+<http://dx.doi.org/10.1007/bf01103255>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1007/bf01103255" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "1013" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "1003" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "41" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/i-i-zhechev-lt8ycszz4063> , <http://id.crossref.org/contributor/i-v-boikov-lt8ycszz4063> ;
+      <http://purl.org/dc/terms/date>
+              "1988-05"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1007/bf01103255" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0090-4104> ;
+      <http://purl.org/dc/terms/publisher>
+              "Springer Nature" ;
+      <http://purl.org/dc/terms/title>
+              "Approximate solution of singular integrodifferential equations on closed contours of integration" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1007/bf01103255" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "1013" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "1003" ;
+      <http://purl.org/ontology/bibo/volume>
+              "41" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1007/bf01103255> , <info:doi/10.1007/bf01103255> .

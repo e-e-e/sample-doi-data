@@ -1,0 +1,51 @@
+<http://id.crossref.org/contributor/j-g-mauldon-b4u5njr8kepu>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "MAULDON" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "J. G." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "J. G. MAULDON" .
+
+<http://id.crossref.org/issn/0033-5606>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1464-3847" , "0033-5606" ;
+      <http://purl.org/dc/terms/title>
+              "The Quarterly Journal of Mathematics" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1464-3847" , "0033-5606" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1464-3847" , "urn:issn:0033-5606" .
+
+<http://dx.doi.org/10.1093/qmath/7.1.155>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1093/qmath/7.1.155" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "160" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "155" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "7" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/j-g-mauldon-b4u5njr8kepu> ;
+      <http://purl.org/dc/terms/date>
+              "1956"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1093/qmath/7.1.155" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0033-5606> ;
+      <http://purl.org/dc/terms/publisher>
+              "Oxford University Press (OUP)" ;
+      <http://purl.org/dc/terms/title>
+              "CHARACTERIZING PROPERTIES OF STATISTICAL DISTRIBUTIONS" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1093/qmath/7.1.155" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "160" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "155" ;
+      <http://purl.org/ontology/bibo/volume>
+              "7" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1093/qmath/7.1.155> , <doi:10.1093/qmath/7.1.155> .

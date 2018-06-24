@@ -1,0 +1,69 @@
+<http://id.crossref.org/contributor/frans-willem-winkel-2lv95klu5w4bu>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Winkel" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Frans Willem" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Frans Willem Winkel" .
+
+<http://id.crossref.org/contributor/bernardine-j-ensink-2lv95klu5w4bu>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Ensink" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Bernardine J." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Bernardine J. Ensink" .
+
+<http://id.crossref.org/issn/1057-5677>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1057-5677" , "1556-3855" ;
+      <http://purl.org/dc/terms/title>
+              "International Criminal Justice Review" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1057-5677" , "1556-3855" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1556-3855" , "urn:issn:1057-5677" .
+
+<http://dx.doi.org/10.1177/105756770001000105>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1177/105756770001000105" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "97" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "81" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "10" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/frans-willem-winkel-2lv95klu5w4bu> , <http://id.crossref.org/contributor/bernardine-j-ensink-2lv95klu5w4bu> , <http://id.crossref.org/contributor/willy-van-berlo-2lv95klu5w4bu> ;
+      <http://purl.org/dc/terms/date>
+              "2000-05"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1177/105756770001000105" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1057-5677> ;
+      <http://purl.org/dc/terms/publisher>
+              "SAGE Publications" ;
+      <http://purl.org/dc/terms/title>
+              "Secrecy and Persistent Problems in Sexual Assault Victims" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1177/105756770001000105" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "97" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "81" ;
+      <http://purl.org/ontology/bibo/volume>
+              "10" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1177/105756770001000105> , <info:doi/10.1177/105756770001000105> .
+
+<http://id.crossref.org/contributor/willy-van-berlo-2lv95klu5w4bu>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "van Berlo" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Willy" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Willy van Berlo" .

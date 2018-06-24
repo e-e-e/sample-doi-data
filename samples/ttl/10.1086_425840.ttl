@@ -1,0 +1,51 @@
+<http://dx.doi.org/10.1086/425840>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1086/425840" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "341" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "340" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "79" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/julianc-lee-9thda5lhxsk5> ;
+      <http://purl.org/dc/terms/date>
+              "2004-09"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1086/425840" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0033-5770> ;
+      <http://purl.org/dc/terms/publisher>
+              "University of Chicago Press" ;
+      <http://purl.org/dc/terms/title>
+              "The Lowland Maya Area: Three Millennia at the Human‐Wildland Interface. Crop Science. Edited by Arturo  Gómez‐Pompa, Michael F  Allen, Scott L  Fedick, and , Juan J  Jiménez‐Osornio. Food Products Press. Binghamton (New York): Haworth Press. $129.95 (hardcover); $79.95 (paper). xxix + 659 p; ill.; index. ISBN: 1–56022–970–5 (hc); 1–56022–971–3 (pb). 2003." ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1086/425840" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "341" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "340" ;
+      <http://purl.org/ontology/bibo/volume>
+              "79" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1086/425840> , <doi:10.1086/425840> .
+
+<http://id.crossref.org/issn/0033-5770>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1539-7718" , "0033-5770" ;
+      <http://purl.org/dc/terms/title>
+              "The Quarterly Review of Biology" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1539-7718" , "0033-5770" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1539-7718" , "urn:issn:0033-5770" .
+
+<http://id.crossref.org/contributor/julianc-lee-9thda5lhxsk5>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Lee" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Julian C" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Julian C Lee" .

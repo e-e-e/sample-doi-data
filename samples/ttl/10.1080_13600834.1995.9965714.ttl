@@ -1,0 +1,40 @@
+<http://id.crossref.org/issn/1360-0834>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1360-0834" , "1469-8404" ;
+      <http://purl.org/dc/terms/title>
+              "Information & Communications Technology Law" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1360-0834" , "1469-8404" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1469-8404" , "urn:issn:1360-0834" .
+
+<http://dx.doi.org/10.1080/13600834.1995.9965714>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1080/13600834.1995.9965714" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "ebi" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "ebi" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "4" ;
+      <http://purl.org/dc/terms/date>
+              "1995-01"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1080/13600834.1995.9965714" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1360-0834> ;
+      <http://purl.org/dc/terms/publisher>
+              "Informa UK Limited" ;
+      <http://purl.org/dc/terms/title>
+              "Editorial board" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1080/13600834.1995.9965714" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "ebi" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "ebi" ;
+      <http://purl.org/ontology/bibo/volume>
+              "4" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1080/13600834.1995.9965714> , <doi:10.1080/13600834.1995.9965714> .

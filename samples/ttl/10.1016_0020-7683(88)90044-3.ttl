@@ -1,0 +1,51 @@
+<http://id.crossref.org/issn/0020-7683>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0020-7683" ;
+      <http://purl.org/dc/terms/title>
+              "International Journal of Solids and Structures" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0020-7683" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0020-7683" .
+
+<http://dx.doi.org/10.1016/0020-7683(88)90044-3>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/0020-7683(88)90044-3" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "972" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "963" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "24" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/r-k-n-d-rajapakse-1ut8qdxq5ojwz> ;
+      <http://purl.org/dc/terms/date>
+              "1988"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/0020-7683(88)90044-3" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0020-7683> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "A note on the elastodynamic load transfer problem" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/0020-7683(88)90044-3" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "972" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "963" ;
+      <http://purl.org/ontology/bibo/volume>
+              "24" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1016/0020-7683(88)90044-3> , <info:doi/10.1016/0020-7683(88)90044-3> .
+
+<http://id.crossref.org/contributor/r-k-n-d-rajapakse-1ut8qdxq5ojwz>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Rajapakse" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "R.K.N.D." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "R.K.N.D. Rajapakse" .

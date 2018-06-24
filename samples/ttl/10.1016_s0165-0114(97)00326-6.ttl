@@ -1,0 +1,60 @@
+<http://dx.doi.org/10.1016/s0165-0114(97)00326-6>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/s0165-0114(97)00326-6" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "143" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "123" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "108" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/k-c-xue-26z279x4vbgx0> , <http://id.crossref.org/contributor/r-j-kuo-26z279x4vbgx0> ;
+      <http://purl.org/dc/terms/date>
+              "1999-12"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/s0165-0114(97)00326-6" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0165-0114> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Fuzzy neural networks with application to sales forecasting" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/s0165-0114(97)00326-6" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "143" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "123" ;
+      <http://purl.org/ontology/bibo/volume>
+              "108" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1016/s0165-0114(97)00326-6> , <doi:10.1016/s0165-0114(97)00326-6> .
+
+<http://id.crossref.org/contributor/k-c-xue-26z279x4vbgx0>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Xue" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "K.C." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "K.C. Xue" .
+
+<http://id.crossref.org/contributor/r-j-kuo-26z279x4vbgx0>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kuo" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "R.J." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "R.J. Kuo" .
+
+<http://id.crossref.org/issn/0165-0114>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0165-0114" ;
+      <http://purl.org/dc/terms/title>
+              "Fuzzy Sets and Systems" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0165-0114" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0165-0114" .

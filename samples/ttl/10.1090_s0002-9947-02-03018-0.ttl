@@ -1,0 +1,49 @@
+<http://dx.doi.org/10.1090/s0002-9947-02-03018-0>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1090/s0002-9947-02-03018-0" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "4043" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "4015" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "354" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/david-bachman-1xrg3m8yltpqg> ;
+      <http://purl.org/dc/terms/date>
+              "2002-10-01"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1090/s0002-9947-02-03018-0" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0002-9947> ;
+      <http://purl.org/dc/terms/publisher>
+              "American Mathematical Society (AMS)" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1090/s0002-9947-02-03018-0" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "4043" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "4015" ;
+      <http://purl.org/ontology/bibo/volume>
+              "354" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1090/s0002-9947-02-03018-0> , <doi:10.1090/s0002-9947-02-03018-0> .
+
+<http://id.crossref.org/issn/0002-9947>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0002-9947" ;
+      <http://purl.org/dc/terms/title>
+              "Transactions of the American Mathematical Society" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0002-9947" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0002-9947" .
+
+<http://id.crossref.org/contributor/david-bachman-1xrg3m8yltpqg>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Bachman" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "David" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "David Bachman" .

@@ -1,0 +1,56 @@
+<http://id.crossref.org/issn/0032-4663>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0032-4663" ;
+      <http://purl.org/dc/terms/title>
+              "Population (French Edition)" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0032-4663" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0032-4663" .
+
+<http://id.crossref.org/contributor/leon-goldenberg-3q7sb14hwdbut>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Goldenberg" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Leon" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Leon Goldenberg" .
+
+<http://dx.doi.org/10.2307/1523464>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.2307/1523464" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "184" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "3" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/leon-goldenberg-3q7sb14hwdbut> , <http://id.crossref.org/contributor/a-s-3q7sb14hwdbut> ;
+      <http://purl.org/dc/terms/date>
+              "1948-01"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.2307/1523464" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0032-4663> ;
+      <http://purl.org/dc/terms/publisher>
+              "JSTOR" ;
+      <http://purl.org/dc/terms/title>
+              "Saving in a State with a Stationary Population" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.2307/1523464" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "184" ;
+      <http://purl.org/ontology/bibo/volume>
+              "3" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.2307/1523464> , <doi:10.2307/1523464> .
+
+<http://id.crossref.org/contributor/a-s-3q7sb14hwdbut>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "S." ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "A. S." .

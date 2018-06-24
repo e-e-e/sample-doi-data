@@ -1,0 +1,177 @@
+<http://id.crossref.org/contributor/yu-d-prokoshkin-7fw5izal0e6p>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Prokoshkin" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Yu.D." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Yu.D. Prokoshkin" .
+
+<http://id.crossref.org/issn/0370-2693>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0370-2693" ;
+      <http://purl.org/dc/terms/title>
+              "Physics Letters B" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0370-2693" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0370-2693" .
+
+<http://id.crossref.org/contributor/j-p-peigneux-7fw5izal0e6p>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Peigneux" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "J.-P." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "J.-P. Peigneux" .
+
+<http://id.crossref.org/contributor/v-a-kachanov-7fw5izal0e6p>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kachanov" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "V.A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "V.A. Kachanov" .
+
+<http://id.crossref.org/contributor/v-m-kutyin-7fw5izal0e6p>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kutyin" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "V.M." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "V.M. Kutyin" .
+
+<http://id.crossref.org/contributor/d-a-stoyanova-7fw5izal0e6p>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Stoyanova" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "D.A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "D.A. Stoyanova" .
+
+<http://id.crossref.org/contributor/s-p-denisov-7fw5izal0e6p>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Denisov" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "S.P." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "S.P. Denisov" .
+
+<http://id.crossref.org/contributor/r-s-shuvalov-7fw5izal0e6p>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Shuvalov" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "R.S." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "R.S. Shuvalov" .
+
+<http://id.crossref.org/contributor/yu-p-gorin-7fw5izal0e6p>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Gorin" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Yu.P." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Yu.P. Gorin" .
+
+<http://id.crossref.org/contributor/e-a-razuvaev-7fw5izal0e6p>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Razuvaev" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "E.A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "E.A. Razuvaev" .
+
+<http://id.crossref.org/contributor/s-v-donskov-7fw5izal0e6p>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Donskov" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "S.V." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "S.V. Donskov" .
+
+<http://id.crossref.org/contributor/j-p-stroot-7fw5izal0e6p>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Stroot" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "J.-P." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "J.-P. Stroot" .
+
+<http://id.crossref.org/contributor/f-binon-7fw5izal0e6p>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Binon" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "F." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "F. Binon" .
+
+<http://id.crossref.org/contributor/g-giacomelli-7fw5izal0e6p>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Giacomelli" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "G." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "G. Giacomelli" .
+
+<http://dx.doi.org/10.1016/0370-2693(70)90112-7>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/0370-2693(70)90112-7" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "232" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "230" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "31" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/yu-d-prokoshkin-7fw5izal0e6p> , <http://id.crossref.org/contributor/j-p-peigneux-7fw5izal0e6p> , <http://id.crossref.org/contributor/v-a-kachanov-7fw5izal0e6p> , <http://id.crossref.org/contributor/v-m-kutyin-7fw5izal0e6p> , <http://id.crossref.org/contributor/d-a-stoyanova-7fw5izal0e6p> , <http://id.crossref.org/contributor/s-p-denisov-7fw5izal0e6p> , <http://id.crossref.org/contributor/yu-p-gorin-7fw5izal0e6p> , <http://id.crossref.org/contributor/e-a-razuvaev-7fw5izal0e6p> , <http://id.crossref.org/contributor/r-s-shuvalov-7fw5izal0e6p> , <http://id.crossref.org/contributor/s-v-donskov-7fw5izal0e6p> , <http://id.crossref.org/contributor/j-p-stroot-7fw5izal0e6p> , <http://id.crossref.org/contributor/f-binon-7fw5izal0e6p> , <http://id.crossref.org/contributor/g-giacomelli-7fw5izal0e6p> , <http://id.crossref.org/contributor/p-duteil-7fw5izal0e6p> , <http://id.crossref.org/contributor/a-i-petrukhin-7fw5izal0e6p> ;
+      <http://purl.org/dc/terms/date>
+              "1970-02"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/0370-2693(70)90112-7" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0370-2693> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Absorption cross-sections of 25 GeV/c antideuterons in Li, C, Al, Cu and Pb" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/0370-2693(70)90112-7" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "232" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "230" ;
+      <http://purl.org/ontology/bibo/volume>
+              "31" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1016/0370-2693(70)90112-7> , <info:doi/10.1016/0370-2693(70)90112-7> .
+
+<http://id.crossref.org/contributor/p-duteil-7fw5izal0e6p>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Duteil" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "P." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "P. Duteil" .
+
+<http://id.crossref.org/contributor/a-i-petrukhin-7fw5izal0e6p>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Petrukhin" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "A.I." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "A.I. Petrukhin" .

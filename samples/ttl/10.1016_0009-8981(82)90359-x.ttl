@@ -1,0 +1,51 @@
+<http://dx.doi.org/10.1016/0009-8981(82)90359-x>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/0009-8981(82)90359-x" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "39" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "25" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "126" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/s-baar-3krxjiywdnkci> ;
+      <http://purl.org/dc/terms/date>
+              "1982-11"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/0009-8981(82)90359-x" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0009-8981> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "The effect of thermal injury on the loss of calcium from calcium loaded red cells: its relationship to red cell function and patient survival" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/0009-8981(82)90359-x" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "39" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "25" ;
+      <http://purl.org/ontology/bibo/volume>
+              "126" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1016/0009-8981(82)90359-x> , <info:doi/10.1016/0009-8981(82)90359-x> .
+
+<http://id.crossref.org/contributor/s-baar-3krxjiywdnkci>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Baar" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "S." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "S. Baar" .
+
+<http://id.crossref.org/issn/0009-8981>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0009-8981" ;
+      <http://purl.org/dc/terms/title>
+              "Clinica Chimica Acta" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0009-8981" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0009-8981" .

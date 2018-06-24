@@ -1,0 +1,51 @@
+<http://id.crossref.org/contributor/peter-braun-7cvr1tqwk8x5>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Braun" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Peter" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Peter Braun" .
+
+<http://id.crossref.org/isbn/0769527485>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "2006 IEEE/WIC/ACM International Conference on Intelligent Agent Technology" .
+
+<http://dx.doi.org/10.1109/iat.2006.122>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1109/iat.2006.122" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/peter-braun-7cvr1tqwk8x5> , <http://id.crossref.org/contributor/ryszard-kowalczyk-7cvr1tqwk8x5> , <http://id.crossref.org/contributor/ingo-muller-7cvr1tqwk8x5> ;
+      <http://purl.org/dc/terms/date>
+              "2006-12"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1109/iat.2006.122" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/0769527485> ;
+      <http://purl.org/dc/terms/publisher>
+              "IEEE" ;
+      <http://purl.org/dc/terms/title>
+              "Towards Agent-Based Coalition Formation for Service Composition" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1109/iat.2006.122" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1109/iat.2006.122> , <doi:10.1109/iat.2006.122> .
+
+<http://id.crossref.org/contributor/ryszard-kowalczyk-7cvr1tqwk8x5>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kowalczyk" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Ryszard" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Ryszard Kowalczyk" .
+
+<http://id.crossref.org/contributor/ingo-muller-7cvr1tqwk8x5>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Muller" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Ingo" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Ingo Muller" .

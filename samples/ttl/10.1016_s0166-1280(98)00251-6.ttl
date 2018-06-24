@@ -1,0 +1,78 @@
+<http://id.crossref.org/contributor/fredrik-hffner-qru82ikv6i55>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Hæffner" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Fredrik" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Fredrik Hæffner" .
+
+<http://id.crossref.org/contributor/ching-han-hu-qru82ikv6i55>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Hu" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Ching-Han" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Ching-Han Hu" .
+
+<http://id.crossref.org/contributor/torbjorn-norin-qru82ikv6i55>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Norin" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Torbjörn" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Torbjörn Norin" .
+
+<http://id.crossref.org/contributor/tore-brinck-qru82ikv6i55>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Brinck" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Tore" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Tore Brinck" .
+
+<http://dx.doi.org/10.1016/s0166-1280(98)00251-6>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/s0166-1280(98)00251-6" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "93" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "85" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "459" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/fredrik-hffner-qru82ikv6i55> , <http://id.crossref.org/contributor/ching-han-hu-qru82ikv6i55> , <http://id.crossref.org/contributor/torbjorn-norin-qru82ikv6i55> , <http://id.crossref.org/contributor/tore-brinck-qru82ikv6i55> ;
+      <http://purl.org/dc/terms/date>
+              "1999-02"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/s0166-1280(98)00251-6" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0166-1280> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "The catalytic effect of water in basic hydrolysis of methyl acetate: a theoretical study" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/s0166-1280(98)00251-6" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "93" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "85" ;
+      <http://purl.org/ontology/bibo/volume>
+              "459" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1016/s0166-1280(98)00251-6> , <doi:10.1016/s0166-1280(98)00251-6> .
+
+<http://id.crossref.org/issn/0166-1280>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0166-1280" ;
+      <http://purl.org/dc/terms/title>
+              "Journal of Molecular Structure: THEOCHEM" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0166-1280" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0166-1280" .

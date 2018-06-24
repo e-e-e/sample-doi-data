@@ -1,0 +1,36 @@
+<http://id.crossref.org/issn/0008-4212>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0008-4212" , "1205-7541" ;
+      <http://purl.org/dc/terms/title>
+              "Canadian Journal of Physiology and Pharmacology" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0008-4212" , "1205-7541" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1205-7541" , "urn:issn:0008-4212" .
+
+<http://dx.doi.org/10.1139/y02-910>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1139/y02-910" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "iii" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "81" ;
+      <http://purl.org/dc/terms/date>
+              "2003-01"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1139/y02-910" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0008-4212> ;
+      <http://purl.org/dc/terms/publisher>
+              "Canadian Science Publishing" ;
+      <http://purl.org/dc/terms/title>
+              "Announcement / Communiqué" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1139/y02-910" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "iii" ;
+      <http://purl.org/ontology/bibo/volume>
+              "81" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1139/y02-910> , <info:doi/10.1139/y02-910> .

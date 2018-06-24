@@ -1,0 +1,51 @@
+<http://dx.doi.org/10.1289/ehp.116-a440a>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1289/ehp.116-a440a" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "A440" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "A440" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "116" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/cynthia-washam-2wtqqxsxwwksk> ;
+      <http://purl.org/dc/terms/date>
+              "2008-10-01"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1289/ehp.116-a440a" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0091-6765> ;
+      <http://purl.org/dc/terms/publisher>
+              "Environmental Health Perspectives" ;
+      <http://purl.org/dc/terms/title>
+              "Asthma among WTC Children: Registry Yields First Child Health Report" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1289/ehp.116-a440a" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "A440" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "A440" ;
+      <http://purl.org/ontology/bibo/volume>
+              "116" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1289/ehp.116-a440a> , <doi:10.1289/ehp.116-a440a> .
+
+<http://id.crossref.org/contributor/cynthia-washam-2wtqqxsxwwksk>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Washam" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Cynthia" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Cynthia Washam" .
+
+<http://id.crossref.org/issn/0091-6765>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0091-6765" ;
+      <http://purl.org/dc/terms/title>
+              "Environmental Health Perspectives" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0091-6765" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0091-6765" .

@@ -1,0 +1,32 @@
+<http://dx.doi.org/10.1039/b719530n>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1039/b719530n" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "413" ;
+      <http://purl.org/dc/terms/date>
+              "2008"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1039/b719530n" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1477-9226> ;
+      <http://purl.org/dc/terms/publisher>
+              "Royal Society of Chemistry (RSC)" ;
+      <http://purl.org/dc/terms/title>
+              "Front cover" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1039/b719530n" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "413" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1039/b719530n> , <info:doi/10.1039/b719530n> .
+
+<http://id.crossref.org/issn/1477-9226>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1477-9226" , "1477-9234" ;
+      <http://purl.org/dc/terms/title>
+              "Dalton Transactions" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1477-9226" , "1477-9234" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1477-9226" , "urn:issn:1477-9234" .

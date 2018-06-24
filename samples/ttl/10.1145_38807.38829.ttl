@@ -1,0 +1,51 @@
+<http://dx.doi.org/10.1145/38807.38829>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1145/38807.38829" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "253" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "243" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "22" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/o-m-nierstrasz-1bkr7x9vs1nd5> ;
+      <http://purl.org/dc/terms/date>
+              "1987-12-01"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1145/38807.38829" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0362-1340> ;
+      <http://purl.org/dc/terms/publisher>
+              "Association for Computing Machinery (ACM)" ;
+      <http://purl.org/dc/terms/title>
+              "Active objects in hybrid" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1145/38807.38829" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "253" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "243" ;
+      <http://purl.org/ontology/bibo/volume>
+              "22" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1145/38807.38829> , <info:doi/10.1145/38807.38829> .
+
+<http://id.crossref.org/issn/0362-1340>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0362-1340" ;
+      <http://purl.org/dc/terms/title>
+              "ACM SIGPLAN Notices" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0362-1340" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0362-1340" .
+
+<http://id.crossref.org/contributor/o-m-nierstrasz-1bkr7x9vs1nd5>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Nierstrasz" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "O. M." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "O. M. Nierstrasz" .

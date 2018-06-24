@@ -1,0 +1,42 @@
+<http://id.crossref.org/isbn/0818619333>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "[1989] Proceedings. The Twenty-First Southeastern Symposium on System Theory" .
+
+<http://id.crossref.org/contributor/r-k-white-3rm6j6k2gn49z>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "White" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "R.K." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "R.K. White" .
+
+<http://dx.doi.org/10.1109/ssst.1989.72551>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1109/ssst.1989.72551" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/r-k-white-3rm6j6k2gn49z> , <http://id.crossref.org/contributor/a-r-jantrania-3rm6j6k2gn49z> ;
+      <http://purl.org/dc/terms/date>
+              ""^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1109/ssst.1989.72551" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/0818619333> ;
+      <http://purl.org/dc/terms/publisher>
+              "IEEE Comput. Soc. Press" ;
+      <http://purl.org/dc/terms/title>
+              "An expert system for design analysis of municipal sludge land application" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1109/ssst.1989.72551" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1109/ssst.1989.72551> , <info:doi/10.1109/ssst.1989.72551> .
+
+<http://id.crossref.org/contributor/a-r-jantrania-3rm6j6k2gn49z>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Jantrania" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "A.R." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "A.R. Jantrania" .

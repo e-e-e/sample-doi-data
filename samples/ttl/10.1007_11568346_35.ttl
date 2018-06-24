@@ -1,0 +1,61 @@
+<http://id.crossref.org/isbn/9783540293958>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Perspectives in Conceptual Modeling" .
+
+<http://id.crossref.org/contributor/bernhard-thalheim-417u1chiwswd>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Thalheim" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Bernhard" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Bernhard Thalheim" .
+
+<http://id.crossref.org/issn/0302-9743>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0302-9743" , "1611-3349" ;
+      <http://purl.org/dc/terms/title>
+              "Perspectives in Conceptual Modeling" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0302-9743" , "1611-3349" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1611-3349" , "urn:issn:0302-9743" .
+
+<http://dx.doi.org/10.1007/11568346_35>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1007/11568346_35" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "332" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "331" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/bernhard-thalheim-417u1chiwswd> , <http://id.crossref.org/contributor/willem-jan-van-den-heuvel-417u1chiwswd> ;
+      <http://purl.org/dc/terms/date>
+              "2005"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1007/11568346_35" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9783540293958> , <http://id.crossref.org/issn/0302-9743> ;
+      <http://purl.org/dc/terms/publisher>
+              "Springer Berlin Heidelberg" ;
+      <http://purl.org/dc/terms/title>
+              "Preface to eCOMO 2005" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1007/11568346_35" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "332" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "331" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1007/11568346_35> , <info:doi/10.1007/11568346_35> .
+
+<http://id.crossref.org/contributor/willem-jan-van-den-heuvel-417u1chiwswd>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "van den Heuvel" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Willem-Jan" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Willem-Jan van den Heuvel" .

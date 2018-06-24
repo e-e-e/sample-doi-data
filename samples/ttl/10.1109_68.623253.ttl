@@ -1,0 +1,69 @@
+<http://id.crossref.org/issn/1041-1135>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1941-0174" , "1041-1135" ;
+      <http://purl.org/dc/terms/title>
+              "IEEE Photonics Technology Letters" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1941-0174" , "1041-1135" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1941-0174" , "urn:issn:1041-1135" .
+
+<http://id.crossref.org/contributor/j-m-ferreira-zlhkt362ha4e>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Ferreira" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "J.M." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "J.M. Ferreira" .
+
+<http://id.crossref.org/contributor/h-m-salgado-zlhkt362ha4e>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Salgado" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "H.M." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "H.M. Salgado" .
+
+<http://id.crossref.org/contributor/j-j-oreilly-zlhkt362ha4e>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "O'Reilly" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "J.J." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "J.J. O'Reilly" .
+
+<http://dx.doi.org/10.1109/68.623253>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1109/68.623253" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "1333" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "1331" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "9" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/j-m-ferreira-zlhkt362ha4e> , <http://id.crossref.org/contributor/h-m-salgado-zlhkt362ha4e> , <http://id.crossref.org/contributor/j-j-oreilly-zlhkt362ha4e> ;
+      <http://purl.org/dc/terms/date>
+              "1997-10"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1109/68.623253" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1041-1135> ;
+      <http://purl.org/dc/terms/publisher>
+              "Institute of Electrical and Electronics Engineers (IEEE)" ;
+      <http://purl.org/dc/terms/title>
+              "Extraction of semiconductor intrinsic laser parameters by intermodulation distortion analysis" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1109/68.623253" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "1333" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "1331" ;
+      <http://purl.org/ontology/bibo/volume>
+              "9" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1109/68.623253> , <info:doi/10.1109/68.623253> .

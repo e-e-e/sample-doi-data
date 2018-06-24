@@ -1,0 +1,60 @@
+<http://id.crossref.org/contributor/pauline-f-ilsen-1ixgbcw6qwbqy>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Ilsen" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Pauline F." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Pauline F. Ilsen" .
+
+<http://dx.doi.org/10.1016/j.optm.2006.11.013>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/j.optm.2006.11.013" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "364" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "356" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "78" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/pauline-f-ilsen-1ixgbcw6qwbqy> , <http://id.crossref.org/contributor/minna-huang-1ixgbcw6qwbqy> ;
+      <http://purl.org/dc/terms/date>
+              "2007-07"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/j.optm.2006.11.013" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1529-1839> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Sectoranopia: A stroke in the lateral geniculate nucleus or optic radiations?" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/j.optm.2006.11.013" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "364" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "356" ;
+      <http://purl.org/ontology/bibo/volume>
+              "78" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1016/j.optm.2006.11.013> , <info:doi/10.1016/j.optm.2006.11.013> .
+
+<http://id.crossref.org/contributor/minna-huang-1ixgbcw6qwbqy>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Huang" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Minna" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Minna Huang" .
+
+<http://id.crossref.org/issn/1529-1839>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1529-1839" ;
+      <http://purl.org/dc/terms/title>
+              "Optometry - Journal of the American Optometric Association" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1529-1839" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1529-1839" .

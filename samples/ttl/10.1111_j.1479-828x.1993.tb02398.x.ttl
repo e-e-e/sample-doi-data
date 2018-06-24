@@ -1,0 +1,60 @@
+<http://dx.doi.org/10.1111/j.1479-828x.1993.tb02398.x>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1111/j.1479-828x.1993.tb02398.x" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "213" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "211" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "33" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/nader-a-morad-zmbwkhlg6n6e> , <http://id.crossref.org/contributor/mourad-m-el-said-zmbwkhlg6n6e> ;
+      <http://purl.org/dc/terms/date>
+              "1993-05"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1111/j.1479-828x.1993.tb02398.x" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0004-8666> ;
+      <http://purl.org/dc/terms/publisher>
+              "Wiley" ;
+      <http://purl.org/dc/terms/title>
+              "Cellular Uterine Myoma Causing Vaginal Bleeding in a 15-year-old Girl" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1111/j.1479-828x.1993.tb02398.x" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "213" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "211" ;
+      <http://purl.org/ontology/bibo/volume>
+              "33" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1111/j.1479-828x.1993.tb02398.x> , <doi:10.1111/j.1479-828x.1993.tb02398.x> .
+
+<http://id.crossref.org/issn/0004-8666>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1479-828X" , "0004-8666" ;
+      <http://purl.org/dc/terms/title>
+              "The Australian and New Zealand Journal of Obstetrics and Gynaecology" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1479-828X" , "0004-8666" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0004-8666" , "urn:issn:1479-828X" .
+
+<http://id.crossref.org/contributor/nader-a-morad-zmbwkhlg6n6e>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Morad" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Nader A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Nader A. Morad" .
+
+<http://id.crossref.org/contributor/mourad-m-el-said-zmbwkhlg6n6e>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "El-Said" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Mourad M." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Mourad M. El-Said" .

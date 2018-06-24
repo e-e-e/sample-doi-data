@@ -1,0 +1,168 @@
+<http://id.crossref.org/contributor/agia-segura-1tg1anvag63k0>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Segura" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Àgia" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Àgia Segura" .
+
+<http://id.crossref.org/contributor/valentin-junca-1tg1anvag63k0>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Juncà" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Valentín" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Valentín Juncà" .
+
+<http://id.crossref.org/contributor/marcel-segura-1tg1anvag63k0>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Segura" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Marcel" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Marcel Segura" .
+
+<http://id.crossref.org/contributor/luis-grande-1tg1anvag63k0>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Grande" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Luis" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Luis Grande" .
+
+<http://id.crossref.org/contributor/jaime-jimeno-1tg1anvag63k0>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Jimeno" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Jaime" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Jaime Jimeno" .
+
+<http://dx.doi.org/10.1016/s0009-739x(06)70930-7>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/s0009-739x(06)70930-7" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "100" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "96" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "80" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/agia-segura-1tg1anvag63k0> , <http://id.crossref.org/contributor/valentin-junca-1tg1anvag63k0> , <http://id.crossref.org/contributor/marcel-segura-1tg1anvag63k0> , <http://id.crossref.org/contributor/luis-grande-1tg1anvag63k0> , <http://id.crossref.org/contributor/jaime-jimeno-1tg1anvag63k0> , <http://id.crossref.org/contributor/jordi-solsona-1tg1anvag63k0> , <http://id.crossref.org/contributor/jose-antonio-pereira-1tg1anvag63k0> , <http://id.crossref.org/contributor/francisco-ferrer-1tg1anvag63k0> , <http://id.crossref.org/contributor/manuel-fraile-1tg1anvag63k0> , <http://id.crossref.org/contributor/sonia-puig-1tg1anvag63k0> , <http://id.crossref.org/contributor/arturo-piqueras-1tg1anvag63k0> , <http://id.crossref.org/contributor/marisa-ortega-1tg1anvag63k0> , <http://id.crossref.org/contributor/sergi-vidal-sicart-1tg1anvag63k0> , <http://id.crossref.org/contributor/alex-fernandez-1tg1anvag63k0> ;
+      <http://purl.org/dc/terms/date>
+              "2006-08"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/s0009-739x(06)70930-7" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0009-739X> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Impacto de la disponibilidad de un servicio externo de medicina nuclear en la aplicación de la biopsia del ganglio centinela en cirugía del cáncer de mama" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/s0009-739x(06)70930-7" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "100" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "96" ;
+      <http://purl.org/ontology/bibo/volume>
+              "80" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1016/s0009-739x(06)70930-7> , <info:doi/10.1016/s0009-739x(06)70930-7> .
+
+<http://id.crossref.org/contributor/jordi-solsona-1tg1anvag63k0>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Solsona" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Jordi" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Jordi Solsona" .
+
+<http://id.crossref.org/contributor/jose-antonio-pereira-1tg1anvag63k0>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Antonio Pereira" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "José" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "José Antonio Pereira" .
+
+<http://id.crossref.org/contributor/francisco-ferrer-1tg1anvag63k0>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Ferrer" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Francisco" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Francisco Ferrer" .
+
+<http://id.crossref.org/contributor/manuel-fraile-1tg1anvag63k0>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Fraile" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Manuel" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Manuel Fraile" .
+
+<http://id.crossref.org/contributor/sonia-puig-1tg1anvag63k0>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Puig" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Sonia" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Sonia Puig" .
+
+<http://id.crossref.org/contributor/arturo-piqueras-1tg1anvag63k0>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Piqueras" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Arturo" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Arturo Piqueras" .
+
+<http://id.crossref.org/contributor/marisa-ortega-1tg1anvag63k0>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Ortega" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Marisa" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Marisa Ortega" .
+
+<http://id.crossref.org/contributor/sergi-vidal-sicart-1tg1anvag63k0>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Vidal-Sicart" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Sergi" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Sergi Vidal-Sicart" .
+
+<http://id.crossref.org/contributor/alex-fernandez-1tg1anvag63k0>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Fernández" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Àlex" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Àlex Fernández" .
+
+<http://id.crossref.org/issn/0009-739X>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0009-739X" ;
+      <http://purl.org/dc/terms/title>
+              "Cirugía Española" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0009-739X" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0009-739X" .

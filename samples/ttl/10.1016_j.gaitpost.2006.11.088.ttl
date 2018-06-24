@@ -1,0 +1,60 @@
+<http://id.crossref.org/issn/0966-6362>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0966-6362" ;
+      <http://purl.org/dc/terms/title>
+              "Gait & Posture" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0966-6362" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0966-6362" .
+
+<http://id.crossref.org/contributor/ross-anderson-119csnjybbux0>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Anderson" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Ross" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Ross Anderson" .
+
+<http://id.crossref.org/contributor/michael-hanlon-119csnjybbux0>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Hanlon" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Michael" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Michael Hanlon" .
+
+<http://dx.doi.org/10.1016/j.gaitpost.2006.11.088>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/j.gaitpost.2006.11.088" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "S128" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "S127" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "24" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/ross-anderson-119csnjybbux0> , <http://id.crossref.org/contributor/michael-hanlon-119csnjybbux0> ;
+      <http://purl.org/dc/terms/date>
+              "2006-12"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/j.gaitpost.2006.11.088" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0966-6362> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Real-time gait event detection using wearable sensors" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/j.gaitpost.2006.11.088" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "S128" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "S127" ;
+      <http://purl.org/ontology/bibo/volume>
+              "24" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1016/j.gaitpost.2006.11.088> , <doi:10.1016/j.gaitpost.2006.11.088> .

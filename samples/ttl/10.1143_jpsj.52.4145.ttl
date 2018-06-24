@@ -1,0 +1,60 @@
+<http://dx.doi.org/10.1143/jpsj.52.4145>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1143/jpsj.52.4145" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "4151" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "4145" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "52" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/hiromitsu-hamabata-3h1n5fjkkmlq1> , <http://id.crossref.org/contributor/masaki-takashima-3h1n5fjkkmlq1> ;
+      <http://purl.org/dc/terms/date>
+              "1983-12-15"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1143/jpsj.52.4145" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0031-9015> ;
+      <http://purl.org/dc/terms/publisher>
+              "Physical Society of Japan" ;
+      <http://purl.org/dc/terms/title>
+              "The Effect of Rotation on Convective Instability in a Horizontal Fluid Layer with Internal Heat Generation" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1143/jpsj.52.4145" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "4151" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "4145" ;
+      <http://purl.org/ontology/bibo/volume>
+              "52" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1143/jpsj.52.4145> , <doi:10.1143/jpsj.52.4145> .
+
+<http://id.crossref.org/contributor/hiromitsu-hamabata-3h1n5fjkkmlq1>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Hamabata" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Hiromitsu" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Hiromitsu Hamabata" .
+
+<http://id.crossref.org/contributor/masaki-takashima-3h1n5fjkkmlq1>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Takashima" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Masaki" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Masaki Takashima" .
+
+<http://id.crossref.org/issn/0031-9015>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1347-4073" , "0031-9015" ;
+      <http://purl.org/dc/terms/title>
+              "Journal of the Physical Society of Japan" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1347-4073" , "0031-9015" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0031-9015" , "urn:issn:1347-4073" .

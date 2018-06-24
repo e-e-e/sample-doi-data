@@ -1,0 +1,51 @@
+<http://id.crossref.org/issn/0002-7294>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1548-1433" , "0002-7294" ;
+      <http://purl.org/dc/terms/title>
+              "American Anthropologist" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1548-1433" , "0002-7294" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0002-7294" , "urn:issn:1548-1433" .
+
+<http://dx.doi.org/10.1525/aa.1961.63.3.02a00470>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1525/aa.1961.63.3.02a00470" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "646" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "645" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "63" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/betty-j-meggers-1qscjve4aev7k> ;
+      <http://purl.org/dc/terms/date>
+              "1961-06"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1525/aa.1961.63.3.02a00470" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0002-7294> ;
+      <http://purl.org/dc/terms/publisher>
+              "Wiley" ;
+      <http://purl.org/dc/terms/title>
+              ": O Sambaqui do Macedo, A. 52. B. - Parana, Brasil . Westley R. Hurt, Oldemar Blasi." ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1525/aa.1961.63.3.02a00470" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "646" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "645" ;
+      <http://purl.org/ontology/bibo/volume>
+              "63" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1525/aa.1961.63.3.02a00470> , <info:doi/10.1525/aa.1961.63.3.02a00470> .
+
+<http://id.crossref.org/contributor/betty-j-meggers-1qscjve4aev7k>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Meggers" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Betty J." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Betty J. Meggers" .

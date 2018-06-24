@@ -1,0 +1,80 @@
+<http://id.crossref.org/contributor/chao-huang-3u06pe4pe4lya>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Huang" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Chao" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Chao Huang" .
+
+<http://id.crossref.org/contributor/jing-ru-liu-3u06pe4pe4lya>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Liu" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Jing-ru" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Jing-ru Liu" .
+
+<http://id.crossref.org/contributor/lian-ying-ma-3u06pe4pe4lya>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Ma" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Lian-ying" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Lian-ying Ma" .
+
+<http://id.crossref.org/contributor/li-yu-3u06pe4pe4lya>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Yu" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Li" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Li Yu" .
+
+<http://dx.doi.org/10.1117/12.816110>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1117/12.816110" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/chao-huang-3u06pe4pe4lya> , <http://id.crossref.org/contributor/jing-ru-liu-3u06pe4pe4lya> , <http://id.crossref.org/contributor/lian-ying-ma-3u06pe4pe4lya> , <http://id.crossref.org/contributor/li-yu-3u06pe4pe4lya> , <http://id.crossref.org/contributor/xiao-xia-an-3u06pe4pe4lya> , <http://id.crossref.org/contributor/ai-ping-yi-3u06pe4pe4lya> , <http://id.crossref.org/contributor/feng-zhu-3u06pe4pe4lya> ;
+      <http://purl.org/dc/terms/date>
+              "2008-10-03"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1117/12.816110" ;
+      <http://purl.org/dc/terms/publisher>
+              "SPIE" ;
+      <http://purl.org/dc/terms/title>
+              "Experimental study on the surface discharge optical pumping source with high repetition mode" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1117/12.816110" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1117/12.816110> , <info:doi/10.1117/12.816110> .
+
+<http://id.crossref.org/contributor/ai-ping-yi-3u06pe4pe4lya>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Yi" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Ai-ping" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Ai-ping Yi" .
+
+<http://id.crossref.org/contributor/xiao-xia-an-3u06pe4pe4lya>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "An" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Xiao-xia" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Xiao-xia An" .
+
+<http://id.crossref.org/contributor/feng-zhu-3u06pe4pe4lya>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Zhu" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Feng" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Feng Zhu" .

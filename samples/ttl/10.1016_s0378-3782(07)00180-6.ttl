@@ -1,0 +1,36 @@
+<http://id.crossref.org/issn/0378-3782>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0378-3782" ;
+      <http://purl.org/dc/terms/title>
+              "Early Human Development" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0378-3782" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0378-3782" .
+
+<http://dx.doi.org/10.1016/s0378-3782(07)00180-6>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/s0378-3782(07)00180-6" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "i" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "83" ;
+      <http://purl.org/dc/terms/date>
+              "2007-10"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/s0378-3782(07)00180-6" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0378-3782> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Contents" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/s0378-3782(07)00180-6" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "i" ;
+      <http://purl.org/ontology/bibo/volume>
+              "83" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1016/s0378-3782(07)00180-6> , <doi:10.1016/s0378-3782(07)00180-6> .

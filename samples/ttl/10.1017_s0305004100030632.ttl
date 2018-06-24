@@ -1,0 +1,56 @@
+<http://dx.doi.org/10.1017/s0305004100030632>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1017/s0305004100030632" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "551" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "51" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/l-s-goddard-r8x2ibobyo9x> , <http://id.crossref.org/contributor/h-schneider-r8x2ibobyo9x> ;
+      <http://purl.org/dc/terms/date>
+              "1955-10"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1017/s0305004100030632" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0305-0041> ;
+      <http://purl.org/dc/terms/publisher>
+              "Cambridge University Press (CUP)" ;
+      <http://purl.org/dc/terms/title>
+              "Pairs of matrices with a non-zero commutator" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1017/s0305004100030632" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "551" ;
+      <http://purl.org/ontology/bibo/volume>
+              "51" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1017/s0305004100030632> , <info:doi/10.1017/s0305004100030632> .
+
+<http://id.crossref.org/contributor/l-s-goddard-r8x2ibobyo9x>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Goddard" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "L. S." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "L. S. Goddard" .
+
+<http://id.crossref.org/contributor/h-schneider-r8x2ibobyo9x>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Schneider" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "H." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "H. Schneider" .
+
+<http://id.crossref.org/issn/0305-0041>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0305-0041" , "1469-8064" ;
+      <http://purl.org/dc/terms/title>
+              "Mathematical Proceedings of the Cambridge Philosophical Society" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0305-0041" , "1469-8064" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1469-8064" , "urn:issn:0305-0041" .

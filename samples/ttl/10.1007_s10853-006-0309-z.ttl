@@ -1,0 +1,69 @@
+<http://id.crossref.org/issn/0022-2461>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1573-4803" , "0022-2461" ;
+      <http://purl.org/dc/terms/title>
+              "Journal of Materials Science" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1573-4803" , "0022-2461" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1573-4803" , "urn:issn:0022-2461" .
+
+<http://id.crossref.org/contributor/liang-tongxiang-3njtktl2iyoy4>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Tongxiang" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Liang" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Liang Tongxiang" .
+
+<http://dx.doi.org/10.1007/s10853-006-0309-z>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1007/s10853-006-0309-z" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "5466" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "5462" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "41" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/liang-tongxiang-3njtktl2iyoy4> , <http://id.crossref.org/contributor/zhang-yue-3njtktl2iyoy4> , <http://id.crossref.org/contributor/guo-wenli-3njtktl2iyoy4> ;
+      <http://purl.org/dc/terms/date>
+              "2006-06-13"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1007/s10853-006-0309-z" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0022-2461> ;
+      <http://purl.org/dc/terms/publisher>
+              "Springer Nature" ;
+      <http://purl.org/dc/terms/title>
+              "Preparation of copper coated carbon nanotubes by decomposition of Cu(II)acetylacetonate in hydrogen atmosphere" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1007/s10853-006-0309-z" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "5466" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "5462" ;
+      <http://purl.org/ontology/bibo/volume>
+              "41" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1007/s10853-006-0309-z> , <info:doi/10.1007/s10853-006-0309-z> .
+
+<http://id.crossref.org/contributor/zhang-yue-3njtktl2iyoy4>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Yue" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Zhang" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Zhang Yue" .
+
+<http://id.crossref.org/contributor/guo-wenli-3njtktl2iyoy4>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Wenli" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Guo" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Guo Wenli" .

@@ -1,0 +1,52 @@
+<http://id.crossref.org/contributor/amir-atiya-fcongj9l51yz>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Atiya" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Amir" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Amir Atiya" .
+
+<http://dx.doi.org/10.1007/3-540-44491-2_33>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1007/3-540-44491-2_33" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "243" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "239" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/amir-atiya-fcongj9l51yz> ;
+      <http://purl.org/dc/terms/date>
+              "2000"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1007/3-540-44491-2_33" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9783540414506> , <http://id.crossref.org/issn/0302-9743> ;
+      <http://purl.org/dc/terms/publisher>
+              "Springer Berlin Heidelberg" ;
+      <http://purl.org/dc/terms/title>
+              "Fast Algorithms for Computing Corporate Default Probabilities" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1007/3-540-44491-2_33" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "243" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "239" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1007/3-540-44491-2_33> , <doi:10.1007/3-540-44491-2_33> .
+
+<http://id.crossref.org/isbn/9783540414506>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Intelligent Data Engineering and Automated Learning — IDEAL 2000. Data Mining, Financial Engineering, and Intelligent Agents" .
+
+<http://id.crossref.org/issn/0302-9743>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0302-9743" ;
+      <http://purl.org/dc/terms/title>
+              "Intelligent Data Engineering and Automated Learning — IDEAL 2000. Data Mining, Financial Engineering, and Intelligent Agents" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0302-9743" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0302-9743" .

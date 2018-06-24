@@ -1,0 +1,51 @@
+<http://dx.doi.org/10.1111/j.1467-9299.1938.tb03015.x>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1111/j.1467-9299.1938.tb03015.x" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "72" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "63" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "16" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/j-r-jarmain-1il69tcotfsph> ;
+      <http://purl.org/dc/terms/date>
+              "1938-01"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1111/j.1467-9299.1938.tb03015.x" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0033-3298> ;
+      <http://purl.org/dc/terms/publisher>
+              "Wiley" ;
+      <http://purl.org/dc/terms/title>
+              "The Administration of Rehousing in Manchester" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1111/j.1467-9299.1938.tb03015.x" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "72" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "63" ;
+      <http://purl.org/ontology/bibo/volume>
+              "16" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1111/j.1467-9299.1938.tb03015.x> , <doi:10.1111/j.1467-9299.1938.tb03015.x> .
+
+<http://id.crossref.org/issn/0033-3298>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0033-3298" , "1467-9299" ;
+      <http://purl.org/dc/terms/title>
+              "Public Administration" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0033-3298" , "1467-9299" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0033-3298" , "urn:issn:1467-9299" .
+
+<http://id.crossref.org/contributor/j-r-jarmain-1il69tcotfsph>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Jarmain" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "J. R." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "J. R. Jarmain" .

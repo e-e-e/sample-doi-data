@@ -1,0 +1,60 @@
+<http://id.crossref.org/contributor/a-krantz-2m8aswxkby119>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Krantz" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "A. Krantz" .
+
+<http://id.crossref.org/contributor/j-laureni-2m8aswxkby119>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Laureni" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "J." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "J. Laureni" .
+
+<http://id.crossref.org/issn/0002-7863>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0002-7863" ;
+      <http://purl.org/dc/terms/title>
+              "Journal of the American Chemical Society" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0002-7863" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0002-7863" .
+
+<http://dx.doi.org/10.1021/ja00828a043>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1021/ja00828a043" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "6770" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "6768" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "96" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/a-krantz-2m8aswxkby119> , <http://id.crossref.org/contributor/j-laureni-2m8aswxkby119> ;
+      <http://purl.org/dc/terms/date>
+              "1974-10"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1021/ja00828a043" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0002-7863> ;
+      <http://purl.org/dc/terms/publisher>
+              "American Chemical Society (ACS)" ;
+      <http://purl.org/dc/terms/title>
+              "Matrix photolysis of 1,2,3-thiadiazole. Possible involvement of thiirene" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1021/ja00828a043" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "6770" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "6768" ;
+      <http://purl.org/ontology/bibo/volume>
+              "96" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1021/ja00828a043> , <doi:10.1021/ja00828a043> .

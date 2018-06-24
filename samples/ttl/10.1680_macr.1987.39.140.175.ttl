@@ -1,0 +1,51 @@
+<http://dx.doi.org/10.1680/macr.1987.39.140.175>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1680/macr.1987.39.140.175" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "176" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "175" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "39" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/b-mayfield-3w13c5yqo4jar> ;
+      <http://purl.org/dc/terms/date>
+              "1987-09"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1680/macr.1987.39.140.175" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0024-9831> ;
+      <http://purl.org/dc/terms/publisher>
+              "Thomas Telford Ltd." ;
+      <http://purl.org/dc/terms/title>
+              "Book reviewsFulton's concrete technology Editor: AddisB. J. Portland Institute, Midrand, South Africa, Sixth Edition November 1986. 210 × 150mm. pp. ×, 956. Hardback. 0 620 09988 7. R75." ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1680/macr.1987.39.140.175" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "176" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "175" ;
+      <http://purl.org/ontology/bibo/volume>
+              "39" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1680/macr.1987.39.140.175> , <doi:10.1680/macr.1987.39.140.175> .
+
+<http://id.crossref.org/issn/0024-9831>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0024-9831" , "1751-763X" ;
+      <http://purl.org/dc/terms/title>
+              "Magazine of Concrete Research" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0024-9831" , "1751-763X" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1751-763X" , "urn:issn:0024-9831" .
+
+<http://id.crossref.org/contributor/b-mayfield-3w13c5yqo4jar>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Mayfield" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "B." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "B. Mayfield" .

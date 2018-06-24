@@ -1,0 +1,60 @@
+<http://dx.doi.org/10.1300/j019v21n02_06>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1300/j019v21n02_06" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "90" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "81" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "21" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/sam-r-hamburg-15aeuc10fbhq6> , <http://id.crossref.org/contributor/l-adlai-boyd-15aeuc10fbhq6> ;
+      <http://purl.org/dc/terms/date>
+              "1999-08-24"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1300/j019v21n02_06" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0731-7107> ;
+      <http://purl.org/dc/terms/publisher>
+              "Informa UK Limited" ;
+      <http://purl.org/dc/terms/title>
+              "BOOK REVIEWS" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1300/j019v21n02_06" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "90" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "81" ;
+      <http://purl.org/ontology/bibo/volume>
+              "21" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1300/j019v21n02_06> , <doi:10.1300/j019v21n02_06> .
+
+<http://id.crossref.org/contributor/sam-r-hamburg-15aeuc10fbhq6>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Hamburg" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Sam R." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Sam R. Hamburg" .
+
+<http://id.crossref.org/issn/0731-7107>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0731-7107" , "1545-228X" ;
+      <http://purl.org/dc/terms/title>
+              "Child & Family Behavior Therapy" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0731-7107" , "1545-228X" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1545-228X" , "urn:issn:0731-7107" .
+
+<http://id.crossref.org/contributor/l-adlai-boyd-15aeuc10fbhq6>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Boyd" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "L. Adlai" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "L. Adlai Boyd" .

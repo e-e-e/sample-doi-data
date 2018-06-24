@@ -1,0 +1,60 @@
+<http://id.crossref.org/issn/0969-9082>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1747-5848" , "0969-9082" ;
+      <http://purl.org/dc/terms/title>
+              "Women's Writing" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1747-5848" , "0969-9082" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0969-9082" , "urn:issn:1747-5848" .
+
+<http://dx.doi.org/10.1080/09699080100200174>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1080/09699080100200174" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "200" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "197" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "8" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/anne-kelley-1cwvkt6fyowbe> , <http://id.crossref.org/contributor/carol-banks-1cwvkt6fyowbe> ;
+      <http://purl.org/dc/terms/date>
+              "2001-07-01"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1080/09699080100200174" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0969-9082> ;
+      <http://purl.org/dc/terms/publisher>
+              "Informa UK Limited" ;
+      <http://purl.org/dc/terms/title>
+              "Introduction" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1080/09699080100200174" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "200" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "197" ;
+      <http://purl.org/ontology/bibo/volume>
+              "8" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1080/09699080100200174> , <info:doi/10.1080/09699080100200174> .
+
+<http://id.crossref.org/contributor/anne-kelley-1cwvkt6fyowbe>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kelley" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Anne" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Anne Kelley" .
+
+<http://id.crossref.org/contributor/carol-banks-1cwvkt6fyowbe>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Banks" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Carol" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Carol Banks" .

@@ -1,0 +1,58 @@
+<http://id.crossref.org/contributor/peter-cobbett-ywynzesawd16>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "COBBETT" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "PETER" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "PETER COBBETT" .
+
+<http://id.crossref.org/contributor/katrina-d-ramsell-ywynzesawd16>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "RAMSELL" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "KATRINA D" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "KATRINA D RAMSELL" .
+
+<http://dx.doi.org/10.1023/a:1018544332395>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1023/a:1018544332395" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "256" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "249" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "26" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/peter-cobbett-ywynzesawd16> , <http://id.crossref.org/contributor/katrina-d-ramsell-ywynzesawd16> ;
+      <http://purl.org/dc/terms/date>
+              "1997"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1023/a:1018544332395" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0300-4864> ;
+      <http://purl.org/dc/terms/publisher>
+              "Springer Nature" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1023/a:1018544332395" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "256" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "249" ;
+      <http://purl.org/ontology/bibo/volume>
+              "26" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1023/a:1018544332395> , <doi:10.1023/a:1018544332395> .
+
+<http://id.crossref.org/issn/0300-4864>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0300-4864" ;
+      <http://purl.org/dc/terms/title>
+              "Journal of Neurocytology" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0300-4864" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0300-4864" .

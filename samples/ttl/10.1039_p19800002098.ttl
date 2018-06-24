@@ -1,0 +1,52 @@
+<http://dx.doi.org/10.1039/p19800002098>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1039/p19800002098" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "2098" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/tsuyoshi-shishibori-15o3gxl0enant> , <http://id.crossref.org/contributor/takayuki-suga-15o3gxl0enant> ;
+      <http://purl.org/dc/terms/date>
+              "1980"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1039/p19800002098" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0300-922X> ;
+      <http://purl.org/dc/terms/publisher>
+              "Royal Society of Chemistry (RSC)" ;
+      <http://purl.org/dc/terms/title>
+              "Structure and biosynthesis of cleomeprenols from the leaves of Cleome spinosa " ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1039/p19800002098" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "2098" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1039/p19800002098> , <doi:10.1039/p19800002098> .
+
+<http://id.crossref.org/issn/0300-922X>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1364-5463" , "0300-922X" ;
+      <http://purl.org/dc/terms/title>
+              "Journal of the Chemical Society, Perkin Transactions 1" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1364-5463" , "0300-922X" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1364-5463" , "urn:issn:0300-922X" .
+
+<http://id.crossref.org/contributor/tsuyoshi-shishibori-15o3gxl0enant>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Shishibori" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Tsuyoshi" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Tsuyoshi Shishibori" .
+
+<http://id.crossref.org/contributor/takayuki-suga-15o3gxl0enant>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Suga" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Takayuki" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Takayuki Suga" .

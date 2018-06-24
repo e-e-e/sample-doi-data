@@ -1,0 +1,69 @@
+<http://dx.doi.org/10.1016/s0040-4039(00)71319-0>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/s0040-4039(00)71319-0" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "50" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "47" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "17" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/georges-sturtz-2j4uvcuhzx6qn> , <http://id.crossref.org/contributor/bernard-corbel-2j4uvcuhzx6qn> , <http://id.crossref.org/contributor/jean-paul-paugam-2j4uvcuhzx6qn> ;
+      <http://purl.org/dc/terms/date>
+              "1976-01"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/s0040-4039(00)71319-0" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0040-4039> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Nouveaux synthons phosphores : bianions d'hydroxy-1 propene-2 YL phosphonamides, carbanions en β d'acides carboxyliques potentiels." ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/s0040-4039(00)71319-0" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "50" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "47" ;
+      <http://purl.org/ontology/bibo/volume>
+              "17" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1016/s0040-4039(00)71319-0> , <info:doi/10.1016/s0040-4039(00)71319-0> .
+
+<http://id.crossref.org/contributor/georges-sturtz-2j4uvcuhzx6qn>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Sturtz" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Georges" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Georges Sturtz" .
+
+<http://id.crossref.org/issn/0040-4039>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0040-4039" ;
+      <http://purl.org/dc/terms/title>
+              "Tetrahedron Letters" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0040-4039" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0040-4039" .
+
+<http://id.crossref.org/contributor/bernard-corbel-2j4uvcuhzx6qn>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Corbel" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Bernard" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Bernard Corbel" .
+
+<http://id.crossref.org/contributor/jean-paul-paugam-2j4uvcuhzx6qn>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Paugam" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Jean-Paul" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Jean-Paul Paugam" .

@@ -1,0 +1,51 @@
+<http://dx.doi.org/10.1017/s0022050700028758>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1017/s0022050700028758" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "971" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "970" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "42" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/robert-m-collins-2p5xbb5i058cj> ;
+      <http://purl.org/dc/terms/date>
+              "1982-12"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1017/s0022050700028758" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0022-0507> ;
+      <http://purl.org/dc/terms/publisher>
+              "Cambridge University Press (CUP)" ;
+      <http://purl.org/dc/terms/title>
+              "Economics and the Truman Administration. Edited by Francis H. Heller. Lawrence: The Regents Press of Kansas, 1981. Pp. xviii, 193. $17.50." ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1017/s0022050700028758" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "971" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "970" ;
+      <http://purl.org/ontology/bibo/volume>
+              "42" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1017/s0022050700028758> , <doi:10.1017/s0022050700028758> .
+
+<http://id.crossref.org/issn/0022-0507>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0022-0507" , "1471-6372" ;
+      <http://purl.org/dc/terms/title>
+              "The Journal of Economic History" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0022-0507" , "1471-6372" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1471-6372" , "urn:issn:0022-0507" .
+
+<http://id.crossref.org/contributor/robert-m-collins-2p5xbb5i058cj>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Collins" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Robert M." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Robert M. Collins" .

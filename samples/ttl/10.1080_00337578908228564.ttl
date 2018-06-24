@@ -1,0 +1,60 @@
+<http://id.crossref.org/issn/0033-7579>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0033-7579" ;
+      <http://purl.org/dc/terms/title>
+              "Radiation Effects" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0033-7579" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0033-7579" .
+
+<http://id.crossref.org/contributor/m-a-kumakhov-7uqh0l6y15vt>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kumakhov" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "M. A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "M. A. Kumakhov" .
+
+<http://id.crossref.org/contributor/a-s-sabirov-7uqh0l6y15vt>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Sabirov" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "A. S." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "A. S. Sabirov" .
+
+<http://dx.doi.org/10.1080/00337578908228564>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1080/00337578908228564" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "225" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "197" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "107" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/m-a-kumakhov-7uqh0l6y15vt> , <http://id.crossref.org/contributor/a-s-sabirov-7uqh0l6y15vt> ;
+      <http://purl.org/dc/terms/date>
+              "1989-03"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1080/00337578908228564" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0033-7579> ;
+      <http://purl.org/dc/terms/publisher>
+              "Informa UK Limited" ;
+      <http://purl.org/dc/terms/title>
+              "Theory of ion reflection from amorphous surface at low glancing angles" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1080/00337578908228564" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "225" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "197" ;
+      <http://purl.org/ontology/bibo/volume>
+              "107" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1080/00337578908228564> , <info:doi/10.1080/00337578908228564> .

@@ -1,0 +1,47 @@
+<http://id.crossref.org/issn/0006-3444>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0006-3444" ;
+      <http://purl.org/dc/terms/title>
+              "Biometrika" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0006-3444" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0006-3444" .
+
+<http://dx.doi.org/10.2307/2332666>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.2307/2332666" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "257" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "36" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/p-armitage-pv86ekryjxqc> ;
+      <http://purl.org/dc/terms/date>
+              "1949-12"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.2307/2332666" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0006-3444> ;
+      <http://purl.org/dc/terms/publisher>
+              "JSTOR" ;
+      <http://purl.org/dc/terms/title>
+              "An Overlap Problem Arising in Particle Counting" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.2307/2332666" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "257" ;
+      <http://purl.org/ontology/bibo/volume>
+              "36" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.2307/2332666> , <doi:10.2307/2332666> .
+
+<http://id.crossref.org/contributor/p-armitage-pv86ekryjxqc>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Armitage" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "P." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "P. Armitage" .

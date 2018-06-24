@@ -1,0 +1,47 @@
+<http://id.crossref.org/issn/0013-0427>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0013-0427" ;
+      <http://purl.org/dc/terms/title>
+              "Economica" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0013-0427" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0013-0427" .
+
+<http://id.crossref.org/contributor/f-h-knight-1d2i1bbp6icq9>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Knight" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "F. H." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "F. H. Knight" .
+
+<http://dx.doi.org/10.2307/2550107>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.2307/2550107" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "409" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "8" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/f-h-knight-1d2i1bbp6icq9> ;
+      <http://purl.org/dc/terms/date>
+              "1941-11"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.2307/2550107" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0013-0427> ;
+      <http://purl.org/dc/terms/publisher>
+              "JSTOR" ;
+      <http://purl.org/dc/terms/title>
+              "Professor Mises and the Theory of Capital" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.2307/2550107" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "409" ;
+      <http://purl.org/ontology/bibo/volume>
+              "8" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.2307/2550107> , <info:doi/10.2307/2550107> .

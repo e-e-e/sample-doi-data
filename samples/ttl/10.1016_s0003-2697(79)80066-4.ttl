@@ -1,0 +1,60 @@
+<http://dx.doi.org/10.1016/S0003-2697(79)80137-2>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/s0003-2697(79)80137-2" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "203" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "200" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "93" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/b-dean-nelson-1ru353jnezhld> , <http://id.crossref.org/contributor/par-gellerfors-1ru353jnezhld> ;
+      <http://purl.org/dc/terms/date>
+              "1979"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/s0003-2697(79)80137-2" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0003-2697> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "A rapid method for the isolation of intact mitochondria from isolated rat liver cells" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/s0003-2697(79)80137-2" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "203" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "200" ;
+      <http://purl.org/ontology/bibo/volume>
+              "93" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1016/s0003-2697(79)80137-2> , <info:doi/10.1016/s0003-2697(79)80137-2> , <http://dx.doi.org/10.1016/s0003-2697(79)80137-2> .
+
+<http://id.crossref.org/issn/0003-2697>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0003-2697" ;
+      <http://purl.org/dc/terms/title>
+              "Analytical Biochemistry" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0003-2697" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0003-2697" .
+
+<http://id.crossref.org/contributor/par-gellerfors-1ru353jnezhld>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Gellerfors" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Pär" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Pär Gellerfors" .
+
+<http://id.crossref.org/contributor/b-dean-nelson-1ru353jnezhld>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Dean Nelson" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "B." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "B. Dean Nelson" .

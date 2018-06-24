@@ -1,0 +1,69 @@
+<http://id.crossref.org/contributor/pierre-v-vignais-1lgarx7ixqmcy>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Vignais" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Pierre V." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Pierre V. Vignais" .
+
+<http://dx.doi.org/10.1021/bi00265a011>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1021/bi00265a011" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "5457" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "5451" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "21" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/pierre-v-vignais-1lgarx7ixqmcy> , <http://id.crossref.org/contributor/marc-r-block-1lgarx7ixqmcy> , <http://id.crossref.org/contributor/guy-j-m-lauquin-1lgarx7ixqmcy> ;
+      <http://purl.org/dc/terms/date>
+              "1982-10"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1021/bi00265a011" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0006-2960> ;
+      <http://purl.org/dc/terms/publisher>
+              "American Chemical Society (ACS)" ;
+      <http://purl.org/dc/terms/title>
+              "Interaction of naphthoyl-ADP a fluorescent ADP analog, with the ADP/ATP carrier protein in the mitochondrial membrane" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1021/bi00265a011" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "5457" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "5451" ;
+      <http://purl.org/ontology/bibo/volume>
+              "21" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1021/bi00265a011> , <info:doi/10.1021/bi00265a011> .
+
+<http://id.crossref.org/contributor/marc-r-block-1lgarx7ixqmcy>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Block" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Marc R." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Marc R. Block" .
+
+<http://id.crossref.org/contributor/guy-j-m-lauquin-1lgarx7ixqmcy>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Lauquin" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Guy J. M." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Guy J. M. Lauquin" .
+
+<http://id.crossref.org/issn/0006-2960>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0006-2960" , "1520-4995" ;
+      <http://purl.org/dc/terms/title>
+              "Biochemistry" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0006-2960" , "1520-4995" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1520-4995" , "urn:issn:0006-2960" .

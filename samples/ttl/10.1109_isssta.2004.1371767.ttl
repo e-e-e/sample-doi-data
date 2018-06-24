@@ -1,0 +1,42 @@
+<http://id.crossref.org/contributor/h-habuchi-2p3xhlgcutcgf>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Habuchi" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "H." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "H. Habuchi" .
+
+<http://id.crossref.org/isbn/0780384652>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Eighth IEEE International Symposium on Spread Spectrum Techniques and Applications - Programme and Book of Abstracts (IEEE Cat. No.04TH8738)" .
+
+<http://id.crossref.org/contributor/a-ito-2p3xhlgcutcgf>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Ito" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "A. Ito" .
+
+<http://dx.doi.org/10.1109/isssta.2004.1371767>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1109/isssta.2004.1371767" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/h-habuchi-2p3xhlgcutcgf> , <http://id.crossref.org/contributor/a-ito-2p3xhlgcutcgf> ;
+      <http://purl.org/dc/terms/date>
+              ""^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1109/isssta.2004.1371767" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/0780384652> ;
+      <http://purl.org/dc/terms/publisher>
+              "IEEE" ;
+      <http://purl.org/dc/terms/title>
+              "A simple self-synchronization system for CSK/SS" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1109/isssta.2004.1371767" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1109/isssta.2004.1371767> , <info:doi/10.1109/isssta.2004.1371767> .

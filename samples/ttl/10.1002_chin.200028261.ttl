@@ -1,0 +1,78 @@
+<http://id.crossref.org/contributor/sabine-berteina-1fl9agfodwfqa>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Berteina" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Sabine" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Sabine Berteina" .
+
+<http://id.crossref.org/contributor/wolfgang-k-d-brill-1fl9agfodwfqa>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Brill" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Wolfgang K.-D." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Wolfgang K.-D. Brill" .
+
+<http://id.crossref.org/issn/0931-7597>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1522-2667" , "0931-7597" ;
+      <http://purl.org/dc/terms/title>
+              "ChemInform" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1522-2667" , "0931-7597" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0931-7597" , "urn:issn:1522-2667" .
+
+<http://id.crossref.org/contributor/sebastian-wendeborn-1fl9agfodwfqa>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Wendeborn" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Sebastian" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Sebastian Wendeborn" .
+
+<http://dx.doi.org/10.1002/chin.200028261>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1002/chin.200028261" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "no" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "no" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "31" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/sabine-berteina-1fl9agfodwfqa> , <http://id.crossref.org/contributor/wolfgang-k-d-brill-1fl9agfodwfqa> , <http://id.crossref.org/contributor/sebastian-wendeborn-1fl9agfodwfqa> , <http://id.crossref.org/contributor/alain-de-mesmaeker-1fl9agfodwfqa> ;
+      <http://purl.org/dc/terms/date>
+              "2010-06-07"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1002/chin.200028261" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0931-7597> ;
+      <http://purl.org/dc/terms/publisher>
+              "Wiley" ;
+      <http://purl.org/dc/terms/title>
+              "ChemInform Abstract: Synthesis of Diverse and Complex Molecules on the Solid Phase" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1002/chin.200028261" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "no" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "no" ;
+      <http://purl.org/ontology/bibo/volume>
+              "31" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1002/chin.200028261> , <info:doi/10.1002/chin.200028261> .
+
+<http://id.crossref.org/contributor/alain-de-mesmaeker-1fl9agfodwfqa>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "De Mesmaeker" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Alain" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Alain De Mesmaeker" .

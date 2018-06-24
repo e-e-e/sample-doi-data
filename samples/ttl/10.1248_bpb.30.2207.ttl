@@ -1,0 +1,105 @@
+<http://id.crossref.org/contributor/jin-sook-kim-1x0vahxop4qvf>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kim" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Jin Sook" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Jin Sook Kim" .
+
+<http://id.crossref.org/issn/0918-6158>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1347-5215" , "0918-6158" ;
+      <http://purl.org/dc/terms/title>
+              "Biological & Pharmaceutical Bulletin" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1347-5215" , "0918-6158" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1347-5215" , "urn:issn:0918-6158" .
+
+<http://id.crossref.org/contributor/jeong-lim-yoo-1x0vahxop4qvf>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Yoo" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Jeong Lim" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Jeong Lim Yoo" .
+
+<http://id.crossref.org/contributor/ga-young-lee-1x0vahxop4qvf>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Lee" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Ga Young" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Ga Young Lee" .
+
+<http://dx.doi.org/10.1248/bpb.30.2207>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1248/bpb.30.2207" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "2210" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "2207" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "30" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/jin-sook-kim-1x0vahxop4qvf> , <http://id.crossref.org/contributor/jeong-lim-yoo-1x0vahxop4qvf> , <http://id.crossref.org/contributor/ga-young-lee-1x0vahxop4qvf> , <http://id.crossref.org/contributor/chan-sik-kim-1x0vahxop4qvf> , <http://id.crossref.org/contributor/young-sook-kim-1x0vahxop4qvf> , <http://id.crossref.org/contributor/dae-sik-jang-1x0vahxop4qvf> , <http://id.crossref.org/contributor/yun-mi-lee-1x0vahxop4qvf> ;
+      <http://purl.org/dc/terms/date>
+              "2007"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1248/bpb.30.2207" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0918-6158> ;
+      <http://purl.org/dc/terms/publisher>
+              "Pharmaceutical Society of Japan" ;
+      <http://purl.org/dc/terms/title>
+              "Anthraquinones from the Seeds of Cassia tora with Inhibitory Activity on Protein Glycation and Aldose Reductase" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1248/bpb.30.2207" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "2210" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "2207" ;
+      <http://purl.org/ontology/bibo/volume>
+              "30" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1248/bpb.30.2207> , <doi:10.1248/bpb.30.2207> .
+
+<http://id.crossref.org/contributor/chan-sik-kim-1x0vahxop4qvf>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kim" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Chan-Sik" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Chan-Sik Kim" .
+
+<http://id.crossref.org/contributor/young-sook-kim-1x0vahxop4qvf>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kim" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Young Sook" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Young Sook Kim" .
+
+<http://id.crossref.org/contributor/dae-sik-jang-1x0vahxop4qvf>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Jang" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Dae Sik" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Dae Sik Jang" .
+
+<http://id.crossref.org/contributor/yun-mi-lee-1x0vahxop4qvf>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Lee" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Yun Mi" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Yun Mi Lee" .

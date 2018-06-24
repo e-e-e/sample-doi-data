@@ -1,0 +1,51 @@
+<http://id.crossref.org/contributor/jeanette-wasserstein-jptwzhcmz2mm>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Wasserstein" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Jeanette" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Jeanette Wasserstein" .
+
+<http://id.crossref.org/issn/0031-5125>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0031-5125" , "1558-688X" ;
+      <http://purl.org/dc/terms/title>
+              "Perceptual and Motor Skills" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0031-5125" , "1558-688X" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1558-688X" , "urn:issn:0031-5125" .
+
+<http://dx.doi.org/10.2466/pms.2002.95.3.963>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.2466/pms.2002.95.3.963" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "964" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "963" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "95" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/jeanette-wasserstein-jptwzhcmz2mm> ;
+      <http://purl.org/dc/terms/date>
+              "2002-12"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.2466/pms.2002.95.3.963" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0031-5125> ;
+      <http://purl.org/dc/terms/publisher>
+              "SAGE Publications" ;
+      <http://purl.org/dc/terms/title>
+              "Gestalt Concept of Closure: A Construct without Closure" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.2466/pms.2002.95.3.963" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "964" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "963" ;
+      <http://purl.org/ontology/bibo/volume>
+              "95" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.2466/pms.2002.95.3.963> , <doi:10.2466/pms.2002.95.3.963> .

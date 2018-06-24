@@ -1,0 +1,105 @@
+<http://id.crossref.org/contributor/r-h-dekruyff-1rb518gvskict>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Dekruyff" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "R. H." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "R. H. Dekruyff" .
+
+<http://id.crossref.org/issn/1044-6672>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1044-6672" ;
+      <http://purl.org/dc/terms/title>
+              "Developmental Immunology" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1044-6672" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1044-6672" .
+
+<http://id.crossref.org/contributor/e-a-secord-1rb518gvskict>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Secord" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "E. A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "E. A. Secord" .
+
+<http://id.crossref.org/contributor/v-k-tsiagbe-1rb518gvskict>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Tsiagbe" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "V. K." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "V. K. Tsiagbe" .
+
+<http://id.crossref.org/contributor/w-j-simmons-1rb518gvskict>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Simmons" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "W. J." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "W. J. Simmons" .
+
+<http://id.crossref.org/contributor/g-j-thorbecke-1rb518gvskict>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Thorbecke" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "G. J." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "G. J. Thorbecke" .
+
+<http://dx.doi.org/10.1155/1998/47168>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1155/1998/47168" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "330" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "325" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "6" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/r-h-dekruyff-1rb518gvskict> , <http://id.crossref.org/contributor/e-a-secord-1rb518gvskict> , <http://id.crossref.org/contributor/v-k-tsiagbe-1rb518gvskict> , <http://id.crossref.org/contributor/w-j-simmons-1rb518gvskict> , <http://id.crossref.org/contributor/g-j-thorbecke-1rb518gvskict> , <http://id.crossref.org/contributor/l-v-rizzo-1rb518gvskict> , <http://id.crossref.org/contributor/d-t-umetsu-1rb518gvskict> ;
+      <http://purl.org/dc/terms/date>
+              "1998"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1155/1998/47168" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1044-6672> ;
+      <http://purl.org/dc/terms/publisher>
+              "Hindawi Limited" ;
+      <http://purl.org/dc/terms/title>
+              "Components Essential for the Generation of Germinal Centers" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1155/1998/47168" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "330" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "325" ;
+      <http://purl.org/ontology/bibo/volume>
+              "6" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1155/1998/47168> , <doi:10.1155/1998/47168> .
+
+<http://id.crossref.org/contributor/l-v-rizzo-1rb518gvskict>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Rizzo" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "L. V." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "L. V. Rizzo" .
+
+<http://id.crossref.org/contributor/d-t-umetsu-1rb518gvskict>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Umetsu" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "D. T." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "D. T. Umetsu" .

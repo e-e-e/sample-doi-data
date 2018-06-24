@@ -1,0 +1,60 @@
+<http://id.crossref.org/contributor/yu-s-idelman-7ih17hiqjhxl>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "�idel'man" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Yu. S." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Yu. S. �idel'man" .
+
+<http://id.crossref.org/issn/0543-1972>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0543-1972" , "1573-8906" ;
+      <http://purl.org/dc/terms/title>
+              "Measurement Techniques" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0543-1972" , "1573-8906" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0543-1972" , "urn:issn:1573-8906" .
+
+<http://dx.doi.org/10.1007/bf00866076>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1007/bf00866076" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "1137" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "1133" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "29" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/yu-s-idelman-7ih17hiqjhxl> , <http://id.crossref.org/contributor/u-m-postonen-7ih17hiqjhxl> ;
+      <http://purl.org/dc/terms/date>
+              "1986-12"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1007/bf00866076" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0543-1972> ;
+      <http://purl.org/dc/terms/publisher>
+              "Springer Nature" ;
+      <http://purl.org/dc/terms/title>
+              "Principles for automatic measurement of the sizes of workpieces and tools in a turning module" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1007/bf00866076" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "1137" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "1133" ;
+      <http://purl.org/ontology/bibo/volume>
+              "29" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1007/bf00866076> , <info:doi/10.1007/bf00866076> .
+
+<http://id.crossref.org/contributor/u-m-postonen-7ih17hiqjhxl>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Postonen" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "U. M." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "U. M. Postonen" .

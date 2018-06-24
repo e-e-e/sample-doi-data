@@ -1,0 +1,56 @@
+<http://id.crossref.org/issn/0361-7882>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0361-7882" ;
+      <http://purl.org/dc/terms/title>
+              "The International Journal of African Historical Studies" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0361-7882" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0361-7882" .
+
+<http://dx.doi.org/10.2307/219531>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.2307/219531" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "736" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "23" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/william-d-graf-jhmfeb8xwbw8> , <http://id.crossref.org/contributor/kenoye-kelvin-eke-jhmfeb8xwbw8> ;
+      <http://purl.org/dc/terms/date>
+              "1990"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.2307/219531" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0361-7882> ;
+      <http://purl.org/dc/terms/publisher>
+              "JSTOR" ;
+      <http://purl.org/dc/terms/title>
+              "Nigeria's Foreign Policy under Two Military Governments, 1966-1979: An Analysis of the Gowon and Muhammed/Obasanjo Regimes" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.2307/219531" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "736" ;
+      <http://purl.org/ontology/bibo/volume>
+              "23" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.2307/219531> , <info:doi/10.2307/219531> .
+
+<http://id.crossref.org/contributor/william-d-graf-jhmfeb8xwbw8>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Graf" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "William D." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "William D. Graf" .
+
+<http://id.crossref.org/contributor/kenoye-kelvin-eke-jhmfeb8xwbw8>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Eke" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Kenoye Kelvin" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Kenoye Kelvin Eke" .

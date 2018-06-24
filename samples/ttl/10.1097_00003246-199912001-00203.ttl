@@ -1,0 +1,83 @@
+<http://id.crossref.org/issn/0090-3493>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0090-3493" ;
+      <http://purl.org/dc/terms/title>
+              "Critical Care Medicine" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0090-3493" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0090-3493" .
+
+<http://dx.doi.org/10.1097/00003246-199912001-00203>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1097/00003246-199912001-00203" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "A81" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "27" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/heatherlee-bailey-71v2k1f417az> , <http://id.crossref.org/contributor/barry-mann-71v2k1f417az> , <http://id.crossref.org/contributor/lewis-j-kaplan-71v2k1f417az> , <http://id.crossref.org/contributor/ernest-l-yeh-71v2k1f417az> , <http://id.crossref.org/contributor/robert-g-hendrickson-71v2k1f417az> ;
+      <http://purl.org/dc/terms/date>
+              "1999-12"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1097/00003246-199912001-00203" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0090-3493> ;
+      <http://purl.org/dc/terms/publisher>
+              "Ovid Technologies (Wolters Kluwer Health)" ;
+      <http://purl.org/dc/terms/title>
+              "INTEGRATING BASIC AND CLINICAL SCIENCE: THE CRITICAL CARE MODULE OF THE INTERDISCIPLINARY FOUNDATIONS OF MEDICINE CURRICULUM" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1097/00003246-199912001-00203" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "A81" ;
+      <http://purl.org/ontology/bibo/volume>
+              "27" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1097/00003246-199912001-00203> , <info:doi/10.1097/00003246-199912001-00203> .
+
+<http://id.crossref.org/contributor/heatherlee-bailey-71v2k1f417az>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Bailey" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Heatherlee" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Heatherlee Bailey" .
+
+<http://id.crossref.org/contributor/barry-mann-71v2k1f417az>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Mann" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Barry" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Barry Mann" .
+
+<http://id.crossref.org/contributor/ernest-l-yeh-71v2k1f417az>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Yeh" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Ernest L" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Ernest L Yeh" .
+
+<http://id.crossref.org/contributor/lewis-j-kaplan-71v2k1f417az>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kaplan" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Lewis J" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Lewis J Kaplan" .
+
+<http://id.crossref.org/contributor/robert-g-hendrickson-71v2k1f417az>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Hendrickson" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Robert G" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Robert G Hendrickson" .

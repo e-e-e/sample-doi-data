@@ -1,0 +1,42 @@
+<http://id.crossref.org/isbn/9781845641818>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Sustainable Development and Planning IV" .
+
+<http://id.crossref.org/contributor/s-khadivi-2rhjl9ucj28wn>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Khadivi" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "S." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "S. Khadivi" .
+
+<http://id.crossref.org/contributor/m-abbaspour-2rhjl9ucj28wn>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Abbaspour" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "M." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "M. Abbaspour" .
+
+<http://dx.doi.org/10.2495/sdp090512>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.2495/sdp090512" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/s-khadivi-2rhjl9ucj28wn> , <http://id.crossref.org/contributor/m-abbaspour-2rhjl9ucj28wn> ;
+      <http://purl.org/dc/terms/date>
+              "2009-04-21"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.2495/sdp090512" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9781845641818> ;
+      <http://purl.org/dc/terms/publisher>
+              "WIT Press" ;
+      <http://purl.org/dc/terms/title>
+              "Challenges of Green Management in Iran" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.2495/sdp090512" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.2495/sdp090512> , <info:doi/10.2495/sdp090512> .

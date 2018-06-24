@@ -1,0 +1,78 @@
+<http://id.crossref.org/contributor/yueliang-leon-guo-1b569g8axrmea>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Guo" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Yueliang Leon" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Yueliang Leon Guo" .
+
+<http://id.crossref.org/contributor/chao-chin-hsu-1b569g8axrmea>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Hsu" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Chao-Chin" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Chao-Chin Hsu" .
+
+<http://id.crossref.org/contributor/george-h-lambert-1b569g8axrmea>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Lambert" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "George H" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "George H Lambert" .
+
+<http://id.crossref.org/contributor/ping-chi-hsu-1b569g8axrmea>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Hsu" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Ping-Chi" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Ping-Chi Hsu" .
+
+<http://dx.doi.org/10.1016/s0140-6736(00)02792-6>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/s0140-6736(00)02792-6" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "1241" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "1240" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "356" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/yueliang-leon-guo-1b569g8axrmea> , <http://id.crossref.org/contributor/chao-chin-hsu-1b569g8axrmea> , <http://id.crossref.org/contributor/george-h-lambert-1b569g8axrmea> , <http://id.crossref.org/contributor/ping-chi-hsu-1b569g8axrmea> ;
+      <http://purl.org/dc/terms/date>
+              "2000-10"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/s0140-6736(00)02792-6" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0140-6736> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Semen quality after prenatal exposure to polychlorinated biphenyls and dibenzofurans" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/s0140-6736(00)02792-6" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "1241" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "1240" ;
+      <http://purl.org/ontology/bibo/volume>
+              "356" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1016/s0140-6736(00)02792-6> , <doi:10.1016/s0140-6736(00)02792-6> .
+
+<http://id.crossref.org/issn/0140-6736>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0140-6736" ;
+      <http://purl.org/dc/terms/title>
+              "The Lancet" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0140-6736" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0140-6736" .

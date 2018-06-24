@@ -1,0 +1,114 @@
+<http://id.crossref.org/contributor/k-abe-2ai9xa0yw5pau>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Abe" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "K." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "K. Abe" .
+
+<http://id.crossref.org/contributor/t-aso-2ai9xa0yw5pau>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Aso" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "T." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "T. Aso" .
+
+<http://id.crossref.org/contributor/k-fujiwara-2ai9xa0yw5pau>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Fujiwara" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "K." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "K. Fujiwara" .
+
+<http://id.crossref.org/contributor/h-takayama-2ai9xa0yw5pau>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Takayama" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "H." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "H. Takayama" .
+
+<http://id.crossref.org/contributor/y-sugimoto-2ai9xa0yw5pau>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Sugimoto" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Y." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Y. Sugimoto" .
+
+<http://id.crossref.org/issn/0168-9002>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0168-9002" ;
+      <http://purl.org/dc/terms/title>
+              "Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0168-9002" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0168-9002" .
+
+<http://id.crossref.org/contributor/n-tamura-2ai9xa0yw5pau>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Tamura" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "N." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "N. Tamura" .
+
+<http://dx.doi.org/10.1016/s0168-9002(03)01800-x>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/s0168-9002(03)01800-x" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "239" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "235" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "511" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/k-abe-2ai9xa0yw5pau> , <http://id.crossref.org/contributor/t-aso-2ai9xa0yw5pau> , <http://id.crossref.org/contributor/k-fujiwara-2ai9xa0yw5pau> , <http://id.crossref.org/contributor/h-takayama-2ai9xa0yw5pau> , <http://id.crossref.org/contributor/y-sugimoto-2ai9xa0yw5pau> , <http://id.crossref.org/contributor/n-tamura-2ai9xa0yw5pau> , <http://id.crossref.org/contributor/g-iwai-2ai9xa0yw5pau> , <http://id.crossref.org/contributor/a-miyamoto-2ai9xa0yw5pau> ;
+      <http://purl.org/dc/terms/date>
+              "2003-09"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/s0168-9002(03)01800-x" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0168-9002> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "CCD-based vertex detector for JLC" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/s0168-9002(03)01800-x" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "239" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "235" ;
+      <http://purl.org/ontology/bibo/volume>
+              "511" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1016/s0168-9002(03)01800-x> , <doi:10.1016/s0168-9002(03)01800-x> .
+
+<http://id.crossref.org/contributor/g-iwai-2ai9xa0yw5pau>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Iwai" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "G." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "G. Iwai" .
+
+<http://id.crossref.org/contributor/a-miyamoto-2ai9xa0yw5pau>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Miyamoto" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "A. Miyamoto" .

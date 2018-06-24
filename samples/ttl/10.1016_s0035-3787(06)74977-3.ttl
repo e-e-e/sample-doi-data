@@ -1,0 +1,47 @@
+<http://id.crossref.org/contributor/christine-tranchant-1jdul0vyfuovx>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Tranchant" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Christine" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Christine Tranchant" .
+
+<http://dx.doi.org/10.1016/s0035-3787(06)74977-3>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/s0035-3787(06)74977-3" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "15" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "162" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/christine-tranchant-1jdul0vyfuovx> ;
+      <http://purl.org/dc/terms/date>
+              "2006-01"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/s0035-3787(06)74977-3" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0035-3787> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "À nos lecteurs" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/s0035-3787(06)74977-3" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "15" ;
+      <http://purl.org/ontology/bibo/volume>
+              "162" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1016/s0035-3787(06)74977-3> , <info:doi/10.1016/s0035-3787(06)74977-3> .
+
+<http://id.crossref.org/issn/0035-3787>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0035-3787" ;
+      <http://purl.org/dc/terms/title>
+              "Revue Neurologique" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0035-3787" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0035-3787" .

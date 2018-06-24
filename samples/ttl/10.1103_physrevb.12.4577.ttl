@@ -1,0 +1,60 @@
+<http://id.crossref.org/contributor/michael-l-klein-t35ws9wsjdbg>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Klein" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Michael L." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Michael L. Klein" .
+
+<http://dx.doi.org/10.1103/physrevb.12.4577>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1103/physrevb.12.4577" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "4580" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "4577" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "12" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/michael-l-klein-t35ws9wsjdbg> , <http://id.crossref.org/contributor/v-v-goldman-t35ws9wsjdbg> ;
+      <http://purl.org/dc/terms/date>
+              "1975-11-15"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1103/physrevb.12.4577" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0556-2805> ;
+      <http://purl.org/dc/terms/publisher>
+              "American Physical Society (APS)" ;
+      <http://purl.org/dc/terms/title>
+              "Difference between zero- and first-sound propagation in solid Kr" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1103/physrevb.12.4577" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "4580" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "4577" ;
+      <http://purl.org/ontology/bibo/volume>
+              "12" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1103/physrevb.12.4577> , <doi:10.1103/physrevb.12.4577> .
+
+<http://id.crossref.org/issn/0556-2805>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0556-2805" ;
+      <http://purl.org/dc/terms/title>
+              "Physical Review B" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0556-2805" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0556-2805" .
+
+<http://id.crossref.org/contributor/v-v-goldman-t35ws9wsjdbg>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Goldman" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "V. V." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "V. V. Goldman" .

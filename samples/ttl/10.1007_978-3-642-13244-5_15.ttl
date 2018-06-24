@@ -1,0 +1,61 @@
+<http://dx.doi.org/10.1007/978-3-642-13244-5_15>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1007/978-3-642-13244-5_15" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "199" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "188" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/mohammad-khansari-16t3y2qwkq421> , <http://id.crossref.org/contributor/amir-h-moin-16t3y2qwkq421> ;
+      <http://purl.org/dc/terms/date>
+              "2010"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1007/978-3-642-13244-5_15" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1868-4238> , <http://id.crossref.org/isbn/9783642132438> ;
+      <http://purl.org/dc/terms/publisher>
+              "Springer Berlin Heidelberg" ;
+      <http://purl.org/dc/terms/title>
+              "Bug Localization Using Revision Log Analysis and Open Bug Repository Text Categorization" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1007/978-3-642-13244-5_15" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "199" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "188" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1007/978-3-642-13244-5_15> , <info:doi/10.1007/978-3-642-13244-5_15> .
+
+<http://id.crossref.org/contributor/mohammad-khansari-16t3y2qwkq421>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Khansari" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Mohammad" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Mohammad Khansari" .
+
+<http://id.crossref.org/issn/1868-4238>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1868-4238" , "1861-2288" ;
+      <http://purl.org/dc/terms/title>
+              "IFIP Advances in Information and Communication Technology" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1868-4238" , "1861-2288" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1868-4238" , "urn:issn:1861-2288" .
+
+<http://id.crossref.org/contributor/amir-h-moin-16t3y2qwkq421>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Moin" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Amir H." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Amir H. Moin" .
+
+<http://id.crossref.org/isbn/9783642132438>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "IFIP Advances in Information and Communication Technology" .

@@ -1,0 +1,70 @@
+<http://id.crossref.org/contributor/guangjiu-zhao-1rlkcft9t2dv>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Zhao" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Guangjiu" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Guangjiu Zhao" .
+
+<http://dx.doi.org/10.1103/physreva.82.063838>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1103/physreva.82.063838" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "82" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/guangjiu-zhao-1rlkcft9t2dv> , <http://id.crossref.org/contributor/huan-yang-1rlkcft9t2dv> , <http://id.crossref.org/contributor/bin-wen-1rlkcft9t2dv> , <http://id.crossref.org/contributor/tianjiao-shao-1rlkcft9t2dv> ;
+      <http://purl.org/dc/terms/date>
+              "2010-12-30"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1103/physreva.82.063838" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1050-2947> ;
+      <http://purl.org/dc/terms/publisher>
+              "American Physical Society (APS)" ;
+      <http://purl.org/dc/terms/title>
+              "Theoretical exploration of laser-parameter effects on the generation of an isolated attosecond pulse from two-color high-order harmonic generation" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1103/physreva.82.063838" ;
+      <http://purl.org/ontology/bibo/volume>
+              "82" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1103/physreva.82.063838> , <doi:10.1103/physreva.82.063838> .
+
+<http://id.crossref.org/contributor/huan-yang-1rlkcft9t2dv>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Yang" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Huan" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Huan Yang" .
+
+<http://id.crossref.org/issn/1050-2947>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1050-2947" , "1094-1622" ;
+      <http://purl.org/dc/terms/title>
+              "Physical Review A" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1050-2947" , "1094-1622" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1094-1622" , "urn:issn:1050-2947" .
+
+<http://id.crossref.org/contributor/bin-wen-1rlkcft9t2dv>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Wen" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Bin" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Bin Wen" .
+
+<http://id.crossref.org/contributor/tianjiao-shao-1rlkcft9t2dv>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Shao" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Tianjiao" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Tianjiao Shao" .

@@ -1,0 +1,78 @@
+<http://id.crossref.org/contributor/takashi-yamada-jrktzvq2gqcr>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Yamada" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Takashi" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Takashi Yamada" .
+
+<http://id.crossref.org/contributor/yoshihiro-takemura-jrktzvq2gqcr>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Takemura" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Yoshihiro" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Yoshihiro Takemura" .
+
+<http://dx.doi.org/10.1016/s0026-0495(66)80003-3>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/s0026-0495(66)80003-3" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "686" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "679" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "15" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/takashi-yamada-jrktzvq2gqcr> , <http://id.crossref.org/contributor/yoshihiro-takemura-jrktzvq2gqcr> , <http://id.crossref.org/contributor/kojiro-shichijo-jrktzvq2gqcr> , <http://id.crossref.org/contributor/kaoru-ozawa-jrktzvq2gqcr> ;
+      <http://purl.org/dc/terms/date>
+              "1966-08"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/s0026-0495(66)80003-3" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0026-0495> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Comparison of the effects of several drugs on tissue uptake of labeled thyroxine and triiodothyronine in the presence of rat plasma in vitro" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/s0026-0495(66)80003-3" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "686" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "679" ;
+      <http://purl.org/ontology/bibo/volume>
+              "15" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1016/s0026-0495(66)80003-3> , <doi:10.1016/s0026-0495(66)80003-3> .
+
+<http://id.crossref.org/contributor/kojiro-shichijo-jrktzvq2gqcr>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Shichijo" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Kojiro" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Kojiro Shichijo" .
+
+<http://id.crossref.org/issn/0026-0495>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0026-0495" ;
+      <http://purl.org/dc/terms/title>
+              "Metabolism" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0026-0495" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0026-0495" .
+
+<http://id.crossref.org/contributor/kaoru-ozawa-jrktzvq2gqcr>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Ozawa" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Kaoru" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Kaoru Ozawa" .

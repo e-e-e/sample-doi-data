@@ -1,0 +1,60 @@
+<http://id.crossref.org/contributor/laura-e-levine-344o6kvnbc7tt>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Levine" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Laura E." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Laura E. Levine" .
+
+<http://id.crossref.org/issn/0012-1649>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0012-1649" ;
+      <http://purl.org/dc/terms/title>
+              "Developmental Psychology" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0012-1649" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0012-1649" .
+
+<http://id.crossref.org/contributor/martin-l-hoffman-344o6kvnbc7tt>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Hoffman" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Martin L." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Martin L. Hoffman" .
+
+<http://dx.doi.org/10.1037/h0076680>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1037/h0076680" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "534" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "533" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "11" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/laura-e-levine-344o6kvnbc7tt> , <http://id.crossref.org/contributor/martin-l-hoffman-344o6kvnbc7tt> ;
+      <http://purl.org/dc/terms/date>
+              "1975"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1037/h0076680" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0012-1649> ;
+      <http://purl.org/dc/terms/publisher>
+              "American Psychological Association (APA)" ;
+      <http://purl.org/dc/terms/title>
+              "Empathy and cooperation in 4-year-olds." ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1037/h0076680" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "534" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "533" ;
+      <http://purl.org/ontology/bibo/volume>
+              "11" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1037/h0076680> , <info:doi/10.1037/h0076680> .

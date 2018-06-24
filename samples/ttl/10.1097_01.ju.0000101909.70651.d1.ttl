@@ -1,0 +1,78 @@
+<http://dx.doi.org/10.1097/01.ju.0000101909.70651.d1>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1097/01.ju.0000101909.70651.d1" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "236" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "232" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "171" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/rajveer-s-purohit-2bjncqo3rulh6> , <http://id.crossref.org/contributor/paul-j-turek-2bjncqo3rulh6> , <http://id.crossref.org/contributor/katsuto-shinohara-2bjncqo3rulh6> , <http://id.crossref.org/contributor/david-s-wu-2bjncqo3rulh6> ;
+      <http://purl.org/dc/terms/date>
+              "2004-01"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1097/01.ju.0000101909.70651.d1" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0022-5347> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "A Prospective Comparison of 3 Diagnostic Methods to Evaluate Ejaculatory Duct Obstruction" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1097/01.ju.0000101909.70651.d1" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "236" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "232" ;
+      <http://purl.org/ontology/bibo/volume>
+              "171" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1097/01.ju.0000101909.70651.d1> , <info:doi/10.1097/01.ju.0000101909.70651.d1> .
+
+<http://id.crossref.org/contributor/rajveer-s-purohit-2bjncqo3rulh6>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "PUROHIT" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "RAJVEER S." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "RAJVEER S. PUROHIT" .
+
+<http://id.crossref.org/contributor/paul-j-turek-2bjncqo3rulh6>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "TUREK" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "PAUL J." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "PAUL J. TUREK" .
+
+<http://id.crossref.org/contributor/katsuto-shinohara-2bjncqo3rulh6>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "SHINOHARA" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "KATSUTO" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "KATSUTO SHINOHARA" .
+
+<http://id.crossref.org/issn/0022-5347>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0022-5347" ;
+      <http://purl.org/dc/terms/title>
+              "The Journal of Urology" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0022-5347" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0022-5347" .
+
+<http://id.crossref.org/contributor/david-s-wu-2bjncqo3rulh6>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "WU" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "DAVID S." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "DAVID S. WU" .

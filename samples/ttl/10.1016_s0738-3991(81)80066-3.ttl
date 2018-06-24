@@ -1,0 +1,40 @@
+<http://dx.doi.org/10.1016/s0738-3991(81)80066-3>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/s0738-3991(81)80066-3" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "84" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "83" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "3" ;
+      <http://purl.org/dc/terms/date>
+              "1981-04"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/s0738-3991(81)80066-3" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0190-2040> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Effect of patient education on medication compliance" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/s0738-3991(81)80066-3" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "84" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "83" ;
+      <http://purl.org/ontology/bibo/volume>
+              "3" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1016/s0738-3991(81)80066-3> , <doi:10.1016/s0738-3991(81)80066-3> .
+
+<http://id.crossref.org/issn/0190-2040>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0190-2040" ;
+      <http://purl.org/dc/terms/title>
+              "Patient Counselling and Health Education" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0190-2040" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0190-2040" .

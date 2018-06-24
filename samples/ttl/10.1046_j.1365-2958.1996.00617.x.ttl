@@ -1,0 +1,78 @@
+<http://id.crossref.org/contributor/peter-reynolds-c9qtiia2jd9l>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Reynolds" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Peter" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Peter Reynolds" .
+
+<http://id.crossref.org/contributor/patrice-courvalin-c9qtiia2jd9l>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Courvalin" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Patrice" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Patrice Courvalin" .
+
+<http://dx.doi.org/10.1046/j.1365-2958.1996.00617.x>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1046/j.1365-2958.1996.00617.x" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "44" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "33" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "21" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/patrice-courvalin-c9qtiia2jd9l> , <http://id.crossref.org/contributor/peter-reynolds-c9qtiia2jd9l> , <http://id.crossref.org/contributor/michel-arthur-c9qtiia2jd9l> , <http://id.crossref.org/contributor/florence-depardieu-c9qtiia2jd9l> ;
+      <http://purl.org/dc/terms/date>
+              "1996-07"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1046/j.1365-2958.1996.00617.x" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0950-382X> ;
+      <http://purl.org/dc/terms/publisher>
+              "Wiley" ;
+      <http://purl.org/dc/terms/title>
+              "Quantitative analysis of the metabolism of soluble cytoplasmic peptidoglycan precursors of glycopeptide-resistant enterococci" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1046/j.1365-2958.1996.00617.x" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "44" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "33" ;
+      <http://purl.org/ontology/bibo/volume>
+              "21" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1046/j.1365-2958.1996.00617.x> , <doi:10.1046/j.1365-2958.1996.00617.x> .
+
+<http://id.crossref.org/issn/0950-382X>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0950-382X" , "1365-2958" ;
+      <http://purl.org/dc/terms/title>
+              "Molecular Microbiology" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0950-382X" , "1365-2958" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1365-2958" , "urn:issn:0950-382X" .
+
+<http://id.crossref.org/contributor/florence-depardieu-c9qtiia2jd9l>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Depardieu" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Florence" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Florence Depardieu" .
+
+<http://id.crossref.org/contributor/michel-arthur-c9qtiia2jd9l>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Arthur" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Michel" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Michel Arthur" .

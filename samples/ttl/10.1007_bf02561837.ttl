@@ -1,0 +1,51 @@
+<http://id.crossref.org/contributor/j-schuller-m29kwv01x6rg>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Schüller" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "J." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "J. Schüller" .
+
+<http://id.crossref.org/issn/0003-9330>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1434-3916" , "0003-9330" ;
+      <http://purl.org/dc/terms/title>
+              "Archiv für Orthopädische und Unfall-Chirurgie" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1434-3916" , "0003-9330" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1434-3916" , "urn:issn:0003-9330" .
+
+<http://dx.doi.org/10.1007/bf02561837>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1007/bf02561837" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "244" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "233" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "30" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/j-schuller-m29kwv01x6rg> ;
+      <http://purl.org/dc/terms/date>
+              "1931-12"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1007/bf02561837" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0003-9330> ;
+      <http://purl.org/dc/terms/publisher>
+              "Springer Nature" ;
+      <http://purl.org/dc/terms/title>
+              "Zweijährige Erfahrung mit der Arteriographie" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1007/bf02561837" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "244" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "233" ;
+      <http://purl.org/ontology/bibo/volume>
+              "30" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1007/bf02561837> , <doi:10.1007/bf02561837> .

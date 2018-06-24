@@ -1,0 +1,51 @@
+<http://id.crossref.org/contributor/h-w-beams-dxu4gm54wn6y>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Beams" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "H. W." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "H. W. Beams" .
+
+<http://dx.doi.org/10.1002/ar.1090460402>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1002/ar.1090460402" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "327" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "305" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "46" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/h-w-beams-dxu4gm54wn6y> ;
+      <http://purl.org/dc/terms/date>
+              "1930-09"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1002/ar.1090460402" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0003-276X> ;
+      <http://purl.org/dc/terms/publisher>
+              "Wiley" ;
+      <http://purl.org/dc/terms/title>
+              "Golgi apparatus, canalicular apparatus, vacuome, and mitochondria in the islets of Langerhans of the albino rat" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1002/ar.1090460402" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "327" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "305" ;
+      <http://purl.org/ontology/bibo/volume>
+              "46" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1002/ar.1090460402> , <info:doi/10.1002/ar.1090460402> .
+
+<http://id.crossref.org/issn/0003-276X>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1097-0185" , "0003-276X" ;
+      <http://purl.org/dc/terms/title>
+              "The Anatomical Record" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1097-0185" , "0003-276X" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1097-0185" , "urn:issn:0003-276X" .

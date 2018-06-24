@@ -1,0 +1,69 @@
+<http://dx.doi.org/10.1097/00008505-199509000-00002>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1097/00008505-199509000-00002" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "165" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "162" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "4" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/joann-r-gurenlian-2b2btsss7ew6s> , <http://id.crossref.org/contributor/kenneth-w-m-judy-2b2btsss7ew6s> , <http://id.crossref.org/contributor/roland-m-meffert-2b2btsss7ew6s> ;
+      <http://purl.org/dc/terms/date>
+              "1995-09"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1097/00008505-199509000-00002" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1056-6163> ;
+      <http://purl.org/dc/terms/publisher>
+              "Ovid Technologies (Wolters Kluwer Health)" ;
+      <http://purl.org/dc/terms/title>
+              "CURRICULUM GUIDELINES IN IMPLANT DENTISTRY FOR DENTAL HYGIENE PROGRAMS" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1097/00008505-199509000-00002" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "165" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "162" ;
+      <http://purl.org/ontology/bibo/volume>
+              "4" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1097/00008505-199509000-00002> , <info:doi/10.1097/00008505-199509000-00002> .
+
+<http://id.crossref.org/contributor/joann-r-gurenlian-2b2btsss7ew6s>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Gurenlian" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "JoAnn R." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "JoAnn R. Gurenlian" .
+
+<http://id.crossref.org/issn/1056-6163>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1056-6163" ;
+      <http://purl.org/dc/terms/title>
+              "Implant Dentistry" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1056-6163" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1056-6163" .
+
+<http://id.crossref.org/contributor/kenneth-w-m-judy-2b2btsss7ew6s>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Judy" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Kenneth W. M." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Kenneth W. M. Judy" .
+
+<http://id.crossref.org/contributor/roland-m-meffert-2b2btsss7ew6s>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Meffert" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Roland M." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Roland M. Meffert" .

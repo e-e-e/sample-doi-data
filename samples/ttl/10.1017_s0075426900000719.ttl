@@ -1,0 +1,47 @@
+<http://id.crossref.org/contributor/peter-thonemann-1nfi3a9ojdvml>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Thonemann" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Peter" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Peter Thonemann" .
+
+<http://dx.doi.org/10.1017/s0075426900000719>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1017/s0075426900000719" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "230" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "128" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/peter-thonemann-1nfi3a9ojdvml> ;
+      <http://purl.org/dc/terms/date>
+              "2008-11"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1017/s0075426900000719" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0075-4269> ;
+      <http://purl.org/dc/terms/publisher>
+              "Cambridge University Press (CUP)" ;
+      <http://purl.org/dc/terms/title>
+              "History (B.) İplіkçіoĝlu, (G.) Çelgіn and (A.V.) Çelgіn Eds. Epigraphische Forschungen in Termessos und seinem Territorium IV. Vienna: Österreichische Akademie der Wissenschaften, 2007. Pp. 320, illus. €79. 9783700135326." ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1017/s0075426900000719" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "230" ;
+      <http://purl.org/ontology/bibo/volume>
+              "128" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1017/s0075426900000719> , <info:doi/10.1017/s0075426900000719> .
+
+<http://id.crossref.org/issn/0075-4269>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0075-4269" , "2041-4099" ;
+      <http://purl.org/dc/terms/title>
+              "The Journal of Hellenic Studies" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0075-4269" , "2041-4099" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:2041-4099" , "urn:issn:0075-4269" .

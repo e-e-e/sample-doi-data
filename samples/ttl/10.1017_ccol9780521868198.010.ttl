@@ -1,0 +1,59 @@
+<http://id.crossref.org/contributor/andrea-immel-3efii99a6x040>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Immel" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Andrea" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Andrea Immel" .
+
+<http://id.crossref.org/contributor/m-o-grenby-3efii99a6x040>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Grenby" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "M. O." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "M. O. Grenby" .
+
+<http://id.crossref.org/isbn/9781139002738>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "The Cambridge Companion to Children's Literature" .
+
+<http://dx.doi.org/10.1017/ccol9780521868198.010>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1017/ccol9780521868198.010" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "173" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "159" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/andrea-immel-3efii99a6x040> , <http://id.crossref.org/contributor/m-o-grenby-3efii99a6x040> , <http://id.crossref.org/contributor/u-c-knoepflmacher-3efii99a6x040> ;
+      <http://purl.org/dc/terms/date>
+              ""^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1017/ccol9780521868198.010" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9781139002738> ;
+      <http://purl.org/dc/terms/publisher>
+              "Cambridge University Press" ;
+      <http://purl.org/dc/terms/title>
+              "Children’s texts and the grown-up reader" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1017/ccol9780521868198.010" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "173" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "159" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1017/ccol9780521868198.010> , <doi:10.1017/ccol9780521868198.010> .
+
+<http://id.crossref.org/contributor/u-c-knoepflmacher-3efii99a6x040>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Knoepflmacher" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "U. C." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "U. C. Knoepflmacher" .

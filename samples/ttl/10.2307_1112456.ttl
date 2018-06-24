@@ -1,0 +1,36 @@
+<http://dx.doi.org/10.2307/1112456>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.2307/1112456" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "809" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "21" ;
+      <http://purl.org/dc/terms/date>
+              "1921-12"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.2307/1112456" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0010-1958> ;
+      <http://purl.org/dc/terms/publisher>
+              "JSTOR" ;
+      <http://purl.org/dc/terms/title>
+              "Moral Justification for Trespass to Realty, and License Implied by Social Custom" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.2307/1112456" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "809" ;
+      <http://purl.org/ontology/bibo/volume>
+              "21" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.2307/1112456> , <info:doi/10.2307/1112456> .
+
+<http://id.crossref.org/issn/0010-1958>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0010-1958" ;
+      <http://purl.org/dc/terms/title>
+              "Columbia Law Review" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0010-1958" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0010-1958" .

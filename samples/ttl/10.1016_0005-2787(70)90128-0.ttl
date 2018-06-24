@@ -1,0 +1,60 @@
+<http://id.crossref.org/contributor/steven-krawiec-34kw103siqlme>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Krawiec" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Steven" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Steven Krawiec" .
+
+<http://id.crossref.org/contributor/jerome-m-eisenstadt-34kw103siqlme>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Eisenstadt" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Jerome M." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Jerome M. Eisenstadt" .
+
+<http://id.crossref.org/issn/0005-2787>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0005-2787" ;
+      <http://purl.org/dc/terms/title>
+              "Biochimica et Biophysica Acta (BBA) - Nucleic Acids and Protein Synthesis" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0005-2787" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0005-2787" .
+
+<http://dx.doi.org/10.1016/0005-2787(70)90128-0>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/0005-2787(70)90128-0" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "131" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "120" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "217" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/steven-krawiec-34kw103siqlme> , <http://id.crossref.org/contributor/jerome-m-eisenstadt-34kw103siqlme> ;
+      <http://purl.org/dc/terms/date>
+              "1970-09"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/0005-2787(70)90128-0" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0005-2787> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Ribonucleic acids from the mitochondria of bleached Euglena gracilis z" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/0005-2787(70)90128-0" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "131" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "120" ;
+      <http://purl.org/ontology/bibo/volume>
+              "217" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1016/0005-2787(70)90128-0> , <info:doi/10.1016/0005-2787(70)90128-0> .

@@ -1,0 +1,40 @@
+<http://dx.doi.org/10.1038/109425a0>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1038/109425a0" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "426" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "425" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "109" ;
+      <http://purl.org/dc/terms/date>
+              "1922-04"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1038/109425a0" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0028-0836> ;
+      <http://purl.org/dc/terms/publisher>
+              "Springer Nature" ;
+      <http://purl.org/dc/terms/title>
+              "University Education in the United States of America" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1038/109425a0" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "426" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "425" ;
+      <http://purl.org/ontology/bibo/volume>
+              "109" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1038/109425a0> , <doi:10.1038/109425a0> .
+
+<http://id.crossref.org/issn/0028-0836>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1476-4687" , "0028-0836" ;
+      <http://purl.org/dc/terms/title>
+              "Nature" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1476-4687" , "0028-0836" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0028-0836" , "urn:issn:1476-4687" .

@@ -1,0 +1,78 @@
+<http://id.crossref.org/contributor/n-i-abdel-sayed-2c2ph29kcuj68>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Abdel-Sayed" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "N. I." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "N. I. Abdel-Sayed" .
+
+<http://id.crossref.org/contributor/s-m-el-kousy-2c2ph29kcuj68>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "El-Kousy" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "S. M." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "S. M. El-Kousy" .
+
+<http://id.crossref.org/contributor/r-m-mohareb-2c2ph29kcuj68>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Mohareb" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "R. M." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "R. M. Mohareb" .
+
+<http://id.crossref.org/issn/0026-9247>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0026-9247" , "1434-4475" ;
+      <http://purl.org/dc/terms/title>
+              "Monatshefte f�r Chemie Chemical Monthly" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0026-9247" , "1434-4475" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1434-4475" , "urn:issn:0026-9247" .
+
+<http://dx.doi.org/10.1007/bf00807435>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1007/bf00807435" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "608" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "601" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "126" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/s-m-el-kousy-2c2ph29kcuj68> , <http://id.crossref.org/contributor/n-i-abdel-sayed-2c2ph29kcuj68> , <http://id.crossref.org/contributor/r-m-mohareb-2c2ph29kcuj68> , <http://id.crossref.org/contributor/s-m-sherif-2c2ph29kcuj68> ;
+      <http://purl.org/dc/terms/date>
+              "1995-05"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1007/bf00807435" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0026-9247> ;
+      <http://purl.org/dc/terms/publisher>
+              "Springer Nature" ;
+      <http://purl.org/dc/terms/title>
+              "The reaction of carbon disulfide with diethyl 3-amino-2-cyano-2-penten-1,5-dicarboxylate: A convenient synthesis of polyfunctionally substituted thiophenes and their fused derivatives" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1007/bf00807435" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "608" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "601" ;
+      <http://purl.org/ontology/bibo/volume>
+              "126" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1007/bf00807435> , <doi:10.1007/bf00807435> .
+
+<http://id.crossref.org/contributor/s-m-sherif-2c2ph29kcuj68>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Sherif" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "S. M." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "S. M. Sherif" .

@@ -1,0 +1,74 @@
+<http://dx.doi.org/10.1039/a606363b>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1039/a606363b" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "502" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "495" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/nicolas-auzeil-3l8oeq0ljwbca> , <http://id.crossref.org/contributor/eric-bacque-3l8oeq0ljwbca> , <http://id.crossref.org/contributor/maurice-bernard-fleury-3l8oeq0ljwbca> , <http://id.crossref.org/contributor/martine-largeron-3l8oeq0ljwbca> ;
+      <http://purl.org/dc/terms/date>
+              "1997"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1039/a606363b" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0300-9580> ;
+      <http://purl.org/dc/terms/publisher>
+              "Royal Society of Chemistry (RSC)" ;
+      <http://purl.org/dc/terms/title>
+              "Influence of steric crowding on the electrochemical reduction of substituted tertiary pyridylcarboxamides in aqueous acidic medium" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1039/a606363b" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "502" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "495" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1039/a606363b> , <info:doi/10.1039/a606363b> .
+
+<http://id.crossref.org/contributor/eric-bacque-3l8oeq0ljwbca>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Bacqué" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Eric" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Eric Bacqué" .
+
+<http://id.crossref.org/contributor/nicolas-auzeil-3l8oeq0ljwbca>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Auzeil" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Nicolas" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Nicolas Auzeil" .
+
+<http://id.crossref.org/contributor/maurice-bernard-fleury-3l8oeq0ljwbca>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Fleury" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Maurice-Bernard" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Maurice-Bernard Fleury" .
+
+<http://id.crossref.org/issn/0300-9580>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0300-9580" , "1364-5471" ;
+      <http://purl.org/dc/terms/title>
+              "Journal of the Chemical Society, Perkin Transactions 2" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0300-9580" , "1364-5471" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1364-5471" , "urn:issn:0300-9580" .
+
+<http://id.crossref.org/contributor/martine-largeron-3l8oeq0ljwbca>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Largeron" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Martine" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Martine Largeron" .

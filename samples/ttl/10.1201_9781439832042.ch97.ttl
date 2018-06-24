@@ -1,0 +1,59 @@
+<http://id.crossref.org/isbn/9780935315400>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Platelet-Activating Factor and Structurally Related Alkyl Ehter Lipids" .
+
+<http://id.crossref.org/contributor/paul-munder-3c201mdva1dg>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Munder" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Paul" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Paul Munder" .
+
+<http://id.crossref.org/contributor/hans-george-opitz-3c201mdva1dg>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Opitz" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Hans-George" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Hans-George Opitz" .
+
+<http://id.crossref.org/contributor/dieter-herrmann-3c201mdva1dg>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Herrmann" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Dieter" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Dieter Herrmann" .
+
+<http://dx.doi.org/10.1201/9781439832042.ch97>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1201/9781439832042.ch97" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "1436" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "1431" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/paul-munder-3c201mdva1dg> , <http://id.crossref.org/contributor/hans-george-opitz-3c201mdva1dg> , <http://id.crossref.org/contributor/dieter-herrmann-3c201mdva1dg> ;
+      <http://purl.org/dc/terms/date>
+              "1992-06-30"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1201/9781439832042.ch97" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9780935315400> ;
+      <http://purl.org/dc/terms/publisher>
+              "AOCS Publishing" ;
+      <http://purl.org/dc/terms/title>
+              "Antitumor Activity of Ilmofosine (BM 41.440) in the 3Lewis-Lung Carcinoma Model" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1201/9781439832042.ch97" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "1436" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "1431" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1201/9781439832042.ch97> , <doi:10.1201/9781439832042.ch97> .

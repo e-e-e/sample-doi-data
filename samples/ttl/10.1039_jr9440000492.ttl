@@ -1,0 +1,60 @@
+<http://id.crossref.org/issn/0368-1769>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0368-1769" ;
+      <http://purl.org/dc/terms/title>
+              "J. Chem. Soc." ;
+      <http://purl.org/ontology/bibo/issn>
+              "0368-1769" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0368-1769" .
+
+<http://id.crossref.org/contributor/godfrey-fort-1fpfvohwoui2j>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Fort" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Godfrey" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Godfrey Fort" .
+
+<http://dx.doi.org/10.1039/jr9440000492>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1039/jr9440000492" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "496" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "492" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "0" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/godfrey-fort-1fpfvohwoui2j> , <http://id.crossref.org/contributor/john-dewar-1fpfvohwoui2j> ;
+      <http://purl.org/dc/terms/date>
+              "1944"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1039/jr9440000492" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0368-1769> ;
+      <http://purl.org/dc/terms/publisher>
+              "Royal Society of Chemistry (RSC)" ;
+      <http://purl.org/dc/terms/title>
+              "135. Sugar nitrates. Part I. Syntheses of 2 : 4-dimethyl β-methylglucoside and 2 : 4 : 6-trimethyl β-methylglucoside" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1039/jr9440000492" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "496" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "492" ;
+      <http://purl.org/ontology/bibo/volume>
+              "0" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1039/jr9440000492> , <doi:10.1039/jr9440000492> .
+
+<http://id.crossref.org/contributor/john-dewar-1fpfvohwoui2j>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Dewar" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "John" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "John Dewar" .

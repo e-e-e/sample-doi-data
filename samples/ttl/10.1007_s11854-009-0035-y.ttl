@@ -1,0 +1,51 @@
+<http://id.crossref.org/contributor/nikos-frantzikinakis-3q986ri751n6o>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Frantzikinakis" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Nikos" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Nikos Frantzikinakis" .
+
+<http://id.crossref.org/issn/0021-7670>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0021-7670" , "1565-8538" ;
+      <http://purl.org/dc/terms/title>
+              "Journal d'Analyse Mathématique" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0021-7670" , "1565-8538" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0021-7670" , "urn:issn:1565-8538" .
+
+<http://dx.doi.org/10.1007/s11854-009-0035-y>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1007/s11854-009-0035-y" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "395" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "353" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "109" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/nikos-frantzikinakis-3q986ri751n6o> ;
+      <http://purl.org/dc/terms/date>
+              "2009-10"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1007/s11854-009-0035-y" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0021-7670> ;
+      <http://purl.org/dc/terms/publisher>
+              "Springer Nature" ;
+      <http://purl.org/dc/terms/title>
+              "Equidistribution of sparse sequences on nilmanifolds" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1007/s11854-009-0035-y" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "395" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "353" ;
+      <http://purl.org/ontology/bibo/volume>
+              "109" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1007/s11854-009-0035-y> , <info:doi/10.1007/s11854-009-0035-y> .

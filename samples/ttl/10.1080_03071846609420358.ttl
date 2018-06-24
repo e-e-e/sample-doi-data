@@ -1,0 +1,51 @@
+<http://id.crossref.org/issn/0035-9289>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0035-9289" ;
+      <http://purl.org/dc/terms/title>
+              "Royal United Services Institution. Journal" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0035-9289" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0035-9289" .
+
+<http://id.crossref.org/contributor/r-e-walters-3vztm393exz3a>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Walters" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "R. E." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "R. E. Walters" .
+
+<http://dx.doi.org/10.1080/03071846609420358>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1080/03071846609420358" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "322" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "317" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "111" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/r-e-walters-3vztm393exz3a> ;
+      <http://purl.org/dc/terms/date>
+              "1966-11"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1080/03071846609420358" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0035-9289> ;
+      <http://purl.org/dc/terms/publisher>
+              "Informa UK Limited" ;
+      <http://purl.org/dc/terms/title>
+              "The Submersible Fleet of the Future" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1080/03071846609420358" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "322" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "317" ;
+      <http://purl.org/ontology/bibo/volume>
+              "111" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1080/03071846609420358> , <doi:10.1080/03071846609420358> .

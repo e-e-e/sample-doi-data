@@ -1,0 +1,71 @@
+<http://id.crossref.org/contributor/j-m-sloss-1qme94p0dqxzv>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Sloss" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "J. M." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "J. M. Sloss" .
+
+<http://id.crossref.org/contributor/oe-kayacik-1qme94p0dqxzv>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kayacik" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Oe." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Oe. Kayacik" .
+
+<http://id.crossref.org/contributor/s-adali-1qme94p0dqxzv>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Adali" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "S." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "S. Adali" .
+
+<http://id.crossref.org/contributor/ralph-c-smith-1qme94p0dqxzv>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Smith" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Ralph C." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Ralph C. Smith" .
+
+<http://dx.doi.org/10.1117/12.599899>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1117/12.599899" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/j-m-sloss-1qme94p0dqxzv> , <http://id.crossref.org/contributor/oe-kayacik-1qme94p0dqxzv> , <http://id.crossref.org/contributor/s-adali-1qme94p0dqxzv> , <http://id.crossref.org/contributor/ralph-c-smith-1qme94p0dqxzv> , <http://id.crossref.org/contributor/i-s-sadek-1qme94p0dqxzv> , <http://id.crossref.org/contributor/j-c-bruch-jr-1qme94p0dqxzv> ;
+      <http://purl.org/dc/terms/date>
+              "2005-05-19"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1117/12.599899" ;
+      <http://purl.org/dc/terms/publisher>
+              "SPIE" ;
+      <http://purl.org/dc/terms/title>
+              "Comparison of Laplace transform, integral equation, and assumed modes approaches for piezo-patch control of beams" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1117/12.599899" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1117/12.599899> , <info:doi/10.1117/12.599899> .
+
+<http://id.crossref.org/contributor/i-s-sadek-1qme94p0dqxzv>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Sadek" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "I. S." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "I. S. Sadek" .
+
+<http://id.crossref.org/contributor/j-c-bruch-jr-1qme94p0dqxzv>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Bruch, Jr." ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "J. C." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "J. C. Bruch, Jr." .

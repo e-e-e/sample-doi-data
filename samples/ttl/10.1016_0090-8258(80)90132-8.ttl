@@ -1,0 +1,92 @@
+<http://id.crossref.org/contributor/h-j-ball-2o1ux1nlddc1n>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Ball" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "H.J." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "H.J. Ball" .
+
+<http://id.crossref.org/contributor/r-l-giuntoli-2o1ux1nlddc1n>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Giuntoli" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "R.L." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "R.L. Giuntoli" .
+
+<http://id.crossref.org/issn/0090-8258>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0090-8258" ;
+      <http://purl.org/dc/terms/title>
+              "Gynecologic Oncology" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0090-8258" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0090-8258" .
+
+<http://id.crossref.org/contributor/j-mikuta-2o1ux1nlddc1n>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Mikuta" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "J." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "J. Mikuta" .
+
+<http://id.crossref.org/contributor/c-e-mangan-2o1ux1nlddc1n>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Mangan" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "C.E." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "C.E. Mangan" .
+
+<http://id.crossref.org/contributor/t-f-rocereto-2o1ux1nlddc1n>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Rocereto" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "T.F." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "T.F. Rocereto" .
+
+<http://id.crossref.org/contributor/t-v-sedlacek-2o1ux1nlddc1n>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Sedlacek" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "T.V." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "T.V. Sedlacek" .
+
+<http://dx.doi.org/10.1016/0090-8258(80)90132-8>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/0090-8258(80)90132-8" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "367" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "10" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/h-j-ball-2o1ux1nlddc1n> , <http://id.crossref.org/contributor/r-l-giuntoli-2o1ux1nlddc1n> , <http://id.crossref.org/contributor/j-mikuta-2o1ux1nlddc1n> , <http://id.crossref.org/contributor/c-e-mangan-2o1ux1nlddc1n> , <http://id.crossref.org/contributor/t-v-sedlacek-2o1ux1nlddc1n> , <http://id.crossref.org/contributor/t-f-rocereto-2o1ux1nlddc1n> ;
+      <http://purl.org/dc/terms/date>
+              "1980-12"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/0090-8258(80)90132-8" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0090-8258> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Second-look celiotomy in ovarian carcinoma" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/0090-8258(80)90132-8" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "367" ;
+      <http://purl.org/ontology/bibo/volume>
+              "10" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1016/0090-8258(80)90132-8> , <doi:10.1016/0090-8258(80)90132-8> .

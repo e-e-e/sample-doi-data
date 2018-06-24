@@ -1,0 +1,51 @@
+<http://id.crossref.org/issn/1422-6421>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1422-6405" , "1422-6421" ;
+      <http://purl.org/dc/terms/title>
+              "Cells Tissues Organs" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1422-6405" , "1422-6421" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1422-6421" , "urn:issn:1422-6405" .
+
+<http://dx.doi.org/10.1159/000146500>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1159/000146500" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "135" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "132" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "131" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/l-surchev-3jqxbryjf7hvl> ;
+      <http://purl.org/dc/terms/date>
+              "1988"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1159/000146500" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1422-6421> ;
+      <http://purl.org/dc/terms/publisher>
+              "S. Karger AG" ;
+      <http://purl.org/dc/terms/title>
+              "Simple and Complex Synapses Shown by Freeze-Etching of Rat Cortical Synaptosomes" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1159/000146500" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "135" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "132" ;
+      <http://purl.org/ontology/bibo/volume>
+              "131" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1159/000146500> , <info:doi/10.1159/000146500> .
+
+<http://id.crossref.org/contributor/l-surchev-3jqxbryjf7hvl>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Surchev" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "L." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "L. Surchev" .

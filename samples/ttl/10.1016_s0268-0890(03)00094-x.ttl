@@ -1,0 +1,60 @@
+<http://id.crossref.org/contributor/r-s-grover-3e6mqdjcwiweo>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Grover" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "R.S" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "R.S Grover" .
+
+<http://dx.doi.org/10.1016/s0268-0890(03)00094-x>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/s0268-0890(03)00094-x" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "286" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "274" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "17" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/r-s-grover-3e6mqdjcwiweo> , <http://id.crossref.org/contributor/o-m-antonyshyn-3e6mqdjcwiweo> ;
+      <http://purl.org/dc/terms/date>
+              "2003-08"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/s0268-0890(03)00094-x" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0268-0890> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "(iv) Care of maxillofacial injuries in multiple trauma" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/s0268-0890(03)00094-x" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "286" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "274" ;
+      <http://purl.org/ontology/bibo/volume>
+              "17" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1016/s0268-0890(03)00094-x> , <info:doi/10.1016/s0268-0890(03)00094-x> .
+
+<http://id.crossref.org/contributor/o-m-antonyshyn-3e6mqdjcwiweo>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Antonyshyn" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "O.M" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "O.M Antonyshyn" .
+
+<http://id.crossref.org/issn/0268-0890>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0268-0890" ;
+      <http://purl.org/dc/terms/title>
+              "Current Orthopaedics" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0268-0890" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0268-0890" .

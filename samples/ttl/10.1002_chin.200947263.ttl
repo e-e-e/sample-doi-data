@@ -1,0 +1,61 @@
+<http://id.crossref.org/contributor/paul-g-grothaus-g85gkw9y119x>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Grothaus" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Paul G." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Paul G. Grothaus" .
+
+<http://dx.doi.org/10.1002/chin.200947263>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1002/chin.200947263" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "40" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/paul-g-grothaus-g85gkw9y119x> , <http://id.crossref.org/contributor/david-j-newman-g85gkw9y119x> , <http://id.crossref.org/contributor/gordon-m-cragg-g85gkw9y119x> ;
+      <http://purl.org/dc/terms/date>
+              "2009-11-24"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1002/chin.200947263" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0931-7597> ;
+      <http://purl.org/dc/terms/publisher>
+              "Wiley" ;
+      <http://purl.org/dc/terms/title>
+              "ChemInform Abstract: Impact of Natural Products on Developing New Anticancer Agents" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1002/chin.200947263" ;
+      <http://purl.org/ontology/bibo/volume>
+              "40" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1002/chin.200947263> , <doi:10.1002/chin.200947263> .
+
+<http://id.crossref.org/contributor/david-j-newman-g85gkw9y119x>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Newman" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "David J." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "David J. Newman" .
+
+<http://id.crossref.org/issn/0931-7597>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1522-2667" , "0931-7597" ;
+      <http://purl.org/dc/terms/title>
+              "ChemInform" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1522-2667" , "0931-7597" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0931-7597" , "urn:issn:1522-2667" .
+
+<http://id.crossref.org/contributor/gordon-m-cragg-g85gkw9y119x>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Cragg" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Gordon M." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Gordon M. Cragg" .

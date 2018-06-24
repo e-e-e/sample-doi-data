@@ -1,0 +1,51 @@
+<http://id.crossref.org/contributor/d-j-mccarthy-3mchaj9vrf9n>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "J. McCarthy" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "D." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "D. J. McCarthy" .
+
+<http://id.crossref.org/issn/0008-6223>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0008-6223" ;
+      <http://purl.org/dc/terms/title>
+              "Carbon" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0008-6223" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0008-6223" .
+
+<http://dx.doi.org/10.1016/0008-6223(77)90023-9>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/0008-6223(77)90023-9" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "101" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "95" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "15" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/d-j-mccarthy-3mchaj9vrf9n> ;
+      <http://purl.org/dc/terms/date>
+              "1977"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/0008-6223(77)90023-9" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0008-6223> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "An investigation of the design variables for producing activated carbons from victorian brown coals by reaction with steam" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/0008-6223(77)90023-9" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "101" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "95" ;
+      <http://purl.org/ontology/bibo/volume>
+              "15" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1016/0008-6223(77)90023-9> , <info:doi/10.1016/0008-6223(77)90023-9> .

@@ -1,0 +1,51 @@
+<http://id.crossref.org/issn/0301-9268>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0301-9268" ;
+      <http://purl.org/dc/terms/title>
+              "Precambrian Research" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0301-9268" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0301-9268" .
+
+<http://dx.doi.org/10.1016/0301-9268(84)90057-3>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/0301-9268(84)90057-3" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "188" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "173" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "24" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/aryeh-e-shimron-1ld23j2nehq3x> ;
+      <http://purl.org/dc/terms/date>
+              "1984-05"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/0301-9268(84)90057-3" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0301-9268> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Metamorphism and tectonics of a Pan-African terrain in Southeastern Sinai — A discussion" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/0301-9268(84)90057-3" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "188" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "173" ;
+      <http://purl.org/ontology/bibo/volume>
+              "24" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1016/0301-9268(84)90057-3> , <info:doi/10.1016/0301-9268(84)90057-3> .
+
+<http://id.crossref.org/contributor/aryeh-e-shimron-1ld23j2nehq3x>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Shimron" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Aryeh E." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Aryeh E. Shimron" .

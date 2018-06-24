@@ -1,0 +1,51 @@
+<http://dx.doi.org/10.1016/s0140-6736(01)72635-9>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/s0140-6736(01)72635-9" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "299" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "298" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "161" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/bernard-pitts-3tl833w4p6gb> ;
+      <http://purl.org/dc/terms/date>
+              "1903-01"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/s0140-6736(01)72635-9" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0140-6736> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "SUPPRESSION OF URINE IN A CASE OF OVARIAN TUMOUR AND PREGNANCY; REMOVAL OF TUMOUR AND UTERUS; RECOVERY." ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/s0140-6736(01)72635-9" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "299" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "298" ;
+      <http://purl.org/ontology/bibo/volume>
+              "161" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1016/s0140-6736(01)72635-9> , <doi:10.1016/s0140-6736(01)72635-9> .
+
+<http://id.crossref.org/contributor/bernard-pitts-3tl833w4p6gb>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Pitts" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Bernard" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Bernard Pitts" .
+
+<http://id.crossref.org/issn/0140-6736>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0140-6736" ;
+      <http://purl.org/dc/terms/title>
+              "The Lancet" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0140-6736" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0140-6736" .

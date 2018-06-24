@@ -1,0 +1,56 @@
+<http://id.crossref.org/contributor/j-f-paxton-vcuqip9z813f>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Paxton" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "J. F." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "J. F. Paxton" .
+
+<http://id.crossref.org/issn/0006-7431>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0006-7431" ;
+      <http://purl.org/dc/terms/title>
+              "Books Abroad" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0006-7431" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0006-7431" .
+
+<http://id.crossref.org/contributor/camillo-praschniker-vcuqip9z813f>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Praschniker" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Camillo" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Camillo Praschniker" .
+
+<http://dx.doi.org/10.2307/40069013>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.2307/40069013" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "283" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "3" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/j-f-paxton-vcuqip9z813f> , <http://id.crossref.org/contributor/camillo-praschniker-vcuqip9z813f> ;
+      <http://purl.org/dc/terms/date>
+              "1929"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.2307/40069013" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0006-7431> ;
+      <http://purl.org/dc/terms/publisher>
+              "JSTOR" ;
+      <http://purl.org/dc/terms/title>
+              "Parthenonstudien" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.2307/40069013" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "283" ;
+      <http://purl.org/ontology/bibo/volume>
+              "3" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.2307/40069013> , <doi:10.2307/40069013> .

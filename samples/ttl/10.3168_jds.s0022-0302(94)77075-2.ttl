@@ -1,0 +1,78 @@
+<http://id.crossref.org/contributor/m-vernay-lgndgz1xvi3n>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Vernay" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "M." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "M. Vernay" .
+
+<http://id.crossref.org/contributor/r-moncoulon-lgndgz1xvi3n>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Moncoulon" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "R." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "R. Moncoulon" .
+
+<http://id.crossref.org/contributor/c-benchaar-lgndgz1xvi3n>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Benchaar" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "C." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "C. Benchaar" .
+
+<http://dx.doi.org/10.3168/jds.s0022-0302(94)77075-2>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.3168/jds.s0022-0302(94)77075-2" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "1371" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "1360" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "77" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/m-vernay-lgndgz1xvi3n> , <http://id.crossref.org/contributor/r-moncoulon-lgndgz1xvi3n> , <http://id.crossref.org/contributor/c-benchaar-lgndgz1xvi3n> , <http://id.crossref.org/contributor/c-bayourthe-lgndgz1xvi3n> ;
+      <http://purl.org/dc/terms/date>
+              "1994-05"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.3168/jds.s0022-0302(94)77075-2" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0022-0302> ;
+      <http://purl.org/dc/terms/publisher>
+              "American Dairy Science Association" ;
+      <http://purl.org/dc/terms/title>
+              "Effects of Extrusion of Whole Horse Beans on Protein Digestion and Amino Acid Absorption in Dairy Cows" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.3168/jds.s0022-0302(94)77075-2" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "1371" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "1360" ;
+      <http://purl.org/ontology/bibo/volume>
+              "77" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.3168/jds.s0022-0302(94)77075-2> , <info:doi/10.3168/jds.s0022-0302(94)77075-2> .
+
+<http://id.crossref.org/contributor/c-bayourthe-lgndgz1xvi3n>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Bayourthe" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "C." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "C. Bayourthe" .
+
+<http://id.crossref.org/issn/0022-0302>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0022-0302" ;
+      <http://purl.org/dc/terms/title>
+              "Journal of Dairy Science" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0022-0302" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0022-0302" .

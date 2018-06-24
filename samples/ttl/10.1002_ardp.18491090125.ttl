@@ -1,0 +1,51 @@
+<http://id.crossref.org/issn/0365-6233>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0365-6233" , "1521-4184" ;
+      <http://purl.org/dc/terms/title>
+              "Archiv der Pharmazie" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0365-6233" , "1521-4184" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0365-6233" , "urn:issn:1521-4184" .
+
+<http://dx.doi.org/10.1002/ardp.18491090125>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1002/ardp.18491090125" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "110" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "83" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "109" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/o-a-ziurek-24vv3s6k2s1g1> ;
+      <http://purl.org/dc/terms/date>
+              "1849"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1002/ardp.18491090125" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0365-6233> ;
+      <http://purl.org/dc/terms/publisher>
+              "Wiley" ;
+      <http://purl.org/dc/terms/title>
+              "Apothekenreform-Angelegenheiten" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1002/ardp.18491090125" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "110" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "83" ;
+      <http://purl.org/ontology/bibo/volume>
+              "109" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1002/ardp.18491090125> , <info:doi/10.1002/ardp.18491090125> .
+
+<http://id.crossref.org/contributor/o-a-ziurek-24vv3s6k2s1g1>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Ziurek" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "O. A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "O. A. Ziurek" .

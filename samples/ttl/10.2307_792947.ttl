@@ -1,0 +1,36 @@
+<http://id.crossref.org/issn/0044-0094>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0044-0094" ;
+      <http://purl.org/dc/terms/title>
+              "The Yale Law Journal" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0044-0094" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0044-0094" .
+
+<http://dx.doi.org/10.2307/792947>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.2307/792947" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "1037" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "56" ;
+      <http://purl.org/dc/terms/date>
+              "1947-06"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.2307/792947" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0044-0094> ;
+      <http://purl.org/dc/terms/publisher>
+              "JSTOR" ;
+      <http://purl.org/dc/terms/title>
+              "State Statutes Depriving State Courts of Jurisdiction as Affected by the Rule of Erie V. Tompkins" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.2307/792947" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "1037" ;
+      <http://purl.org/ontology/bibo/volume>
+              "56" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.2307/792947> , <info:doi/10.2307/792947> .

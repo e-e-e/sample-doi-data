@@ -1,0 +1,60 @@
+<http://dx.doi.org/10.1097/00005072-196007000-00010>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1097/00005072-196007000-00010" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "448" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "433" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "19" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/l-iwanowski-1glk1uy3oeour> , <http://id.crossref.org/contributor/j-olszenwski-1glk1uy3oeour> ;
+      <http://purl.org/dc/terms/date>
+              "1960-07"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1097/00005072-196007000-00010" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0022-3069> ;
+      <http://purl.org/dc/terms/publisher>
+              "Oxford University Press (OUP)" ;
+      <http://purl.org/dc/terms/title>
+              "The Effects of Subarachnoid Injections of Iron-Containing Substances on the Central Nervous System" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1097/00005072-196007000-00010" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "448" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "433" ;
+      <http://purl.org/ontology/bibo/volume>
+              "19" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1097/00005072-196007000-00010> , <doi:10.1097/00005072-196007000-00010> .
+
+<http://id.crossref.org/contributor/l-iwanowski-1glk1uy3oeour>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Iwanowski" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "L." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "L. Iwanowski" .
+
+<http://id.crossref.org/issn/0022-3069>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1554-6578" , "0022-3069" ;
+      <http://purl.org/dc/terms/title>
+              "Journal of Neuropathology & Experimental Neurology" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1554-6578" , "0022-3069" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0022-3069" , "urn:issn:1554-6578" .
+
+<http://id.crossref.org/contributor/j-olszenwski-1glk1uy3oeour>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Olszenwski" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "J." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "J. Olszenwski" .

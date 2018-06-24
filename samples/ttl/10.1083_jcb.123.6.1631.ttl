@@ -1,0 +1,51 @@
+<http://id.crossref.org/contributor/b-m-gumbiner-7jsvm30jm0a9>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Gumbiner" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "B. M." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "B. M. Gumbiner" .
+
+<http://dx.doi.org/10.1083/jcb.123.6.1631>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1083/jcb.123.6.1631" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "1633" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "1631" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "123" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/b-m-gumbiner-7jsvm30jm0a9> ;
+      <http://purl.org/dc/terms/date>
+              "1993-12-01"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1083/jcb.123.6.1631" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0021-9525> ;
+      <http://purl.org/dc/terms/publisher>
+              "Rockefeller University Press" ;
+      <http://purl.org/dc/terms/title>
+              "Breaking through the tight junction barrier" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1083/jcb.123.6.1631" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "1633" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "1631" ;
+      <http://purl.org/ontology/bibo/volume>
+              "123" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1083/jcb.123.6.1631> , <doi:10.1083/jcb.123.6.1631> .
+
+<http://id.crossref.org/issn/0021-9525>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1540-8140" , "0021-9525" ;
+      <http://purl.org/dc/terms/title>
+              "The Journal of Cell Biology" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1540-8140" , "0021-9525" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1540-8140" , "urn:issn:0021-9525" .

@@ -1,0 +1,30 @@
+<http://id.crossref.org/isbn/9780203399903>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "VIDEO, WAR AND THE DIASPORIC IMAGINATION" .
+
+<http://dx.doi.org/10.4324/9780203398395_chapter_8>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.4324/9780203398395_chapter_8" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "225" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "203" ;
+      <http://purl.org/dc/terms/date>
+              ""^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.4324/9780203398395_chapter_8" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9780203399903> ;
+      <http://purl.org/dc/terms/publisher>
+              "Taylor & Francis" ;
+      <http://purl.org/dc/terms/title>
+              "BRIDGES AND BOUNDARIES" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.4324/9780203398395_chapter_8" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "225" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "203" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.4324/9780203398395_chapter_8> , <info:doi/10.4324/9780203398395_chapter_8> .

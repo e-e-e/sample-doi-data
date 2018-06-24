@@ -1,0 +1,78 @@
+<http://dx.doi.org/10.1007/bf02071364>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1007/bf02071364" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "436" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "431" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "39" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/y-a-yabrov-wnxpfasw1dwp> , <http://id.crossref.org/contributor/e-m-sadovskaya-wnxpfasw1dwp> , <http://id.crossref.org/contributor/s-a-pokrovskaya-wnxpfasw1dwp> , <http://id.crossref.org/contributor/a-a-ivanov-wnxpfasw1dwp> ;
+      <http://purl.org/dc/terms/date>
+              "1989-09"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1007/bf02071364" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0133-1736> ;
+      <http://purl.org/dc/terms/publisher>
+              "Springer Nature" ;
+      <http://purl.org/dc/terms/title>
+              "Relaxation of the rate of o-xylene oxidation to phthalic anhydride on vanadium catalysts" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1007/bf02071364" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "436" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "431" ;
+      <http://purl.org/ontology/bibo/volume>
+              "39" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1007/bf02071364> , <doi:10.1007/bf02071364> .
+
+<http://id.crossref.org/contributor/y-a-yabrov-wnxpfasw1dwp>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Yabrov" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Y. A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Y. A. Yabrov" .
+
+<http://id.crossref.org/contributor/e-m-sadovskaya-wnxpfasw1dwp>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Sadovskaya" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "E. M." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "E. M. Sadovskaya" .
+
+<http://id.crossref.org/issn/0133-1736>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1588-2837" , "0133-1736" ;
+      <http://purl.org/dc/terms/title>
+              "Reaction Kinetics and Catalysis Letters" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1588-2837" , "0133-1736" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1588-2837" , "urn:issn:0133-1736" .
+
+<http://id.crossref.org/contributor/s-a-pokrovskaya-wnxpfasw1dwp>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Pokrovskaya" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "S. A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "S. A. Pokrovskaya" .
+
+<http://id.crossref.org/contributor/a-a-ivanov-wnxpfasw1dwp>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Ivanov" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "A. A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "A. A. Ivanov" .

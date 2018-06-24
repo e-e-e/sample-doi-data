@@ -1,0 +1,132 @@
+<http://id.crossref.org/contributor/michael-kalai-2akqa8r56yq8r>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kalai" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Michael" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Michael Kalai" .
+
+<http://id.crossref.org/contributor/herve-brailly-2akqa8r56yq8r>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Brailly" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Herve" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Herve Brailly" .
+
+<http://id.crossref.org/contributor/joachim-grotzinger-2akqa8r56yq8r>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Grotzinger" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Joachim" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Joachim Grotzinger" .
+
+<http://id.crossref.org/contributor/peter-c-heinrich-2akqa8r56yq8r>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Heinrich" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Peter C." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Peter C. Heinrich" .
+
+<http://id.crossref.org/contributor/jean-brochier-2akqa8r56yq8r>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Brochier" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Jean" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Jean Brochier" .
+
+<http://id.crossref.org/contributor/axel-wollmer-2akqa8r56yq8r>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Wollmer" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Axel" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Axel Wollmer" .
+
+<http://id.crossref.org/contributor/stefan-rose-john-2akqa8r56yq8r>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Rose-John" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Stefan" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Stefan Rose-John" .
+
+<http://dx.doi.org/10.1111/j.1432-1033.1996.0714w.x>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1111/j.1432-1033.1996.0714w.x" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "723" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "714" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "238" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/michael-kalai-2akqa8r56yq8r> , <http://id.crossref.org/contributor/herve-brailly-2akqa8r56yq8r> , <http://id.crossref.org/contributor/joachim-grotzinger-2akqa8r56yq8r> , <http://id.crossref.org/contributor/peter-c-heinrich-2akqa8r56yq8r> , <http://id.crossref.org/contributor/jean-brochier-2akqa8r56yq8r> , <http://id.crossref.org/contributor/axel-wollmer-2akqa8r56yq8r> , <http://id.crossref.org/contributor/stefan-rose-john-2akqa8r56yq8r> , <http://id.crossref.org/contributor/danielle-morelle-2akqa8r56yq8r> , <http://id.crossref.org/contributor/felix-a-montero-julian-2akqa8r56yq8r> , <http://id.crossref.org/contributor/jean-content-2akqa8r56yq8r> ;
+      <http://purl.org/dc/terms/date>
+              "1996-06-15"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1111/j.1432-1033.1996.0714w.x" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0014-2956> ;
+      <http://purl.org/dc/terms/publisher>
+              "Wiley" ;
+      <http://purl.org/dc/terms/title>
+              "Participation of Two Ser-Ser-Phe-Tyr Repeats in Interleukin-6 (IL-6)-Binding Sites of the Human IL-6 Receptor" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1111/j.1432-1033.1996.0714w.x" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "723" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "714" ;
+      <http://purl.org/ontology/bibo/volume>
+              "238" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1111/j.1432-1033.1996.0714w.x> , <doi:10.1111/j.1432-1033.1996.0714w.x> .
+
+<http://id.crossref.org/issn/0014-2956>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0014-2956" , "1432-1033" ;
+      <http://purl.org/dc/terms/title>
+              "European Journal of Biochemistry" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0014-2956" , "1432-1033" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0014-2956" , "urn:issn:1432-1033" .
+
+<http://id.crossref.org/contributor/danielle-morelle-2akqa8r56yq8r>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Morelle" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Danielle" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Danielle Morelle" .
+
+<http://id.crossref.org/contributor/felix-a-montero-julian-2akqa8r56yq8r>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Montero-Julian" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Felix A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Felix A. Montero-Julian" .
+
+<http://id.crossref.org/contributor/jean-content-2akqa8r56yq8r>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Content" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Jean" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Jean Content" .

@@ -1,0 +1,51 @@
+<http://id.crossref.org/contributor/andrs-kves-1912iv8dh2q2>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "K�ves" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Andr�s" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Andr�s K�ves" .
+
+<http://id.crossref.org/issn/1120-7388>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1573-7063" , "1120-7388" ;
+      <http://purl.org/dc/terms/title>
+              "MOCT-MOST Economic Policy in Transitional Economies" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1573-7063" , "1120-7388" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1120-7388" , "urn:issn:1573-7063" .
+
+<http://dx.doi.org/10.1007/bf01112739>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1007/bf01112739" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "19" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "7" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "3" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/andrs-kves-1912iv8dh2q2> ;
+      <http://purl.org/dc/terms/date>
+              "1993"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1007/bf01112739" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1120-7388> ;
+      <http://purl.org/dc/terms/publisher>
+              "Springer Nature" ;
+      <http://purl.org/dc/terms/title>
+              "Hungary: What comes after stagnation?" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1007/bf01112739" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "19" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "7" ;
+      <http://purl.org/ontology/bibo/volume>
+              "3" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1007/bf01112739> , <doi:10.1007/bf01112739> .

@@ -1,0 +1,77 @@
+<http://dx.doi.org/10.1007/0-306-46862-x_347>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1007/0-306-46862-x_347" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "796" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "795" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/arnold-c-satterthwait-2ijb71iytnuzr> , <http://id.crossref.org/contributor/ruoheng-zhang-2ijb71iytnuzr> , <http://id.crossref.org/contributor/philip-w-berman-2ijb71iytnuzr> , <http://id.crossref.org/contributor/gerald-r-nakamura-2ijb71iytnuzr> , <http://id.crossref.org/contributor/yuan-xu-2ijb71iytnuzr> ;
+      <http://purl.org/dc/terms/date>
+              ""^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1007/0-306-46862-x_347" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/0792351606> ;
+      <http://purl.org/dc/terms/publisher>
+              "Kluwer Academic Publishers" ;
+      <http://purl.org/dc/terms/title>
+              "Conformational mapping of a neutralizing epitope of the C4 region of HIV-1 gp120 with cyclic and bicyclic peptides" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1007/0-306-46862-x_347" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "796" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "795" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1007/0-306-46862-x_347> , <doi:10.1007/0-306-46862-x_347> .
+
+<http://id.crossref.org/isbn/0792351606>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "American Peptide Symposia" .
+
+<http://id.crossref.org/contributor/arnold-c-satterthwait-2ijb71iytnuzr>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Satterthwait" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Arnold C." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Arnold C. Satterthwait" .
+
+<http://id.crossref.org/contributor/ruoheng-zhang-2ijb71iytnuzr>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Zhang" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Ruoheng" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Ruoheng Zhang" .
+
+<http://id.crossref.org/contributor/philip-w-berman-2ijb71iytnuzr>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "W.Berman" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Philip" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Philip W.Berman" .
+
+<http://id.crossref.org/contributor/yuan-xu-2ijb71iytnuzr>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Xu" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Yuan" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Yuan Xu" .
+
+<http://id.crossref.org/contributor/gerald-r-nakamura-2ijb71iytnuzr>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Nakamura" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Gerald R." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Gerald R. Nakamura" .

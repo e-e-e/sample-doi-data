@@ -1,0 +1,56 @@
+<http://id.crossref.org/contributor/d-coco-3nz7j42rpmbke>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Coco" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "D." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "D. Coco" .
+
+<http://dx.doi.org/10.1029/ja087ia09p07551>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1029/ja087ia09p07551" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "7551" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "87" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/d-coco-3nz7j42rpmbke> , <http://id.crossref.org/contributor/s-ganguly-3nz7j42rpmbke> ;
+      <http://purl.org/dc/terms/date>
+              "1982"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1029/ja087ia09p07551" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0148-0227> ;
+      <http://purl.org/dc/terms/publisher>
+              "American Geophysical Union (AGU)" ;
+      <http://purl.org/dc/terms/title>
+              "Heating at 430 MHz in the lower ionosphere at Arecibo" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1029/ja087ia09p07551" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "7551" ;
+      <http://purl.org/ontology/bibo/volume>
+              "87" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1029/ja087ia09p07551> , <info:doi/10.1029/ja087ia09p07551> .
+
+<http://id.crossref.org/contributor/s-ganguly-3nz7j42rpmbke>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Ganguly" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "S." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "S. Ganguly" .
+
+<http://id.crossref.org/issn/0148-0227>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0148-0227" ;
+      <http://purl.org/dc/terms/title>
+              "Journal of Geophysical Research" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0148-0227" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0148-0227" .

@@ -1,0 +1,68 @@
+<http://id.crossref.org/contributor/francesco-russo-2elbp2ng9jk12>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Russo" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Francesco" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Francesco Russo" .
+
+<http://id.crossref.org/isbn/9780511730078>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "European Commission Decisions on Competition" .
+
+<http://dx.doi.org/10.1017/cbo9780511730078.001>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1017/cbo9780511730078.001" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "25" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "1" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/francesco-russo-2elbp2ng9jk12> , <http://id.crossref.org/contributor/maarten-pieter-schinkel-2elbp2ng9jk12> , <http://id.crossref.org/contributor/andrea-gunster-2elbp2ng9jk12> , <http://id.crossref.org/contributor/martin-carree-2elbp2ng9jk12> ;
+      <http://purl.org/dc/terms/date>
+              ""^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1017/cbo9780511730078.001" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9780511730078> ;
+      <http://purl.org/dc/terms/publisher>
+              "Cambridge University Press" ;
+      <http://purl.org/dc/terms/title>
+              "Introduction" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1017/cbo9780511730078.001" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "25" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "1" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1017/cbo9780511730078.001> , <doi:10.1017/cbo9780511730078.001> .
+
+<http://id.crossref.org/contributor/maarten-pieter-schinkel-2elbp2ng9jk12>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Schinkel" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Maarten Pieter" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Maarten Pieter Schinkel" .
+
+<http://id.crossref.org/contributor/andrea-gunster-2elbp2ng9jk12>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Gunster" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Andrea" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Andrea Gunster" .
+
+<http://id.crossref.org/contributor/martin-carree-2elbp2ng9jk12>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Carree" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Martin" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Martin Carree" .

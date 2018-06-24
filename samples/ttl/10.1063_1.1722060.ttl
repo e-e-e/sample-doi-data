@@ -1,0 +1,60 @@
+<http://id.crossref.org/contributor/alan-fowler-xhbrhnzy6h6e>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Fowler" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Alan" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Alan Fowler" .
+
+<http://dx.doi.org/10.1063/1.1722060>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1063/1.1722060" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "642" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "641" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "26" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/alan-fowler-xhbrhnzy6h6e> , <http://id.crossref.org/contributor/pascal-levesque-xhbrhnzy6h6e> ;
+      <http://purl.org/dc/terms/date>
+              "1955-05"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1063/1.1722060" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0021-8979> ;
+      <http://purl.org/dc/terms/publisher>
+              "AIP Publishing" ;
+      <http://purl.org/dc/terms/title>
+              "Optical Determination of Base Width in Grownn‐p‐nSilicon Crystals" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1063/1.1722060" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "642" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "641" ;
+      <http://purl.org/ontology/bibo/volume>
+              "26" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1063/1.1722060> , <doi:10.1063/1.1722060> .
+
+<http://id.crossref.org/contributor/pascal-levesque-xhbrhnzy6h6e>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Levesque" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Pascal" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Pascal Levesque" .
+
+<http://id.crossref.org/issn/0021-8979>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1089-7550" , "0021-8979" ;
+      <http://purl.org/dc/terms/title>
+              "Journal of Applied Physics" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1089-7550" , "0021-8979" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1089-7550" , "urn:issn:0021-8979" .

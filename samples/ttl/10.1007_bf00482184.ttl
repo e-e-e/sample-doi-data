@@ -1,0 +1,51 @@
+<http://id.crossref.org/issn/0016-1152>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1618-2650" , "0016-1152" ;
+      <http://purl.org/dc/terms/title>
+              "Fresenius' Zeitschrift f�r Analytische Chemie" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1618-2650" , "0016-1152" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1618-2650" , "urn:issn:0016-1152" .
+
+<http://id.crossref.org/contributor/o-gautsch-38lvcg93gao0j>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Gautsch" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "O." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "O. Gautsch" .
+
+<http://dx.doi.org/10.1007/bf00482184>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1007/bf00482184" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "219" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "219" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "180" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/o-gautsch-38lvcg93gao0j> ;
+      <http://purl.org/dc/terms/date>
+              "1961"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1007/bf00482184" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0016-1152> ;
+      <http://purl.org/dc/terms/publisher>
+              "Springer Nature" ;
+      <http://purl.org/dc/terms/title>
+              "Eine Spektralmethode zur Bestimmung von Lithium und Beryllium bei der Suche nach Lagerst�tten" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1007/bf00482184" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "219" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "219" ;
+      <http://purl.org/ontology/bibo/volume>
+              "180" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1007/bf00482184> , <doi:10.1007/bf00482184> .

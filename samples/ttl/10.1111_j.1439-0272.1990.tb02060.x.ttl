@@ -1,0 +1,40 @@
+<http://id.crossref.org/issn/0303-4569>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1439-0272" , "0303-4569" ;
+      <http://purl.org/dc/terms/title>
+              "Andrologia" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1439-0272" , "0303-4569" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1439-0272" , "urn:issn:0303-4569" .
+
+<http://dx.doi.org/10.1111/j.1439-0272.1990.tb02060.x>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1111/j.1439-0272.1990.tb02060.x" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "590" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "590" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "22" ;
+      <http://purl.org/dc/terms/date>
+              "2009-04-24"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1111/j.1439-0272.1990.tb02060.x" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0303-4569> ;
+      <http://purl.org/dc/terms/publisher>
+              "Wiley" ;
+      <http://purl.org/dc/terms/title>
+              "In memoriam" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1111/j.1439-0272.1990.tb02060.x" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "590" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "590" ;
+      <http://purl.org/ontology/bibo/volume>
+              "22" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1111/j.1439-0272.1990.tb02060.x> , <info:doi/10.1111/j.1439-0272.1990.tb02060.x> .

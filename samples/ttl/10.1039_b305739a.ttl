@@ -1,0 +1,87 @@
+<http://id.crossref.org/issn/1463-9076>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1463-9084" , "1463-9076" ;
+      <http://purl.org/dc/terms/title>
+              "Phys. Chem. Chem. Phys." ;
+      <http://purl.org/ontology/bibo/issn>
+              "1463-9084" , "1463-9076" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1463-9084" , "urn:issn:1463-9076" .
+
+<http://id.crossref.org/contributor/l-paduano-j2xo33hrpw0k>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Paduano" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "L." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "L. Paduano" .
+
+<http://id.crossref.org/contributor/g-derrico-j2xo33hrpw0k>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "D'Errico" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "G." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "G. D'Errico" .
+
+<http://id.crossref.org/contributor/r-basosi-j2xo33hrpw0k>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Basosi" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "R." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "R. Basosi" .
+
+<http://id.crossref.org/contributor/e-busi-j2xo33hrpw0k>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Busi" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "E." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "E. Busi" .
+
+<http://id.crossref.org/contributor/a-m-tedeschi-j2xo33hrpw0k>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Tedeschi" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "A. M." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "A. M. Tedeschi" .
+
+<http://dx.doi.org/10.1039/b305739a>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1039/b305739a" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "5083" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "5077" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "5" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/l-paduano-j2xo33hrpw0k> , <http://id.crossref.org/contributor/g-derrico-j2xo33hrpw0k> , <http://id.crossref.org/contributor/r-basosi-j2xo33hrpw0k> , <http://id.crossref.org/contributor/e-busi-j2xo33hrpw0k> , <http://id.crossref.org/contributor/a-m-tedeschi-j2xo33hrpw0k> ;
+      <http://purl.org/dc/terms/date>
+              "2003"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1039/b305739a" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1463-9076> ;
+      <http://purl.org/dc/terms/publisher>
+              "Royal Society of Chemistry (RSC)" ;
+      <http://purl.org/dc/terms/title>
+              "Influence of the headgroup molecular structure on the anionic surfactant–PVP interaction studied by electron paramagnetic resonance of a cationic nitroxide" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1039/b305739a" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "5083" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "5077" ;
+      <http://purl.org/ontology/bibo/volume>
+              "5" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1039/b305739a> , <info:doi/10.1039/b305739a> .

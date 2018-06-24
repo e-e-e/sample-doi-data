@@ -1,0 +1,60 @@
+<http://id.crossref.org/contributor/c-r-reynolds-39cw740i8yxfq>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Reynolds" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "C. R." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "C. R. Reynolds" .
+
+<http://dx.doi.org/10.1093/arclin/4.1.93>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1093/arclin/4.1.93" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "95" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "93" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "4" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/c-r-reynolds-39cw740i8yxfq> , <http://id.crossref.org/contributor/e-d-bigler-39cw740i8yxfq> ;
+      <http://purl.org/dc/terms/date>
+              "1989-01-01"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1093/arclin/4.1.93" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0887-6177> ;
+      <http://purl.org/dc/terms/publisher>
+              "Oxford University Press (OUP)" ;
+      <http://purl.org/dc/terms/title>
+              "Neurobehavioral recovery from head injury" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1093/arclin/4.1.93" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "95" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "93" ;
+      <http://purl.org/ontology/bibo/volume>
+              "4" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1093/arclin/4.1.93> , <info:doi/10.1093/arclin/4.1.93> .
+
+<http://id.crossref.org/contributor/e-d-bigler-39cw740i8yxfq>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Bigler" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "E. D." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "E. D. Bigler" .
+
+<http://id.crossref.org/issn/0887-6177>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1873-5843" , "0887-6177" ;
+      <http://purl.org/dc/terms/title>
+              "Archives of Clinical Neuropsychology" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1873-5843" , "0887-6177" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1873-5843" , "urn:issn:0887-6177" .

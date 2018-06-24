@@ -1,0 +1,486 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+<title>PEETERS ONLINE JOURNALS</title>
+	<link rel="STYLESHEET" type="text/css" href="style.css">
+	<META NAME="description" CONTENT="">
+	<META NAME="keywords" CONTENT="">
+	<script src="http://stats.peeters-leuven.be/stats.js" type="text/javascript" language="javascript"></script>
+	<script src="js/jquery-1.7.1.min.js" type="text/javascript" language="javascript"></script>
+	<script src="js/jquery.cycle.all.latest.js" type="text/javascript" language="javascript"></script>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8">
+	<link href="style.css" rel="stylesheet" type="text/css">
+	<script type="text/javascript">
+		<!--
+		function MM_preloadImages() { //v3.0
+		  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+			var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+			if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+		}
+		
+		function MM_swapImgRestore() { //v3.0
+		  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+		}
+		
+		function MM_findObj(n, d) { //v4.01
+		  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+			d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+		  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+		  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+		  if(!x && d.getElementById) x=d.getElementById(n); return x;
+		}
+		
+		function MM_swapImage() { //v3.0
+		  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+		   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+		}
+		
+		function resize_cc()
+		{
+			var h = $(window).height()-500;
+			if (h<365)
+				h = 365;
+			
+			$('#containercontent').css('height', h);
+			$('#contentlinks').css('height', h);
+			$('#contentmidden').css('height', h);
+			$('#contentrechts').css('height', h);
+		}
+		
+		function category_click(item)
+		{
+			$('.lijst').css("background","url('images/pijl_leeg.gif') no-repeat 0px 6px white");
+			$(item).css("background","url('images/pijl_zwart.gif') no-repeat 0px 6px white");
+			
+			var c = $(item).text();
+			var all = (c == 'All categories');
+			if (!all)
+				$('.legende').hide();
+			else	
+				$('.legende').show();
+			var journals = $('.listjournals');
+			for (var i=0;i<journals.length; i++)
+			{
+				var j = $(journals[i]);
+				var jcat = j.attr('categories');
+				if ( (jcat.indexOf(c) >= 0) || all)
+					j.show();
+				else
+					j.hide();
+			}
+		}
+		
+		function go_journal(img)
+		{
+			document.location='content.php?url=journal&journal_code='+$(img).attr('journal_code');
+		}
+		
+		$(function(){
+			$(window).resize(function(){
+				resize_cc();
+			});
+		});		
+		
+		function calculateTimeout(currElement, nextElement, opts, isForward) 
+		{
+			var x = 4000+Math.random()*15000; // at least 5 secs, at most 20
+			return x;
+		}
+		
+		$(function() 
+		{
+			resize_cc();
+
+
+				});
+		//-->
+	</script>
+</head>
+<body onLoad="MM_preloadImages('images/logo_POB_hl.png','images/logo_POB_hl.png')">
+
+<center>
+<div id="containerlogos">
+
+<div id="logoPOJ"><a href="content.php"><img src="images/logo_POJ.png" alt="PEETERS ONLINE JOURNALS" width="272" border="0"></a></div>
+<div id="logoPOB"><a href="http://pob.peeters-leuven.be" target="_blank"><img src="images/logo_POB.png" alt="Peeters Online Bibliographies" width="235" border="0" id="Image1" onMouseOver="MM_swapImage('Image1','','images/logo_POB_hl.png',1)" onMouseOut="MM_swapImgRestore()"></a></div>
+<div id="logoPP"><a href="http://www.peeters-leuven.be/" target="_blank"><img src="images/logo_PP.png" alt="Peeters Publishers" width="179" border="0" id="Image2" onMouseOver="MM_swapImage('Image2','','images/logo_PP_hl.png',1)" onMouseOut="MM_swapImgRestore()"></a></div>
+</div>
+<div class="clear"></div>
+
+<div id='contentboven2'>
+	<div id="containernav2">
+		
+		<div class="navlinks"></div>
+		<div class="navmidden"><a href="content.php" class="navigatiehl">home</a></div>
+		<div class="navrechts"></div>
+		
+		<div class="navlinks"></div>
+		<div class="navmidden"><a href="content.php?url=CMS.php&section=registration" class="navigatie">Register</a></div>
+		<div class="navrechts"></div>
+		
+		<div class="navlinks"></div>
+		<div class="navmidden"><a href="content.php?url=CMS.php&section=prices" class="navigatie">Prices and ordering</a></div>
+		<div class="navrechts"></div>
+		
+		<div class="navlinks"></div>
+		<div class="navmidden"><a href="content.php?url=CMS.php&section=individual_subscribers" class="navigatie">Individual subscribers</a></div>
+		<div class="navrechts"></div>
+		
+		<div class="navlinks"></div>
+		<div class="navmidden"><a href="content.php?url=CMS.php&section=contact" class="navigatie">Contact</a></div>
+		<div class="navrechts"></div>
+		
+		<div class="nav2rechts"></div>
+		<div class="nav2midden"><a href="content.php?url=CMS.php&section=doi_resolver" class="navigatie">DOI resolver</a></div>
+		<div class="nav2links"></div>
+		
+<div class='nav2rechts'></div><div class='nav2midden'><a href='content.php?url=CMS.php&section=open_access' class='navigatie'>Open Access</a></div><div class='nav2links'></div>
+		<div class="nav2rechts"></div>
+		<div class="nav2midden"><a href="content.php?url=CMS.php&section=google_scholar" class="navigatie">Google Scholar</a></div>
+		<div class="nav2links"></div>
+		
+	</div>
+	</div>
+
+<div id='containercontent2'>
+	<script type="text/javascript">
+		function MM_preloadImages() { //v3.0
+		  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+			var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+			if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+		}
+		
+		function MM_swapImgRestore() { //v3.0
+		  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+		}
+		
+		function MM_findObj(n, d) { //v4.01
+		  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+			d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+		  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+		  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+		  if(!x && d.getElementById) x=d.getElementById(n); return x;
+		}
+		
+		function MM_swapImage() { //v3.0
+		  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+		   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+		}
+		
+		function resize_cc()
+		{
+		return;
+			var h = $(window).height()-500;
+			if (h<365)
+				h = 365;
+			
+			$('#containercontent').css('height', h);
+			$('#contentlinks').css('height', h);
+			$('#contentmidden').css('height', h);
+			$('#contentrechts').css('height', h);
+		}
+		
+		$(function(){
+			$(window).resize(function(){
+				resize_cc();
+			});
+		});		
+		
+		$(function() 
+		{
+			resize_cc();
+		});
+		
+		function show_login()
+		{
+			document.getElementById('login_div').style.display='';
+			document.getElementById('register_div').style.display='none';
+			document.getElementById('lost_login_div').style.display='none';
+		}
+		function show_registration()
+		{
+			document.getElementById('login_div').style.display='none';
+			document.getElementById('register_div').style.display='';
+			document.getElementById('lost_login_div').style.display='none';
+		}
+		function lost_registration()
+		{
+			document.getElementById('login_div').style.display='none';
+			document.getElementById('register_div').style.display='none';
+			document.getElementById('lost_login_div').style.display='';
+		}
+		
+		function access_request_received()
+		{
+			if ( (xmlhttp.readyState==4) && (xmlhttp.status==200) )
+			{
+				// possible return values : 
+				// 		no such credentials 
+				// 		journal not authorized 
+				// 		already registered
+				// 		blocked
+				// 		invalid invoice
+				// 		ok
+				//
+				if (xmlhttp.responseText == 'no such credentials')
+				{
+					alert('no such credentials. Please verify the form.');
+				}
+				else if (xmlhttp.responseText == 'journal not authorized')
+				{
+					alert('these credentials do not authorize access to this journal.');
+				}
+				else if (xmlhttp.responseText == 'blocked')
+				{
+					alert('this account has been blocked due to abuse.');
+				}
+				else if (xmlhttp.responseText == 'already registered')
+				{
+					alert('this account has already been registered.');
+				}
+				else if (xmlhttp.responseText == 'invalid invoice')
+				{
+					alert('invalid invoice number specified. Please verify the form.');
+				}
+				else if (xmlhttp.responseText == 'ok')
+				{
+					alert('registration succesfully received. You can now login and request your download');
+					show_login();
+					document.getElementById('registered_yes').checked = true;
+					document.getElementById('registered_no').checked = false;
+				}
+				else
+					alert('unknown error\n\n'+xmlhttp.responseText);
+					
+				
+				document.getElementById('registering_spinner').style.display='none';
+			}
+		}
+	
+		function fetch_by_email_login_received()
+		{
+			if ( (xmlhttp.readyState==4) && (xmlhttp.status==200))
+			{
+				// five possible return values : 
+				//		bad login
+				//		blocked
+				//  	journal not authorized
+				// 		ok
+				//
+				if (xmlhttp.responseText == 'bad login')
+				{
+					alert('bad login. Please verify.');
+				}
+				else if (xmlhttp.responseText == 'journal not authorized')
+				{
+					alert('your credentials do not authorize access to this journal.\n\nMake sure you requested access for this journal : you have to do this once for each journal.');
+				}
+				else if (xmlhttp.responseText == 'blocked')
+				{
+					alert('these credentials have been blocked due to abuse.');
+				}
+				else if (xmlhttp.responseText == 'ok')
+				{
+					document.getElementById('personal_fetch_pdf_form').submit();
+				}
+				else
+				{
+					alert('unknown error\n\n'+xmlhttp.responseText);					
+				}
+				document.getElementById('fetching_pdf_spinner').style.display='none';
+			}
+		}
+	
+		function request_personal_access()
+		{
+			if (document.getElementById('signup_email').value == '')
+			{
+				alert('you must provide an email address');
+				return false;
+			}
+			if (document.getElementById('signup_password').value == '')
+			{
+				alert('you must provide a password');
+				return false;
+			}
+			if (document.getElementById('signup_password').value != document.getElementById('signup_password2').value)
+			{
+				alert('password verification failed');
+				return false;
+			}
+			if (document.getElementById('signup_email').value.indexOf('@') <= 0)
+			{
+				alert('that is not a valid email address');
+				return false;
+			}
+			if (document.getElementById('signup_first_name').value == '')
+			{
+				alert('you must provide a first name');
+				return false;
+			}
+			if (document.getElementById('signup_last_name').value == '')
+			{
+				alert('you must provide a last name');
+				return false;
+			}
+			if (document.getElementById('signup_postcode').value == '')
+			{
+				alert('you must provide a postal code');
+				return false;
+			}
+			if (document.getElementById('signup_invoice') != null && document.getElementById('signup_invoice').value == '')
+			{
+				alert('you must provide a invoice number');
+				return false;
+			}
+			
+			// if we got here, the form was properly filled. Send async
+			var url = 'request_personal_access.php?journal='+ document.getElementById('journal_code').value;
+			url = url + '&signup_email='+document.getElementById('signup_email').value;
+			url = url + '&signup_password='+document.getElementById('signup_password').value;
+			url = url + '&signup_first_name='+document.getElementById('signup_first_name').value;
+			url = url + '&signup_last_name='+document.getElementById('signup_last_name').value;
+			url = url + '&signup_postcode='+document.getElementById('signup_postcode').value;
+			if (document.getElementById('signup_invoice') != null)
+				url = url + '&signup_invoice='+document.getElementById('signup_invoice').value;
+			
+			document.getElementById('registering_spinner').style.display='';
+			if (window.ActiveXObject) // code for IE
+			{
+				xmlhttp=new ActiveXObject("Microsoft.XMLHTTP")
+				if (xmlhttp)
+				{
+					xmlhttp.onreadystatechange=access_request_received;
+					xmlhttp.open("GET",url,true)
+					xmlhttp.setRequestHeader('Pragma','no-cache');
+					xmlhttp.setRequestHeader('Cache-Control', 'no-cache');
+					xmlhttp.setRequestHeader('If-Modified-Since', 'Wed, 15 Nov 1995 00:00:00 GMT');
+					xmlhttp.send()
+				}
+			}
+			else if (window.XMLHttpRequest)  // code for Mozilla, etc.
+			{
+				xmlhttp=new XMLHttpRequest()
+				xmlhttp.onreadystatechange=access_request_received;
+				xmlhttp.open("GET",url)
+				xmlhttp.setRequestHeader('If-Modified-Since', 'Wed, 15 Nov 1995 00:00:00 GMT');
+				xmlhttp.send(null)
+			}
+	
+			return false;		
+		}
+	
+		function fetch_pdf_by_email()
+		{
+			if (document.getElementById('fetch_email').value == '')
+			{
+				alert('you must provide an email address');
+				return false;
+			}
+			if (document.getElementById('fetch_password').value == '')
+			{
+				alert('you must provide a password');
+				return false;
+			}
+			
+			var url = 'personal_login_check.php?journal='+ document.getElementById('journal_code').value;
+			url = url + '&fetch_email='+document.getElementById('fetch_email').value;
+			url = url + '&fetch_password='+document.getElementById('fetch_password').value;
+			
+			
+			document.getElementById('fetching_pdf_spinner').style.display='';
+			if (window.ActiveXObject) // code for IE
+			{
+				xmlhttp=new ActiveXObject("Microsoft.XMLHTTP")
+				if (xmlhttp)
+				{
+					xmlhttp.onreadystatechange=fetch_by_email_login_received
+					xmlhttp.open("GET",url,true)
+					xmlhttp.setRequestHeader('Pragma','no-cache');
+					xmlhttp.setRequestHeader('Cache-Control', 'no-cache');
+					xmlhttp.setRequestHeader('If-Modified-Since', 'Wed, 15 Nov 1995 00:00:00 GMT');
+					xmlhttp.send()
+				}
+			}
+			else if (window.XMLHttpRequest)  // code for Mozilla, etc.
+			{
+				xmlhttp=new XMLHttpRequest()
+				xmlhttp.onreadystatechange=fetch_by_email_login_received
+				xmlhttp.open("GET",url)
+				xmlhttp.setRequestHeader('If-Modified-Since', 'Wed, 15 Nov 1995 00:00:00 GMT');
+				xmlhttp.send(null)
+			}
+	
+			return false;
+		}
+	</script>
+
+
+
+
+
+<center>
+<a href="content.php?url=issue&journal_code=REJ&issue=1&vol=167">this issue</a></center>
+
+<table width=750 border=0 style='padding-left:15px'><tr><td class=whitecell><font size='2'><img src="images/rightarrow2.gif"><img src="images/rightarrow2.gif"><img src="images/rightarrow2.gif"> &nbsp; <a href="content.php?url=article.php&id=2030862&journal_code=REJ">previous article in this issue</a></td><td align=right class=whitecell><font size='2'><a href="content.php?url=article.php&id=2030864&journal_code=REJ">next article in this issue</a> &nbsp; <img src="images/arrow2.gif"><img src="images/arrow2.gif"><img src="images/arrow2.gif"></td></tr></table><br>
+
+
+				<table width=750 border=0 style='padding-left:15px'>
+				<tr>
+				<td class=whitecell style='vertical-align:top'>
+												<b><font size="5">Document Details :</font></b><br><br>
+						<b>Title: </b>
+						Notes bibliographiques<br>
+												<b>Author(s): </b><br>
+						<b>Journal: </b><a href='content.php?url=journal.php&journal_code=REJ'>Revue des Études Juives</a><br>
+						<b>Volume: </b>
+						<a href='content.php?url=issue.php&journal_code=REJ&issue=1&vol=167'>167</a>						&nbsp;&nbsp;
+						<b>Issue:</b> 1-2
+&nbsp;&nbsp;<b>Date: </b>janvier-juin 2008 &nbsp;&nbsp;<br><b>Pages: </b>
+267-333<br>
+<b>DOI: </b>
+10.2143/REJ.167.1.2030863<br>
+							<br>
+							<b>Abstract :</b><b><br>
+</b>
+Book notes<br>
+							<br>
+										</font>
+
+				<center>
+</td>	
+<td class=whitecell width=200 style='vertical-align:top;padding-top:50px;'>
+<center><a href="/content.php?url=article&id=2030863&journal_code=REJ&download=yes">download article<br><img src='images/reader.jpg' border=0></a></font></b><br><center><br><a href='http://www.adobe.com/products/acrobat/readstep2.html'><img src='images/reader.gif' border='0'n align=center></a></center><br><br></td>
+</table><p align=right><font size=-2 color=999999>137.59.252.171<a href=https://secure.peeters-leuven.be/myip2.php>.</a></font></p><img src=http://stats.peeters-leuven.be/stats.php?action=pagehit&journal_code=REJ&issue_id=1&issue_volume=&article_id=2030863&download=-></div>
+<div class="clearempty">&#160;</div>
+
+<div id="contentonder"><img src="images/space.gif" width="988" height="20" border="0" alt=""></div>
+<div class="clear"></div>
+<div><img src="images/line.jpg" alt="" width="988" height="1" border="0"></div>
+<div class="footer">
+  <p>&nbsp;</p>
+  <p>
+	<a href="content.php?url=CMS.php&section=terms" class="footer">Terms of Agreement</a> - 
+	<a href="content.php?url=CMS.php&section=privacy" class="footer">Privacy Statement</a> - 
+	<a href="https://secure.peeters-leuven.be/COUNTER/login.php" class="footer">Statistics</a> - 
+	<a href="content.php?url=CMS.php&section=disclaimer" class="footer">Disclaimer</a> © Peeters Online Journals
+</p>
+</div>
+<div class="clear"></div>
+</center>
+<!-- Piwik -->
+<script type="text/javascript">
+  var _paq = _paq || [];
+  _paq.push(["trackPageView"]);
+  _paq.push(["enableLinkTracking"]);
+
+  (function() {
+    var u=(("https:" == document.location.protocol) ? "https" : "http") + "://stats.peeters-leuven.be/piwik/";
+    _paq.push(["setTrackerUrl", u+"piwik.php"]);
+    _paq.push(["setSiteId", "1"]);
+    var d=document, g=d.createElement("script"), s=d.getElementsByTagName("script")[0]; g.type="text/javascript";
+    g.defer=true; g.async=true; g.src=u+"piwik.js"; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<!-- End Piwik Code --></body>
+</html>

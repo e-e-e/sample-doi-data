@@ -1,0 +1,67 @@
+<http://dx.doi.org/10.1023/a:1018963227772>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1023/a:1018963227772" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "207" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "201" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "43" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/i-bakos-20civtj52bgpz> , <http://id.crossref.org/contributor/a-baiker-20civtj52bgpz> , <http://id.crossref.org/contributor/t-mallat-20civtj52bgpz> ;
+      <http://purl.org/dc/terms/date>
+              "1997"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1023/a:1018963227772" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1011-372X> ;
+      <http://purl.org/dc/terms/publisher>
+              "Springer Nature" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1023/a:1018963227772" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "207" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "201" ;
+      <http://purl.org/ontology/bibo/volume>
+              "43" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1023/a:1018963227772> , <doi:10.1023/a:1018963227772> .
+
+<http://id.crossref.org/contributor/i-bakos-20civtj52bgpz>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Bakos" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "I." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "I. Bakos" .
+
+<http://id.crossref.org/issn/1011-372X>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1011-372X" ;
+      <http://purl.org/dc/terms/title>
+              "Catalysis Letters" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1011-372X" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1011-372X" .
+
+<http://id.crossref.org/contributor/a-baiker-20civtj52bgpz>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Baiker" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "A. Baiker" .
+
+<http://id.crossref.org/contributor/t-mallat-20civtj52bgpz>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Mallat" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "T." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "T. Mallat" .

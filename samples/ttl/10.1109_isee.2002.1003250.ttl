@@ -1,0 +1,42 @@
+<http://id.crossref.org/contributor/t-a-brady-2i64k67g2rizd>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Brady" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "T.A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "T.A. Brady" .
+
+<http://id.crossref.org/contributor/s-oconnell-2i64k67g2rizd>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "O'Connell" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "S." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "S. O'Connell" .
+
+<http://dx.doi.org/10.1109/isee.2002.1003250>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1109/isee.2002.1003250" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/t-a-brady-2i64k67g2rizd> , <http://id.crossref.org/contributor/s-oconnell-2i64k67g2rizd> ;
+      <http://purl.org/dc/terms/date>
+              ""^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1109/isee.2002.1003250" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/078037214X> ;
+      <http://purl.org/dc/terms/publisher>
+              "IEEE" ;
+      <http://purl.org/dc/terms/title>
+              "Product material declaration program at Intel" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1109/isee.2002.1003250" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1109/isee.2002.1003250> , <info:doi/10.1109/isee.2002.1003250> .
+
+<http://id.crossref.org/isbn/078037214X>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Conference Record 2002 IEEE International Symposium on Electronics and the Environment (Cat. No.02CH37273)" .

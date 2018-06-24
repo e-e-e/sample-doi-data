@@ -1,0 +1,52 @@
+<http://id.crossref.org/contributor/toshihiro-murafuji-3pjsu8qo0zuub>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Murafuji" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Toshihiro" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Toshihiro Murafuji" .
+
+<http://id.crossref.org/issn/0022-4936>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0022-4936" ;
+      <http://purl.org/dc/terms/title>
+              "Journal of the Chemical Society, Chemical Communications" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0022-4936" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0022-4936" .
+
+<http://id.crossref.org/contributor/hitomi-suzuki-3pjsu8qo0zuub>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Suzuki" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Hitomi" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Hitomi Suzuki" .
+
+<http://dx.doi.org/10.1039/c39920001143>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1039/c39920001143" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "1143" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/toshihiro-murafuji-3pjsu8qo0zuub> , <http://id.crossref.org/contributor/hitomi-suzuki-3pjsu8qo0zuub> ;
+      <http://purl.org/dc/terms/date>
+              "1992"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1039/c39920001143" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0022-4936> ;
+      <http://purl.org/dc/terms/publisher>
+              "Royal Society of Chemistry (RSC)" ;
+      <http://purl.org/dc/terms/title>
+              "A new general method for the synthesis of chiral triarylbismuthines based on the intramolecular coordination by a sulfonyl group" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1039/c39920001143" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "1143" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1039/c39920001143> , <info:doi/10.1039/c39920001143> .

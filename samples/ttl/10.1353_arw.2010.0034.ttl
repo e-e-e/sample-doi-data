@@ -1,0 +1,52 @@
+<http://id.crossref.org/contributor/peter-d-little-2itirf74lqvij>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Little" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Peter D." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Peter D. Little" .
+
+<http://dx.doi.org/10.1353/arw.2010.0034>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1353/arw.2010.0034" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "183" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "181" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "53" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/peter-d-little-2itirf74lqvij> ;
+      <http://purl.org/dc/terms/date>
+              "2010-09"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1353/arw.2010.0034" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0002-0206> ;
+      <http://purl.org/dc/terms/publisher>
+              "Cambridge University Press (CUP)" ;
+      <http://purl.org/dc/terms/title>
+              """Homewood
+                Katherine. Ecology of African Pastoralist Societies. Oxford: James Currey; Athens: Ohio University Press; Pretoria: Unisa Press, 2009. xii + 292 pp. Photos. Tables. Figures. Bibliography. Index. $55.00. Cloth. $26.95. Paper.""" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1353/arw.2010.0034" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "183" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "181" ;
+      <http://purl.org/ontology/bibo/volume>
+              "53" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1353/arw.2010.0034> , <info:doi/10.1353/arw.2010.0034> .
+
+<http://id.crossref.org/issn/0002-0206>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0002-0206" , "1555-2462" ;
+      <http://purl.org/dc/terms/title>
+              "African Studies Review" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0002-0206" , "1555-2462" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1555-2462" , "urn:issn:0002-0206" .

@@ -1,0 +1,56 @@
+<http://id.crossref.org/issn/0043-3810>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0043-3810" ;
+      <http://purl.org/dc/terms/title>
+              "The Western Historical Quarterly" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0043-3810" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0043-3810" .
+
+<http://id.crossref.org/contributor/james-d-bennett-rgmwb4od9hbs>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Bennett" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "James D." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "James D. Bennett" .
+
+<http://id.crossref.org/contributor/thomas-bender-rgmwb4od9hbs>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Bender" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Thomas" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Thomas Bender" .
+
+<http://dx.doi.org/10.2307/967232>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.2307/967232" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "69" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "8" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/james-d-bennett-rgmwb4od9hbs> , <http://id.crossref.org/contributor/thomas-bender-rgmwb4od9hbs> ;
+      <http://purl.org/dc/terms/date>
+              "1977-01"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.2307/967232" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0043-3810> ;
+      <http://purl.org/dc/terms/publisher>
+              "Oxford University Press (OUP)" ;
+      <http://purl.org/dc/terms/title>
+              "Toward an Urban Vision: Ideas and Institutions in Nineteenth Century America" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.2307/967232" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "69" ;
+      <http://purl.org/ontology/bibo/volume>
+              "8" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.2307/967232> , <doi:10.2307/967232> .

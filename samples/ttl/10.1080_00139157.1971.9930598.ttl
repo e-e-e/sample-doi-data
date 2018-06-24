@@ -1,0 +1,40 @@
+<http://id.crossref.org/issn/0013-9157>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1939-9154" , "0013-9157" ;
+      <http://purl.org/dc/terms/title>
+              "Environment: Science and Policy for Sustainable Development" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1939-9154" , "0013-9157" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0013-9157" , "urn:issn:1939-9154" .
+
+<http://dx.doi.org/10.1080/00139157.1971.9930598>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1080/00139157.1971.9930598" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "23" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "23" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "13" ;
+      <http://purl.org/dc/terms/date>
+              "1971-06"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1080/00139157.1971.9930598" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0013-9157> ;
+      <http://purl.org/dc/terms/publisher>
+              "Informa UK Limited" ;
+      <http://purl.org/dc/terms/title>
+              "Dr. Helen Graham" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1080/00139157.1971.9930598" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "23" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "23" ;
+      <http://purl.org/ontology/bibo/volume>
+              "13" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1080/00139157.1971.9930598> , <doi:10.1080/00139157.1971.9930598> .

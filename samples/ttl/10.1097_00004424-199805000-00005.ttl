@@ -1,0 +1,123 @@
+<http://id.crossref.org/contributor/dieter-weinert-2v3gjqexgk6ht>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "WEINERT" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "DIETER" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "DIETER WEINERT" .
+
+<http://id.crossref.org/contributor/volker-lindner-2v3gjqexgk6ht>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "LINDNER" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "VOLKER" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "VOLKER LINDNER" .
+
+<http://id.crossref.org/contributor/axel-falliner-2v3gjqexgk6ht>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "FALLINER" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "AXEL" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "AXEL FALLINER" .
+
+<http://dx.doi.org/10.1097/00004424-199805000-00005>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1097/00004424-199805000-00005" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "288" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "279" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "33" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/dieter-weinert-2v3gjqexgk6ht> , <http://id.crossref.org/contributor/volker-lindner-2v3gjqexgk6ht> , <http://id.crossref.org/contributor/axel-falliner-2v3gjqexgk6ht> , <http://id.crossref.org/contributor/joong-mo-ahn-2v3gjqexgk6ht> , <http://id.crossref.org/contributor/martin-heller-2v3gjqexgk6ht> , <http://id.crossref.org/contributor/claus-muhle-2v3gjqexgk6ht> , <http://id.crossref.org/contributor/lutz-bischoff-2v3gjqexgk6ht> , <http://id.crossref.org/contributor/christoph-maier-2v3gjqexgk6ht> , <http://id.crossref.org/contributor/donald-resnick-2v3gjqexgk6ht> ;
+      <http://purl.org/dc/terms/date>
+              "1998-05"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1097/00004424-199805000-00005" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0020-9996> ;
+      <http://purl.org/dc/terms/publisher>
+              "Ovid Technologies (Wolters Kluwer Health)" ;
+      <http://purl.org/dc/terms/title>
+              "Exacerbated Pain in Cervical Radiculopathy at Axial Rotation, Flexion, Extension, and Coupled Motions of the Cervical Spine" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1097/00004424-199805000-00005" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "288" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "279" ;
+      <http://purl.org/ontology/bibo/volume>
+              "33" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1097/00004424-199805000-00005> , <doi:10.1097/00004424-199805000-00005> .
+
+<http://id.crossref.org/contributor/martin-heller-2v3gjqexgk6ht>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "HELLER" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "MARTIN" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "MARTIN HELLER" .
+
+<http://id.crossref.org/issn/0020-9996>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0020-9996" ;
+      <http://purl.org/dc/terms/title>
+              "Investigative Radiology" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0020-9996" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0020-9996" .
+
+<http://id.crossref.org/contributor/joong-mo-ahn-2v3gjqexgk6ht>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "AHN" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "JOONG MO" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "JOONG MO AHN" .
+
+<http://id.crossref.org/contributor/claus-muhle-2v3gjqexgk6ht>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "MUHLE" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "CLAUS" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "CLAUS MUHLE" .
+
+<http://id.crossref.org/contributor/lutz-bischoff-2v3gjqexgk6ht>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "BISCHOFF" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "LUTZ" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "LUTZ BISCHOFF" .
+
+<http://id.crossref.org/contributor/donald-resnick-2v3gjqexgk6ht>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "RESNICK" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "DONALD" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "DONALD RESNICK" .
+
+<http://id.crossref.org/contributor/christoph-maier-2v3gjqexgk6ht>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "MAIER" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "CHRISTOPH" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "CHRISTOPH MAIER" .

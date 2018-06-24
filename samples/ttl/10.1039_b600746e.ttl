@@ -1,0 +1,69 @@
+<http://id.crossref.org/issn/0959-9428>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1364-5501" , "0959-9428" ;
+      <http://purl.org/dc/terms/title>
+              "J. Mater. Chem." ;
+      <http://purl.org/ontology/bibo/issn>
+              "1364-5501" , "0959-9428" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0959-9428" , "urn:issn:1364-5501" .
+
+<http://dx.doi.org/10.1039/b600746e>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1039/b600746e" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "1740" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "1734" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "16" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/rosario-pardo-33oalj4gbo1g0> , <http://id.crossref.org/contributor/david-levy-33oalj4gbo1g0> , <http://id.crossref.org/contributor/marcos-zayat-33oalj4gbo1g0> ;
+      <http://purl.org/dc/terms/date>
+              "2006"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1039/b600746e" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0959-9428> ;
+      <http://purl.org/dc/terms/publisher>
+              "Royal Society of Chemistry (RSC)" ;
+      <http://purl.org/dc/terms/title>
+              "Temperature dependence of the photochromism of naphthopyrans in functionalized sol–gel thin films" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1039/b600746e" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "1740" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "1734" ;
+      <http://purl.org/ontology/bibo/volume>
+              "16" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1039/b600746e> , <info:doi/10.1039/b600746e> .
+
+<http://id.crossref.org/contributor/rosario-pardo-33oalj4gbo1g0>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Pardo" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Rosario" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Rosario Pardo" .
+
+<http://id.crossref.org/contributor/david-levy-33oalj4gbo1g0>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Levy" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "David" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "David Levy" .
+
+<http://id.crossref.org/contributor/marcos-zayat-33oalj4gbo1g0>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Zayat" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Marcos" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Marcos Zayat" .

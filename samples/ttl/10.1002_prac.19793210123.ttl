@@ -1,0 +1,78 @@
+<http://id.crossref.org/contributor/d-rehorek-3n7gj1litx0dv>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Rehorek" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "D." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "D. Rehorek" .
+
+<http://id.crossref.org/contributor/j-salvetter-3n7gj1litx0dv>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Salvetter" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "J." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "J. Salvetter" .
+
+<http://dx.doi.org/10.1002/prac.19793210123>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1002/prac.19793210123" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "160" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "159" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "321" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/d-rehorek-3n7gj1litx0dv> , <http://id.crossref.org/contributor/j-salvetter-3n7gj1litx0dv> , <http://id.crossref.org/contributor/h-hennig-3n7gj1litx0dv> , <http://id.crossref.org/contributor/a-hantschmann-3n7gj1litx0dv> ;
+      <http://purl.org/dc/terms/date>
+              "1979"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1002/prac.19793210123" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0021-8383> ;
+      <http://purl.org/dc/terms/publisher>
+              "Wiley" ;
+      <http://purl.org/dc/terms/title>
+              "Photokatalytische Systeme. XVI. Photooxidation von Octacyanomolybdat(IV) durch langwellige Anregung" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1002/prac.19793210123" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "160" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "159" ;
+      <http://purl.org/ontology/bibo/volume>
+              "321" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1002/prac.19793210123> , <doi:10.1002/prac.19793210123> .
+
+<http://id.crossref.org/contributor/h-hennig-3n7gj1litx0dv>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Hennig" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "H." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "H. Hennig" .
+
+<http://id.crossref.org/contributor/a-hantschmann-3n7gj1litx0dv>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Hantschmann" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "A. Hantschmann" .
+
+<http://id.crossref.org/issn/0021-8383>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0021-8383" , "1521-3897" ;
+      <http://purl.org/dc/terms/title>
+              "Journal f�r Praktische Chemie" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0021-8383" , "1521-3897" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1521-3897" , "urn:issn:0021-8383" .

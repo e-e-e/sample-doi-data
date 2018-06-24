@@ -1,0 +1,36 @@
+<http://dx.doi.org/10.1016/s0140-6701(96)90201-5>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/s0140-6701(96)90201-5" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "364" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "37" ;
+      <http://purl.org/dc/terms/date>
+              "1996-09"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/s0140-6701(96)90201-5" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0140-6701> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "96/05190 Use of tyre pyrolysis oil from solvent augmentation in two-stage coal liquefaction" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/s0140-6701(96)90201-5" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "364" ;
+      <http://purl.org/ontology/bibo/volume>
+              "37" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1016/s0140-6701(96)90201-5> , <info:doi/10.1016/s0140-6701(96)90201-5> .
+
+<http://id.crossref.org/issn/0140-6701>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0140-6701" ;
+      <http://purl.org/dc/terms/title>
+              "Fuel and Energy Abstracts" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0140-6701" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0140-6701" .

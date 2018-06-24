@@ -1,0 +1,56 @@
+<http://id.crossref.org/contributor/kishan-dholakia-2q7nefqj2hyoq>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Dholakia" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Kishan" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Kishan Dholakia" .
+
+<http://id.crossref.org/issn/1094-4087>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1094-4087" ;
+      <http://purl.org/dc/terms/title>
+              "Optics Express" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1094-4087" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1094-4087" .
+
+<http://dx.doi.org/10.1364/oe.17.015558>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1364/oe.17.015558" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "15558" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "17" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/kishan-dholakia-2q7nefqj2hyoq> , <http://id.crossref.org/contributor/tomas-cizmar-2q7nefqj2hyoq> ;
+      <http://purl.org/dc/terms/date>
+              "2009-08-18"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1364/oe.17.015558" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1094-4087> ;
+      <http://purl.org/dc/terms/publisher>
+              "The Optical Society" ;
+      <http://purl.org/dc/terms/title>
+              "Tunable Bessel light modes: engineering the axial propagation" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1364/oe.17.015558" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "15558" ;
+      <http://purl.org/ontology/bibo/volume>
+              "17" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1364/oe.17.015558> , <info:doi/10.1364/oe.17.015558> .
+
+<http://id.crossref.org/contributor/tomas-cizmar-2q7nefqj2hyoq>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Čižmár" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Tomáš" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Tomáš Čižmár" .

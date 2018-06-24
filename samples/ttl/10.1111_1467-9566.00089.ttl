@@ -1,0 +1,69 @@
+<http://id.crossref.org/contributor/george-davey-smith-322kzho5cn1j7>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Smith" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "George Davey" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "George Davey Smith" .
+
+<http://id.crossref.org/issn/0141-9889>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0141-9889" ;
+      <http://purl.org/dc/terms/title>
+              "Sociology of Health & Illness" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0141-9889" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0141-9889" .
+
+<http://id.crossref.org/contributor/david-blane-322kzho5cn1j7>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Blane" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "David" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "David Blane" .
+
+<http://id.crossref.org/contributor/mel-bartley-322kzho5cn1j7>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Bartley" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Mel" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Mel Bartley" .
+
+<http://dx.doi.org/10.1111/1467-9566.00089>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1111/1467-9566.00089" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "152" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "127" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "19" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/george-davey-smith-322kzho5cn1j7> , <http://id.crossref.org/contributor/david-blane-322kzho5cn1j7> , <http://id.crossref.org/contributor/mel-bartley-322kzho5cn1j7> ;
+      <http://purl.org/dc/terms/date>
+              "2008-06-28"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1111/1467-9566.00089" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0141-9889> ;
+      <http://purl.org/dc/terms/publisher>
+              "Wiley" ;
+      <http://purl.org/dc/terms/title>
+              "5. Vital comparisons: the social construction of mortality measurement" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1111/1467-9566.00089" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "152" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "127" ;
+      <http://purl.org/ontology/bibo/volume>
+              "19" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1111/1467-9566.00089> , <info:doi/10.1111/1467-9566.00089> .

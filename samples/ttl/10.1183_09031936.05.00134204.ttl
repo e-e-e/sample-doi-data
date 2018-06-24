@@ -1,0 +1,51 @@
+<http://id.crossref.org/issn/0903-1936>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1399-3003" , "0903-1936" ;
+      <http://purl.org/dc/terms/title>
+              "European Respiratory Journal" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1399-3003" , "0903-1936" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0903-1936" , "urn:issn:1399-3003" .
+
+<http://dx.doi.org/10.1183/09031936.05.00134204>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1183/09031936.05.00134204" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "353" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "351" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "26" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/a-baydur-2dttss8l1vzk1> ;
+      <http://purl.org/dc/terms/date>
+              "2005-08-01"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1183/09031936.05.00134204" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0903-1936> ;
+      <http://purl.org/dc/terms/publisher>
+              "European Respiratory Society (ERS)" ;
+      <http://purl.org/dc/terms/title>
+              "Microscopic pulmonary embolisation of an indwelling central venous catheter with granulomatous inflammatory response" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1183/09031936.05.00134204" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "353" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "351" ;
+      <http://purl.org/ontology/bibo/volume>
+              "26" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1183/09031936.05.00134204> , <info:doi/10.1183/09031936.05.00134204> .
+
+<http://id.crossref.org/contributor/a-baydur-2dttss8l1vzk1>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Baydur" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "A. Baydur" .

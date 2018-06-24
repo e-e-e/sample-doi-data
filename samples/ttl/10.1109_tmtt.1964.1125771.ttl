@@ -1,0 +1,51 @@
+<http://id.crossref.org/contributor/r-v-row-1gq5a92u67rnb>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Row" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "R.V." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "R.V. Row" .
+
+<http://dx.doi.org/10.1109/tmtt.1964.1125771>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1109/tmtt.1964.1125771" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "146" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "146" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "12" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/r-v-row-1gq5a92u67rnb> ;
+      <http://purl.org/dc/terms/date>
+              "1964-01"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1109/tmtt.1964.1125771" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0018-9480> ;
+      <http://purl.org/dc/terms/publisher>
+              "Institute of Electrical and Electronics Engineers (IEEE)" ;
+      <http://purl.org/dc/terms/title>
+              "A Simple Technique for the Generation of Short Rectangular RF Pulses from a CW Source (Correspondence)" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1109/tmtt.1964.1125771" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "146" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "146" ;
+      <http://purl.org/ontology/bibo/volume>
+              "12" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1109/tmtt.1964.1125771> , <doi:10.1109/tmtt.1964.1125771> .
+
+<http://id.crossref.org/issn/0018-9480>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0018-9480" , "1557-9670" ;
+      <http://purl.org/dc/terms/title>
+              "IEEE Transactions on Microwave Theory and Techniques" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0018-9480" , "1557-9670" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0018-9480" , "urn:issn:1557-9670" .

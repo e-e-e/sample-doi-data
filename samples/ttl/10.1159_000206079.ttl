@@ -1,0 +1,87 @@
+<http://id.crossref.org/contributor/akiro-kimura-3lh0pls93ts62>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kimura" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Akiro" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Akiro Kimura" .
+
+<http://id.crossref.org/issn/0001-5792>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1421-9662" , "0001-5792" ;
+      <http://purl.org/dc/terms/title>
+              "Acta Haematologica" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1421-9662" , "0001-5792" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1421-9662" , "urn:issn:0001-5792" .
+
+<http://id.crossref.org/contributor/nanao-kamada-3lh0pls93ts62>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kamada" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Nanao" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Nanao Kamada" .
+
+<http://id.crossref.org/contributor/masahiro-kawakami-3lh0pls93ts62>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kawakami" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Masahiro" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Masahiro Kawakami" .
+
+<http://id.crossref.org/contributor/atsushi-kuramoto-3lh0pls93ts62>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kuramoto" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Atsushi" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Atsushi Kuramoto" .
+
+<http://id.crossref.org/contributor/hiroki-kajiwara-3lh0pls93ts62>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kajiwara" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Hiroki" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Hiroki Kajiwara" .
+
+<http://dx.doi.org/10.1159/000206079>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1159/000206079" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "45" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "40" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "75" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/akiro-kimura-3lh0pls93ts62> , <http://id.crossref.org/contributor/masahiro-kawakami-3lh0pls93ts62> , <http://id.crossref.org/contributor/nanao-kamada-3lh0pls93ts62> , <http://id.crossref.org/contributor/atsushi-kuramoto-3lh0pls93ts62> , <http://id.crossref.org/contributor/hiroki-kajiwara-3lh0pls93ts62> ;
+      <http://purl.org/dc/terms/date>
+              "1986"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1159/000206079" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0001-5792> ;
+      <http://purl.org/dc/terms/publisher>
+              "S. Karger AG" ;
+      <http://purl.org/dc/terms/title>
+              "A Case of Leukemic Mastocytoma Terminating in Metamorphosis" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1159/000206079" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "45" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "40" ;
+      <http://purl.org/ontology/bibo/volume>
+              "75" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1159/000206079> , <doi:10.1159/000206079> .

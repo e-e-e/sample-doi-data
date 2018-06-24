@@ -1,0 +1,60 @@
+<http://id.crossref.org/issn/1618-2510>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1618-2510" , "1613-981X" ;
+      <http://purl.org/dc/terms/title>
+              "Statistical Methods & Applications" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1618-2510" , "1613-981X" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1618-2510" , "urn:issn:1613-981X" .
+
+<http://id.crossref.org/contributor/giuseppe-storti-3q4cd85tkdc6c>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Storti" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Giuseppe" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Giuseppe Storti" .
+
+<http://dx.doi.org/10.1007/bf02511581>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1007/bf02511581" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "39" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "19" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "12" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/giuseppe-storti-3q4cd85tkdc6c> , <http://id.crossref.org/contributor/cosimo-vitale-3q4cd85tkdc6c> ;
+      <http://purl.org/dc/terms/date>
+              "2003-02"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1007/bf02511581" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1618-2510> ;
+      <http://purl.org/dc/terms/publisher>
+              "Springer Nature" ;
+      <http://purl.org/dc/terms/title>
+              "BL-GARCH models and asymmetries in volatility" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1007/bf02511581" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "39" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "19" ;
+      <http://purl.org/ontology/bibo/volume>
+              "12" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1007/bf02511581> , <info:doi/10.1007/bf02511581> .
+
+<http://id.crossref.org/contributor/cosimo-vitale-3q4cd85tkdc6c>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Vitale" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Cosimo" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Cosimo Vitale" .

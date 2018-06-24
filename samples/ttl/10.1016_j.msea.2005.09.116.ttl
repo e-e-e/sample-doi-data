@@ -1,0 +1,96 @@
+<http://id.crossref.org/contributor/a-bartels-3qp2t433mjq7o>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Bartels" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "A. Bartels" .
+
+<http://id.crossref.org/contributor/h-g-brokmeier-3qp2t433mjq7o>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Brokmeier" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "H.-G." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "H.-G. Brokmeier" .
+
+<http://dx.doi.org/10.1016/j.msea.2005.09.116>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/j.msea.2005.09.116" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "17" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "11" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "416" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/a-bartels-3qp2t433mjq7o> , <http://id.crossref.org/contributor/h-g-brokmeier-3qp2t433mjq7o> , <http://id.crossref.org/contributor/h-clemens-3qp2t433mjq7o> , <http://id.crossref.org/contributor/p-staron-3qp2t433mjq7o> , <http://id.crossref.org/contributor/f-p-schimansky-3qp2t433mjq7o> , <http://id.crossref.org/contributor/r-gerling-3qp2t433mjq7o> ;
+      <http://purl.org/dc/terms/date>
+              "2006-01"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/j.msea.2005.09.116" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0921-5093> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "On the texture of spray formed gamma titanium aluminide" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/j.msea.2005.09.116" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "17" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "11" ;
+      <http://purl.org/ontology/bibo/volume>
+              "416" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1016/j.msea.2005.09.116> , <info:doi/10.1016/j.msea.2005.09.116> .
+
+<http://id.crossref.org/contributor/h-clemens-3qp2t433mjq7o>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Clemens" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "H." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "H. Clemens" .
+
+<http://id.crossref.org/contributor/p-staron-3qp2t433mjq7o>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Staron" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "P." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "P. Staron" .
+
+<http://id.crossref.org/contributor/f-p-schimansky-3qp2t433mjq7o>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Schimansky" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "F.P." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "F.P. Schimansky" .
+
+<http://id.crossref.org/contributor/r-gerling-3qp2t433mjq7o>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Gerling" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "R." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "R. Gerling" .
+
+<http://id.crossref.org/issn/0921-5093>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0921-5093" ;
+      <http://purl.org/dc/terms/title>
+              "Materials Science and Engineering: A" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0921-5093" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0921-5093" .

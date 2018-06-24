@@ -1,0 +1,132 @@
+<http://id.crossref.org/issn/0897-7151>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1557-9042" , "0897-7151" ;
+      <http://purl.org/dc/terms/title>
+              "Journal of Neurotrauma" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1557-9042" , "0897-7151" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1557-9042" , "urn:issn:0897-7151" .
+
+<http://id.crossref.org/contributor/eddie-kim-3ehoxa8r6q4ol>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kim" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Eddie" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Eddie Kim" .
+
+<http://id.crossref.org/contributor/mike-spinner-3ehoxa8r6q4ol>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Spinner" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Mike" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Mike Spinner" .
+
+<http://id.crossref.org/contributor/david-m-holtzman-3ehoxa8r6q4ol>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Holtzman" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "David M." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "David M. Holtzman" .
+
+<http://dx.doi.org/10.1089/neu.2006.0011>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1089/neu.2006.0011" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "673" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "657" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "24" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/eddie-kim-3ehoxa8r6q4ol> , <http://id.crossref.org/contributor/david-m-holtzman-3ehoxa8r6q4ol> , <http://id.crossref.org/contributor/mike-spinner-3ehoxa8r6q4ol> , <http://id.crossref.org/contributor/katherine-e-schwetye-3ehoxa8r6q4ol> , <http://id.crossref.org/contributor/david-l-brody-3ehoxa8r6q4ol> , <http://id.crossref.org/contributor/maia-parsadanian-3ehoxa8r6q4ol> , <http://id.crossref.org/contributor/carla-yuede-3ehoxa8r6q4ol> , <http://id.crossref.org/contributor/philip-v-bayly-3ehoxa8r6q4ol> , <http://id.crossref.org/contributor/christine-mac-donald-3ehoxa8r6q4ol> , <http://id.crossref.org/contributor/chad-c-kessens-3ehoxa8r6q4ol> ;
+      <http://purl.org/dc/terms/date>
+              "2007-04"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1089/neu.2006.0011" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0897-7151> ;
+      <http://purl.org/dc/terms/publisher>
+              "Mary Ann Liebert Inc" ;
+      <http://purl.org/dc/terms/title>
+              "Electromagnetic Controlled Cortical Impact Device for Precise, Graded Experimental Traumatic Brain Injury" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1089/neu.2006.0011" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "673" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "657" ;
+      <http://purl.org/ontology/bibo/volume>
+              "24" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1089/neu.2006.0011> , <info:doi/10.1089/neu.2006.0011> .
+
+<http://id.crossref.org/contributor/katherine-e-schwetye-3ehoxa8r6q4ol>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Schwetye" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Katherine E." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Katherine E. Schwetye" .
+
+<http://id.crossref.org/contributor/maia-parsadanian-3ehoxa8r6q4ol>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Parsadanian" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Maia" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Maia Parsadanian" .
+
+<http://id.crossref.org/contributor/david-l-brody-3ehoxa8r6q4ol>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Brody" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "David L." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "David L. Brody" .
+
+<http://id.crossref.org/contributor/carla-yuede-3ehoxa8r6q4ol>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Yuede" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Carla" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Carla Yuede" .
+
+<http://id.crossref.org/contributor/chad-c-kessens-3ehoxa8r6q4ol>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kessens" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Chad C." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Chad C. Kessens" .
+
+<http://id.crossref.org/contributor/philip-v-bayly-3ehoxa8r6q4ol>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Bayly" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Philip V." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Philip V. Bayly" .
+
+<http://id.crossref.org/contributor/christine-mac-donald-3ehoxa8r6q4ol>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Mac Donald" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Christine" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Christine Mac Donald" .

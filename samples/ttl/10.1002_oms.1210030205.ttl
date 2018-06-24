@@ -1,0 +1,69 @@
+<http://dx.doi.org/10.1002/oms.1210030205>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1002/oms.1210030205" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "180" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "171" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "3" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/james-w-serum-2ci3anja901m8> , <http://id.crossref.org/contributor/robert-h-shapiro-2ci3anja901m8> , <http://id.crossref.org/contributor/jonathan-turk-2ci3anja901m8> ;
+      <http://purl.org/dc/terms/date>
+              "1970-02"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1002/oms.1210030205" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0030-493X> ;
+      <http://purl.org/dc/terms/publisher>
+              "Wiley" ;
+      <http://purl.org/dc/terms/title>
+              "The effect of substituents on the average internal energy of benzoyl ions generated from N-(substituted-phenyl)benzamides" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1002/oms.1210030205" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "180" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "171" ;
+      <http://purl.org/ontology/bibo/volume>
+              "3" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1002/oms.1210030205> , <info:doi/10.1002/oms.1210030205> .
+
+<http://id.crossref.org/issn/0030-493X>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0030-493X" , "1096-9888" ;
+      <http://purl.org/dc/terms/title>
+              "Organic Mass Spectrometry" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0030-493X" , "1096-9888" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0030-493X" , "urn:issn:1096-9888" .
+
+<http://id.crossref.org/contributor/james-w-serum-2ci3anja901m8>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Serum" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "James W." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "James W. Serum" .
+
+<http://id.crossref.org/contributor/robert-h-shapiro-2ci3anja901m8>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Shapiro" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Robert H." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Robert H. Shapiro" .
+
+<http://id.crossref.org/contributor/jonathan-turk-2ci3anja901m8>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Turk" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Jonathan" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Jonathan Turk" .

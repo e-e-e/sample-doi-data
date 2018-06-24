@@ -1,0 +1,33 @@
+<http://id.crossref.org/isbn/086341432X>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "\"International Workshop on Mining Software Repositories (MSR 2004)\" W17S Workshop - 26th International Conference on Software Engineering" .
+
+<http://dx.doi.org/10.1049/ic:20040485>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1049/ic:20040485" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/l-lopez-fernandez-3k7j8ry532vax> ;
+      <http://purl.org/dc/terms/date>
+              "2004"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1049/ic:20040485" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/086341432X> ;
+      <http://purl.org/dc/terms/publisher>
+              "IEE" ;
+      <http://purl.org/dc/terms/title>
+              "Applying social network analysis to the information in CVS repositories" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1049/ic:20040485" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1049/ic:20040485> , <doi:10.1049/ic:20040485> .
+
+<http://id.crossref.org/contributor/l-lopez-fernandez-3k7j8ry532vax>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Lopez-Fernandez" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "L." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "L. Lopez-Fernandez" .

@@ -1,0 +1,51 @@
+<http://dx.doi.org/10.1177/14680181080080010105>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1177/14680181080080010105" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "18" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "15" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "8" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/genevieve-gencianos-2n2nbcwgyumqh> ;
+      <http://purl.org/dc/terms/date>
+              "2008-04"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1177/14680181080080010105" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1468-0181> ;
+      <http://purl.org/dc/terms/publisher>
+              "SAGE Publications" ;
+      <http://purl.org/dc/terms/title>
+              "Defending Worker and Community Rights in Addressing the Global Health Care Workforce Crisis" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1177/14680181080080010105" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "18" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "15" ;
+      <http://purl.org/ontology/bibo/volume>
+              "8" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1177/14680181080080010105> , <doi:10.1177/14680181080080010105> .
+
+<http://id.crossref.org/issn/1468-0181>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1741-2803" , "1468-0181" ;
+      <http://purl.org/dc/terms/title>
+              "Global Social Policy: An Interdisciplinary Journal of Public Policy and Social Development" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1741-2803" , "1468-0181" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1468-0181" , "urn:issn:1741-2803" .
+
+<http://id.crossref.org/contributor/genevieve-gencianos-2n2nbcwgyumqh>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Gencianos" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Genevieve" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Genevieve Gencianos" .

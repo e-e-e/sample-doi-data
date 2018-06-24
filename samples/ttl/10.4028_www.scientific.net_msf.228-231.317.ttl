@@ -1,0 +1,78 @@
+<http://dx.doi.org/10.4028/www.scientific.net/msf.228-231.317>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.4028/www.scientific.net/msf.228-231.317" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "324" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "317" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "228-231" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/x-alcobe-q1a2r50ub4ei> , <http://id.crossref.org/contributor/jaume-esteve-q1a2r50ub4ei> , <http://id.crossref.org/contributor/f-arrando-q1a2r50ub4ei> , <http://id.crossref.org/contributor/j-bassas-q1a2r50ub4ei> ;
+      <http://purl.org/dc/terms/date>
+              "1996-07"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.4028/www.scientific.net/msf.228-231.317" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1662-9752> ;
+      <http://purl.org/dc/terms/publisher>
+              "Trans Tech Publications" ;
+      <http://purl.org/dc/terms/title>
+              "Residual Stress in Ti(C,N) Coatings on HSS Substrate" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.4028/www.scientific.net/msf.228-231.317" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "324" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "317" ;
+      <http://purl.org/ontology/bibo/volume>
+              "228-231" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.4028/www.scientific.net/msf.228-231.317> , <doi:10.4028/www.scientific.net/msf.228-231.317> .
+
+<http://id.crossref.org/contributor/x-alcobe-q1a2r50ub4ei>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Alcobé" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "X." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "X. Alcobé" .
+
+<http://id.crossref.org/issn/1662-9752>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1662-9752" ;
+      <http://purl.org/dc/terms/title>
+              "Materials Science Forum" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1662-9752" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1662-9752" .
+
+<http://id.crossref.org/contributor/jaume-esteve-q1a2r50ub4ei>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Esteve" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Jaume" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Jaume Esteve" .
+
+<http://id.crossref.org/contributor/f-arrando-q1a2r50ub4ei>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Arrando" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "F." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "F. Arrando" .
+
+<http://id.crossref.org/contributor/j-bassas-q1a2r50ub4ei>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Bassas" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "J." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "J. Bassas" .

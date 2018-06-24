@@ -1,0 +1,60 @@
+<http://id.crossref.org/contributor/salih-pay-1id3wg86uhmt2>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Pay" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Salih" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Salih Pay" .
+
+<http://id.crossref.org/contributor/robert-terkeltaub-1id3wg86uhmt2>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Terkeltaub" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Robert" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Robert Terkeltaub" .
+
+<http://dx.doi.org/10.1007/s11926-003-0073-x>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1007/s11926-003-0073-x" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "243" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "235" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "5" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/salih-pay-1id3wg86uhmt2> , <http://id.crossref.org/contributor/robert-terkeltaub-1id3wg86uhmt2> ;
+      <http://purl.org/dc/terms/date>
+              "2003-05"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1007/s11926-003-0073-x" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1523-3774> ;
+      <http://purl.org/dc/terms/publisher>
+              "Springer Nature" ;
+      <http://purl.org/dc/terms/title>
+              "Calcium pyrophosphate dihydrate and hydroxyapatite crystal deposition in the joint: New developments relevant to the clinician" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1007/s11926-003-0073-x" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "243" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "235" ;
+      <http://purl.org/ontology/bibo/volume>
+              "5" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1007/s11926-003-0073-x> , <doi:10.1007/s11926-003-0073-x> .
+
+<http://id.crossref.org/issn/1523-3774>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1534-6307" , "1523-3774" ;
+      <http://purl.org/dc/terms/title>
+              "Current Rheumatology Reports" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1534-6307" , "1523-3774" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1534-6307" , "urn:issn:1523-3774" .

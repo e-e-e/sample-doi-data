@@ -1,0 +1,123 @@
+<http://dx.doi.org/10.1111/j.1440-1843.2004.00619.x>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1111/j.1440-1843.2004.00619.x" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "325" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "320" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "9" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/sinan-albayrak-12ele73wkb6tu> , <http://id.crossref.org/contributor/mehmet-yazici-12ele73wkb6tu> , <http://id.crossref.org/contributor/mete-erbas-12ele73wkb6tu> , <http://id.crossref.org/contributor/ramazan-akdemir-12ele73wkb6tu> , <http://id.crossref.org/contributor/emin-maden-12ele73wkb6tu> , <http://id.crossref.org/contributor/peri-arbak-12ele73wkb6tu> , <http://id.crossref.org/contributor/enver-erbilen-12ele73wkb6tu> , <http://id.crossref.org/contributor/cihangir-uyan-12ele73wkb6tu> , <http://id.crossref.org/contributor/oner-balbay-12ele73wkb6tu> ;
+      <http://purl.org/dc/terms/date>
+              "2004-08"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1111/j.1440-1843.2004.00619.x" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1323-7799> ;
+      <http://purl.org/dc/terms/publisher>
+              "Wiley" ;
+      <http://purl.org/dc/terms/title>
+              "Relationship between arterial blood gas values, pulmonary function tests and treadmill exercise testing parameters in patients with COPD" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1111/j.1440-1843.2004.00619.x" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "325" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "320" ;
+      <http://purl.org/ontology/bibo/volume>
+              "9" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1111/j.1440-1843.2004.00619.x> , <info:doi/10.1111/j.1440-1843.2004.00619.x> .
+
+<http://id.crossref.org/contributor/mete-erbas-12ele73wkb6tu>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "ERBAS" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Mete" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Mete ERBAS" .
+
+<http://id.crossref.org/contributor/mehmet-yazici-12ele73wkb6tu>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "YAZICI" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Mehmet" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Mehmet YAZICI" .
+
+<http://id.crossref.org/contributor/sinan-albayrak-12ele73wkb6tu>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "ALBAYRAK" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Sinan" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Sinan ALBAYRAK" .
+
+<http://id.crossref.org/contributor/ramazan-akdemir-12ele73wkb6tu>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "AKDEMIR" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Ramazan" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Ramazan AKDEMIR" .
+
+<http://id.crossref.org/contributor/emin-maden-12ele73wkb6tu>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "MADEN" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Emin" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Emin MADEN" .
+
+<http://id.crossref.org/contributor/peri-arbak-12ele73wkb6tu>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "ARBAK" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Peri" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Peri ARBAK" .
+
+<http://id.crossref.org/issn/1323-7799>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1323-7799" , "1440-1843" ;
+      <http://purl.org/dc/terms/title>
+              "Respirology" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1323-7799" , "1440-1843" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1323-7799" , "urn:issn:1440-1843" .
+
+<http://id.crossref.org/contributor/enver-erbilen-12ele73wkb6tu>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "ERBILEN" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Enver" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Enver ERBILEN" .
+
+<http://id.crossref.org/contributor/cihangir-uyan-12ele73wkb6tu>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "UYAN" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Cihangir" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Cihangir UYAN" .
+
+<http://id.crossref.org/contributor/oner-balbay-12ele73wkb6tu>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "BALBAY" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Oner" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Oner BALBAY" .

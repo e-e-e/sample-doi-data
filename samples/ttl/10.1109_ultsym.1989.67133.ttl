@@ -1,0 +1,53 @@
+<http://id.crossref.org/contributor/k-kawabe-cszw0x0ai4ah>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kawabe" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "K." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "K. Kawabe" .
+
+<http://id.crossref.org/contributor/s-takeda-cszw0x0ai4ah>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Takeda" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "S." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "S. Takeda" .
+
+<http://id.crossref.org/contributor/t-shimura-cszw0x0ai4ah>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Shimura" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "T." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "T. Shimura" .
+
+<http://dx.doi.org/10.1109/ultsym.1989.67133>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1109/ultsym.1989.67133" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/s-takeda-cszw0x0ai4ah> , <http://id.crossref.org/contributor/k-kawabe-cszw0x0ai4ah> , <http://id.crossref.org/contributor/t-shimura-cszw0x0ai4ah> , <http://id.crossref.org/contributor/k-hayakawa-cszw0x0ai4ah> ;
+      <http://purl.org/dc/terms/date>
+              ""^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1109/ultsym.1989.67133" ;
+      <http://purl.org/dc/terms/publisher>
+              "IEEE" ;
+      <http://purl.org/dc/terms/title>
+              "Acoustic characteristics of PVA gel" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1109/ultsym.1989.67133" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1109/ultsym.1989.67133> , <info:doi/10.1109/ultsym.1989.67133> .
+
+<http://id.crossref.org/contributor/k-hayakawa-cszw0x0ai4ah>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Hayakawa" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "K." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "K. Hayakawa" .

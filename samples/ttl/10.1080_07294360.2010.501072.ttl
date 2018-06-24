@@ -1,0 +1,51 @@
+<http://dx.doi.org/10.1080/07294360.2010.501072>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1080/07294360.2010.501072" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "692" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "679" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "29" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/dorothy-spiller-ognmotst5x4t> ;
+      <http://purl.org/dc/terms/date>
+              "2010-12"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1080/07294360.2010.501072" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0729-4360> ;
+      <http://purl.org/dc/terms/publisher>
+              "Informa UK Limited" ;
+      <http://purl.org/dc/terms/title>
+              "Language and academic leadership: exploring and evaluating the narratives" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1080/07294360.2010.501072" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "692" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "679" ;
+      <http://purl.org/ontology/bibo/volume>
+              "29" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1080/07294360.2010.501072> , <doi:10.1080/07294360.2010.501072> .
+
+<http://id.crossref.org/contributor/dorothy-spiller-ognmotst5x4t>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Spiller" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Dorothy" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Dorothy Spiller" .
+
+<http://id.crossref.org/issn/0729-4360>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1469-8366" , "0729-4360" ;
+      <http://purl.org/dc/terms/title>
+              "Higher Education Research & Development" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1469-8366" , "0729-4360" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0729-4360" , "urn:issn:1469-8366" .

@@ -1,0 +1,51 @@
+<http://id.crossref.org/issn/0002-9610>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0002-9610" ;
+      <http://purl.org/dc/terms/title>
+              "The American Journal of Surgery" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0002-9610" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0002-9610" .
+
+<http://id.crossref.org/contributor/jacob-lemann-rfvr4sxcq8jk>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Lemann" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Jacob" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Jacob Lemann" .
+
+<http://dx.doi.org/10.1016/0002-9610(64)90237-5>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/0002-9610(64)90237-5" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "42" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "38" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "107" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/jacob-lemann-rfvr4sxcq8jk> ;
+      <http://purl.org/dc/terms/date>
+              "1964-01"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/0002-9610(64)90237-5" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0002-9610> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Diagnostic value of urinalysis in patients with hypertension" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/0002-9610(64)90237-5" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "42" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "38" ;
+      <http://purl.org/ontology/bibo/volume>
+              "107" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1016/0002-9610(64)90237-5> , <info:doi/10.1016/0002-9610(64)90237-5> .

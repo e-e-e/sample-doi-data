@@ -1,0 +1,78 @@
+<http://dx.doi.org/10.1016/j.jvir.2010.02.029>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/j.jvir.2010.02.029" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "1308" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "1306" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "21" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/carlos-vaquero-2rkiiqmcgva8j> , <http://id.crossref.org/contributor/vicente-m-gutierrez-2rkiiqmcgva8j> , <http://id.crossref.org/contributor/alvaro-revilla-2rkiiqmcgva8j> , <http://id.crossref.org/contributor/enrique-m-san-norberto-2rkiiqmcgva8j> ;
+      <http://purl.org/dc/terms/date>
+              "2010-08"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/j.jvir.2010.02.029" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1051-0443> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Subclavian Venous Aneurysm: Endovascular Treatment" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/j.jvir.2010.02.029" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "1308" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "1306" ;
+      <http://purl.org/ontology/bibo/volume>
+              "21" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1016/j.jvir.2010.02.029> , <info:doi/10.1016/j.jvir.2010.02.029> .
+
+<http://id.crossref.org/contributor/carlos-vaquero-2rkiiqmcgva8j>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Vaquero" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Carlos" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Carlos Vaquero" .
+
+<http://id.crossref.org/contributor/vicente-m-gutierrez-2rkiiqmcgva8j>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Gutiérrez" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Vicente M." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Vicente M. Gutiérrez" .
+
+<http://id.crossref.org/contributor/alvaro-revilla-2rkiiqmcgva8j>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Revilla" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Álvaro" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Álvaro Revilla" .
+
+<http://id.crossref.org/issn/1051-0443>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1051-0443" ;
+      <http://purl.org/dc/terms/title>
+              "Journal of Vascular and Interventional Radiology" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1051-0443" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1051-0443" .
+
+<http://id.crossref.org/contributor/enrique-m-san-norberto-2rkiiqmcgva8j>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "San Norberto" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Enrique M." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Enrique M. San Norberto" .

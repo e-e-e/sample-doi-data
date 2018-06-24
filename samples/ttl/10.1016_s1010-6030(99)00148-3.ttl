@@ -1,0 +1,78 @@
+<http://id.crossref.org/issn/1010-6030>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1010-6030" ;
+      <http://purl.org/dc/terms/title>
+              "Journal of Photochemistry and Photobiology A: Chemistry" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1010-6030" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1010-6030" .
+
+<http://id.crossref.org/contributor/giovanni-bentivenga-2a8x3h8gug2gt>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Bentivenga" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Giovanni" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Giovanni Bentivenga" .
+
+<http://id.crossref.org/contributor/adriano-de-bona-2a8x3h8gug2gt>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "De Bona" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Adriano" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Adriano De Bona" .
+
+<http://dx.doi.org/10.1016/s1010-6030(99)00148-3>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/s1010-6030(99)00148-3" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "143" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "139" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "128" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/giovanni-bentivenga-2a8x3h8gug2gt> , <http://id.crossref.org/contributor/adriano-de-bona-2a8x3h8gug2gt> , <http://id.crossref.org/contributor/maurizio-dauria-2a8x3h8gug2gt> , <http://id.crossref.org/contributor/carlo-bonini-2a8x3h8gug2gt> ;
+      <http://purl.org/dc/terms/date>
+              "1999-11"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/s1010-6030(99)00148-3" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1010-6030> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Singlet oxygen degradation of lignin: a GC–MS study on the residual products of the singlet oxygen degradation of a steam exploded lignin from beech" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/s1010-6030(99)00148-3" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "143" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "139" ;
+      <http://purl.org/ontology/bibo/volume>
+              "128" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1016/s1010-6030(99)00148-3> , <info:doi/10.1016/s1010-6030(99)00148-3> .
+
+<http://id.crossref.org/contributor/maurizio-dauria-2a8x3h8gug2gt>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "D’Auria" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Maurizio" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Maurizio D’Auria" .
+
+<http://id.crossref.org/contributor/carlo-bonini-2a8x3h8gug2gt>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Bonini" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Carlo" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Carlo Bonini" .

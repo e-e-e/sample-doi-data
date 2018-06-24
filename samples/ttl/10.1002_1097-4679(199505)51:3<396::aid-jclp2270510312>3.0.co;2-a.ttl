@@ -1,0 +1,60 @@
+<http://dx.doi.org/10.1002/1097-4679(199505)51:3<396::aid-jclp2270510312>3.0.co;2-a>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1002/1097-4679(199505)51:3<396::aid-jclp2270510312>3.0.co;2-a" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "400" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "396" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "51" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/richard-j-nagle-3cqfpxu76pmko> , <http://id.crossref.org/contributor/nancy-l-bell-3cqfpxu76pmko> ;
+      <http://purl.org/dc/terms/date>
+              "1995-05"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1002/1097-4679(199505)51:3<396::aid-jclp2270510312>3.0.co;2-a" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0021-9762> ;
+      <http://purl.org/dc/terms/publisher>
+              "Wiley" ;
+      <http://purl.org/dc/terms/title>
+              "Clinical utility of Kaufman's “amazingly” short forms of the WAIS–R with educable mentally retarded adolescents" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1002/1097-4679(199505)51:3<396::aid-jclp2270510312>3.0.co;2-a" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "400" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "396" ;
+      <http://purl.org/ontology/bibo/volume>
+              "51" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1002/1097-4679(199505)51:3<396::aid-jclp2270510312>3.0.co;2-a> , <info:doi/10.1002/1097-4679(199505)51:3<396::aid-jclp2270510312>3.0.co;2-a> .
+
+<http://id.crossref.org/issn/0021-9762>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1097-4679" , "0021-9762" ;
+      <http://purl.org/dc/terms/title>
+              "Journal of Clinical Psychology" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1097-4679" , "0021-9762" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1097-4679" , "urn:issn:0021-9762" .
+
+<http://id.crossref.org/contributor/richard-j-nagle-3cqfpxu76pmko>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Nagle" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Richard J." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Richard J. Nagle" .
+
+<http://id.crossref.org/contributor/nancy-l-bell-3cqfpxu76pmko>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Bell" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Nancy L." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Nancy L. Bell" .

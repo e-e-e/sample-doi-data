@@ -1,0 +1,43 @@
+<http://id.crossref.org/issn/0024-3949>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0024-3949" , "1613-396X" ;
+      <http://purl.org/dc/terms/title>
+              "Linguistics" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0024-3949" , "1613-396X" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1613-396X" , "urn:issn:0024-3949" .
+
+<http://id.crossref.org/contributor/roland-harweg-40g50wjyw878>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "HARWEG" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "ROLAND" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "ROLAND HARWEG" .
+
+<http://dx.doi.org/10.1515/ling.1967.5.33.37>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1515/ling.1967.5.33.37" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "5" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/roland-harweg-40g50wjyw878> ;
+      <http://purl.org/dc/terms/date>
+              "1967"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1515/ling.1967.5.33.37" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0024-3949> ;
+      <http://purl.org/dc/terms/publisher>
+              "Walter de Gruyter GmbH" ;
+      <http://purl.org/dc/terms/title>
+              "SKIZZE EINER NEUEN THEORIE DES VOKATIVS" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1515/ling.1967.5.33.37" ;
+      <http://purl.org/ontology/bibo/volume>
+              "5" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1515/ling.1967.5.33.37> , <doi:10.1515/ling.1967.5.33.37> .

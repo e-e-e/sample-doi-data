@@ -1,0 +1,51 @@
+<http://id.crossref.org/contributor/f-akkerman-1qnxoph6m6xci>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Akkerman" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "F." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "F. Akkerman" .
+
+<http://dx.doi.org/10.1163/156852566x00240>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1163/156852566x00240" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "199" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "198" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "19" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/f-akkerman-1qnxoph6m6xci> ;
+      <http://purl.org/dc/terms/date>
+              "1966-01-01"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1163/156852566x00240" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0026-7074> ;
+      <http://purl.org/dc/terms/publisher>
+              "Brill Academic Publishers" ;
+      <http://purl.org/dc/terms/title>
+              "O. BIANCO: Terenzio. Problemi e aspetti dell'originalità (Nuovi Saggi, 41). Roma, Ed. dell'Ateneo, 1962. XII, 247 p. Pr. L 2800" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1163/156852566x00240" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "199" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "198" ;
+      <http://purl.org/ontology/bibo/volume>
+              "19" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1163/156852566x00240> , <info:doi/10.1163/156852566x00240> .
+
+<http://id.crossref.org/issn/0026-7074>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1568-525X" , "0026-7074" ;
+      <http://purl.org/dc/terms/title>
+              "Mnemosyne" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1568-525X" , "0026-7074" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0026-7074" , "urn:issn:1568-525X" .

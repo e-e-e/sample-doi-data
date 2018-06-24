@@ -1,0 +1,141 @@
+<http://id.crossref.org/contributor/j-huber-1v506dgz1m509>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Huber" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "J." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "J. Huber" .
+
+<http://id.crossref.org/contributor/e-fritsch-1v506dgz1m509>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Fritsch" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "E." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "E. Fritsch" .
+
+<http://id.crossref.org/contributor/d-g-heckel-1v506dgz1m509>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Heckel" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "D. G." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "D. G. Heckel" .
+
+<http://id.crossref.org/contributor/s-asser-kaiser-1v506dgz1m509>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Asser-Kaiser" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "S." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "S. Asser-Kaiser" .
+
+<http://id.crossref.org/contributor/c-p-w-zebitz-1v506dgz1m509>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Zebitz" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "C. P. W." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "C. P. W. Zebitz" .
+
+<http://id.crossref.org/contributor/k-undorf-spahn-1v506dgz1m509>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Undorf-Spahn" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "K." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "K. Undorf-Spahn" .
+
+<http://id.crossref.org/contributor/k-e-eberle-1v506dgz1m509>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Eberle" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "K. E." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "K. E. Eberle" .
+
+<http://id.crossref.org/issn/0036-8075>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1095-9203" , "0036-8075" ;
+      <http://purl.org/dc/terms/title>
+              "Science" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1095-9203" , "0036-8075" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0036-8075" , "urn:issn:1095-9203" .
+
+<http://id.crossref.org/contributor/j-a-jehle-1v506dgz1m509>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Jehle" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "J. A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "J. A. Jehle" .
+
+<http://id.crossref.org/contributor/a-reineke-1v506dgz1m509>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Reineke" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "A. Reineke" .
+
+<http://dx.doi.org/10.1126/science.1146542>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1126/science.1146542" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "1918" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "1916" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "317" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/j-huber-1v506dgz1m509> , <http://id.crossref.org/contributor/j-a-jehle-1v506dgz1m509> , <http://id.crossref.org/contributor/a-reineke-1v506dgz1m509> , <http://id.crossref.org/contributor/s-asser-kaiser-1v506dgz1m509> , <http://id.crossref.org/contributor/d-g-heckel-1v506dgz1m509> , <http://id.crossref.org/contributor/e-fritsch-1v506dgz1m509> , <http://id.crossref.org/contributor/c-p-w-zebitz-1v506dgz1m509> , <http://id.crossref.org/contributor/k-undorf-spahn-1v506dgz1m509> , <http://id.crossref.org/contributor/k-e-eberle-1v506dgz1m509> , <http://id.crossref.org/contributor/n-a-gund-1v506dgz1m509> , <http://id.crossref.org/contributor/j-kienzle-1v506dgz1m509> ;
+      <http://purl.org/dc/terms/date>
+              "2007-09-28"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1126/science.1146542" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0036-8075> ;
+      <http://purl.org/dc/terms/publisher>
+              "American Association for the Advancement of Science (AAAS)" ;
+      <http://purl.org/dc/terms/title>
+              "Rapid Emergence of Baculovirus Resistance in Codling Moth Due to Dominant, Sex-Linked Inheritance" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1126/science.1146542" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "1918" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "1916" ;
+      <http://purl.org/ontology/bibo/volume>
+              "317" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1126/science.1146542> , <doi:10.1126/science.1146542> .
+
+<http://id.crossref.org/contributor/n-a-gund-1v506dgz1m509>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Gund" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "N. A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "N. A. Gund" .
+
+<http://id.crossref.org/contributor/j-kienzle-1v506dgz1m509>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kienzle" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "J." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "J. Kienzle" .

@@ -1,0 +1,51 @@
+<http://id.crossref.org/issn/0019-7858>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0019-7858" ;
+      <http://purl.org/dc/terms/title>
+              "Industrial and Commercial Training" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0019-7858" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0019-7858" .
+
+<http://id.crossref.org/contributor/ted-bottomley-l3saophm2dhb>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "BOTTOMLEY" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "TED" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "TED BOTTOMLEY" .
+
+<http://dx.doi.org/10.1108/eb003276>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1108/eb003276" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "606" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "605" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "4" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/ted-bottomley-l3saophm2dhb> ;
+      <http://purl.org/dc/terms/date>
+              "1972-12"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1108/eb003276" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0019-7858> ;
+      <http://purl.org/dc/terms/publisher>
+              "Emerald" ;
+      <http://purl.org/dc/terms/title>
+              "Effective communication" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1108/eb003276" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "606" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "605" ;
+      <http://purl.org/ontology/bibo/volume>
+              "4" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1108/eb003276> , <doi:10.1108/eb003276> .

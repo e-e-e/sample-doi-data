@@ -1,0 +1,53 @@
+<http://dx.doi.org/10.4271/1999-01-1064>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.4271/1999-01-1064" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/lawrence-w-schneider-2edzukufndtjd> , <http://id.crossref.org/contributor/warren-n-hardy-2edzukufndtjd> , <http://id.crossref.org/contributor/matthew-p-reed-2edzukufndtjd> , <http://id.crossref.org/contributor/jonathan-d-rupp-2edzukufndtjd> ;
+      <http://purl.org/dc/terms/date>
+              "1999-03-01"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.4271/1999-01-1064" ;
+      <http://purl.org/dc/terms/publisher>
+              "SAE International" ;
+      <http://purl.org/dc/terms/title>
+              "Methods for Laboratory Investigation of Airbag-Induced Thermal Skin Burns" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.4271/1999-01-1064" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.4271/1999-01-1064> , <info:doi/10.4271/1999-01-1064> .
+
+<http://id.crossref.org/contributor/lawrence-w-schneider-2edzukufndtjd>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Schneider" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Lawrence W." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Lawrence W. Schneider" .
+
+<http://id.crossref.org/contributor/warren-n-hardy-2edzukufndtjd>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Hardy" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Warren N." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Warren N. Hardy" .
+
+<http://id.crossref.org/contributor/matthew-p-reed-2edzukufndtjd>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Reed" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Matthew P." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Matthew P. Reed" .
+
+<http://id.crossref.org/contributor/jonathan-d-rupp-2edzukufndtjd>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Rupp" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Jonathan D." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Jonathan D. Rupp" .

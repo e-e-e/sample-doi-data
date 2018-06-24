@@ -1,0 +1,51 @@
+<http://id.crossref.org/issn/0013-8266>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0013-8266" , "1477-4534" ;
+      <http://purl.org/dc/terms/title>
+              "The English Historical Review" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0013-8266" , "1477-4534" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1477-4534" , "urn:issn:0013-8266" .
+
+<http://dx.doi.org/10.1093/ehr/cx.438.1028>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1093/ehr/cx.438.1028" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "1029" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "1028" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "CX" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/michael-bentley-34t4u161d6hpo> ;
+      <http://purl.org/dc/terms/date>
+              "1995"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1093/ehr/cx.438.1028" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0013-8266> ;
+      <http://purl.org/dc/terms/publisher>
+              "Oxford University Press (OUP)" ;
+      <http://purl.org/dc/terms/title>
+              "SHORTER NOTICES" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1093/ehr/cx.438.1028" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "1029" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "1028" ;
+      <http://purl.org/ontology/bibo/volume>
+              "CX" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1093/ehr/cx.438.1028> , <info:doi/10.1093/ehr/cx.438.1028> .
+
+<http://id.crossref.org/contributor/michael-bentley-34t4u161d6hpo>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "BENTLEY" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "MICHAEL" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "MICHAEL BENTLEY" .

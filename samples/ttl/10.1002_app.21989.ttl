@@ -1,0 +1,51 @@
+<http://id.crossref.org/issn/0021-8995>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1097-4628" , "0021-8995" ;
+      <http://purl.org/dc/terms/title>
+              "Journal of Applied Polymer Science" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1097-4628" , "0021-8995" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0021-8995" , "urn:issn:1097-4628" .
+
+<http://dx.doi.org/10.1002/app.21989>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1002/app.21989" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "2510" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "2499" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "97" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/r-kotsilkova-12b2fn7z9045y> ;
+      <http://purl.org/dc/terms/date>
+              "2005"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1002/app.21989" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0021-8995> ;
+      <http://purl.org/dc/terms/publisher>
+              "Wiley" ;
+      <http://purl.org/dc/terms/title>
+              "Processing-structure-properties relationships of mechanically and thermally enhanced smectite/epoxy nanocomposites" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1002/app.21989" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "2510" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "2499" ;
+      <http://purl.org/ontology/bibo/volume>
+              "97" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1002/app.21989> , <doi:10.1002/app.21989> .
+
+<http://id.crossref.org/contributor/r-kotsilkova-12b2fn7z9045y>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kotsilkova" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "R." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "R. Kotsilkova" .

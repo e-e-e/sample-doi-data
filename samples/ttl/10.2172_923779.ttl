@@ -1,0 +1,22 @@
+<http://dx.doi.org/10.2172/923779>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.2172/923779" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/-3vq1n90o9l6lt> ;
+      <http://purl.org/dc/terms/date>
+              "2005-08-03"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.2172/923779" ;
+      <http://purl.org/dc/terms/publisher>
+              "Office of Scientific and Technical Information  (OSTI)" ;
+      <http://purl.org/dc/terms/title>
+              "Performance Demonstration Program Plan for Nondestructive Assay of Drummed Wastes for the TRU Waste Characterization Program" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.2172/923779" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.2172/923779> , <doi:10.2172/923779> .
+
+<http://id.crossref.org/contributor/-3vq1n90o9l6lt>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/name>
+              " " .

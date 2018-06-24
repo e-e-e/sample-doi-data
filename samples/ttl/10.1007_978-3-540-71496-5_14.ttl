@@ -1,0 +1,68 @@
+<http://id.crossref.org/contributor/victor-carneiro-ut1zd1hz480i>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Carneiro" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Victor" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Victor Carneiro" .
+
+<http://dx.doi.org/10.1007/978-3-540-71496-5_14>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1007/978-3-540-71496-5_14" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "135" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "124" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/victor-carneiro-ut1zd1hz480i> , <http://id.crossref.org/contributor/fidel-cacheda-ut1zd1hz480i> , <http://id.crossref.org/contributor/iadh-ounis-ut1zd1hz480i> , <http://id.crossref.org/contributor/vassilis-plachouras-ut1zd1hz480i> ;
+      <http://purl.org/dc/terms/date>
+              ""^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1007/978-3-540-71496-5_14" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9783540714941> ;
+      <http://purl.org/dc/terms/publisher>
+              "Springer Berlin Heidelberg" ;
+      <http://purl.org/dc/terms/title>
+              "Performance Comparison of Clustered and Replicated Information Retrieval Systems" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1007/978-3-540-71496-5_14" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "135" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "124" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1007/978-3-540-71496-5_14> , <info:doi/10.1007/978-3-540-71496-5_14> .
+
+<http://id.crossref.org/contributor/fidel-cacheda-ut1zd1hz480i>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Cacheda" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Fidel" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Fidel Cacheda" .
+
+<http://id.crossref.org/contributor/iadh-ounis-ut1zd1hz480i>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Ounis" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Iadh" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Iadh Ounis" .
+
+<http://id.crossref.org/isbn/9783540714941>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Lecture Notes in Computer Science" .
+
+<http://id.crossref.org/contributor/vassilis-plachouras-ut1zd1hz480i>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Plachouras" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Vassilis" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Vassilis Plachouras" .

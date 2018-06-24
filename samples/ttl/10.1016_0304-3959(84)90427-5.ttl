@@ -1,0 +1,47 @@
+<http://id.crossref.org/contributor/patrick-d-wall-2cs8qflfk7om9>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Wall" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Patrick D." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Patrick D. Wall" .
+
+<http://id.crossref.org/issn/0304-3959>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0304-3959" ;
+      <http://purl.org/dc/terms/title>
+              "Pain" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0304-3959" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0304-3959" .
+
+<http://dx.doi.org/10.1016/0304-3959(84)90427-5>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/0304-3959(84)90427-5" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "S197" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "18" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/patrick-d-wall-2cs8qflfk7om9> ;
+      <http://purl.org/dc/terms/date>
+              "1984"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/0304-3959(84)90427-5" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0304-3959> ;
+      <http://purl.org/dc/terms/publisher>
+              "Ovid Technologies (Wolters Kluwer Health)" ;
+      <http://purl.org/dc/terms/title>
+              "Cancer pain — neurogenic mechanisms" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/0304-3959(84)90427-5" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "S197" ;
+      <http://purl.org/ontology/bibo/volume>
+              "18" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1016/0304-3959(84)90427-5> , <doi:10.1016/0304-3959(84)90427-5> .

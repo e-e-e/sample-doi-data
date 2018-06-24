@@ -1,0 +1,40 @@
+<http://id.crossref.org/issn/0021-1265>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0021-1265" , "1863-4362" ;
+      <http://purl.org/dc/terms/title>
+              "Irish Journal of Medical Science" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0021-1265" , "1863-4362" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0021-1265" , "urn:issn:1863-4362" .
+
+<http://dx.doi.org/10.1007/bf03169769>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1007/bf03169769" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "33" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "32" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "170" ;
+      <http://purl.org/dc/terms/date>
+              "2001-01"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1007/bf03169769" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0021-1265> ;
+      <http://purl.org/dc/terms/publisher>
+              "Springer Nature" ;
+      <http://purl.org/dc/terms/title>
+              "First indigenous case report of cutaneous larva migrons occurring in Ireland" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1007/bf03169769" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "33" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "32" ;
+      <http://purl.org/ontology/bibo/volume>
+              "170" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1007/bf03169769> , <info:doi/10.1007/bf03169769> .

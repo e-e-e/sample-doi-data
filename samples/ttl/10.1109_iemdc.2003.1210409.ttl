@@ -1,0 +1,60 @@
+<http://id.crossref.org/contributor/p-e-kascak-1da7qkhtlpxax>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kascak" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "P.E." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "P.E. Kascak" .
+
+<http://id.crossref.org/contributor/b-h-kenny-1da7qkhtlpxax>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kenny" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "B.H." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "B.H. Kenny" .
+
+<http://id.crossref.org/contributor/r-jansen-1da7qkhtlpxax>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Jansen" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "R." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "R. Jansen" .
+
+<http://id.crossref.org/isbn/0780378172>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "IEEE International Electric Machines and Drives Conference, 2003. IEMDC'03." .
+
+<http://id.crossref.org/contributor/t-dever-1da7qkhtlpxax>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Dever" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "T." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "T. Dever" .
+
+<http://dx.doi.org/10.1109/iemdc.2003.1210409>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1109/iemdc.2003.1210409" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/p-e-kascak-1da7qkhtlpxax> , <http://id.crossref.org/contributor/b-h-kenny-1da7qkhtlpxax> , <http://id.crossref.org/contributor/r-jansen-1da7qkhtlpxax> , <http://id.crossref.org/contributor/t-dever-1da7qkhtlpxax> ;
+      <http://purl.org/dc/terms/date>
+              ""^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1109/iemdc.2003.1210409" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/0780378172> ;
+      <http://purl.org/dc/terms/publisher>
+              "IEEE" ;
+      <http://purl.org/dc/terms/title>
+              "A flywheel energy storage system demonstration for space applications" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1109/iemdc.2003.1210409" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1109/iemdc.2003.1210409> , <doi:10.1109/iemdc.2003.1210409> .

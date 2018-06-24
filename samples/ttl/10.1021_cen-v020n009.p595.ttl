@@ -1,0 +1,40 @@
+<http://id.crossref.org/issn/0009-2347>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0009-2347" , "2157-4936" ;
+      <http://purl.org/dc/terms/title>
+              "Chemical & Engineering News" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0009-2347" , "2157-4936" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:2157-4936" , "urn:issn:0009-2347" .
+
+<http://dx.doi.org/10.1021/cen-v020n009.p595>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1021/cen-v020n009.p595" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "601" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "595" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "20" ;
+      <http://purl.org/dc/terms/date>
+              "1942-05-10"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1021/cen-v020n009.p595" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0009-2347> ;
+      <http://purl.org/dc/terms/publisher>
+              "American Chemical Society (ACS)" ;
+      <http://purl.org/dc/terms/title>
+              "A. C. S. Committee Reports" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1021/cen-v020n009.p595" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "601" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "595" ;
+      <http://purl.org/ontology/bibo/volume>
+              "20" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1021/cen-v020n009.p595> , <info:doi/10.1021/cen-v020n009.p595> .

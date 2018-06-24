@@ -1,0 +1,40 @@
+<http://id.crossref.org/issn/0036-8075>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1095-9203" , "0036-8075" ;
+      <http://purl.org/dc/terms/title>
+              "Science" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1095-9203" , "0036-8075" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0036-8075" , "urn:issn:1095-9203" .
+
+<http://dx.doi.org/10.1126/science.323.5919.1281>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1126/science.323.5919.1281" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "1281" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "1281" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "323" ;
+      <http://purl.org/dc/terms/date>
+              "2009-03-06"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1126/science.323.5919.1281" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0036-8075> ;
+      <http://purl.org/dc/terms/publisher>
+              "American Association for the Advancement of Science (AAAS)" ;
+      <http://purl.org/dc/terms/title>
+              "ScienceInsider: From the Science Policy Blog" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1126/science.323.5919.1281" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "1281" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "1281" ;
+      <http://purl.org/ontology/bibo/volume>
+              "323" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1126/science.323.5919.1281> , <info:doi/10.1126/science.323.5919.1281> .

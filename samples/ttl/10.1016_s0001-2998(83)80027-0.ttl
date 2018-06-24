@@ -1,0 +1,51 @@
+<http://dx.doi.org/10.1016/s0001-2998(83)80027-0>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/s0001-2998(83)80027-0" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "304" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "303" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "13" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/dorothy-s-lin-2yn19boyl8yvm> ;
+      <http://purl.org/dc/terms/date>
+              "1983-07"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/s0001-2998(83)80027-0" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0001-2998> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Neck imaging—Hypovascularity in the neck on radionuclide angiography" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/s0001-2998(83)80027-0" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "304" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "303" ;
+      <http://purl.org/ontology/bibo/volume>
+              "13" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1016/s0001-2998(83)80027-0> , <info:doi/10.1016/s0001-2998(83)80027-0> .
+
+<http://id.crossref.org/issn/0001-2998>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0001-2998" ;
+      <http://purl.org/dc/terms/title>
+              "Seminars in Nuclear Medicine" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0001-2998" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0001-2998" .
+
+<http://id.crossref.org/contributor/dorothy-s-lin-2yn19boyl8yvm>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Lin" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Dorothy S." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Dorothy S. Lin" .

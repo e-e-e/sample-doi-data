@@ -1,0 +1,53 @@
+<http://id.crossref.org/contributor/achim-wixforth-ogifclcexq8r>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Wixforth" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Achim" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Achim Wixforth" .
+
+<http://dx.doi.org/10.1117/12.821457>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1117/12.821457" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/achim-wixforth-ogifclcexq8r> , <http://id.crossref.org/contributor/harald-graaf-ogifclcexq8r> , <http://id.crossref.org/contributor/christian-von-borczyskowski-ogifclcexq8r> , <http://id.crossref.org/contributor/carsten-maedler-ogifclcexq8r> ;
+      <http://purl.org/dc/terms/date>
+              "2009-05-20"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1117/12.821457" ;
+      <http://purl.org/dc/terms/publisher>
+              "SPIE" ;
+      <http://purl.org/dc/terms/title>
+              "Local charge storage and decay mechanism in silica" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1117/12.821457" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1117/12.821457> , <doi:10.1117/12.821457> .
+
+<http://id.crossref.org/contributor/harald-graaf-ogifclcexq8r>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Graaf" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Harald" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Harald Graaf" .
+
+<http://id.crossref.org/contributor/christian-von-borczyskowski-ogifclcexq8r>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "von Borczyskowski" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Christian" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Christian von Borczyskowski" .
+
+<http://id.crossref.org/contributor/carsten-maedler-ogifclcexq8r>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Maedler" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Carsten" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Carsten Maedler" .

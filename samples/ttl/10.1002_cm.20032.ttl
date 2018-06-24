@@ -1,0 +1,105 @@
+<http://id.crossref.org/contributor/zheng-fu-23mk3qqie8juf>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Fu" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Zheng" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Zheng Fu" .
+
+<http://id.crossref.org/contributor/haiyan-wu-23mk3qqie8juf>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Wu" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Haiyan" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Haiyan Wu" .
+
+<http://id.crossref.org/contributor/jonathan-m-backer-23mk3qqie8juf>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Backer" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Jonathan M." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Jonathan M. Backer" .
+
+<http://id.crossref.org/contributor/shu-chin-yip-23mk3qqie8juf>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Yip" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Shu-Chin" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Shu-Chin Yip" .
+
+<http://dx.doi.org/10.1002/cm.20032>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1002/cm.20032" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "188" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "180" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "59" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/zheng-fu-23mk3qqie8juf> , <http://id.crossref.org/contributor/jonathan-m-backer-23mk3qqie8juf> , <http://id.crossref.org/contributor/haiyan-wu-23mk3qqie8juf> , <http://id.crossref.org/contributor/shu-chin-yip-23mk3qqie8juf> , <http://id.crossref.org/contributor/mirvat-el-sibai-23mk3qqie8juf> , <http://id.crossref.org/contributor/john-s-condeelis-23mk3qqie8juf> , <http://id.crossref.org/contributor/karen-m-hill-23mk3qqie8juf> ;
+      <http://purl.org/dc/terms/date>
+              "2004"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1002/cm.20032" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0886-1544> ;
+      <http://purl.org/dc/terms/publisher>
+              "Wiley" ;
+      <http://purl.org/dc/terms/title>
+              "Over-expression of the p110? but not p110? isoform of PI 3-kinase inhibits motility in breast cancer cells" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1002/cm.20032" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "188" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "180" ;
+      <http://purl.org/ontology/bibo/volume>
+              "59" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1002/cm.20032> , <doi:10.1002/cm.20032> .
+
+<http://id.crossref.org/issn/0886-1544>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0886-1544" , "1097-0169" ;
+      <http://purl.org/dc/terms/title>
+              "Cell Motility and the Cytoskeleton" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0886-1544" , "1097-0169" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0886-1544" , "urn:issn:1097-0169" .
+
+<http://id.crossref.org/contributor/john-s-condeelis-23mk3qqie8juf>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Condeelis" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "John S." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "John S. Condeelis" .
+
+<http://id.crossref.org/contributor/mirvat-el-sibai-23mk3qqie8juf>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "El-Sibai" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Mirvat" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Mirvat El-Sibai" .
+
+<http://id.crossref.org/contributor/karen-m-hill-23mk3qqie8juf>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Hill" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Karen M." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Karen M. Hill" .

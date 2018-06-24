@@ -1,0 +1,56 @@
+<http://dx.doi.org/10.2307/3662909>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.2307/3662909" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "1017" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "91" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/nathan-stormer-2ak42jrb4vu> , <http://id.crossref.org/contributor/keith-cassidy-2ak42jrb4vu> ;
+      <http://purl.org/dc/terms/date>
+              "2004-12-01"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.2307/3662909" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0021-8723> ;
+      <http://purl.org/dc/terms/publisher>
+              "Oxford University Press (OUP)" ;
+      <http://purl.org/dc/terms/title>
+              "" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.2307/3662909" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "1017" ;
+      <http://purl.org/ontology/bibo/volume>
+              "91" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.2307/3662909> , <info:doi/10.2307/3662909> .
+
+<http://id.crossref.org/contributor/nathan-stormer-2ak42jrb4vu>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Stormer" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Nathan" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Nathan Stormer" .
+
+<http://id.crossref.org/contributor/keith-cassidy-2ak42jrb4vu>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Cassidy" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Keith" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Keith Cassidy" .
+
+<http://id.crossref.org/issn/0021-8723>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0021-8723" ;
+      <http://purl.org/dc/terms/title>
+              "Journal of American History" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0021-8723" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0021-8723" .

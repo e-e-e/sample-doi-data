@@ -1,0 +1,42 @@
+<http://id.crossref.org/contributor/a-valdes-36e0okfcp4r5d>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Valdes" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "A. Valdes" .
+
+<http://id.crossref.org/contributor/h-s-javitz-36e0okfcp4r5d>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Javitz" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "H.S." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "H.S. Javitz" .
+
+<http://dx.doi.org/10.1109/risp.1991.130799>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1109/risp.1991.130799" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/h-s-javitz-36e0okfcp4r5d> , <http://id.crossref.org/contributor/a-valdes-36e0okfcp4r5d> ;
+      <http://purl.org/dc/terms/date>
+              ""^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1109/risp.1991.130799" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/0818621680> ;
+      <http://purl.org/dc/terms/publisher>
+              "IEEE Comput. Soc. Press" ;
+      <http://purl.org/dc/terms/title>
+              "The SRI IDES statistical anomaly detector" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1109/risp.1991.130799" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1109/risp.1991.130799> , <info:doi/10.1109/risp.1991.130799> .
+
+<http://id.crossref.org/isbn/0818621680>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Proceedings. 1991 IEEE Computer Society Symposium on Research in Security and Privacy" .

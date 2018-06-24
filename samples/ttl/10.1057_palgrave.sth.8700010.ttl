@@ -1,0 +1,40 @@
+<http://dx.doi.org/10.1057/palgrave.sth.8700010>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1057/palgrave.sth.8700010" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "169" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "169" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "1" ;
+      <http://purl.org/dc/terms/date>
+              "2003-09"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1057/palgrave.sth.8700010" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1477-8211> ;
+      <http://purl.org/dc/terms/publisher>
+              "Springer Nature" ;
+      <http://purl.org/dc/terms/title>
+              "Author Index to volume 1" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1057/palgrave.sth.8700010" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "169" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "169" ;
+      <http://purl.org/ontology/bibo/volume>
+              "1" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1057/palgrave.sth.8700010> , <doi:10.1057/palgrave.sth.8700010> .
+
+<http://id.crossref.org/issn/1477-8211>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1477-822X" , "1477-8211" ;
+      <http://purl.org/dc/terms/title>
+              "Social Theory & Health" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1477-822X" , "1477-8211" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1477-822X" , "urn:issn:1477-8211" .

@@ -1,0 +1,119 @@
+<http://id.crossref.org/contributor/o-hino-3h8hdd0o7wq8d>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Hino" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "O." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "O. Hino" .
+
+<http://id.crossref.org/contributor/m-maeda-3h8hdd0o7wq8d>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Maeda" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "M." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "M. Maeda" .
+
+<http://id.crossref.org/contributor/y-sakao-3h8hdd0o7wq8d>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Sakao" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Y." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Y. Sakao" .
+
+<http://dx.doi.org/10.1016/s0169-5002(07)70235-0>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/s0169-5002(07)70235-0" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "S39" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "54" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/o-hino-3h8hdd0o7wq8d> , <http://id.crossref.org/contributor/m-maeda-3h8hdd0o7wq8d> , <http://id.crossref.org/contributor/y-sakao-3h8hdd0o7wq8d> , <http://id.crossref.org/contributor/t-segawa-3h8hdd0o7wq8d> , <http://id.crossref.org/contributor/h-miyamoto-3h8hdd0o7wq8d> , <http://id.crossref.org/contributor/m-sakuraba-3h8hdd0o7wq8d> , <http://id.crossref.org/contributor/y-hagiwara-3h8hdd0o7wq8d> , <http://id.crossref.org/contributor/k-shiomi-3h8hdd0o7wq8d> , <http://id.crossref.org/contributor/k-takahasi-3h8hdd0o7wq8d> ;
+      <http://purl.org/dc/terms/date>
+              "2006-10"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/s0169-5002(07)70235-0" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0169-5002> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "159 Re-evaluation of plasma osteopontin as a tumor marker for mesothelioma" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/s0169-5002(07)70235-0" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "S39" ;
+      <http://purl.org/ontology/bibo/volume>
+              "54" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1016/s0169-5002(07)70235-0> , <info:doi/10.1016/s0169-5002(07)70235-0> .
+
+<http://id.crossref.org/contributor/t-segawa-3h8hdd0o7wq8d>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Segawa" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "T." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "T. Segawa" .
+
+<http://id.crossref.org/issn/0169-5002>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0169-5002" ;
+      <http://purl.org/dc/terms/title>
+              "Lung Cancer" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0169-5002" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0169-5002" .
+
+<http://id.crossref.org/contributor/h-miyamoto-3h8hdd0o7wq8d>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Miyamoto" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "H." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "H. Miyamoto" .
+
+<http://id.crossref.org/contributor/y-hagiwara-3h8hdd0o7wq8d>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Hagiwara" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Y." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Y. Hagiwara" .
+
+<http://id.crossref.org/contributor/m-sakuraba-3h8hdd0o7wq8d>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Sakuraba" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "M." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "M. Sakuraba" .
+
+<http://id.crossref.org/contributor/k-takahasi-3h8hdd0o7wq8d>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Takahasi" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "K." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "K. Takahasi" .
+
+<http://id.crossref.org/contributor/k-shiomi-3h8hdd0o7wq8d>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Shiomi" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "K." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "K. Shiomi" .

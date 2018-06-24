@@ -1,0 +1,97 @@
+<http://dx.doi.org/10.1039/b908207g>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1039/b908207g" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "5091" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/barbora-malkova-2c282h7cgwbdd> , <http://id.crossref.org/contributor/thomas-a-edwards-2c282h7cgwbdd> , <http://id.crossref.org/contributor/andrew-j-wilson-2c282h7cgwbdd> , <http://id.crossref.org/contributor/jeffrey-p-plante-2c282h7cgwbdd> , <http://id.crossref.org/contributor/michael-e-webb-2c282h7cgwbdd> , <http://id.crossref.org/contributor/thomas-burnley-2c282h7cgwbdd> , <http://id.crossref.org/contributor/stuart-l-warriner-2c282h7cgwbdd> ;
+      <http://purl.org/dc/terms/date>
+              "2009"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1039/b908207g" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1359-7345> ;
+      <http://purl.org/dc/terms/publisher>
+              "Royal Society of Chemistry (RSC)" ;
+      <http://purl.org/dc/terms/title>
+              "Oligobenzamide proteomimetic inhibitors of the p53–hDM2 protein–protein interaction" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1039/b908207g" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "5091" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1039/b908207g> , <info:doi/10.1039/b908207g> .
+
+<http://id.crossref.org/contributor/barbora-malkova-2c282h7cgwbdd>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Malkova" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Barbora" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Barbora Malkova" .
+
+<http://id.crossref.org/contributor/thomas-a-edwards-2c282h7cgwbdd>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Edwards" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Thomas A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Thomas A. Edwards" .
+
+<http://id.crossref.org/issn/1359-7345>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1364-548X" , "1359-7345" ;
+      <http://purl.org/dc/terms/title>
+              "Chemical Communications" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1364-548X" , "1359-7345" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1364-548X" , "urn:issn:1359-7345" .
+
+<http://id.crossref.org/contributor/andrew-j-wilson-2c282h7cgwbdd>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Wilson" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Andrew J." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Andrew J. Wilson" .
+
+<http://id.crossref.org/contributor/michael-e-webb-2c282h7cgwbdd>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Webb" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Michael E." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Michael E. Webb" .
+
+<http://id.crossref.org/contributor/jeffrey-p-plante-2c282h7cgwbdd>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Plante" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Jeffrey P." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Jeffrey P. Plante" .
+
+<http://id.crossref.org/contributor/thomas-burnley-2c282h7cgwbdd>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Burnley" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Thomas" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Thomas Burnley" .
+
+<http://id.crossref.org/contributor/stuart-l-warriner-2c282h7cgwbdd>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Warriner" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Stuart L." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Stuart L. Warriner" .

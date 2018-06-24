@@ -1,0 +1,36 @@
+<http://dx.doi.org/10.1097/00002820-200405000-00008>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1097/00002820-200405000-00008" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "229" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "27" ;
+      <http://purl.org/dc/terms/date>
+              "2004"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1097/00002820-200405000-00008" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0162-220X> ;
+      <http://purl.org/dc/terms/publisher>
+              "Ovid Technologies (Wolters Kluwer Health)" ;
+      <http://purl.org/dc/terms/title>
+              "Editorial Board in the News" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1097/00002820-200405000-00008" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "229" ;
+      <http://purl.org/ontology/bibo/volume>
+              "27" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1097/00002820-200405000-00008> , <info:doi/10.1097/00002820-200405000-00008> .
+
+<http://id.crossref.org/issn/0162-220X>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0162-220X" ;
+      <http://purl.org/dc/terms/title>
+              "Cancer Nursing" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0162-220X" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0162-220X" .

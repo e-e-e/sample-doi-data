@@ -1,0 +1,69 @@
+<http://id.crossref.org/contributor/george-p-h-styan-2uc201z2jyz4p>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Styan" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "George P. H." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "George P. H. Styan" .
+
+<http://dx.doi.org/10.1007/s00362-009-0261-5>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1007/s00362-009-0261-5" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "941" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "917" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "50" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/george-p-h-styan-2uc201z2jyz4p> , <http://id.crossref.org/contributor/ka-lok-chu-2uc201z2jyz4p> , <http://id.crossref.org/contributor/christian-boyer-2uc201z2jyz4p> ;
+      <http://purl.org/dc/terms/date>
+              "2009-08"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1007/s00362-009-0261-5" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0932-5026> ;
+      <http://purl.org/dc/terms/publisher>
+              "Springer Nature" ;
+      <http://purl.org/dc/terms/title>
+              "Some comments on Latin squares and on Graeco-Latin squares, illustrated with postage stamps and old playing cards" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1007/s00362-009-0261-5" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "941" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "917" ;
+      <http://purl.org/ontology/bibo/volume>
+              "50" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1007/s00362-009-0261-5> , <doi:10.1007/s00362-009-0261-5> .
+
+<http://id.crossref.org/contributor/ka-lok-chu-2uc201z2jyz4p>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Chu" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Ka Lok" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Ka Lok Chu" .
+
+<http://id.crossref.org/issn/0932-5026>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1613-9798" , "0932-5026" ;
+      <http://purl.org/dc/terms/title>
+              "Statistical Papers" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1613-9798" , "0932-5026" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1613-9798" , "urn:issn:0932-5026" .
+
+<http://id.crossref.org/contributor/christian-boyer-2uc201z2jyz4p>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Boyer" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Christian" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Christian Boyer" .

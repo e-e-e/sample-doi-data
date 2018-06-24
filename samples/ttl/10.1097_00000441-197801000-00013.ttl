@@ -1,0 +1,69 @@
+<http://id.crossref.org/contributor/sheldon-adler-6b9raktbu81g>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "ADLER" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "SHELDON" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "SHELDON ADLER" .
+
+<http://dx.doi.org/10.1097/00000441-197801000-00013>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1097/00000441-197801000-00013" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "108" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "105" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "275" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/sheldon-adler-6b9raktbu81g> , <http://id.crossref.org/contributor/david-p-segel-6b9raktbu81g> , <http://id.crossref.org/contributor/frank-j-bruns-6b9raktbu81g> ;
+      <http://purl.org/dc/terms/date>
+              "1978-01"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1097/00000441-197801000-00013" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0002-9629> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Control of cholesterol embolization by discontinuation of anticoagulant therapy" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1097/00000441-197801000-00013" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "108" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "105" ;
+      <http://purl.org/ontology/bibo/volume>
+              "275" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1097/00000441-197801000-00013> , <info:doi/10.1097/00000441-197801000-00013> .
+
+<http://id.crossref.org/contributor/david-p-segel-6b9raktbu81g>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "SEGEL" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "DAVID P." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "DAVID P. SEGEL" .
+
+<http://id.crossref.org/contributor/frank-j-bruns-6b9raktbu81g>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "BRUNS" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "FRANK J." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "FRANK J. BRUNS" .
+
+<http://id.crossref.org/issn/0002-9629>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0002-9629" ;
+      <http://purl.org/dc/terms/title>
+              "The American Journal Of The Medical Sciences" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0002-9629" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0002-9629" .

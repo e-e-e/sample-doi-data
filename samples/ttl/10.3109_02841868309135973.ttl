@@ -1,0 +1,69 @@
+<http://dx.doi.org/10.3109/02841868309135973>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.3109/02841868309135973" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "475" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "473" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "22" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/b-eriksson-522m93pyh2xg> , <http://id.crossref.org/contributor/l-johnsson-522m93pyh2xg> , <http://id.crossref.org/contributor/c-a-rubio-522m93pyh2xg> ;
+      <http://purl.org/dc/terms/date>
+              "1983-01"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.3109/02841868309135973" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0349-652X> ;
+      <http://purl.org/dc/terms/publisher>
+              "Informa UK Limited" ;
+      <http://purl.org/dc/terms/title>
+              "Ectopic Intestinal Glands after Segmental Small Bowel Irradiation in the Cat" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.3109/02841868309135973" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "475" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "473" ;
+      <http://purl.org/ontology/bibo/volume>
+              "22" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.3109/02841868309135973> , <info:doi/10.3109/02841868309135973> .
+
+<http://id.crossref.org/issn/0349-652X>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0349-652X" ;
+      <http://purl.org/dc/terms/title>
+              "Acta Radiologica: Oncology" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0349-652X" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0349-652X" .
+
+<http://id.crossref.org/contributor/b-eriksson-522m93pyh2xg>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Eriksson" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "B." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "B. Eriksson" .
+
+<http://id.crossref.org/contributor/l-johnsson-522m93pyh2xg>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Johnsson" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "L." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "L. Johnsson" .
+
+<http://id.crossref.org/contributor/c-a-rubio-522m93pyh2xg>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Rubio" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "C. A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "C. A. Rubio" .

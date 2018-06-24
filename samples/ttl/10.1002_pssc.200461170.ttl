@@ -1,0 +1,96 @@
+<http://id.crossref.org/contributor/r-corpino-3g7ds2mvrdaz5>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Corpino" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "R." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "R. Corpino" .
+
+<http://id.crossref.org/contributor/c-m-carbonaro-3g7ds2mvrdaz5>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Carbonaro" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "C. M." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "C. M. Carbonaro" .
+
+<http://id.crossref.org/issn/1610-1634>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1610-1634" , "1610-1642" ;
+      <http://purl.org/dc/terms/title>
+              "physica status solidi (c)" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1610-1634" , "1610-1642" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1610-1634" , "urn:issn:1610-1642" .
+
+<http://id.crossref.org/contributor/a-anedda-3g7ds2mvrdaz5>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Anedda" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "A. Anedda" .
+
+<http://id.crossref.org/contributor/p-c-ricci-3g7ds2mvrdaz5>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Ricci" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "P. C." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "P. C. Ricci" .
+
+<http://dx.doi.org/10.1002/pssc.200461170>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1002/pssc.200461170" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "3369" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "3365" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "2" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/r-corpino-3g7ds2mvrdaz5> , <http://id.crossref.org/contributor/c-m-carbonaro-3g7ds2mvrdaz5> , <http://id.crossref.org/contributor/a-anedda-3g7ds2mvrdaz5> , <http://id.crossref.org/contributor/p-c-ricci-3g7ds2mvrdaz5> , <http://id.crossref.org/contributor/f-clemente-3g7ds2mvrdaz5> , <http://id.crossref.org/contributor/d-chiriu-3g7ds2mvrdaz5> ;
+      <http://purl.org/dc/terms/date>
+              "2005-06"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1002/pssc.200461170" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1610-1634> ;
+      <http://purl.org/dc/terms/publisher>
+              "Wiley" ;
+      <http://purl.org/dc/terms/title>
+              "Photo-electrochemical formation of porous GaP" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1002/pssc.200461170" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "3369" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "3365" ;
+      <http://purl.org/ontology/bibo/volume>
+              "2" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1002/pssc.200461170> , <doi:10.1002/pssc.200461170> .
+
+<http://id.crossref.org/contributor/d-chiriu-3g7ds2mvrdaz5>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Chiriu" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "D." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "D. Chiriu" .
+
+<http://id.crossref.org/contributor/f-clemente-3g7ds2mvrdaz5>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Clemente" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "F." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "F. Clemente" .

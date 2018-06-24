@@ -1,0 +1,105 @@
+<http://id.crossref.org/contributor/shin-ichi-sasaki-1x1drmp6tm92j>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Sasaki" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Shin-ichi" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Shin-ichi Sasaki" .
+
+<http://id.crossref.org/contributor/yoshikatsu-miyashita-1x1drmp6tm92j>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Miyashita" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Yoshikatsu" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Yoshikatsu Miyashita" .
+
+<http://id.crossref.org/contributor/mitsuteru-hirata-1x1drmp6tm92j>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Hirata" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Mitsuteru" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Mitsuteru Hirata" .
+
+<http://dx.doi.org/10.1016/s0960-894x(01)80247-x>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/s0960-894x(01)80247-x" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "1160" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "1157" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "4" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/shin-ichi-sasaki-1x1drmp6tm92j> , <http://id.crossref.org/contributor/yoshikatsu-miyashita-1x1drmp6tm92j> , <http://id.crossref.org/contributor/mitsuteru-hirata-1x1drmp6tm92j> , <http://id.crossref.org/contributor/takeshi-ohshima-1x1drmp6tm92j> , <http://id.crossref.org/contributor/tomoyuki-koshi-1x1drmp6tm92j> , <http://id.crossref.org/contributor/tetsuro-okabe-1x1drmp6tm92j> , <http://id.crossref.org/contributor/kiyoshi-hasegawa-1x1drmp6tm92j> ;
+      <http://purl.org/dc/terms/date>
+              "1994-05"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/s0960-894x(01)80247-x" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0960-894X> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Quantitative structure-activity relationships study of endothelin-1 analogs" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/s0960-894x(01)80247-x" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "1160" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "1157" ;
+      <http://purl.org/ontology/bibo/volume>
+              "4" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1016/s0960-894x(01)80247-x> , <info:doi/10.1016/s0960-894x(01)80247-x> .
+
+<http://id.crossref.org/issn/0960-894X>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0960-894X" ;
+      <http://purl.org/dc/terms/title>
+              "Bioorganic & Medicinal Chemistry Letters" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0960-894X" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0960-894X" .
+
+<http://id.crossref.org/contributor/takeshi-ohshima-1x1drmp6tm92j>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Ohshima" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Takeshi" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Takeshi Ohshima" .
+
+<http://id.crossref.org/contributor/tomoyuki-koshi-1x1drmp6tm92j>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Koshi" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Tomoyuki" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Tomoyuki Koshi" .
+
+<http://id.crossref.org/contributor/tetsuro-okabe-1x1drmp6tm92j>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Okabe" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Tetsuro" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Tetsuro Okabe" .
+
+<http://id.crossref.org/contributor/kiyoshi-hasegawa-1x1drmp6tm92j>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Hasegawa" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Kiyoshi" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Kiyoshi Hasegawa" .

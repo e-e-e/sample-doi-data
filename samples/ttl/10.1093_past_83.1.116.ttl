@@ -1,0 +1,51 @@
+<http://dx.doi.org/10.1093/past/83.1.116>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1093/past/83.1.116" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "140" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "116" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "83" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/fujiko-isono-n9vmdalkxbod> ;
+      <http://purl.org/dc/terms/date>
+              "1979"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1093/past/83.1.116" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0031-2746> ;
+      <http://purl.org/dc/terms/publisher>
+              "Oxford University Press (OUP)" ;
+      <http://purl.org/dc/terms/title>
+              "SOVIET RUSSIA AND THE MONGOLIAN REVOLUTION OF 1921" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1093/past/83.1.116" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "140" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "116" ;
+      <http://purl.org/ontology/bibo/volume>
+              "83" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1093/past/83.1.116> , <doi:10.1093/past/83.1.116> .
+
+<http://id.crossref.org/issn/0031-2746>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0031-2746" , "1477-464X" ;
+      <http://purl.org/dc/terms/title>
+              "Past and Present" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0031-2746" , "1477-464X" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1477-464X" , "urn:issn:0031-2746" .
+
+<http://id.crossref.org/contributor/fujiko-isono-n9vmdalkxbod>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Isono" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Fujiko" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Fujiko Isono" .

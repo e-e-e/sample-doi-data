@@ -1,0 +1,62 @@
+<http://dx.doi.org/10.1117/12.571324>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1117/12.571324" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/chi-chiu-chan-36dhfy3fq9ldv> , <http://id.crossref.org/contributor/chia-m-tay-36dhfy3fq9ldv> , <http://id.crossref.org/contributor/khay-m-tan-36dhfy3fq9ldv> , <http://id.crossref.org/contributor/anbo-wang-36dhfy3fq9ldv> , <http://id.crossref.org/contributor/swee-c-tjin-36dhfy3fq9ldv> ;
+      <http://purl.org/dc/terms/date>
+              "2004-12-08"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1117/12.571324" ;
+      <http://purl.org/dc/terms/publisher>
+              "SPIE" ;
+      <http://purl.org/dc/terms/title>
+              "Simultaneous measurement of curvature and temperature for LPG bending sensor" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1117/12.571324" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1117/12.571324> , <info:doi/10.1117/12.571324> .
+
+<http://id.crossref.org/contributor/chi-chiu-chan-36dhfy3fq9ldv>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Chan" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Chi Chiu" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Chi Chiu Chan" .
+
+<http://id.crossref.org/contributor/chia-m-tay-36dhfy3fq9ldv>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Tay" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Chia M." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Chia M. Tay" .
+
+<http://id.crossref.org/contributor/khay-m-tan-36dhfy3fq9ldv>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Tan" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Khay M." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Khay M. Tan" .
+
+<http://id.crossref.org/contributor/anbo-wang-36dhfy3fq9ldv>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Wang" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Anbo" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Anbo Wang" .
+
+<http://id.crossref.org/contributor/swee-c-tjin-36dhfy3fq9ldv>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Tjin" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Swee C." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Swee C. Tjin" .

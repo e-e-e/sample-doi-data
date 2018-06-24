@@ -1,0 +1,78 @@
+<http://id.crossref.org/contributor/t-kim-21bloj0td2qx6>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kim" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "T." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "T. Kim" .
+
+<http://id.crossref.org/issn/0018-9499>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0018-9499" ;
+      <http://purl.org/dc/terms/title>
+              "IEEE Transactions on Nuclear Science" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0018-9499" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0018-9499" .
+
+<http://id.crossref.org/contributor/j-j-l-al-dayeh-21bloj0td2qx6>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Al-Dayeh" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "J.J.L." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "J.J.L. Al-Dayeh" .
+
+<http://id.crossref.org/contributor/p-colletti-21bloj0td2qx6>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Colletti" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "P." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "P. Colletti" .
+
+<http://dx.doi.org/10.1109/23.775573>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1109/23.775573" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "526" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "520" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "46" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/t-kim-21bloj0td2qx6> , <http://id.crossref.org/contributor/j-j-l-al-dayeh-21bloj0td2qx6> , <http://id.crossref.org/contributor/p-colletti-21bloj0td2qx6> , <http://id.crossref.org/contributor/m-singh-21bloj0td2qx6> ;
+      <http://purl.org/dc/terms/date>
+              "1999-06"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1109/23.775573" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0018-9499> ;
+      <http://purl.org/dc/terms/publisher>
+              "Institute of Electrical and Electronics Engineers (IEEE)" ;
+      <http://purl.org/dc/terms/title>
+              "Cross-correlation technique to identify activated pixels in a three-condition fMRI task" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1109/23.775573" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "526" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "520" ;
+      <http://purl.org/ontology/bibo/volume>
+              "46" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1109/23.775573> , <info:doi/10.1109/23.775573> .
+
+<http://id.crossref.org/contributor/m-singh-21bloj0td2qx6>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Singh" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "M." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "M. Singh" .

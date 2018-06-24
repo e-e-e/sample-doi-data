@@ -1,0 +1,60 @@
+<http://id.crossref.org/contributor/h-h-heitmann-35zcvv24cb48b>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Heitmann" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "H. H." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "H. H. Heitmann" .
+
+<http://id.crossref.org/issn/0003-6951>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1077-3118" , "0003-6951" ;
+      <http://purl.org/dc/terms/title>
+              "Applied Physics Letters" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1077-3118" , "0003-6951" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1077-3118" , "urn:issn:0003-6951" .
+
+<http://id.crossref.org/contributor/b-wellegehausen-35zcvv24cb48b>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Wellegehausen" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "B." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "B. Wellegehausen" .
+
+<http://dx.doi.org/10.1063/1.90592>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1063/1.90592" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "47" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "44" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "34" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/h-h-heitmann-35zcvv24cb48b> , <http://id.crossref.org/contributor/b-wellegehausen-35zcvv24cb48b> ;
+      <http://purl.org/dc/terms/date>
+              "1979-01"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1063/1.90592" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0003-6951> ;
+      <http://purl.org/dc/terms/publisher>
+              "AIP Publishing" ;
+      <http://purl.org/dc/terms/title>
+              "Experiments on optically pumped three‐level dimer lasers" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1063/1.90592" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "47" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "44" ;
+      <http://purl.org/ontology/bibo/volume>
+              "34" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1063/1.90592> , <doi:10.1063/1.90592> .

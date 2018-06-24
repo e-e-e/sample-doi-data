@@ -1,0 +1,51 @@
+<http://id.crossref.org/contributor/frederick-a-o-mendelsohn-3lp5rsycqahvq>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Mendelsohn" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Frederick A.O." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Frederick A.O. Mendelsohn" .
+
+<http://id.crossref.org/issn/0263-6352>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0263-6352" ;
+      <http://purl.org/dc/terms/title>
+              "Journal of Hypertension" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0263-6352" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0263-6352" .
+
+<http://dx.doi.org/10.1097/00004872-198508000-00002>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1097/00004872-198508000-00002" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "316" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "307" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "3" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/frederick-a-o-mendelsohn-3lp5rsycqahvq> ;
+      <http://purl.org/dc/terms/date>
+              "1985-08"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1097/00004872-198508000-00002" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0263-6352> ;
+      <http://purl.org/dc/terms/publisher>
+              "Ovid Technologies (Wolters Kluwer Health)" ;
+      <http://purl.org/dc/terms/title>
+              "Localization and Properties of Angiotensin Receptors" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1097/00004872-198508000-00002" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "316" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "307" ;
+      <http://purl.org/ontology/bibo/volume>
+              "3" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1097/00004872-198508000-00002> , <info:doi/10.1097/00004872-198508000-00002> .

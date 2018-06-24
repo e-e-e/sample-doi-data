@@ -1,0 +1,51 @@
+<http://dx.doi.org/10.1007/bf00115862>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1007/bf00115862" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "228" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "199" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "20" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/dennis-gaffin-vli7sueo4yh7> ;
+      <http://purl.org/dc/terms/date>
+              "1996-09"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1007/bf00115862" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0165-005X> ;
+      <http://purl.org/dc/terms/publisher>
+              "Springer Nature" ;
+      <http://purl.org/dc/terms/title>
+              "From ?bugging-out? to ?chilling-out?: Manipulating emotion and evoking reason in a forensic psychiatric hospital" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1007/bf00115862" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "228" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "199" ;
+      <http://purl.org/ontology/bibo/volume>
+              "20" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1007/bf00115862> , <info:doi/10.1007/bf00115862> .
+
+<http://id.crossref.org/contributor/dennis-gaffin-vli7sueo4yh7>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Gaffin" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Dennis" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Dennis Gaffin" .
+
+<http://id.crossref.org/issn/0165-005X>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1573-076X" , "0165-005X" ;
+      <http://purl.org/dc/terms/title>
+              "Culture, Medicine and Psychiatry" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1573-076X" , "0165-005X" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0165-005X" , "urn:issn:1573-076X" .

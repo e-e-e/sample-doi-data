@@ -1,0 +1,51 @@
+<http://id.crossref.org/contributor/suheil-f-abdulnur-1a1msenc6y460>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Abdulnur" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Suheil F." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Suheil F. Abdulnur" .
+
+<http://dx.doi.org/10.1002/qua.560120723>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1002/qua.560120723" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "223" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "217" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "12" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/suheil-f-abdulnur-1a1msenc6y460> ;
+      <http://purl.org/dc/terms/date>
+              "2009-06-18"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1002/qua.560120723" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0020-7608> ;
+      <http://purl.org/dc/terms/publisher>
+              "Wiley" ;
+      <http://purl.org/dc/terms/title>
+              "The interaction of methylglyoxal with methylamine and the triplet state" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1002/qua.560120723" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "223" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "217" ;
+      <http://purl.org/ontology/bibo/volume>
+              "12" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1002/qua.560120723> , <doi:10.1002/qua.560120723> .
+
+<http://id.crossref.org/issn/0020-7608>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0020-7608" , "1097-461X" ;
+      <http://purl.org/dc/terms/title>
+              "International Journal of Quantum Chemistry" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0020-7608" , "1097-461X" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0020-7608" , "urn:issn:1097-461X" .

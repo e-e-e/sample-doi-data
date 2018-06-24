@@ -1,0 +1,51 @@
+<http://id.crossref.org/isbn/9780780388772>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "2005 11th International Scientific and Practical Conference of Students, Post-graduates and Young Scientists - Modern Technique and Technologies" .
+
+<http://id.crossref.org/contributor/s-v-leonov-32ikz2zt9o4wh>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Leonov" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "S.V." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "S.V. Leonov" .
+
+<http://id.crossref.org/contributor/a-l-fedyanin-32ikz2zt9o4wh>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Fedyanin" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "A.L." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "A.L. Fedyanin" .
+
+<http://dx.doi.org/10.1109/spcmtt.2005.4493202>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1109/spcmtt.2005.4493202" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/s-v-leonov-32ikz2zt9o4wh> , <http://id.crossref.org/contributor/a-l-fedyanin-32ikz2zt9o4wh> , <http://id.crossref.org/contributor/o-p-muravlev-32ikz2zt9o4wh> ;
+      <http://purl.org/dc/terms/date>
+              "2005-03"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1109/spcmtt.2005.4493202" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9780780388772> ;
+      <http://purl.org/dc/terms/publisher>
+              "IEEE" ;
+      <http://purl.org/dc/terms/title>
+              "Experimental Investigation of a Sealed A.C. Motor of Disk Type" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1109/spcmtt.2005.4493202" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1109/spcmtt.2005.4493202> , <doi:10.1109/spcmtt.2005.4493202> .
+
+<http://id.crossref.org/contributor/o-p-muravlev-32ikz2zt9o4wh>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Muravlev" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "O.P." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "O.P. Muravlev" .

@@ -1,0 +1,60 @@
+<http://dx.doi.org/10.1007/s11664-004-0172-0>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1007/s11664-004-0172-0" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "L23" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "L21" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "33" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/takao-ishii-q07qzvybg3gw> , <http://id.crossref.org/contributor/shinji-aoyama-q07qzvybg3gw> ;
+      <http://purl.org/dc/terms/date>
+              "2004-11"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1007/s11664-004-0172-0" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0361-5235> ;
+      <http://purl.org/dc/terms/publisher>
+              "Springer Nature" ;
+      <http://purl.org/dc/terms/title>
+              "Novel micro-bump fabrication for flip-chip bonding" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1007/s11664-004-0172-0" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "L23" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "L21" ;
+      <http://purl.org/ontology/bibo/volume>
+              "33" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1007/s11664-004-0172-0> , <doi:10.1007/s11664-004-0172-0> .
+
+<http://id.crossref.org/contributor/takao-ishii-q07qzvybg3gw>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Ishii" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Takao" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Takao Ishii" .
+
+<http://id.crossref.org/issn/0361-5235>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1543-186X" , "0361-5235" ;
+      <http://purl.org/dc/terms/title>
+              "Journal of Electronic Materials" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1543-186X" , "0361-5235" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1543-186X" , "urn:issn:0361-5235" .
+
+<http://id.crossref.org/contributor/shinji-aoyama-q07qzvybg3gw>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Aoyama" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Shinji" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Shinji Aoyama" .

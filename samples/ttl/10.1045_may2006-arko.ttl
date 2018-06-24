@@ -1,0 +1,70 @@
+<http://id.crossref.org/contributor/kim-a-kastens-3tca1y0xqvknu>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kastens" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Kim A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Kim A. Kastens" .
+
+<http://dx.doi.org/10.1045/may2006-arko>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1045/may2006-arko" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "12" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/kim-a-kastens-3tca1y0xqvknu> , <http://id.crossref.org/contributor/robert-a-arko-3tca1y0xqvknu> , <http://id.crossref.org/contributor/john-weatherley-3tca1y0xqvknu> , <http://id.crossref.org/contributor/kathryn-m-ginger-3tca1y0xqvknu> ;
+      <http://purl.org/dc/terms/date>
+              "2006-05"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1045/may2006-arko" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1082-9873> ;
+      <http://purl.org/dc/terms/publisher>
+              "CNRI Acct" ;
+      <http://purl.org/dc/terms/title>
+              "Using Annotations to Add Value to a Digital Library for Education" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1045/may2006-arko" ;
+      <http://purl.org/ontology/bibo/volume>
+              "12" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1045/may2006-arko> , <doi:10.1045/may2006-arko> .
+
+<http://id.crossref.org/contributor/robert-a-arko-3tca1y0xqvknu>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Arko" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Robert A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Robert A. Arko" .
+
+<http://id.crossref.org/issn/1082-9873>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1082-9873" ;
+      <http://purl.org/dc/terms/title>
+              "D-Lib Magazine" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1082-9873" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1082-9873" .
+
+<http://id.crossref.org/contributor/john-weatherley-3tca1y0xqvknu>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Weatherley" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "John" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "John Weatherley" .
+
+<http://id.crossref.org/contributor/kathryn-m-ginger-3tca1y0xqvknu>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Ginger" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Kathryn M." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Kathryn M. Ginger" .

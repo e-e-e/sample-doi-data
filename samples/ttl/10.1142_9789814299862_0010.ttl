@@ -1,0 +1,42 @@
+<http://id.crossref.org/isbn/9789814299855>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Managing Knowledge for Global and Collaborative Innovations" .
+
+<http://id.crossref.org/contributor/thomas-grechenig-23h6zmiasgfi6>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "GRECHENIG" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "THOMAS" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "THOMAS GRECHENIG" .
+
+<http://id.crossref.org/contributor/paul-poltner-23h6zmiasgfi6>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "PÖLTNER" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "PAUL" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "PAUL PÖLTNER" .
+
+<http://dx.doi.org/10.1142/9789814299862_0010>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1142/9789814299862_0010" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/thomas-grechenig-23h6zmiasgfi6> , <http://id.crossref.org/contributor/paul-poltner-23h6zmiasgfi6> ;
+      <http://purl.org/dc/terms/date>
+              "2009-11"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1142/9789814299862_0010" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9789814299855> ;
+      <http://purl.org/dc/terms/publisher>
+              "WORLD SCIENTIFIC" ;
+      <http://purl.org/dc/terms/title>
+              "FUNDAMENTALS FOR AN IT-STRATEGY TOWARDS MANAGING VIABLE KNOWLEDGE-INTENSIVE RESEARCH PROJECTS" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1142/9789814299862_0010" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1142/9789814299862_0010> , <info:doi/10.1142/9789814299862_0010> .

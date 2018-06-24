@@ -1,0 +1,87 @@
+<http://dx.doi.org/10.1016/0003-9861(88)90188-9>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/0003-9861(88)90188-9" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "272" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "266" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "262" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/melinda-s-west-31sh7mm2e3w7i> , <http://id.crossref.org/contributor/william-e-hogsett-31sh7mm2e3w7i> , <http://id.crossref.org/contributor/kenton-l-eneff-31sh7mm2e3w7i> , <http://id.crossref.org/contributor/david-t-tingey-31sh7mm2e3w7i> , <http://id.crossref.org/contributor/robert-a-floyd-31sh7mm2e3w7i> ;
+      <http://purl.org/dc/terms/date>
+              "1988-04"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/0003-9861(88)90188-9" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0003-9861> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Hydroxyl free radical mediated formation of 8-hydroxyguanine in isolated DNA" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/0003-9861(88)90188-9" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "272" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "266" ;
+      <http://purl.org/ontology/bibo/volume>
+              "262" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1016/0003-9861(88)90188-9> , <doi:10.1016/0003-9861(88)90188-9> .
+
+<http://id.crossref.org/contributor/melinda-s-west-31sh7mm2e3w7i>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "West" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Melinda S." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Melinda S. West" .
+
+<http://id.crossref.org/issn/0003-9861>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0003-9861" ;
+      <http://purl.org/dc/terms/title>
+              "Archives of Biochemistry and Biophysics" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0003-9861" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0003-9861" .
+
+<http://id.crossref.org/contributor/william-e-hogsett-31sh7mm2e3w7i>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Hogsett" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "William E." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "William E. Hogsett" .
+
+<http://id.crossref.org/contributor/kenton-l-eneff-31sh7mm2e3w7i>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Eneff" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Kenton L." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Kenton L. Eneff" .
+
+<http://id.crossref.org/contributor/david-t-tingey-31sh7mm2e3w7i>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Tingey" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "David T." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "David T. Tingey" .
+
+<http://id.crossref.org/contributor/robert-a-floyd-31sh7mm2e3w7i>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Floyd" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Robert A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Robert A. Floyd" .

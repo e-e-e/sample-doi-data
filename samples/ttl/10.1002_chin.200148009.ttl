@@ -1,0 +1,78 @@
+<http://id.crossref.org/contributor/b-krebs-1zil9eja9ey20>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Krebs" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "B." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "B. Krebs" .
+
+<http://id.crossref.org/contributor/c-koester-1zil9eja9ey20>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Koester" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "C." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "C. Koester" .
+
+<http://id.crossref.org/issn/0931-7597>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1522-2667" , "0931-7597" ;
+      <http://purl.org/dc/terms/title>
+              "ChemInform" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1522-2667" , "0931-7597" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0931-7597" , "urn:issn:1522-2667" .
+
+<http://dx.doi.org/10.1002/chin.200148009>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1002/chin.200148009" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "no" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "no" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "32" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/b-krebs-1zil9eja9ey20> , <http://id.crossref.org/contributor/c-koester-1zil9eja9ey20> , <http://id.crossref.org/contributor/a-hammerschmidt-1zil9eja9ey20> , <http://id.crossref.org/contributor/a-lindemann-1zil9eja9ey20> ;
+      <http://purl.org/dc/terms/date>
+              "2010-05-23"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1002/chin.200148009" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0931-7597> ;
+      <http://purl.org/dc/terms/publisher>
+              "Wiley" ;
+      <http://purl.org/dc/terms/title>
+              "ChemInform Abstract: Na6[B18Se17]: The First Selenoborato-closo-dodecaborate with a Polymeric Chain Anion." ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1002/chin.200148009" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "no" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "no" ;
+      <http://purl.org/ontology/bibo/volume>
+              "32" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1002/chin.200148009> , <doi:10.1002/chin.200148009> .
+
+<http://id.crossref.org/contributor/a-hammerschmidt-1zil9eja9ey20>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Hammerschmidt" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "A. Hammerschmidt" .
+
+<http://id.crossref.org/contributor/a-lindemann-1zil9eja9ey20>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Lindemann" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "A. Lindemann" .

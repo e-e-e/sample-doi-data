@@ -1,0 +1,51 @@
+<http://dx.doi.org/10.1016/0360-3199(77)90047-7>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/0360-3199(77)90047-7" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "411" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "405" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "2" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/u-laroche-7ig9aq0gm1mc> ;
+      <http://purl.org/dc/terms/date>
+              "1977"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/0360-3199(77)90047-7" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0360-3199> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "The greenland hydropower as a source of electrolytic hydrogen" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/0360-3199(77)90047-7" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "411" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "405" ;
+      <http://purl.org/ontology/bibo/volume>
+              "2" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1016/0360-3199(77)90047-7> , <info:doi/10.1016/0360-3199(77)90047-7> .
+
+<http://id.crossref.org/contributor/u-laroche-7ig9aq0gm1mc>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "LAROCHE" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "U" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "U LAROCHE" .
+
+<http://id.crossref.org/issn/0360-3199>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0360-3199" ;
+      <http://purl.org/dc/terms/title>
+              "International Journal of Hydrogen Energy" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0360-3199" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0360-3199" .

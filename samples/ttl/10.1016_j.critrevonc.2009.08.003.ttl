@@ -1,0 +1,132 @@
+<http://id.crossref.org/contributor/a-polyzos-20v8ztu59s3a4>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Polyzos" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "A. Polyzos" .
+
+<http://id.crossref.org/contributor/k-kalbakis-20v8ztu59s3a4>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kalbakis" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "K." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "K. Kalbakis" .
+
+<http://id.crossref.org/contributor/ch-kouroussis-20v8ztu59s3a4>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kouroussis" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Ch." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Ch. Kouroussis" .
+
+<http://id.crossref.org/contributor/j-souglakos-20v8ztu59s3a4>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Souglakos" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "J." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "J. Souglakos" .
+
+<http://id.crossref.org/contributor/l-vamvakas-20v8ztu59s3a4>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Vamvakas" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "L." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "L. Vamvakas" .
+
+<http://id.crossref.org/contributor/n-ziras-20v8ztu59s3a4>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Ziras" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "N." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "N. Ziras" .
+
+<http://dx.doi.org/10.1016/j.critrevonc.2009.08.003>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/j.critrevonc.2009.08.003" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "70" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "61" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "76" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/a-polyzos-20v8ztu59s3a4> , <http://id.crossref.org/contributor/k-kalbakis-20v8ztu59s3a4> , <http://id.crossref.org/contributor/ch-kouroussis-20v8ztu59s3a4> , <http://id.crossref.org/contributor/l-vamvakas-20v8ztu59s3a4> , <http://id.crossref.org/contributor/j-souglakos-20v8ztu59s3a4> , <http://id.crossref.org/contributor/n-ziras-20v8ztu59s3a4> , <http://id.crossref.org/contributor/a-athanasiadis-20v8ztu59s3a4> , <http://id.crossref.org/contributor/s-kakolyris-20v8ztu59s3a4> , <http://id.crossref.org/contributor/v-georgoulias-20v8ztu59s3a4> , <http://id.crossref.org/contributor/a-karampeazis-20v8ztu59s3a4> ;
+      <http://purl.org/dc/terms/date>
+              "2010-10"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/j.critrevonc.2009.08.003" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1040-8428> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Clinical outcome of elderly patients with metastatic colorectal cancer treated with FOLFOXIRI versus FOLFIRI: Subgroup analysis of a randomized phase III trial from the Hellenic Oncology Research Group (HORG)" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/j.critrevonc.2009.08.003" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "70" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "61" ;
+      <http://purl.org/ontology/bibo/volume>
+              "76" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1016/j.critrevonc.2009.08.003> , <info:doi/10.1016/j.critrevonc.2009.08.003> .
+
+<http://id.crossref.org/contributor/a-athanasiadis-20v8ztu59s3a4>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Athanasiadis" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "A. Athanasiadis" .
+
+<http://id.crossref.org/contributor/s-kakolyris-20v8ztu59s3a4>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kakolyris" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "S." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "S. Kakolyris" .
+
+<http://id.crossref.org/contributor/v-georgoulias-20v8ztu59s3a4>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Georgoulias" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "V." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "V. Georgoulias" .
+
+<http://id.crossref.org/contributor/a-karampeazis-20v8ztu59s3a4>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Karampeazis" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "A. Karampeazis" .
+
+<http://id.crossref.org/issn/1040-8428>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1040-8428" ;
+      <http://purl.org/dc/terms/title>
+              "Critical Reviews in Oncology/Hematology" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1040-8428" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1040-8428" .

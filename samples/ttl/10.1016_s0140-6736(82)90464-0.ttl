@@ -1,0 +1,92 @@
+<http://id.crossref.org/contributor/j-m-m-hooymans-2evb7iekpf0u>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Hooymans" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "J.M.M." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "J.M.M. Hooymans" .
+
+<http://id.crossref.org/contributor/h-doorenbos-2evb7iekpf0u>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Doorenbos" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "H." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "H. Doorenbos" .
+
+<http://id.crossref.org/contributor/n-m-j-schweitzer-2evb7iekpf0u>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Schweitzer" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "N.M.J." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "N.M.J. Schweitzer" .
+
+<http://id.crossref.org/contributor/w-d-reitsma-2evb7iekpf0u>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Reitsma" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "W.D." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "W.D. Reitsma" .
+
+<http://id.crossref.org/contributor/w-j-sluiter-2evb7iekpf0u>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Sluiter" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "W.J." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "W.J. Sluiter" .
+
+<http://id.crossref.org/contributor/e-v-ballegooie-2evb7iekpf0u>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Ballegooie" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "E.V." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "E.V. Ballegooie" .
+
+<http://id.crossref.org/issn/0140-6736>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0140-6736" ;
+      <http://purl.org/dc/terms/title>
+              "The Lancet" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0140-6736" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0140-6736" .
+
+<http://dx.doi.org/10.1016/s0140-6736(82)90464-0>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/s0140-6736(82)90464-0" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "438" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "320" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/h-doorenbos-2evb7iekpf0u> , <http://id.crossref.org/contributor/j-m-m-hooymans-2evb7iekpf0u> , <http://id.crossref.org/contributor/n-m-j-schweitzer-2evb7iekpf0u> , <http://id.crossref.org/contributor/w-d-reitsma-2evb7iekpf0u> , <http://id.crossref.org/contributor/w-j-sluiter-2evb7iekpf0u> , <http://id.crossref.org/contributor/e-v-ballegooie-2evb7iekpf0u> ;
+      <http://purl.org/dc/terms/date>
+              "1982-08"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/s0140-6736(82)90464-0" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0140-6736> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "WORSENING OF DIABETIC RETINOPATHY WITH STRICT CONTROL OF BLOOD SUGAR" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/s0140-6736(82)90464-0" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "438" ;
+      <http://purl.org/ontology/bibo/volume>
+              "320" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1016/s0140-6736(82)90464-0> , <doi:10.1016/s0140-6736(82)90464-0> .

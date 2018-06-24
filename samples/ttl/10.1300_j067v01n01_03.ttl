@@ -1,0 +1,51 @@
+<http://dx.doi.org/10.1300/j067v01n01_03>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1300/j067v01n01_03" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "27" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "15" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "1" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/rino-patti-vdy3c9126qcx> ;
+      <http://purl.org/dc/terms/date>
+              "1987-07-23"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1300/j067v01n01_03" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0884-1233> ;
+      <http://purl.org/dc/terms/publisher>
+              "Informa UK Limited" ;
+      <http://purl.org/dc/terms/title>
+              "Revitalizing Management Education in Social Work" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1300/j067v01n01_03" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "27" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "15" ;
+      <http://purl.org/ontology/bibo/volume>
+              "1" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1300/j067v01n01_03> , <doi:10.1300/j067v01n01_03> .
+
+<http://id.crossref.org/contributor/rino-patti-vdy3c9126qcx>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Patti" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Rino" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Rino Patti" .
+
+<http://id.crossref.org/issn/0884-1233>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0884-1233" , "1540-7349" ;
+      <http://purl.org/dc/terms/title>
+              "Journal of Teaching in Social Work" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0884-1233" , "1540-7349" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1540-7349" , "urn:issn:0884-1233" .

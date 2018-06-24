@@ -1,0 +1,78 @@
+<http://dx.doi.org/10.3109/08820137509055787>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.3109/08820137509055787" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "385" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "373" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "4" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/j-mendelsohn-1dqdkmfh2buaz> , <http://id.crossref.org/contributor/e-m-fox-1dqdkmfh2buaz> , <http://id.crossref.org/contributor/e-barbosa-1dqdkmfh2buaz> , <http://id.crossref.org/contributor/m-goulian-1dqdkmfh2buaz> ;
+      <http://purl.org/dc/terms/date>
+              "1975-01"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.3109/08820137509055787" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0090-0877> ;
+      <http://purl.org/dc/terms/publisher>
+              "Informa UK Limited" ;
+      <http://purl.org/dc/terms/title>
+              "Nascent DNA from Phytohemagglutinin-Stimulated Human Lymphocytes" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.3109/08820137509055787" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "385" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "373" ;
+      <http://purl.org/ontology/bibo/volume>
+              "4" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.3109/08820137509055787> , <doi:10.3109/08820137509055787> .
+
+<http://id.crossref.org/contributor/j-mendelsohn-1dqdkmfh2buaz>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Mendelsohn" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "J." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "J. Mendelsohn" .
+
+<http://id.crossref.org/contributor/e-barbosa-1dqdkmfh2buaz>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Barbosa" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "E." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "E. Barbosa" .
+
+<http://id.crossref.org/contributor/e-m-fox-1dqdkmfh2buaz>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Fox" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "E. M." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "E. M. Fox" .
+
+<http://id.crossref.org/issn/0090-0877>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0090-0877" ;
+      <http://purl.org/dc/terms/title>
+              "Immunological Communications" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0090-0877" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0090-0877" .
+
+<http://id.crossref.org/contributor/m-goulian-1dqdkmfh2buaz>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Goulian" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "M." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "M. Goulian" .

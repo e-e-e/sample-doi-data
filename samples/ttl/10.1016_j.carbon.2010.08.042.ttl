@@ -1,0 +1,96 @@
+<http://id.crossref.org/contributor/y-j-dappe-1p4e8x3qpfdi7>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Dappe" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Y.J." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Y.J. Dappe" .
+
+<http://id.crossref.org/contributor/a-fasolino-1p4e8x3qpfdi7>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Fasolino" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "A. Fasolino" .
+
+<http://id.crossref.org/issn/0008-6223>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0008-6223" ;
+      <http://purl.org/dc/terms/title>
+              "Carbon" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0008-6223" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0008-6223" .
+
+<http://id.crossref.org/contributor/s-oberg-1p4e8x3qpfdi7>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Öberg" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "S." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "S. Öberg" .
+
+<http://dx.doi.org/10.1016/j.carbon.2010.08.042>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/j.carbon.2010.08.042" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "69" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "62" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "49" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/y-j-dappe-1p4e8x3qpfdi7> , <http://id.crossref.org/contributor/a-fasolino-1p4e8x3qpfdi7> , <http://id.crossref.org/contributor/s-oberg-1p4e8x3qpfdi7> , <http://id.crossref.org/contributor/m-i-katsnelson-1p4e8x3qpfdi7> , <http://id.crossref.org/contributor/g-savini-1p4e8x3qpfdi7> , <http://id.crossref.org/contributor/j-c-charlier-1p4e8x3qpfdi7> ;
+      <http://purl.org/dc/terms/date>
+              "2011-01"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/j.carbon.2010.08.042" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0008-6223> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Bending modes, elastic constants and mechanical stability of graphitic systems" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/j.carbon.2010.08.042" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "69" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "62" ;
+      <http://purl.org/ontology/bibo/volume>
+              "49" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1016/j.carbon.2010.08.042> , <doi:10.1016/j.carbon.2010.08.042> .
+
+<http://id.crossref.org/contributor/m-i-katsnelson-1p4e8x3qpfdi7>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Katsnelson" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "M.I." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "M.I. Katsnelson" .
+
+<http://id.crossref.org/contributor/g-savini-1p4e8x3qpfdi7>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Savini" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "G." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "G. Savini" .
+
+<http://id.crossref.org/contributor/j-c-charlier-1p4e8x3qpfdi7>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Charlier" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "J.-C." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "J.-C. Charlier" .

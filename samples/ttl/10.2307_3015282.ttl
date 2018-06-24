@@ -1,0 +1,56 @@
+<http://dx.doi.org/10.2307/3015282>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.2307/3015282" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "253" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "5" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/malcolm-m-c-seton-1vt58xcsnun5m> , <http://id.crossref.org/contributor/campbell-rhodes-1vt58xcsnun5m> ;
+      <http://purl.org/dc/terms/date>
+              "1926-09"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.2307/3015282" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1473-799X> ;
+      <http://purl.org/dc/terms/publisher>
+              "Oxford University Press (OUP)" ;
+      <http://purl.org/dc/terms/title>
+              "The India Office." ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.2307/3015282" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "253" ;
+      <http://purl.org/ontology/bibo/volume>
+              "5" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.2307/3015282> , <info:doi/10.2307/3015282> .
+
+<http://id.crossref.org/contributor/malcolm-m-c-seton-1vt58xcsnun5m>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Seton" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Malcolm M. C." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Malcolm M. C. Seton" .
+
+<http://id.crossref.org/contributor/campbell-rhodes-1vt58xcsnun5m>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Rhodes" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Campbell" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Campbell Rhodes" .
+
+<http://id.crossref.org/issn/1473-799X>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1473-799X" ;
+      <http://purl.org/dc/terms/title>
+              "Journal of the Royal Institute of International Affairs" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1473-799X" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1473-799X" .

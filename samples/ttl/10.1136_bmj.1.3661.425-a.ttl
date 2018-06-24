@@ -1,0 +1,60 @@
+<http://dx.doi.org/10.1136/bmj.1.3661.425-a>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1136/bmj.1.3661.425-a" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "425" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "425" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "1" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/f-d-m-hocking-32x86yrqa01z> , <http://id.crossref.org/contributor/j-a-b-hicks-32x86yrqa01z> ;
+      <http://purl.org/dc/terms/date>
+              "1931-03-07"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1136/bmj.1.3661.425-a" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0959-8138> ;
+      <http://purl.org/dc/terms/publisher>
+              "BMJ" ;
+      <http://purl.org/dc/terms/title>
+              "RESEARCH ON DISSEMINATED SCLEROSIS" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1136/bmj.1.3661.425-a" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "425" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "425" ;
+      <http://purl.org/ontology/bibo/volume>
+              "1" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1136/bmj.1.3661.425-a> , <doi:10.1136/bmj.1.3661.425-a> .
+
+<http://id.crossref.org/contributor/f-d-m-hocking-32x86yrqa01z>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Hocking" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "F. D. M." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "F. D. M. Hocking" .
+
+<http://id.crossref.org/issn/0959-8138>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1468-5833" , "0959-8138" ;
+      <http://purl.org/dc/terms/title>
+              "BMJ" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1468-5833" , "0959-8138" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1468-5833" , "urn:issn:0959-8138" .
+
+<http://id.crossref.org/contributor/j-a-b-hicks-32x86yrqa01z>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Hicks" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "J. A. B." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "J. A. B. Hicks" .

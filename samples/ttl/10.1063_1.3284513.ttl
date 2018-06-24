@@ -1,0 +1,101 @@
+<http://id.crossref.org/contributor/s-lepilliet-95h16p1f7h7y>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Lepilliet" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "S." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "S. Lepilliet" .
+
+<http://id.crossref.org/contributor/v-derycke-95h16p1f7h7y>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Derycke" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "V." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "V. Derycke" .
+
+<http://id.crossref.org/contributor/j-p-bourgoin-95h16p1f7h7y>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Bourgoin" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "J.-P." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "J.-P. Bourgoin" .
+
+<http://id.crossref.org/issn/0003-6951>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1077-3118" , "0003-6951" ;
+      <http://purl.org/dc/terms/title>
+              "Applied Physics Letters" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1077-3118" , "0003-6951" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1077-3118" , "urn:issn:0003-6951" .
+
+<http://id.crossref.org/contributor/g-dambrine-95h16p1f7h7y>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Dambrine" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "G." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "G. Dambrine" .
+
+<http://id.crossref.org/contributor/h-happy-95h16p1f7h7y>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Happy" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "H." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "H. Happy" .
+
+<http://id.crossref.org/contributor/l-nougaret-95h16p1f7h7y>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Nougaret" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "L." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "L. Nougaret" .
+
+<http://dx.doi.org/10.1063/1.3284513>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1063/1.3284513" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "042109" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "96" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/s-lepilliet-95h16p1f7h7y> , <http://id.crossref.org/contributor/j-p-bourgoin-95h16p1f7h7y> , <http://id.crossref.org/contributor/v-derycke-95h16p1f7h7y> , <http://id.crossref.org/contributor/g-dambrine-95h16p1f7h7y> , <http://id.crossref.org/contributor/h-happy-95h16p1f7h7y> , <http://id.crossref.org/contributor/l-nougaret-95h16p1f7h7y> , <http://id.crossref.org/contributor/n-chimot-95h16p1f7h7y> ;
+      <http://purl.org/dc/terms/date>
+              "2010-01-25"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1063/1.3284513" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0003-6951> ;
+      <http://purl.org/dc/terms/publisher>
+              "AIP Publishing" ;
+      <http://purl.org/dc/terms/title>
+              "Gigahertz characterization of a single carbon nanotube" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1063/1.3284513" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "042109" ;
+      <http://purl.org/ontology/bibo/volume>
+              "96" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1063/1.3284513> , <info:doi/10.1063/1.3284513> .
+
+<http://id.crossref.org/contributor/n-chimot-95h16p1f7h7y>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Chimot" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "N." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "N. Chimot" .

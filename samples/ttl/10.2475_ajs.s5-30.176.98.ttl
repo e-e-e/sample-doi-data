@@ -1,0 +1,51 @@
+<http://dx.doi.org/10.2475/ajs.s5-30.176.98>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.2475/ajs.s5-30.176.98" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "105" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "98" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "s5-30" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/k-ver-steeg-3mpcknuwhm8qb> ;
+      <http://purl.org/dc/terms/date>
+              "1935-08-01"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.2475/ajs.s5-30.176.98" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0002-9599> ;
+      <http://purl.org/dc/terms/publisher>
+              "American Journal of Science (AJS)" ;
+      <http://purl.org/dc/terms/title>
+              "Wind gaps and water gaps; their value as indicators of erosion surfaces" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.2475/ajs.s5-30.176.98" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "105" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "98" ;
+      <http://purl.org/ontology/bibo/volume>
+              "s5-30" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.2475/ajs.s5-30.176.98> , <info:doi/10.2475/ajs.s5-30.176.98> .
+
+<http://id.crossref.org/issn/0002-9599>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0002-9599" ;
+      <http://purl.org/dc/terms/title>
+              "American Journal of Science" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0002-9599" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0002-9599" .
+
+<http://id.crossref.org/contributor/k-ver-steeg-3mpcknuwhm8qb>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Ver Steeg" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "K." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "K. Ver Steeg" .

@@ -1,0 +1,51 @@
+<http://id.crossref.org/contributor/sushma-prasad-2mqf0aqj93tuw>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Prasad" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Sushma" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Sushma Prasad" .
+
+<http://id.crossref.org/isbn/0769527620>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "20th International Conference on VLSI Design held jointly with 6th International Conference on Embedded Systems (VLSID'07)" .
+
+<http://id.crossref.org/contributor/chitranjan-singh-2mqf0aqj93tuw>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Singh" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Chitranjan" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Chitranjan Singh" .
+
+<http://id.crossref.org/contributor/poras-balsara-2mqf0aqj93tuw>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Balsara" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Poras" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Poras Balsara" .
+
+<http://dx.doi.org/10.1109/vlsid.2007.177>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1109/vlsid.2007.177" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/sushma-prasad-2mqf0aqj93tuw> , <http://id.crossref.org/contributor/chitranjan-singh-2mqf0aqj93tuw> , <http://id.crossref.org/contributor/poras-balsara-2mqf0aqj93tuw> ;
+      <http://purl.org/dc/terms/date>
+              "2007"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1109/vlsid.2007.177" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/0769527620> ;
+      <http://purl.org/dc/terms/publisher>
+              "IEEE" ;
+      <http://purl.org/dc/terms/title>
+              "VLSI Architecture for Matrix Inversion using Modified Gram-Schmidt based QR Decomposition" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1109/vlsid.2007.177" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1109/vlsid.2007.177> , <info:doi/10.1109/vlsid.2007.177> .

@@ -1,0 +1,60 @@
+<http://id.crossref.org/issn/0197-3851>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0197-3851" , "1097-0223" ;
+      <http://purl.org/dc/terms/title>
+              "Prenatal Diagnosis" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0197-3851" , "1097-0223" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0197-3851" , "urn:issn:1097-0223" .
+
+<http://id.crossref.org/contributor/p-d-storto-3hf4w4j0zrzgt>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Storto" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "P. D." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "P. D. Storto" .
+
+<http://dx.doi.org/10.1002/(SICI)1097-0223(199902)19:2<183::AID-PD481>3.0.CO;2-9>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1002/(sici)1097-0223(199902)19:2<183::aid-pd481>3.0.co;2-9" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "184" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "183" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "19" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/p-d-storto-3hf4w4j0zrzgt> , <http://id.crossref.org/contributor/d-p-omalley-3hf4w4j0zrzgt> ;
+      <http://purl.org/dc/terms/date>
+              "1999-02"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1002/(sici)1097-0223(199902)19:2<183::aid-pd481>3.0.co;2-9" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0197-3851> ;
+      <http://purl.org/dc/terms/publisher>
+              "Wiley" ;
+      <http://purl.org/dc/terms/title>
+              "Confirmation of the chromosome 8p23.1 euchromatic duplication as a variant with no clinical manifestations" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1002/(sici)1097-0223(199902)19:2<183::aid-pd481>3.0.co;2-9" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "184" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "183" ;
+      <http://purl.org/ontology/bibo/volume>
+              "19" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <http://dx.doi.org/10.1002/(sici)1097-0223(199902)19:2<183::aid-pd481>3.0.co;2-9> , <doi:10.1002/(sici)1097-0223(199902)19:2<183::aid-pd481>3.0.co;2-9> , <info:doi/10.1002/(sici)1097-0223(199902)19:2<183::aid-pd481>3.0.co;2-9> .
+
+<http://id.crossref.org/contributor/d-p-omalley-3hf4w4j0zrzgt>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "O'Malley" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "D. P." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "D. P. O'Malley" .

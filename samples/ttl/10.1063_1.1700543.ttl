@@ -1,0 +1,51 @@
+<http://dx.doi.org/10.1063/1.1700543>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1063/1.1700543" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "754" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "753" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "20" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/w-d-edwards-vnkd9tjhp39c> ;
+      <http://purl.org/dc/terms/date>
+              "1952-04"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1063/1.1700543" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0021-9606> ;
+      <http://purl.org/dc/terms/publisher>
+              "AIP Publishing" ;
+      <http://purl.org/dc/terms/title>
+              "High Values for the Electrical Breakdown Strength of Liquids" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1063/1.1700543" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "754" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "753" ;
+      <http://purl.org/ontology/bibo/volume>
+              "20" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1063/1.1700543> , <doi:10.1063/1.1700543> .
+
+<http://id.crossref.org/issn/0021-9606>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0021-9606" , "1089-7690" ;
+      <http://purl.org/dc/terms/title>
+              "The Journal of Chemical Physics" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0021-9606" , "1089-7690" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0021-9606" , "urn:issn:1089-7690" .
+
+<http://id.crossref.org/contributor/w-d-edwards-vnkd9tjhp39c>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Edwards" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "W. D." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "W. D. Edwards" .

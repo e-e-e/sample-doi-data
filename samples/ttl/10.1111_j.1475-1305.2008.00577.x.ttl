@@ -1,0 +1,78 @@
+<http://id.crossref.org/contributor/l-lamberti-3vnutnrfgr0he>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Lamberti" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "L." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "L. Lamberti" .
+
+<http://id.crossref.org/contributor/c-pappalettere-3vnutnrfgr0he>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Pappalettere" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "C." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "C. Pappalettere" .
+
+<http://id.crossref.org/issn/0039-2103>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0039-2103" ;
+      <http://purl.org/dc/terms/title>
+              "Strain" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0039-2103" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0039-2103" .
+
+<http://id.crossref.org/contributor/c-a-sciammarella-3vnutnrfgr0he>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Sciammarella" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "C. A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "C. A. Sciammarella" .
+
+<http://id.crossref.org/contributor/c-casavola-3vnutnrfgr0he>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Casavola" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "C." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "C. Casavola" .
+
+<http://dx.doi.org/10.1111/j.1475-1305.2008.00577.x>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1111/j.1475-1305.2008.00577.x" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "e129" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "e113" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "47" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/l-lamberti-3vnutnrfgr0he> , <http://id.crossref.org/contributor/c-pappalettere-3vnutnrfgr0he> , <http://id.crossref.org/contributor/c-casavola-3vnutnrfgr0he> , <http://id.crossref.org/contributor/c-a-sciammarella-3vnutnrfgr0he> ;
+      <http://purl.org/dc/terms/date>
+              "2008-12-30"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1111/j.1475-1305.2008.00577.x" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0039-2103> ;
+      <http://purl.org/dc/terms/publisher>
+              "Wiley" ;
+      <http://purl.org/dc/terms/title>
+              "Investigation on Fracture Behaviour of Turbine Blades Under Self-Exciting Modes" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1111/j.1475-1305.2008.00577.x" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "e129" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "e113" ;
+      <http://purl.org/ontology/bibo/volume>
+              "47" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1111/j.1475-1305.2008.00577.x> , <info:doi/10.1111/j.1475-1305.2008.00577.x> .

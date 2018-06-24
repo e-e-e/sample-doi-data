@@ -1,0 +1,51 @@
+<http://dx.doi.org/10.1136/bmj.2.6140.830-b>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1136/bmj.2.6140.830-b" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "831" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "830" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "2" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/d-a-hopkin-5mt8v4v7p6ru> ;
+      <http://purl.org/dc/terms/date>
+              "1978-09-16"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1136/bmj.2.6140.830-b" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0959-8138> ;
+      <http://purl.org/dc/terms/publisher>
+              "BMJ" ;
+      <http://purl.org/dc/terms/title>
+              "Legionnaires' disease and acute renal failure." ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1136/bmj.2.6140.830-b" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "831" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "830" ;
+      <http://purl.org/ontology/bibo/volume>
+              "2" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1136/bmj.2.6140.830-b> , <doi:10.1136/bmj.2.6140.830-b> .
+
+<http://id.crossref.org/issn/0959-8138>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1468-5833" , "0959-8138" ;
+      <http://purl.org/dc/terms/title>
+              "BMJ" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1468-5833" , "0959-8138" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1468-5833" , "urn:issn:0959-8138" .
+
+<http://id.crossref.org/contributor/d-a-hopkin-5mt8v4v7p6ru>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Hopkin" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "D A" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "D A Hopkin" .

@@ -1,0 +1,92 @@
+<http://id.crossref.org/contributor/t-n-reznikova-2y1ld338m0tge>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Reznikova" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "T.N." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "T.N. Reznikova" .
+
+<http://dx.doi.org/10.1016/j.ijpsycho.2008.05.359>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/j.ijpsycho.2008.05.359" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "146" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "69" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/t-n-reznikova-2y1ld338m0tge> , <http://id.crossref.org/contributor/i-d-stolyarov-2y1ld338m0tge> , <http://id.crossref.org/contributor/k-k-mineev-2y1ld338m0tge> , <http://id.crossref.org/contributor/a-m-petrov-2y1ld338m0tge> , <http://id.crossref.org/contributor/a-g-ilves-2y1ld338m0tge> , <http://id.crossref.org/contributor/e-v-ivashkova-2y1ld338m0tge> ;
+      <http://purl.org/dc/terms/date>
+              "2008-09"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/j.ijpsycho.2008.05.359" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0167-8760> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Cognitive impairment and cytokine profile in relapsing–remitting multiple sclerosis patients" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/j.ijpsycho.2008.05.359" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "146" ;
+      <http://purl.org/ontology/bibo/volume>
+              "69" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1016/j.ijpsycho.2008.05.359> , <doi:10.1016/j.ijpsycho.2008.05.359> .
+
+<http://id.crossref.org/contributor/i-d-stolyarov-2y1ld338m0tge>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Stolyarov" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "I.D." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "I.D. Stolyarov" .
+
+<http://id.crossref.org/contributor/k-k-mineev-2y1ld338m0tge>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Mineev" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "K.K." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "K.K. Mineev" .
+
+<http://id.crossref.org/contributor/a-m-petrov-2y1ld338m0tge>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Petrov" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "A.M." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "A.M. Petrov" .
+
+<http://id.crossref.org/issn/0167-8760>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0167-8760" ;
+      <http://purl.org/dc/terms/title>
+              "International Journal of Psychophysiology" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0167-8760" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0167-8760" .
+
+<http://id.crossref.org/contributor/a-g-ilves-2y1ld338m0tge>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Ilves" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "A.G." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "A.G. Ilves" .
+
+<http://id.crossref.org/contributor/e-v-ivashkova-2y1ld338m0tge>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Ivashkova" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "E.V." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "E.V. Ivashkova" .

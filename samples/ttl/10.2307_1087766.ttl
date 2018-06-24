@@ -1,0 +1,56 @@
+<http://dx.doi.org/10.2307/1087766>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.2307/1087766" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "92" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "34" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/g-m-kirkwood-3mulhasz07irg> , <http://id.crossref.org/contributor/odysseus-tsagarakis-3mulhasz07irg> ;
+      <http://purl.org/dc/terms/date>
+              "1980"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.2307/1087766" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0031-8299> ;
+      <http://purl.org/dc/terms/publisher>
+              "JSTOR" ;
+      <http://purl.org/dc/terms/title>
+              "Self-Expression in Early Greek Lyric, Elegiac and Iambic Poetry" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.2307/1087766" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "92" ;
+      <http://purl.org/ontology/bibo/volume>
+              "34" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.2307/1087766> , <info:doi/10.2307/1087766> .
+
+<http://id.crossref.org/issn/0031-8299>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0031-8299" ;
+      <http://purl.org/dc/terms/title>
+              "Phoenix" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0031-8299" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0031-8299" .
+
+<http://id.crossref.org/contributor/g-m-kirkwood-3mulhasz07irg>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kirkwood" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "G. M." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "G. M. Kirkwood" .
+
+<http://id.crossref.org/contributor/odysseus-tsagarakis-3mulhasz07irg>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Tsagarakis" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Odysseus" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Odysseus Tsagarakis" .

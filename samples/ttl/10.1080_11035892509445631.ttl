@@ -1,0 +1,60 @@
+<http://id.crossref.org/issn/0016-786X>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0016-786X" ;
+      <http://purl.org/dc/terms/title>
+              "Geologiska Föreningen i Stockholm Förhandlingar" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0016-786X" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0016-786X" .
+
+<http://id.crossref.org/contributor/j-p-j-ravn-an0cuu49vjb1>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Ravn" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "J. P.J." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "J. P.J. Ravn" .
+
+<http://dx.doi.org/10.1080/11035892509445631>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1080/11035892509445631" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "532" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "531" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "47" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/j-p-j-ravn-an0cuu49vjb1> , <http://id.crossref.org/contributor/richard-hagg-an0cuu49vjb1> ;
+      <http://purl.org/dc/terms/date>
+              "1925-01"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1080/11035892509445631" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0016-786X> ;
+      <http://purl.org/dc/terms/publisher>
+              "Informa UK Limited" ;
+      <http://purl.org/dc/terms/title>
+              "Det cenomane Basalkonglomerat paa Bornholm" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1080/11035892509445631" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "532" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "531" ;
+      <http://purl.org/ontology/bibo/volume>
+              "47" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1080/11035892509445631> , <info:doi/10.1080/11035892509445631> .
+
+<http://id.crossref.org/contributor/richard-hagg-an0cuu49vjb1>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Hägg" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Richard" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Richard Hägg" .

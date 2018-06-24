@@ -1,0 +1,69 @@
+<http://dx.doi.org/10.1016/s0009-2614(03)00017-4>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/s0009-2614(03)00017-4" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "436" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "431" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "370" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/saw-wai-hla-1cpsf2bpop7hw> , <http://id.crossref.org/contributor/gerhard-meyer-1cpsf2bpop7hw> , <http://id.crossref.org/contributor/karl-heinz-rieder-1cpsf2bpop7hw> ;
+      <http://purl.org/dc/terms/date>
+              "2003-03"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/s0009-2614(03)00017-4" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0009-2614> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Selective bond breaking of single iodobenzene molecules with a scanning tunneling microscope tip" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/s0009-2614(03)00017-4" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "436" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "431" ;
+      <http://purl.org/ontology/bibo/volume>
+              "370" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1016/s0009-2614(03)00017-4> , <doi:10.1016/s0009-2614(03)00017-4> .
+
+<http://id.crossref.org/contributor/saw-wai-hla-1cpsf2bpop7hw>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Hla" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Saw-Wai" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Saw-Wai Hla" .
+
+<http://id.crossref.org/contributor/gerhard-meyer-1cpsf2bpop7hw>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Meyer" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Gerhard" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Gerhard Meyer" .
+
+<http://id.crossref.org/contributor/karl-heinz-rieder-1cpsf2bpop7hw>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Rieder" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Karl-Heinz" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Karl-Heinz Rieder" .
+
+<http://id.crossref.org/issn/0009-2614>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0009-2614" ;
+      <http://purl.org/dc/terms/title>
+              "Chemical Physics Letters" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0009-2614" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0009-2614" .

@@ -1,0 +1,44 @@
+<http://id.crossref.org/contributor/lixin-wang-1x5s04sny3e9p>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Wang" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Lixin" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Lixin Wang" .
+
+<http://id.crossref.org/contributor/peng-jun-wan-1x5s04sny3e9p>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Wan" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Peng-Jun" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Peng-Jun Wan" .
+
+<http://id.crossref.org/contributor/frances-yao-1x5s04sny3e9p>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Yao" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Frances" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Frances Yao" .
+
+<http://dx.doi.org/10.1109/icdcs.2008.15>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1109/icdcs.2008.15" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/peng-jun-wan-1x5s04sny3e9p> , <http://id.crossref.org/contributor/lixin-wang-1x5s04sny3e9p> , <http://id.crossref.org/contributor/frances-yao-1x5s04sny3e9p> ;
+      <http://purl.org/dc/terms/date>
+              "2008-06"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1109/icdcs.2008.15" ;
+      <http://purl.org/dc/terms/publisher>
+              "IEEE" ;
+      <http://purl.org/dc/terms/title>
+              "Two-Phased Approximation Algorithms for Minimum CDS in Wireless Ad Hoc Networks" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1109/icdcs.2008.15" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1109/icdcs.2008.15> , <info:doi/10.1109/icdcs.2008.15> .

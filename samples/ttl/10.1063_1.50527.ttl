@@ -1,0 +1,75 @@
+<http://id.crossref.org/contributor/r-v-smirnov-yyvuy4j8d7q6>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Smirnov" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "R. V." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "R. V. Smirnov" .
+
+<http://id.crossref.org/issn/0094-243X>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0094-243X" ;
+      <http://purl.org/dc/terms/title>
+              "AIP Conference Proceedings" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0094-243X" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0094-243X" .
+
+<http://dx.doi.org/10.1063/1.50527>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1063/1.50527" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/r-v-smirnov-yyvuy4j8d7q6> , <http://id.crossref.org/contributor/v-i-sokolov-yyvuy4j8d7q6> , <http://id.crossref.org/contributor/m-i-pergament-yyvuy4j8d7q6> , <http://id.crossref.org/contributor/v-m-chernyak-yyvuy4j8d7q6> , <http://id.crossref.org/contributor/d-eimerl-yyvuy4j8d7q6> ;
+      <http://purl.org/dc/terms/date>
+              "1996"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1063/1.50527" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0094-243X> ;
+      <http://purl.org/dc/terms/publisher>
+              "AIP" ;
+      <http://purl.org/dc/terms/title>
+              "Phase conjugation in short pulse Megajoule class lasers" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1063/1.50527" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1063/1.50527> , <info:doi/10.1063/1.50527> .
+
+<http://id.crossref.org/contributor/v-i-sokolov-yyvuy4j8d7q6>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Sokolov" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "V. I." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "V. I. Sokolov" .
+
+<http://id.crossref.org/contributor/m-i-pergament-yyvuy4j8d7q6>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Pergament" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "M. I." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "M. I. Pergament" .
+
+<http://id.crossref.org/contributor/v-m-chernyak-yyvuy4j8d7q6>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Chernyak" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "V. M." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "V. M. Chernyak" .
+
+<http://id.crossref.org/contributor/d-eimerl-yyvuy4j8d7q6>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Eimerl" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "D." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "D. Eimerl" .

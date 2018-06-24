@@ -1,0 +1,69 @@
+<http://id.crossref.org/contributor/patrick-h-dussault-xr6rq2mjw3cp>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Dussault" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Patrick H." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Patrick H. Dussault" .
+
+<http://dx.doi.org/10.1002/chin.200101058>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1002/chin.200101058" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "no" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "no" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "32" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/patrick-h-dussault-xr6rq2mjw3cp> , <http://id.crossref.org/contributor/hyung-jae-lee-xr6rq2mjw3cp> , <http://id.crossref.org/contributor/xuejun-liu-xr6rq2mjw3cp> ;
+      <http://purl.org/dc/terms/date>
+              "2001-01-02"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1002/chin.200101058" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0931-7597> ;
+      <http://purl.org/dc/terms/publisher>
+              "Wiley" ;
+      <http://purl.org/dc/terms/title>
+              "ChemInform Abstract: Selectivity in Lewis Acid-Mediated Fragmentations of Peroxides and Ozonides: Application to the Synthesis of Alkenes, Homoallyl Ethers and 1,2-Dioxolanes." ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1002/chin.200101058" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "no" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "no" ;
+      <http://purl.org/ontology/bibo/volume>
+              "32" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1002/chin.200101058> , <info:doi/10.1002/chin.200101058> .
+
+<http://id.crossref.org/issn/0931-7597>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1522-2667" , "0931-7597" ;
+      <http://purl.org/dc/terms/title>
+              "ChemInform" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1522-2667" , "0931-7597" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0931-7597" , "urn:issn:1522-2667" .
+
+<http://id.crossref.org/contributor/hyung-jae-lee-xr6rq2mjw3cp>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Lee" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Hyung-Jae" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Hyung-Jae Lee" .
+
+<http://id.crossref.org/contributor/xuejun-liu-xr6rq2mjw3cp>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Liu" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Xuejun" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Xuejun Liu" .

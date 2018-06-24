@@ -1,0 +1,69 @@
+<http://id.crossref.org/contributor/t-c-pellmar-27k7p2tl4sxlz>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Pellmar" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "T.C." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "T.C. Pellmar" .
+
+<http://dx.doi.org/10.1016/0891-5849(93)90172-q>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/0891-5849(93)90172-q" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "675" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "671" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "15" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/t-c-pellmar-27k7p2tl4sxlz> , <http://id.crossref.org/contributor/s-c-gilman-27k7p2tl4sxlz> , <http://id.crossref.org/contributor/m-j-bonner-27k7p2tl4sxlz> ;
+      <http://purl.org/dc/terms/date>
+              "1993-12"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/0891-5849(93)90172-q" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0891-5849> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Effect of oxidative stress on excitatory amino acid release by cerebral cortical synaptosomes" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/0891-5849(93)90172-q" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "675" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "671" ;
+      <http://purl.org/ontology/bibo/volume>
+              "15" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1016/0891-5849(93)90172-q> , <info:doi/10.1016/0891-5849(93)90172-q> .
+
+<http://id.crossref.org/contributor/s-c-gilman-27k7p2tl4sxlz>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Gilman" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "S.C." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "S.C. Gilman" .
+
+<http://id.crossref.org/contributor/m-j-bonner-27k7p2tl4sxlz>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Bonner" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "M.J." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "M.J. Bonner" .
+
+<http://id.crossref.org/issn/0891-5849>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0891-5849" ;
+      <http://purl.org/dc/terms/title>
+              "Free Radical Biology and Medicine" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0891-5849" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0891-5849" .

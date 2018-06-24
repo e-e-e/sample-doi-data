@@ -1,0 +1,34 @@
+<http://id.crossref.org/contributor/thomas-c-upham-22lzlecw4ysy2>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Upham" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Thomas C." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Thomas C. Upham" .
+
+<http://dx.doi.org/10.1037/11938-032>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1037/11938-032" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "382" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "373" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/thomas-c-upham-22lzlecw4ysy2> ;
+      <http://purl.org/dc/terms/date>
+              ""^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1037/11938-032" ;
+      <http://purl.org/dc/terms/publisher>
+              "Harper & Brothers" ;
+      <http://purl.org/dc/terms/title>
+              "Practical directions in reasoning." ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1037/11938-032" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "382" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "373" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1037/11938-032> , <doi:10.1037/11938-032> .

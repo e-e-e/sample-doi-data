@@ -1,0 +1,67 @@
+<http://dx.doi.org/10.1023/a:1018820830358>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1023/a:1018820830358" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "2546" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "2537" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "42" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/w-h-percy-37gmfltvaijv1> , <http://id.crossref.org/contributor/a-j-miller-37gmfltvaijv1> , <http://id.crossref.org/contributor/j-t-brunz-37gmfltvaijv1> ;
+      <http://purl.org/dc/terms/date>
+              "1997"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1023/a:1018820830358" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0163-2116> ;
+      <http://purl.org/dc/terms/publisher>
+              "Springer Nature" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1023/a:1018820830358" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "2546" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "2537" ;
+      <http://purl.org/ontology/bibo/volume>
+              "42" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1023/a:1018820830358> , <info:doi/10.1023/a:1018820830358> .
+
+<http://id.crossref.org/contributor/w-h-percy-37gmfltvaijv1>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Percy" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "W. H." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "W. H. Percy" .
+
+<http://id.crossref.org/contributor/a-j-miller-37gmfltvaijv1>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Miller" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "A. J." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "A. J. Miller" .
+
+<http://id.crossref.org/issn/0163-2116>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0163-2116" ;
+      <http://purl.org/dc/terms/title>
+              "Digestive Diseases and Sciences" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0163-2116" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0163-2116" .
+
+<http://id.crossref.org/contributor/j-t-brunz-37gmfltvaijv1>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Brunz" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "J. T." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "J. T. Brunz" .

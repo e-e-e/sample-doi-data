@@ -1,0 +1,51 @@
+<http://id.crossref.org/issn/0022-1694>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0022-1694" ;
+      <http://purl.org/dc/terms/title>
+              "Journal of Hydrology" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0022-1694" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0022-1694" .
+
+<http://dx.doi.org/10.1016/0022-1694(91)90179-l>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/0022-1694(91)90179-l" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "234" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "221" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "122" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/zekai-sen-3h7zhmf2s9ce9> ;
+      <http://purl.org/dc/terms/date>
+              "1991-01"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/0022-1694(91)90179-l" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0022-1694> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Adaptive prediction of hydrologic series by Walsh-Kalman model" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/0022-1694(91)90179-l" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "234" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "221" ;
+      <http://purl.org/ontology/bibo/volume>
+              "122" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1016/0022-1694(91)90179-l> , <doi:10.1016/0022-1694(91)90179-l> .
+
+<http://id.crossref.org/contributor/zekai-sen-3h7zhmf2s9ce9>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Ṡen" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Zekâi̇" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Zekâi̇ Ṡen" .

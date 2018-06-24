@@ -1,0 +1,83 @@
+<http://dx.doi.org/10.1016/j.schres.2010.02.226>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/j.schres.2010.02.226" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "183" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "117" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/inez-myin-germeys-3eblgegjz2c44> , <http://id.crossref.org/contributor/roselind-lieb-3eblgegjz2c44> , <http://id.crossref.org/contributor/jim-van-os-3eblgegjz2c44> , <http://id.crossref.org/contributor/johan-lataster-3eblgegjz2c44> , <http://id.crossref.org/contributor/hans-ulrich-wittchen-3eblgegjz2c44> ;
+      <http://purl.org/dc/terms/date>
+              "2010-04"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/j.schres.2010.02.226" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0920-9964> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "EVIDENCE FOR THE BEHAVIORAL SENSITIZATION HYPOTHESIS OF PSYCHOSIS: AN 8-YEAR LONGITUDINAL COHORT STUDY INVESTIGATING THE EFFECTS OF CASCADING PSYCHOLOGICAL STRESSORS ON PSYCHOSIS OUTCOME" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/j.schres.2010.02.226" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "183" ;
+      <http://purl.org/ontology/bibo/volume>
+              "117" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1016/j.schres.2010.02.226> , <doi:10.1016/j.schres.2010.02.226> .
+
+<http://id.crossref.org/contributor/inez-myin-germeys-3eblgegjz2c44>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Myin-Germeys" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Inez" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Inez Myin-Germeys" .
+
+<http://id.crossref.org/contributor/roselind-lieb-3eblgegjz2c44>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Lieb" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Roselind" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Roselind Lieb" .
+
+<http://id.crossref.org/contributor/jim-van-os-3eblgegjz2c44>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Van Os" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Jim" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Jim Van Os" .
+
+<http://id.crossref.org/contributor/johan-lataster-3eblgegjz2c44>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Lataster" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Johan" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Johan Lataster" .
+
+<http://id.crossref.org/issn/0920-9964>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0920-9964" ;
+      <http://purl.org/dc/terms/title>
+              "Schizophrenia Research" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0920-9964" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0920-9964" .
+
+<http://id.crossref.org/contributor/hans-ulrich-wittchen-3eblgegjz2c44>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Wittchen" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Hans-Ulrich" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Hans-Ulrich Wittchen" .

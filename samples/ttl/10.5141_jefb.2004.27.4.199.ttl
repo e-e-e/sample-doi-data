@@ -1,0 +1,40 @@
+<http://id.crossref.org/issn/1225-0317>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1225-0317" ;
+      <http://purl.org/dc/terms/title>
+              "The Korean Journal of Ecology" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1225-0317" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1225-0317" .
+
+<http://dx.doi.org/10.5141/jefb.2004.27.4.199>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.5141/jefb.2004.27.4.199" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "210" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "199" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "27" ;
+      <http://purl.org/dc/terms/date>
+              "2004-08-01"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.5141/jefb.2004.27.4.199" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1225-0317> ;
+      <http://purl.org/dc/terms/publisher>
+              "The Ecological Society of Korea" ;
+      <http://purl.org/dc/terms/title>
+              "Effects of Nitrogen and Phosphorus Fertilization on Seasonal Changes and Retranslocation of Nutrition in Foliage and Twig of Pinus rigida and Larix kaempferi" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.5141/jefb.2004.27.4.199" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "210" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "199" ;
+      <http://purl.org/ontology/bibo/volume>
+              "27" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.5141/jefb.2004.27.4.199> , <doi:10.5141/jefb.2004.27.4.199> .

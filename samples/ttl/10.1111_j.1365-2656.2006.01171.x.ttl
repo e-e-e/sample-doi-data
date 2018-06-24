@@ -1,0 +1,60 @@
+<http://id.crossref.org/contributor/cedric-tentelier-fa8h48vgb0kq>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "TENTELIER" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "CEDRIC" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "CEDRIC TENTELIER" .
+
+<http://id.crossref.org/issn/0021-8790>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1365-2656" , "0021-8790" ;
+      <http://purl.org/dc/terms/title>
+              "Journal of Animal Ecology" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1365-2656" , "0021-8790" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1365-2656" , "urn:issn:0021-8790" .
+
+<http://id.crossref.org/contributor/xavier-fauvergue-fa8h48vgb0kq>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "FAUVERGUE" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "XAVIER" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "XAVIER FAUVERGUE" .
+
+<http://dx.doi.org/10.1111/j.1365-2656.2006.01171.x>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1111/j.1365-2656.2006.01171.x" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "8" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "1" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "76" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/cedric-tentelier-fa8h48vgb0kq> , <http://id.crossref.org/contributor/xavier-fauvergue-fa8h48vgb0kq> ;
+      <http://purl.org/dc/terms/date>
+              "2007-01"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1111/j.1365-2656.2006.01171.x" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0021-8790> ;
+      <http://purl.org/dc/terms/publisher>
+              "Wiley" ;
+      <http://purl.org/dc/terms/title>
+              "Herbivore-induced plant volatiles as cues for habitat assessment by a foraging parasitoid" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1111/j.1365-2656.2006.01171.x" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "8" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "1" ;
+      <http://purl.org/ontology/bibo/volume>
+              "76" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1111/j.1365-2656.2006.01171.x> , <doi:10.1111/j.1365-2656.2006.01171.x> .

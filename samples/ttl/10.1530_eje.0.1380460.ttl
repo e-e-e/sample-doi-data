@@ -1,0 +1,78 @@
+<http://id.crossref.org/contributor/m-tena-sempere-2re1y7wkg0ys1>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Tena-Sempere" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "M" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "M Tena-Sempere" .
+
+<http://id.crossref.org/issn/0804-4643>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0804-4643" , "1479-683X" ;
+      <http://purl.org/dc/terms/title>
+              "European Journal of Endocrinology" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0804-4643" , "1479-683X" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0804-4643" , "urn:issn:1479-683X" .
+
+<http://id.crossref.org/contributor/l-pinilla-2re1y7wkg0ys1>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Pinilla" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "L" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "L Pinilla" .
+
+<http://id.crossref.org/contributor/r-aguilar-2re1y7wkg0ys1>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Aguilar" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "R" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "R Aguilar" .
+
+<http://id.crossref.org/contributor/e-aguilar-2re1y7wkg0ys1>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Aguilar" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "E" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "E Aguilar" .
+
+<http://dx.doi.org/10.1530/eje.0.1380460>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1530/eje.0.1380460" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "466" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "460" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "138" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/m-tena-sempere-2re1y7wkg0ys1> , <http://id.crossref.org/contributor/l-pinilla-2re1y7wkg0ys1> , <http://id.crossref.org/contributor/r-aguilar-2re1y7wkg0ys1> , <http://id.crossref.org/contributor/e-aguilar-2re1y7wkg0ys1> ;
+      <http://purl.org/dc/terms/date>
+              "1998-04-01"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1530/eje.0.1380460" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0804-4643> ;
+      <http://purl.org/dc/terms/publisher>
+              "Bioscientifica" ;
+      <http://purl.org/dc/terms/title>
+              "Effects of N-methyl-D-aspartic acid and kainic acid on prolactin secretion in hyper- and hypoprolactinaemic conditions" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1530/eje.0.1380460" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "466" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "460" ;
+      <http://purl.org/ontology/bibo/volume>
+              "138" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1530/eje.0.1380460> , <doi:10.1530/eje.0.1380460> .

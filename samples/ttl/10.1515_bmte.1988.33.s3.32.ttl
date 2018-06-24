@@ -1,0 +1,51 @@
+<http://id.crossref.org/contributor/j-m-calaminus-2gx3j4f9mybu3>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Calaminus" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "J.M." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "J.M. Calaminus" .
+
+<http://id.crossref.org/issn/0013-5585>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1862-278X" , "0013-5585" ;
+      <http://purl.org/dc/terms/title>
+              "Biomedizinische Technik/Biomedical Engineering" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1862-278X" , "0013-5585" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0013-5585" , "urn:issn:1862-278X" .
+
+<http://dx.doi.org/10.1515/bmte.1988.33.s3.32>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1515/bmte.1988.33.s3.32" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "33" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "32" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "33" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/j-m-calaminus-2gx3j4f9mybu3> ;
+      <http://purl.org/dc/terms/date>
+              "1988"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1515/bmte.1988.33.s3.32" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0013-5585> ;
+      <http://purl.org/dc/terms/publisher>
+              "Walter de Gruyter GmbH" ;
+      <http://purl.org/dc/terms/title>
+              "Pulsoximetrie" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1515/bmte.1988.33.s3.32" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "33" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "32" ;
+      <http://purl.org/ontology/bibo/volume>
+              "33" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1515/bmte.1988.33.s3.32> , <doi:10.1515/bmte.1988.33.s3.32> .

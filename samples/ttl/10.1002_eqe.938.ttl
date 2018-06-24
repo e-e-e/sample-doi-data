@@ -1,0 +1,56 @@
+<http://dx.doi.org/10.1002/eqe.938>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1002/eqe.938" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "n/a" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "n/a" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/seung-yong-ok-18dldjdyto9ha> , <http://id.crossref.org/contributor/junho-song-18dldjdyto9ha> ;
+      <http://purl.org/dc/terms/date>
+              "2009"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1002/eqe.938" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0098-8847> ;
+      <http://purl.org/dc/terms/publisher>
+              "Wiley" ;
+      <http://purl.org/dc/terms/title>
+              "Multi-scale system reliability analysis of lifeline networks under earthquake hazards" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1002/eqe.938" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "n/a" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "n/a" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1002/eqe.938> , <info:doi/10.1002/eqe.938> .
+
+<http://id.crossref.org/contributor/seung-yong-ok-18dldjdyto9ha>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Ok" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Seung-Yong" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Seung-Yong Ok" .
+
+<http://id.crossref.org/contributor/junho-song-18dldjdyto9ha>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Song" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Junho" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Junho Song" .
+
+<http://id.crossref.org/issn/0098-8847>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1096-9845" , "0098-8847" ;
+      <http://purl.org/dc/terms/title>
+              "Earthquake Engineering & Structural Dynamics" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1096-9845" , "0098-8847" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1096-9845" , "urn:issn:0098-8847" .

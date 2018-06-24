@@ -1,0 +1,40 @@
+<http://dx.doi.org/10.1080/03050718.1998.9986495>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1080/03050718.1998.9986495" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "287" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "207" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "24" ;
+      <http://purl.org/dc/terms/date>
+              "1998-01"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1080/03050718.1998.9986495" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0305-0718> ;
+      <http://purl.org/dc/terms/publisher>
+              "Informa UK Limited" ;
+      <http://purl.org/dc/terms/title>
+              "Law reform" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1080/03050718.1998.9986495" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "287" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "207" ;
+      <http://purl.org/ontology/bibo/volume>
+              "24" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1080/03050718.1998.9986495> , <info:doi/10.1080/03050718.1998.9986495> .
+
+<http://id.crossref.org/issn/0305-0718>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1750-5976" , "0305-0718" ;
+      <http://purl.org/dc/terms/title>
+              "Commonwealth Law Bulletin" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1750-5976" , "0305-0718" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1750-5976" , "urn:issn:0305-0718" .

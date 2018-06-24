@@ -1,0 +1,60 @@
+<http://id.crossref.org/issn/0036-8075>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1095-9203" , "0036-8075" ;
+      <http://purl.org/dc/terms/title>
+              "Science" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1095-9203" , "0036-8075" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0036-8075" , "urn:issn:1095-9203" .
+
+<http://dx.doi.org/10.1126/science.8438155>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1126/science.8438155" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "967" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "965" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "259" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/y-muller-323zu0fo37z61> , <http://id.crossref.org/contributor/g-schulz-323zu0fo37z61> ;
+      <http://purl.org/dc/terms/date>
+              "1993-02-12"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1126/science.8438155" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0036-8075> ;
+      <http://purl.org/dc/terms/publisher>
+              "American Association for the Advancement of Science (AAAS)" ;
+      <http://purl.org/dc/terms/title>
+              "Structure of the thiamine- and flavin-dependent enzyme pyruvate oxidase" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1126/science.8438155" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "967" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "965" ;
+      <http://purl.org/ontology/bibo/volume>
+              "259" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1126/science.8438155> , <doi:10.1126/science.8438155> .
+
+<http://id.crossref.org/contributor/y-muller-323zu0fo37z61>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Muller" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Y." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Y. Muller" .
+
+<http://id.crossref.org/contributor/g-schulz-323zu0fo37z61>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Schulz" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "G." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "G. Schulz" .

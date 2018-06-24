@@ -1,0 +1,47 @@
+<http://id.crossref.org/issn/0026-2234>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0026-2234" ;
+      <http://purl.org/dc/terms/title>
+              "Michigan Law Review" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0026-2234" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0026-2234" .
+
+<http://dx.doi.org/10.2307/1285908>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.2307/1285908" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "121" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "56" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/william-g-mateer-1036bw9ez0tks> ;
+      <http://purl.org/dc/terms/date>
+              "1957-11"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.2307/1285908" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0026-2234> ;
+      <http://purl.org/dc/terms/publisher>
+              "JSTOR" ;
+      <http://purl.org/dc/terms/title>
+              "Constitutional Law: Due Process: Right of Witness to Counsel before State Investigatory Officer" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.2307/1285908" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "121" ;
+      <http://purl.org/ontology/bibo/volume>
+              "56" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.2307/1285908> , <doi:10.2307/1285908> .
+
+<http://id.crossref.org/contributor/william-g-mateer-1036bw9ez0tks>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Mateer" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "William G." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "William G. Mateer" .

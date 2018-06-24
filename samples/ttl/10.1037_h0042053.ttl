@@ -1,0 +1,69 @@
+<http://dx.doi.org/10.1037/h0042053>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1037/h0042053" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "29" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "24" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "47" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/joanne-chylinski-1ejkva9tomih> , <http://id.crossref.org/contributor/morgan-w-wright-1ejkva9tomih> , <http://id.crossref.org/contributor/george-c-sisler-1ejkva9tomih> ;
+      <http://purl.org/dc/terms/date>
+              "1963"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1037/h0042053" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0021-9010> ;
+      <http://purl.org/dc/terms/publisher>
+              "American Psychological Association (APA)" ;
+      <http://purl.org/dc/terms/title>
+              "Personality factors in the selection of civilians for isolated northern stations." ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1037/h0042053" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "29" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "24" ;
+      <http://purl.org/ontology/bibo/volume>
+              "47" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1037/h0042053> , <doi:10.1037/h0042053> .
+
+<http://id.crossref.org/issn/0021-9010>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0021-9010" ;
+      <http://purl.org/dc/terms/title>
+              "Journal of Applied Psychology" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0021-9010" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0021-9010" .
+
+<http://id.crossref.org/contributor/joanne-chylinski-1ejkva9tomih>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Chylinski" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Joanne" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Joanne Chylinski" .
+
+<http://id.crossref.org/contributor/morgan-w-wright-1ejkva9tomih>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Wright" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Morgan W." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Morgan W. Wright" .
+
+<http://id.crossref.org/contributor/george-c-sisler-1ejkva9tomih>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Sisler" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "George C." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "George C. Sisler" .

@@ -1,0 +1,26 @@
+<http://dx.doi.org/10.4271/870450>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.4271/870450" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/k-s-chun-1wi3phhasn5o9> ;
+      <http://purl.org/dc/terms/date>
+              "1987-02-23"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.4271/870450" ;
+      <http://purl.org/dc/terms/publisher>
+              "SAE International" ;
+      <http://purl.org/dc/terms/title>
+              "Synchronization Trigger Control System for Flow Visualization" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.4271/870450" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.4271/870450> , <doi:10.4271/870450> .
+
+<http://id.crossref.org/contributor/k-s-chun-1wi3phhasn5o9>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Chun" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "K. S." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "K. S. Chun" .

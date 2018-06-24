@@ -1,0 +1,69 @@
+<http://id.crossref.org/contributor/emrah-ozensoy-1kz75dncu9jjw>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Ozensoy" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Emrah" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Emrah Ozensoy" .
+
+<http://id.crossref.org/contributor/charles-h-f-peden-1kz75dncu9jjw>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Peden" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Charles H. F." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Charles H. F. Peden" .
+
+<http://dx.doi.org/10.1021/jp052053e>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1021/jp052053e" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "15984" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "15977" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "109" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/emrah-ozensoy-1kz75dncu9jjw> , <http://id.crossref.org/contributor/charles-h-f-peden-1kz75dncu9jjw> , <http://id.crossref.org/contributor/janos-szanyi-1kz75dncu9jjw> ;
+      <http://purl.org/dc/terms/date>
+              "2005-08"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1021/jp052053e" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1520-6106> ;
+      <http://purl.org/dc/terms/publisher>
+              "American Chemical Society (ACS)" ;
+      <http://purl.org/dc/terms/title>
+              "NO2Adsorption on Ultrathin θ-Al2O3Films:  Formation of Nitrite and Nitrate Species" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1021/jp052053e" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "15984" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "15977" ;
+      <http://purl.org/ontology/bibo/volume>
+              "109" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1021/jp052053e> , <doi:10.1021/jp052053e> .
+
+<http://id.crossref.org/contributor/janos-szanyi-1kz75dncu9jjw>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Szanyi" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "János" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "János Szanyi" .
+
+<http://id.crossref.org/issn/1520-6106>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1520-5207" , "1520-6106" ;
+      <http://purl.org/dc/terms/title>
+              "The Journal of Physical Chemistry B" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1520-5207" , "1520-6106" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1520-5207" , "urn:issn:1520-6106" .

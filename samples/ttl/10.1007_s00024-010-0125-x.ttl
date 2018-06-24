@@ -1,0 +1,51 @@
+<http://dx.doi.org/10.1007/s00024-010-0125-x>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1007/s00024-010-0125-x" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "1458" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "1457" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "167" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/sujit-s-datta-14hbnmzqlt7j> ;
+      <http://purl.org/dc/terms/date>
+              "2010-03-25"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1007/s00024-010-0125-x" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0033-4553> ;
+      <http://purl.org/dc/terms/publisher>
+              "Springer Nature" ;
+      <http://purl.org/dc/terms/title>
+              "Book Review" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1007/s00024-010-0125-x" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "1458" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "1457" ;
+      <http://purl.org/ontology/bibo/volume>
+              "167" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1007/s00024-010-0125-x> , <doi:10.1007/s00024-010-0125-x> .
+
+<http://id.crossref.org/issn/0033-4553>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1420-9136" , "0033-4553" ;
+      <http://purl.org/dc/terms/title>
+              "Pure and Applied Geophysics" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1420-9136" , "0033-4553" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0033-4553" , "urn:issn:1420-9136" .
+
+<http://id.crossref.org/contributor/sujit-s-datta-14hbnmzqlt7j>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Datta" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Sujit S." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Sujit S. Datta" .

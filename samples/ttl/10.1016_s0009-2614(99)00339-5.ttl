@@ -1,0 +1,78 @@
+<http://id.crossref.org/contributor/rodrigo-j-carbajo-cid8jdavzazh>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Carbajo" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Rodrigo J." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Rodrigo J. Carbajo" .
+
+<http://dx.doi.org/10.1016/s0009-2614(99)00339-5>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/s0009-2614(99)00339-5" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "34" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "28" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "305" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/rodrigo-j-carbajo-cid8jdavzazh> , <http://id.crossref.org/contributor/ray-freeman-cid8jdavzazh> , <http://id.crossref.org/contributor/barjat-herve-cid8jdavzazh> , <http://id.crossref.org/contributor/noah-linden-cid8jdavzazh> ;
+      <http://purl.org/dc/terms/date>
+              "1999-05"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/s0009-2614(99)00339-5" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0009-2614> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Pulse sequences for NMR quantum computers: how to manipulate nuclear spins while freezing the motion of coupled neighbours" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/s0009-2614(99)00339-5" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "34" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "28" ;
+      <http://purl.org/ontology/bibo/volume>
+              "305" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1016/s0009-2614(99)00339-5> , <doi:10.1016/s0009-2614(99)00339-5> .
+
+<http://id.crossref.org/contributor/ray-freeman-cid8jdavzazh>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Freeman" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Ray" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Ray Freeman" .
+
+<http://id.crossref.org/contributor/barjat-herve-cid8jdavzazh>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Hervé" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Barjat" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Barjat Hervé" .
+
+<http://id.crossref.org/contributor/noah-linden-cid8jdavzazh>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Linden" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Noah" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Noah Linden" .
+
+<http://id.crossref.org/issn/0009-2614>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0009-2614" ;
+      <http://purl.org/dc/terms/title>
+              "Chemical Physics Letters" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0009-2614" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0009-2614" .

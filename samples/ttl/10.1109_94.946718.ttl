@@ -1,0 +1,87 @@
+<http://id.crossref.org/issn/1070-9878>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1070-9878" ;
+      <http://purl.org/dc/terms/title>
+              "IEEE Transactions on Dielectrics and Electrical Insulation" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1070-9878" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1070-9878" .
+
+<http://id.crossref.org/contributor/m-nilsson-2xhq28lnerhtc>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Nilsson" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "M." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "M. Nilsson" .
+
+<http://id.crossref.org/contributor/m-s-mattsson-2xhq28lnerhtc>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Mattsson" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "M.S." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "M.S. Mattsson" .
+
+<http://dx.doi.org/10.1109/94.946718>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1109/94.946718" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "651" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "648" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "8" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/m-nilsson-2xhq28lnerhtc> , <http://id.crossref.org/contributor/m-s-mattsson-2xhq28lnerhtc> , <http://id.crossref.org/contributor/g-frenning-2xhq28lnerhtc> , <http://id.crossref.org/contributor/a-k-jonsson-2xhq28lnerhtc> , <http://id.crossref.org/contributor/g-a-niklasson-2xhq28lnerhtc> ;
+      <http://purl.org/dc/terms/date>
+              "2001"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1109/94.946718" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1070-9878> ;
+      <http://purl.org/dc/terms/publisher>
+              "Institute of Electrical and Electronics Engineers (IEEE)" ;
+      <http://purl.org/dc/terms/title>
+              "Dielectric study of thin films of Ta/sub 2/O/sub 5/ and ZrO/sub 2/" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1109/94.946718" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "651" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "648" ;
+      <http://purl.org/ontology/bibo/volume>
+              "8" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1109/94.946718> , <info:doi/10.1109/94.946718> .
+
+<http://id.crossref.org/contributor/g-frenning-2xhq28lnerhtc>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Frenning" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "G." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "G. Frenning" .
+
+<http://id.crossref.org/contributor/a-k-jonsson-2xhq28lnerhtc>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Jonsson" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "A.K." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "A.K. Jonsson" .
+
+<http://id.crossref.org/contributor/g-a-niklasson-2xhq28lnerhtc>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Niklasson" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "G.A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "G.A. Niklasson" .

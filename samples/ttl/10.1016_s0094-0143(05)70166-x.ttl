@@ -1,0 +1,51 @@
+<http://id.crossref.org/issn/0094-0143>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0094-0143" ;
+      <http://purl.org/dc/terms/title>
+              "Urologic Clinics of North America" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0094-0143" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0094-0143" .
+
+<http://id.crossref.org/contributor/andrew-r-mccullough-3b0nraaxjofkg>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "McCullough" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Andrew R." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Andrew R. McCullough" .
+
+<http://dx.doi.org/10.1016/s0094-0143(05)70166-x>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/s0094-0143(05)70166-x" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "627" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "613" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "28" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/andrew-r-mccullough-3b0nraaxjofkg> ;
+      <http://purl.org/dc/terms/date>
+              "2001-08"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/s0094-0143(05)70166-x" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0094-0143> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "PREVENTION AND MANAGEMENT OF ERECTILE DYSFUNCTION FOLLOWING RADICAL PROSTATECTOMY" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/s0094-0143(05)70166-x" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "627" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "613" ;
+      <http://purl.org/ontology/bibo/volume>
+              "28" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1016/s0094-0143(05)70166-x> , <info:doi/10.1016/s0094-0143(05)70166-x> .

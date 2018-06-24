@@ -1,0 +1,60 @@
+<http://id.crossref.org/issn/0001-4966>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0001-4966" ;
+      <http://purl.org/dc/terms/title>
+              "The Journal of the Acoustical Society of America" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0001-4966" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0001-4966" .
+
+<http://dx.doi.org/10.1121/1.409421>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1121/1.409421" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "2878" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "2878" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "95" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/richard-goldhor-4xwpqm1qxqla> , <http://id.crossref.org/contributor/suzanne-e-boyce-4xwpqm1qxqla> ;
+      <http://purl.org/dc/terms/date>
+              "1994-05"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1121/1.409421" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0001-4966> ;
+      <http://purl.org/dc/terms/publisher>
+              "Acoustical Society of America (ASA)" ;
+      <http://purl.org/dc/terms/title>
+              "A database of environmental sounds" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1121/1.409421" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "2878" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "2878" ;
+      <http://purl.org/ontology/bibo/volume>
+              "95" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1121/1.409421> , <info:doi/10.1121/1.409421> .
+
+<http://id.crossref.org/contributor/richard-goldhor-4xwpqm1qxqla>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Goldhor" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Richard" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Richard Goldhor" .
+
+<http://id.crossref.org/contributor/suzanne-e-boyce-4xwpqm1qxqla>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Boyce" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Suzanne E." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Suzanne E. Boyce" .

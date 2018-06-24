@@ -1,0 +1,51 @@
+<http://id.crossref.org/contributor/t-kurokawa-1jzkgkdvn3x68>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kurokawa" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "T." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "T. Kurokawa" .
+
+<http://dx.doi.org/10.1109/cleopr.1999.817845>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1109/cleopr.1999.817845" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/t-kurokawa-1jzkgkdvn3x68> , <http://id.crossref.org/contributor/h-tsuda-1jzkgkdvn3x68> , <http://id.crossref.org/contributor/h-takenouchi-1jzkgkdvn3x68> ;
+      <http://purl.org/dc/terms/date>
+              ""^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1109/cleopr.1999.817845" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/0780356616> ;
+      <http://purl.org/dc/terms/publisher>
+              "IEEE" ;
+      <http://purl.org/dc/terms/title>
+              "Time-space-conversion optical signal processing using arrayed-waveguide grating" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1109/cleopr.1999.817845" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1109/cleopr.1999.817845> , <info:doi/10.1109/cleopr.1999.817845> .
+
+<http://id.crossref.org/isbn/0780356616>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Technical Digest. CLEO/Pacific Rim '99. Pacific Rim Conference on Lasers and Electro-Optics (Cat. No.99TH8464)" .
+
+<http://id.crossref.org/contributor/h-tsuda-1jzkgkdvn3x68>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Tsuda" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "H." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "H. Tsuda" .
+
+<http://id.crossref.org/contributor/h-takenouchi-1jzkgkdvn3x68>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Takenouchi" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "H." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "H. Takenouchi" .

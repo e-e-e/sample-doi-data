@@ -1,0 +1,40 @@
+<http://id.crossref.org/issn/0959-8138>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1468-5833" , "0959-8138" ;
+      <http://purl.org/dc/terms/title>
+              "BMJ" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1468-5833" , "0959-8138" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1468-5833" , "urn:issn:0959-8138" .
+
+<http://dx.doi.org/10.1136/bmj.1.2886.s69>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1136/bmj.1.2886.s69" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "S72" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "S69" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "1" ;
+      <http://purl.org/dc/terms/date>
+              "1916-04-22"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1136/bmj.1.2886.s69" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0959-8138> ;
+      <http://purl.org/dc/terms/publisher>
+              "BMJ" ;
+      <http://purl.org/dc/terms/title>
+              "Supplement 626" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1136/bmj.1.2886.s69" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "S72" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "S69" ;
+      <http://purl.org/ontology/bibo/volume>
+              "1" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1136/bmj.1.2886.s69> , <doi:10.1136/bmj.1.2886.s69> .

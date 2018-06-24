@@ -1,0 +1,33 @@
+<http://dx.doi.org/10.1142/9789812811264_0004>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1142/9789812811264_0004" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/wilfrid-s-kendall-ahuj0raws0ud> ;
+      <http://purl.org/dc/terms/date>
+              "2001-05"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1142/9789812811264_0004" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9789810246464> ;
+      <http://purl.org/dc/terms/publisher>
+              "WORLD SCIENTIFIC" ;
+      <http://purl.org/dc/terms/title>
+              "GAMBLING WITH THE TRUTH: MARKOV CHAIN MONTE CARLO" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1142/9789812811264_0004" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1142/9789812811264_0004> , <info:doi/10.1142/9789812811264_0004> .
+
+<http://id.crossref.org/isbn/9789810246464>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Challenges for the 21st Century" .
+
+<http://id.crossref.org/contributor/wilfrid-s-kendall-ahuj0raws0ud>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "KENDALL" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "WILFRID S." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "WILFRID S. KENDALL" .

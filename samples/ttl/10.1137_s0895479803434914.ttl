@@ -1,0 +1,69 @@
+<http://id.crossref.org/contributor/hung-yuan-fan-7cteslp94je1>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Fan" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Hung-Yuan" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Hung-Yuan Fan" .
+
+<http://id.crossref.org/contributor/paul-van-dooren-7cteslp94je1>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Van Dooren" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Paul" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Paul Van Dooren" .
+
+<http://dx.doi.org/10.1137/s0895479803434914>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1137/s0895479803434914" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "256" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "252" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "26" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/hung-yuan-fan-7cteslp94je1> , <http://id.crossref.org/contributor/paul-van-dooren-7cteslp94je1> , <http://id.crossref.org/contributor/wen-wei-lin-7cteslp94je1> ;
+      <http://purl.org/dc/terms/date>
+              "2004-01"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1137/s0895479803434914" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0895-4798> ;
+      <http://purl.org/dc/terms/publisher>
+              "Society for Industrial & Applied Mathematics (SIAM)" ;
+      <http://purl.org/dc/terms/title>
+              "Normwise Scaling of Second Order Polynomial Matrices" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1137/s0895479803434914" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "256" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "252" ;
+      <http://purl.org/ontology/bibo/volume>
+              "26" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1137/s0895479803434914> , <info:doi/10.1137/s0895479803434914> .
+
+<http://id.crossref.org/issn/0895-4798>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1095-7162" , "0895-4798" ;
+      <http://purl.org/dc/terms/title>
+              "SIAM Journal on Matrix Analysis and Applications" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1095-7162" , "0895-4798" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1095-7162" , "urn:issn:0895-4798" .
+
+<http://id.crossref.org/contributor/wen-wei-lin-7cteslp94je1>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Lin" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Wen-Wei" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Wen-Wei Lin" .

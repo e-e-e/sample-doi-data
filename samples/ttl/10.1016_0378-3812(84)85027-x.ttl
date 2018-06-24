@@ -1,0 +1,51 @@
+<http://id.crossref.org/contributor/chorng-h-twu-1gauebgm3clc1>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Twu" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Chorng H." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Chorng H. Twu" .
+
+<http://id.crossref.org/issn/0378-3812>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0378-3812" ;
+      <http://purl.org/dc/terms/title>
+              "Fluid Phase Equilibria" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0378-3812" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0378-3812" .
+
+<http://dx.doi.org/10.1016/0378-3812(84)85027-x>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/0378-3812(84)85027-x" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "150" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "137" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "16" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/chorng-h-twu-1gauebgm3clc1> ;
+      <http://purl.org/dc/terms/date>
+              "1984-01"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/0378-3812(84)85027-x" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0378-3812> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "An internally consistent correlation for predicting the critical properties and molecular weights of petroleum and coal-tar liquids" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/0378-3812(84)85027-x" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "150" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "137" ;
+      <http://purl.org/ontology/bibo/volume>
+              "16" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1016/0378-3812(84)85027-x> , <info:doi/10.1016/0378-3812(84)85027-x> .

@@ -1,0 +1,51 @@
+<http://id.crossref.org/contributor/p-ausloos-o8plvz9jkouo>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Ausloos" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "P." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "P. Ausloos" .
+
+<http://dx.doi.org/10.1021/j100905a034>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1021/j100905a034" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "1618" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "1616" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "65" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/p-ausloos-o8plvz9jkouo> ;
+      <http://purl.org/dc/terms/date>
+              "1961-09"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1021/j100905a034" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0022-3654> ;
+      <http://purl.org/dc/terms/publisher>
+              "American Chemical Society (ACS)" ;
+      <http://purl.org/dc/terms/title>
+              "INTRAMOLECULAR REARRANGEMENTS.1II. PHOTOLYSIS AND RADIOLYSIS OF 4-METHYL-2-HEXANONE" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1021/j100905a034" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "1618" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "1616" ;
+      <http://purl.org/ontology/bibo/volume>
+              "65" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1021/j100905a034> , <info:doi/10.1021/j100905a034> .
+
+<http://id.crossref.org/issn/0022-3654>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1541-5740" , "0022-3654" ;
+      <http://purl.org/dc/terms/title>
+              "The Journal of Physical Chemistry" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1541-5740" , "0022-3654" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0022-3654" , "urn:issn:1541-5740" .

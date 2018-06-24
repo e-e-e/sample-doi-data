@@ -1,0 +1,47 @@
+<http://id.crossref.org/issn/0021-8456>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0021-8456" ;
+      <http://purl.org/dc/terms/title>
+              "Journal of Accounting Research" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0021-8456" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0021-8456" .
+
+<http://id.crossref.org/contributor/jeffrey-gramlich-31qmz6mc5jeub>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Gramlich" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Jeffrey" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Jeffrey Gramlich" .
+
+<http://dx.doi.org/10.2307/2491199>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.2307/2491199" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "154" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "30" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/jeffrey-gramlich-31qmz6mc5jeub> ;
+      <http://purl.org/dc/terms/date>
+              "1992"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.2307/2491199" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0021-8456> ;
+      <http://purl.org/dc/terms/publisher>
+              "JSTOR" ;
+      <http://purl.org/dc/terms/title>
+              "Discussion of Earnings Management and the Corporate Alternative Minimum Tax" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.2307/2491199" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "154" ;
+      <http://purl.org/ontology/bibo/volume>
+              "30" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.2307/2491199> , <doi:10.2307/2491199> .

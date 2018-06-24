@@ -1,0 +1,40 @@
+<http://dx.doi.org/10.1111/j.2150-1092.1983.tb01361.x>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1111/j.2150-1092.1983.tb01361.x" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "192" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "191" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "18" ;
+      <http://purl.org/dc/terms/date>
+              "2010-02-26"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1111/j.2150-1092.1983.tb01361.x" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0010-1168> ;
+      <http://purl.org/dc/terms/publisher>
+              "Wiley" ;
+      <http://purl.org/dc/terms/title>
+              "ENROLLMENT" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1111/j.2150-1092.1983.tb01361.x" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "192" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "191" ;
+      <http://purl.org/ontology/bibo/volume>
+              "18" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1111/j.2150-1092.1983.tb01361.x> , <doi:10.1111/j.2150-1092.1983.tb01361.x> .
+
+<http://id.crossref.org/issn/0010-1168>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0010-1168" ;
+      <http://purl.org/dc/terms/title>
+              "College Student Personnel Abstracts" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0010-1168" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0010-1168" .

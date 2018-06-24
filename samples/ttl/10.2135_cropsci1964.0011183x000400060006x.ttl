@@ -1,0 +1,47 @@
+<http://id.crossref.org/contributor/l-j-hoffbeck-kkzjw6zh6cby>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Hoffbeck" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "L. J." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "L. J. Hoffbeck" .
+
+<http://id.crossref.org/issn/0011-183X>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0011-183X" ;
+      <http://purl.org/dc/terms/title>
+              "Crop Science" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0011-183X" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0011-183X" .
+
+<http://dx.doi.org/10.2135/cropsci1964.0011183x000400060006x>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.2135/cropsci1964.0011183x000400060006x" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "573" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "4" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/l-j-hoffbeck-kkzjw6zh6cby> ;
+      <http://purl.org/dc/terms/date>
+              "1964"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.2135/cropsci1964.0011183x000400060006x" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0011-183X> ;
+      <http://purl.org/dc/terms/publisher>
+              "Crop Science Society of America" ;
+      <http://purl.org/dc/terms/title>
+              "Relation Between Stalk Breakage of Corn and Reaction to Diplodia maydis and Gibberella zeae1" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.2135/cropsci1964.0011183x000400060006x" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "573" ;
+      <http://purl.org/ontology/bibo/volume>
+              "4" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.2135/cropsci1964.0011183x000400060006x> , <doi:10.2135/cropsci1964.0011183x000400060006x> .

@@ -1,0 +1,87 @@
+<http://id.crossref.org/contributor/harshala-parab-1auv4kgrrg9b7>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Parab" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Harshala" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Harshala Parab" .
+
+<http://dx.doi.org/10.1002/clen.200900158>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1002/clen.200900158" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "969" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "963" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "37" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/harshala-parab-1auv4kgrrg9b7> , <http://id.crossref.org/contributor/tejaswini-pathare-1auv4kgrrg9b7> , <http://id.crossref.org/contributor/niyoti-shenoy-1auv4kgrrg9b7> , <http://id.crossref.org/contributor/mahadevan-sudersanan-1auv4kgrrg9b7> , <http://id.crossref.org/contributor/bhavana-vaze-1auv4kgrrg9b7> ;
+      <http://purl.org/dc/terms/date>
+              "2009-12"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1002/clen.200900158" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1863-0650> ;
+      <http://purl.org/dc/terms/publisher>
+              "Wiley" ;
+      <http://purl.org/dc/terms/title>
+              "Use of Agro-Industrial Wastes for Removal of Basic Dyes from Aqueous Solutions" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1002/clen.200900158" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "969" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "963" ;
+      <http://purl.org/ontology/bibo/volume>
+              "37" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1002/clen.200900158> , <doi:10.1002/clen.200900158> .
+
+<http://id.crossref.org/contributor/tejaswini-pathare-1auv4kgrrg9b7>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Pathare" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Tejaswini" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Tejaswini Pathare" .
+
+<http://id.crossref.org/contributor/niyoti-shenoy-1auv4kgrrg9b7>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Shenoy" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Niyoti" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Niyoti Shenoy" .
+
+<http://id.crossref.org/contributor/mahadevan-sudersanan-1auv4kgrrg9b7>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Sudersanan" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Mahadevan" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Mahadevan Sudersanan" .
+
+<http://id.crossref.org/issn/1863-0650>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1863-0669" , "1863-0650" ;
+      <http://purl.org/dc/terms/title>
+              "CLEAN - Soil, Air, Water" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1863-0669" , "1863-0650" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1863-0669" , "urn:issn:1863-0650" .
+
+<http://id.crossref.org/contributor/bhavana-vaze-1auv4kgrrg9b7>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Vaze" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Bhavana" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Bhavana Vaze" .

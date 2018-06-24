@@ -1,0 +1,74 @@
+<http://id.crossref.org/contributor/hartwig-siebner-2educogf4qy84>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Siebner" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Hartwig" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Hartwig Siebner" .
+
+<http://dx.doi.org/10.1016/s1053-8119(01)92565-0>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/s1053-8119(01)92565-0" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "1251" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "13" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/hartwig-siebner-2educogf4qy84> , <http://id.crossref.org/contributor/dieter-sauner-2educogf4qy84> , <http://id.crossref.org/contributor/john-rothwell-2educogf4qy84> , <http://id.crossref.org/contributor/claire-meehan-2educogf4qy84> ;
+      <http://purl.org/dc/terms/date>
+              "2001-06"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/s1053-8119(01)92565-0" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1053-8119> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Transcranial magnetic stimulation of primary motor cortex does not interfere with mental rotation of hands" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/s1053-8119(01)92565-0" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "1251" ;
+      <http://purl.org/ontology/bibo/volume>
+              "13" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1016/s1053-8119(01)92565-0> , <doi:10.1016/s1053-8119(01)92565-0> .
+
+<http://id.crossref.org/issn/1053-8119>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1053-8119" ;
+      <http://purl.org/dc/terms/title>
+              "NeuroImage" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1053-8119" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1053-8119" .
+
+<http://id.crossref.org/contributor/dieter-sauner-2educogf4qy84>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Sauner" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Dieter" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Dieter Sauner" .
+
+<http://id.crossref.org/contributor/john-rothwell-2educogf4qy84>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Rothwell" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "John" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "John Rothwell" .
+
+<http://id.crossref.org/contributor/claire-meehan-2educogf4qy84>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Meehan" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Claire" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Claire Meehan" .

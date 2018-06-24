@@ -1,0 +1,60 @@
+<http://id.crossref.org/contributor/tsuneo-kuwagata-o1b7r3sh1ro3>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kuwagata" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Tsuneo" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Tsuneo Kuwagata" .
+
+<http://id.crossref.org/issn/0918-9440>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1618-0860" , "0918-9440" ;
+      <http://purl.org/dc/terms/title>
+              "Journal of Plant Research" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1618-0860" , "0918-9440" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0918-9440" , "urn:issn:1618-0860" .
+
+<http://dx.doi.org/10.1007/s10265-006-0035-2>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1007/s10265-006-0035-2" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "189" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "175" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "120" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/tsuneo-kuwagata-o1b7r3sh1ro3> , <http://id.crossref.org/contributor/mari-murai-hatano-o1b7r3sh1ro3> ;
+      <http://purl.org/dc/terms/date>
+              "2006-12-21"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1007/s10265-006-0035-2" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0918-9440> ;
+      <http://purl.org/dc/terms/publisher>
+              "Springer Nature" ;
+      <http://purl.org/dc/terms/title>
+              "Osmotic water permeability of plasma and vacuolar membranes in protoplasts I. High osmotic water permeability in radish (Raphanus sativus) root cells as measured by a new method" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1007/s10265-006-0035-2" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "189" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "175" ;
+      <http://purl.org/ontology/bibo/volume>
+              "120" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1007/s10265-006-0035-2> , <doi:10.1007/s10265-006-0035-2> .
+
+<http://id.crossref.org/contributor/mari-murai-hatano-o1b7r3sh1ro3>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Murai-Hatano" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Mari" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Mari Murai-Hatano" .

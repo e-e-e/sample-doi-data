@@ -1,0 +1,60 @@
+<http://dx.doi.org/10.1073/pnas.1233634100>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1073/pnas.1233634100" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "9143" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "9138" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "100" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/m-thomas-3jhdxsioh9c3r> , <http://id.crossref.org/contributor/a-m-klibanov-3jhdxsioh9c3r> ;
+      <http://purl.org/dc/terms/date>
+              "2003-07-28"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1073/pnas.1233634100" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0027-8424> ;
+      <http://purl.org/dc/terms/publisher>
+              "Proceedings of the National Academy of Sciences" ;
+      <http://purl.org/dc/terms/title>
+              "Conjugation to gold nanoparticles enhances polyethylenimine's transfer of plasmid DNA into mammalian cells" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1073/pnas.1233634100" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "9143" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "9138" ;
+      <http://purl.org/ontology/bibo/volume>
+              "100" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1073/pnas.1233634100> , <doi:10.1073/pnas.1233634100> .
+
+<http://id.crossref.org/issn/0027-8424>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1091-6490" , "0027-8424" ;
+      <http://purl.org/dc/terms/title>
+              "Proceedings of the National Academy of Sciences" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1091-6490" , "0027-8424" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1091-6490" , "urn:issn:0027-8424" .
+
+<http://id.crossref.org/contributor/m-thomas-3jhdxsioh9c3r>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Thomas" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "M." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "M. Thomas" .
+
+<http://id.crossref.org/contributor/a-m-klibanov-3jhdxsioh9c3r>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Klibanov" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "A. M." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "A. M. Klibanov" .

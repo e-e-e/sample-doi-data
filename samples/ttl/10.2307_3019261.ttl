@@ -1,0 +1,28 @@
+<http://id.crossref.org/issn/1468-2346>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1468-2346" ;
+      <http://purl.org/dc/terms/title>
+              "International Affairs" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1468-2346" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1468-2346" .
+
+<http://dx.doi.org/10.2307/3019261>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.2307/3019261" ;
+      <http://purl.org/dc/terms/date>
+              "1939-01-01"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.2307/3019261" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1468-2346> ;
+      <http://purl.org/dc/terms/publisher>
+              "Oxford University Press (OUP)" ;
+      <http://purl.org/dc/terms/title>
+              "Studies And Reports On Statistical Methods, No. 1. Statistics of the Gainfully-Occupied Population, No. 2. Minimum List of Commodities for International Trade Statistics, No. 3. Timber Statistics and No. 4. Statistics relating to Capital Formation" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.2307/3019261" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.2307/3019261> , <doi:10.2307/3019261> .

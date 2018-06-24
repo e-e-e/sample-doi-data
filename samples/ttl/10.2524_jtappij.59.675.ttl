@@ -1,0 +1,51 @@
+<http://id.crossref.org/issn/0022-815X>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0022-815X" , "1881-1000" ;
+      <http://purl.org/dc/terms/title>
+              "JAPAN TAPPI JOURNAL" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0022-815X" , "1881-1000" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0022-815X" , "urn:issn:1881-1000" .
+
+<http://id.crossref.org/contributor/masaharu-yamashita-di0ftmgqb9lu>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Yamashita" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Masaharu" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Masaharu Yamashita" .
+
+<http://dx.doi.org/10.2524/jtappij.59.675>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.2524/jtappij.59.675" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "680" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "675" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "59" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/masaharu-yamashita-di0ftmgqb9lu> ;
+      <http://purl.org/dc/terms/date>
+              "2005"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.2524/jtappij.59.675" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0022-815X> ;
+      <http://purl.org/dc/terms/publisher>
+              "Japan Technical Association of the Pulp and Paper Industry" ;
+      <http://purl.org/dc/terms/title>
+              "Efficient Collection of Energy from Organic Wastewater" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.2524/jtappij.59.675" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "680" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "675" ;
+      <http://purl.org/ontology/bibo/volume>
+              "59" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.2524/jtappij.59.675> , <doi:10.2524/jtappij.59.675> .

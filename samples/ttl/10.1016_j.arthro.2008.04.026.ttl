@@ -1,0 +1,87 @@
+<http://id.crossref.org/contributor/giuseppe-milano-16e1o52h7mrdf>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Milano" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Giuseppe" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Giuseppe Milano" .
+
+<http://id.crossref.org/issn/0749-8063>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0749-8063" ;
+      <http://purl.org/dc/terms/title>
+              "Arthroscopy: The Journal of Arthroscopic & Related Surgery" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0749-8063" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0749-8063" .
+
+<http://id.crossref.org/contributor/andrea-grasso-16e1o52h7mrdf>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Grasso" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Andrea" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Andrea Grasso" .
+
+<http://id.crossref.org/contributor/laura-deriu-16e1o52h7mrdf>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Deriu" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Laura" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Laura Deriu" .
+
+<http://dx.doi.org/10.1016/j.arthro.2008.04.026>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/j.arthro.2008.04.026" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "e15" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "e14" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "24" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/giuseppe-milano-16e1o52h7mrdf> , <http://id.crossref.org/contributor/andrea-grasso-16e1o52h7mrdf> , <http://id.crossref.org/contributor/laura-deriu-16e1o52h7mrdf> , <http://id.crossref.org/contributor/matteo-salvatore-16e1o52h7mrdf> , <http://id.crossref.org/contributor/gianluca-falcone-16e1o52h7mrdf> ;
+      <http://purl.org/dc/terms/date>
+              "2008-06"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/j.arthro.2008.04.026" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0749-8063> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Single-Row Versus Double-Row Arthroscopic Rotator Cuff Repair: A Prospective Randomized Clinical Study (SS-26)" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/j.arthro.2008.04.026" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "e15" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "e14" ;
+      <http://purl.org/ontology/bibo/volume>
+              "24" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1016/j.arthro.2008.04.026> , <doi:10.1016/j.arthro.2008.04.026> .
+
+<http://id.crossref.org/contributor/matteo-salvatore-16e1o52h7mrdf>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Salvatore" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Matteo" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Matteo Salvatore" .
+
+<http://id.crossref.org/contributor/gianluca-falcone-16e1o52h7mrdf>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Falcone" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Gianluca" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Gianluca Falcone" .

@@ -1,0 +1,60 @@
+<http://id.crossref.org/isbn/9781424441327>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "2009 2nd International Conference on Biomedical Engineering and Informatics" .
+
+<http://id.crossref.org/contributor/zesheng-zhang-3268430oeeyd5>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Zhang" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Zesheng" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Zesheng Zhang" .
+
+<http://id.crossref.org/contributor/yuben-wang-3268430oeeyd5>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Wang" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Yuben" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Yuben Wang" .
+
+<http://id.crossref.org/contributor/wei-sun-3268430oeeyd5>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Sun" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Wei" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Wei Sun" .
+
+<http://dx.doi.org/10.1109/bmei.2009.5305591>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1109/bmei.2009.5305591" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/zesheng-zhang-3268430oeeyd5> , <http://id.crossref.org/contributor/yuben-wang-3268430oeeyd5> , <http://id.crossref.org/contributor/wei-sun-3268430oeeyd5> , <http://id.crossref.org/contributor/liya-liang-3268430oeeyd5> ;
+      <http://purl.org/dc/terms/date>
+              "2009"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1109/bmei.2009.5305591" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9781424441327> ;
+      <http://purl.org/dc/terms/publisher>
+              "IEEE" ;
+      <http://purl.org/dc/terms/title>
+              "Effect of the Inonotus Obliquus Polysaccharides on Blood Lipid Metabolism and Oxidative Stress of Rats Fed High-Fat Diet In Vivo" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1109/bmei.2009.5305591" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1109/bmei.2009.5305591> , <info:doi/10.1109/bmei.2009.5305591> .
+
+<http://id.crossref.org/contributor/liya-liang-3268430oeeyd5>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Liang" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Liya" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Liya Liang" .

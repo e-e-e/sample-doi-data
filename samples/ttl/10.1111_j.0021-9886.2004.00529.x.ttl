@@ -1,0 +1,69 @@
+<http://dx.doi.org/10.1111/j.0021-9886.2004.00529.x>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1111/j.0021-9886.2004.00529.x" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "794" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "775" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "42" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/jakob-haan-19goh5wxirhhi> , <http://id.crossref.org/contributor/fabian-amtenbrink-19goh5wxirhhi> , <http://id.crossref.org/contributor/sandra-waller-19goh5wxirhhi> ;
+      <http://purl.org/dc/terms/date>
+              "2004-11"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1111/j.0021-9886.2004.00529.x" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0021-9886> ;
+      <http://purl.org/dc/terms/publisher>
+              "Wiley" ;
+      <http://purl.org/dc/terms/title>
+              "The Transparency and Credibility of the European Central Bank" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1111/j.0021-9886.2004.00529.x" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "794" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "775" ;
+      <http://purl.org/ontology/bibo/volume>
+              "42" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1111/j.0021-9886.2004.00529.x> , <info:doi/10.1111/j.0021-9886.2004.00529.x> .
+
+<http://id.crossref.org/issn/0021-9886>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1468-5965" , "0021-9886" ;
+      <http://purl.org/dc/terms/title>
+              "JCMS: Journal of Common Market Studies" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1468-5965" , "0021-9886" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1468-5965" , "urn:issn:0021-9886" .
+
+<http://id.crossref.org/contributor/jakob-haan-19goh5wxirhhi>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Haan" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Jakob" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Jakob Haan" .
+
+<http://id.crossref.org/contributor/fabian-amtenbrink-19goh5wxirhhi>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Amtenbrink" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Fabian" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Fabian Amtenbrink" .
+
+<http://id.crossref.org/contributor/sandra-waller-19goh5wxirhhi>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Waller" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Sandra" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Sandra Waller" .

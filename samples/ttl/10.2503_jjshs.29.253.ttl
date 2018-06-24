@@ -1,0 +1,78 @@
+<http://id.crossref.org/contributor/t-tamura-2v2t8mph46thn>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "TAMURA" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "T." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "T. TAMURA" .
+
+<http://dx.doi.org/10.2503/jjshs.29.253>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.2503/jjshs.29.253" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "263" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "253" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "29" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/t-tamura-2v2t8mph46thn> , <http://id.crossref.org/contributor/m-takahashi-2v2t8mph46thn> , <http://id.crossref.org/contributor/e-sawada-2v2t8mph46thn> , <http://id.crossref.org/contributor/t-yoshida-2v2t8mph46thn> ;
+      <http://purl.org/dc/terms/date>
+              "1960"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.2503/jjshs.29.253" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1880-358X> ;
+      <http://purl.org/dc/terms/publisher>
+              "Japanese Society for Horticultural Science" ;
+      <http://purl.org/dc/terms/title>
+              "The influence of 2, 4, 5-TP on the coloration, maturity and growth of apples and stone fruits" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.2503/jjshs.29.253" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "263" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "253" ;
+      <http://purl.org/ontology/bibo/volume>
+              "29" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.2503/jjshs.29.253> , <doi:10.2503/jjshs.29.253> .
+
+<http://id.crossref.org/issn/1880-358X>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1880-358X" , "0013-7626" ;
+      <http://purl.org/dc/terms/title>
+              "Engei Gakkai zasshi" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1880-358X" , "0013-7626" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0013-7626" , "urn:issn:1880-358X" .
+
+<http://id.crossref.org/contributor/m-takahashi-2v2t8mph46thn>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "TAKAHASHI" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "M." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "M. TAKAHASHI" .
+
+<http://id.crossref.org/contributor/e-sawada-2v2t8mph46thn>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "SAWADA" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "E." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "E. SAWADA" .
+
+<http://id.crossref.org/contributor/t-yoshida-2v2t8mph46thn>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "YOSHIDA" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "T." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "T. YOSHIDA" .

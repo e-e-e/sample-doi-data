@@ -1,0 +1,69 @@
+<http://id.crossref.org/contributor/j-park-24aik034d69rg>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Park" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "J." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "J. Park" .
+
+<http://id.crossref.org/contributor/m-p-tornai-24aik034d69rg>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Tornai" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "M.P." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "M.P. Tornai" .
+
+<http://id.crossref.org/contributor/l-r-macdonald-24aik034d69rg>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "MacDonald" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "L.R." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "L.R. MacDonald" .
+
+<http://id.crossref.org/contributor/e-j-hoffman-24aik034d69rg>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Hoffman" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "E.J." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "E.J. Hoffman" .
+
+<http://id.crossref.org/isbn/078033180X>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "1995 IEEE Nuclear Science Symposium and Medical Imaging Conference Record" .
+
+<http://dx.doi.org/10.1109/nssmic.1995.501933>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1109/nssmic.1995.501933" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/j-park-24aik034d69rg> , <http://id.crossref.org/contributor/m-p-tornai-24aik034d69rg> , <http://id.crossref.org/contributor/e-j-hoffman-24aik034d69rg> , <http://id.crossref.org/contributor/l-r-macdonald-24aik034d69rg> , <http://id.crossref.org/contributor/c-s-levin-24aik034d69rg> ;
+      <http://purl.org/dc/terms/date>
+              ""^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1109/nssmic.1995.501933" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/078033180X> ;
+      <http://purl.org/dc/terms/publisher>
+              "IEEE" ;
+      <http://purl.org/dc/terms/title>
+              "OPTIMIZING LIGHT COLLECTION FROM THIN SCINTILLATORS USED IN A BETA-RAY CAMERA FOR SURGICAL USE" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1109/nssmic.1995.501933" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1109/nssmic.1995.501933> , <doi:10.1109/nssmic.1995.501933> .
+
+<http://id.crossref.org/contributor/c-s-levin-24aik034d69rg>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Levin" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "C.S." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "C.S. Levin" .

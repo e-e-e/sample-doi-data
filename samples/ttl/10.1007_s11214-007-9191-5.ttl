@@ -1,0 +1,105 @@
+<http://id.crossref.org/contributor/e-c-stone-279reuo3n02xd>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Stone" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "E. C." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "E. C. Stone" .
+
+<http://id.crossref.org/issn/0038-6308>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1572-9672" , "0038-6308" ;
+      <http://purl.org/dc/terms/title>
+              "Space Science Reviews" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1572-9672" , "0038-6308" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0038-6308" , "urn:issn:1572-9672" .
+
+<http://dx.doi.org/10.1007/s11214-007-9191-5>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1007/s11214-007-9191-5" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "340" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "335" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "130" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/e-c-stone-279reuo3n02xd> , <http://id.crossref.org/contributor/t-t-von-rosenvinge-279reuo3n02xd> , <http://id.crossref.org/contributor/a-c-cummings-279reuo3n02xd> , <http://id.crossref.org/contributor/c-m-s-cohen-279reuo3n02xd> , <http://id.crossref.org/contributor/m-e-wiedenbeck-279reuo3n02xd> , <http://id.crossref.org/contributor/r-a-mewaldt-279reuo3n02xd> , <http://id.crossref.org/contributor/r-a-leske-279reuo3n02xd> ;
+      <http://purl.org/dc/terms/date>
+              "2007-05-24"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1007/s11214-007-9191-5" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0038-6308> ;
+      <http://purl.org/dc/terms/publisher>
+              "Springer Nature" ;
+      <http://purl.org/dc/terms/title>
+              "An Update on Ultra-Heavy Elements in Solar Energetic Particles above 10 MeV/Nucleon" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1007/s11214-007-9191-5" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "340" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "335" ;
+      <http://purl.org/ontology/bibo/volume>
+              "130" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1007/s11214-007-9191-5> , <doi:10.1007/s11214-007-9191-5> .
+
+<http://id.crossref.org/contributor/t-t-von-rosenvinge-279reuo3n02xd>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "von Rosenvinge" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "T. T." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "T. T. von Rosenvinge" .
+
+<http://id.crossref.org/contributor/a-c-cummings-279reuo3n02xd>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Cummings" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "A. C." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "A. C. Cummings" .
+
+<http://id.crossref.org/contributor/c-m-s-cohen-279reuo3n02xd>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Cohen" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "C. M. S." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "C. M. S. Cohen" .
+
+<http://id.crossref.org/contributor/m-e-wiedenbeck-279reuo3n02xd>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Wiedenbeck" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "M. E." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "M. E. Wiedenbeck" .
+
+<http://id.crossref.org/contributor/r-a-mewaldt-279reuo3n02xd>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Mewaldt" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "R. A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "R. A. Mewaldt" .
+
+<http://id.crossref.org/contributor/r-a-leske-279reuo3n02xd>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Leske" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "R. A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "R. A. Leske" .

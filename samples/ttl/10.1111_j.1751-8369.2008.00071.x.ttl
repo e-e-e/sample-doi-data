@@ -1,0 +1,96 @@
+<http://id.crossref.org/contributor/aymon-baud-1j8807svlwhl>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Baud" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Aymon" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Aymon Baud" .
+
+<http://id.crossref.org/contributor/hans-arne-nakrem-1j8807svlwhl>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Nakrem" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Hans Arne" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Hans Arne Nakrem" .
+
+<http://dx.doi.org/10.1111/j.1751-8369.2008.00071.x>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1111/j.1751-8369.2008.00071.x" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "440" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "428" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "27" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/aymon-baud-1j8807svlwhl> , <http://id.crossref.org/contributor/hans-arne-nakrem-1j8807svlwhl> , <http://id.crossref.org/contributor/ashton-f-embry-1j8807svlwhl> , <http://id.crossref.org/contributor/benoit-beauchamp-1j8807svlwhl> , <http://id.crossref.org/contributor/tyler-w-beatty-1j8807svlwhl> , <http://id.crossref.org/contributor/charles-m-henderson-1j8807svlwhl> ;
+      <http://purl.org/dc/terms/date>
+              "2008-01"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1111/j.1751-8369.2008.00071.x" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1751-8369> ;
+      <http://purl.org/dc/terms/publisher>
+              "Informa UK Limited" ;
+      <http://purl.org/dc/terms/title>
+              "Lower Triassic bryozoan beds from Ellesmere Island, High Arctic, Canada" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1111/j.1751-8369.2008.00071.x" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "440" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "428" ;
+      <http://purl.org/ontology/bibo/volume>
+              "27" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1111/j.1751-8369.2008.00071.x> , <doi:10.1111/j.1751-8369.2008.00071.x> .
+
+<http://id.crossref.org/issn/1751-8369>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1751-8369" ;
+      <http://purl.org/dc/terms/title>
+              "Polar Research" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1751-8369" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1751-8369" .
+
+<http://id.crossref.org/contributor/ashton-f-embry-1j8807svlwhl>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Embry" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Ashton F." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Ashton F. Embry" .
+
+<http://id.crossref.org/contributor/benoit-beauchamp-1j8807svlwhl>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Beauchamp" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Benoit" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Benoit Beauchamp" .
+
+<http://id.crossref.org/contributor/tyler-w-beatty-1j8807svlwhl>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Beatty" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Tyler W." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Tyler W. Beatty" .
+
+<http://id.crossref.org/contributor/charles-m-henderson-1j8807svlwhl>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Henderson" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Charles M." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Charles M. Henderson" .

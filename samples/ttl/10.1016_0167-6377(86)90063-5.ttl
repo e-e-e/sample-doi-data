@@ -1,0 +1,60 @@
+<http://id.crossref.org/contributor/donald-l-iglehart-7pzezwuppnzz>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Iglehart" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Donald L." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Donald L. Iglehart" .
+
+<http://id.crossref.org/issn/0167-6377>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0167-6377" ;
+      <http://purl.org/dc/terms/title>
+              "Operations Research Letters" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0167-6377" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0167-6377" .
+
+<http://id.crossref.org/contributor/peter-w-glynn-7pzezwuppnzz>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Glynn" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Peter W." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Peter W. Glynn" .
+
+<http://dx.doi.org/10.1016/0167-6377(86)90063-5>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/0167-6377(86)90063-5" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "276" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "271" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "5" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/donald-l-iglehart-7pzezwuppnzz> , <http://id.crossref.org/contributor/peter-w-glynn-7pzezwuppnzz> ;
+      <http://purl.org/dc/terms/date>
+              "1986-12"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/0167-6377(86)90063-5" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0167-6377> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Estimation of steady-state central moments by the regenerative method of simulation" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/0167-6377(86)90063-5" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "276" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "271" ;
+      <http://purl.org/ontology/bibo/volume>
+              "5" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1016/0167-6377(86)90063-5> , <info:doi/10.1016/0167-6377(86)90063-5> .

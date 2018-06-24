@@ -1,0 +1,87 @@
+<http://id.crossref.org/contributor/g-t-c-ko-25j0iyctz49r2>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Ko" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "G. T. C." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "G. T. C. Ko" .
+
+<http://id.crossref.org/contributor/w-b-chan-25j0iyctz49r2>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Chan" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "W. -B." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "W. -B. Chan" .
+
+<http://id.crossref.org/contributor/l-w-w-tsang-25j0iyctz49r2>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Tsang" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "L. W. W." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "L. W. W. Tsang" .
+
+<http://id.crossref.org/contributor/j-c-n-chan-25j0iyctz49r2>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Chan" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "J. C. N." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "J. C. N. Chan" .
+
+<http://dx.doi.org/10.1046/j.1464-5491.1999.00135.x>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1046/j.1464-5491.1999.00135.x" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "674" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "670" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "16" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/w-b-chan-25j0iyctz49r2> , <http://id.crossref.org/contributor/g-t-c-ko-25j0iyctz49r2> , <http://id.crossref.org/contributor/l-w-w-tsang-25j0iyctz49r2> , <http://id.crossref.org/contributor/j-c-n-chan-25j0iyctz49r2> , <http://id.crossref.org/contributor/c-s-cockram-25j0iyctz49r2> ;
+      <http://purl.org/dc/terms/date>
+              "1999-08"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1046/j.1464-5491.1999.00135.x" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0742-3071> ;
+      <http://purl.org/dc/terms/publisher>
+              "Wiley" ;
+      <http://purl.org/dc/terms/title>
+              "Gastrointestinal symptoms in Chinese patients with Type 2 diabetes mellitus" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1046/j.1464-5491.1999.00135.x" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "674" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "670" ;
+      <http://purl.org/ontology/bibo/volume>
+              "16" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1046/j.1464-5491.1999.00135.x> , <doi:10.1046/j.1464-5491.1999.00135.x> .
+
+<http://id.crossref.org/contributor/c-s-cockram-25j0iyctz49r2>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Cockram" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "C. S." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "C. S. Cockram" .
+
+<http://id.crossref.org/issn/0742-3071>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0742-3071" ;
+      <http://purl.org/dc/terms/title>
+              "Diabetic Medicine" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0742-3071" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0742-3071" .

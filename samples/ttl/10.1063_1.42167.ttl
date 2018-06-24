@@ -1,0 +1,156 @@
+<http://id.crossref.org/contributor/k-a-weaver-3k9f3tesqju5v>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Weaver" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "K. A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "K. A. Weaver" .
+
+<http://id.crossref.org/contributor/f-e-marshall-3k9f3tesqju5v>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Marshall" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "F. E." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "F. E. Marshall" .
+
+<http://id.crossref.org/contributor/k-arnaud-3k9f3tesqju5v>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Arnaud" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "K." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "K. Arnaud" .
+
+<http://id.crossref.org/contributor/s-s-holt-3k9f3tesqju5v>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Holt" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "S. S." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "S. S. Holt" .
+
+<http://id.crossref.org/contributor/k-m-jahoda-3k9f3tesqju5v>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Jahoda" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "K. M." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "K. M. Jahoda" .
+
+<http://id.crossref.org/contributor/a-p-smale-3k9f3tesqju5v>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Smale" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "A. P." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "A. P. Smale" .
+
+<http://id.crossref.org/issn/0094-243X>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0094-243X" ;
+      <http://purl.org/dc/terms/title>
+              "AIP Conference Proceedings" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0094-243X" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0094-243X" .
+
+<http://id.crossref.org/contributor/r-kelley-3k9f3tesqju5v>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kelley" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "R." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "R. Kelley" .
+
+<http://id.crossref.org/contributor/e-a-boldt-3k9f3tesqju5v>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Boldt" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "E. A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "E. A. Boldt" .
+
+<http://dx.doi.org/10.1063/1.42167>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1063/1.42167" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/k-a-weaver-3k9f3tesqju5v> , <http://id.crossref.org/contributor/f-e-marshall-3k9f3tesqju5v> , <http://id.crossref.org/contributor/k-arnaud-3k9f3tesqju5v> , <http://id.crossref.org/contributor/k-m-jahoda-3k9f3tesqju5v> , <http://id.crossref.org/contributor/s-s-holt-3k9f3tesqju5v> , <http://id.crossref.org/contributor/a-p-smale-3k9f3tesqju5v> , <http://id.crossref.org/contributor/r-kelley-3k9f3tesqju5v> , <http://id.crossref.org/contributor/e-a-boldt-3k9f3tesqju5v> , <http://id.crossref.org/contributor/r-f-mushotzky-3k9f3tesqju5v> , <http://id.crossref.org/contributor/j-swank-3k9f3tesqju5v> , <http://id.crossref.org/contributor/p-j-serlemitsos-3k9f3tesqju5v> , <http://id.crossref.org/contributor/a-e-szymkowiak-3k9f3tesqju5v> , <http://id.crossref.org/contributor/r-petre-3k9f3tesqju5v> , <http://id.crossref.org/contributor/h-netzer-3k9f3tesqju5v> ;
+      <http://purl.org/dc/terms/date>
+              "1992"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1063/1.42167" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0094-243X> ;
+      <http://purl.org/dc/terms/publisher>
+              "AIP" ;
+      <http://purl.org/dc/terms/title>
+              "X-ray Fe line studies" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1063/1.42167" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1063/1.42167> , <info:doi/10.1063/1.42167> .
+
+<http://id.crossref.org/contributor/r-f-mushotzky-3k9f3tesqju5v>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Mushotzky" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "R. F." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "R. F. Mushotzky" .
+
+<http://id.crossref.org/contributor/j-swank-3k9f3tesqju5v>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Swank" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "J." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "J. Swank" .
+
+<http://id.crossref.org/contributor/p-j-serlemitsos-3k9f3tesqju5v>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Serlemitsos" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "P. J." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "P. J. Serlemitsos" .
+
+<http://id.crossref.org/contributor/r-petre-3k9f3tesqju5v>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Petre" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "R." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "R. Petre" .
+
+<http://id.crossref.org/contributor/a-e-szymkowiak-3k9f3tesqju5v>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Szymkowiak" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "A. E." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "A. E. Szymkowiak" .
+
+<http://id.crossref.org/contributor/h-netzer-3k9f3tesqju5v>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Netzer" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "H." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "H. Netzer" .

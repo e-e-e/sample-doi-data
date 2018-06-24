@@ -1,0 +1,87 @@
+<http://id.crossref.org/contributor/h-hirayama-2k3566ln5bb7m>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Hirayama" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "H." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "H. Hirayama" .
+
+<http://id.crossref.org/issn/1041-1135>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1941-0174" , "1041-1135" ;
+      <http://purl.org/dc/terms/title>
+              "IEEE Photonics Technology Letters" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1941-0174" , "1041-1135" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1941-0174" , "urn:issn:1041-1135" .
+
+<http://id.crossref.org/contributor/y-miyake-2k3566ln5bb7m>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Miyake" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Y." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Y. Miyake" .
+
+<http://id.crossref.org/contributor/j-i-shim-2k3566ln5bb7m>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Shim" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "J.I." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "J.I. Shim" .
+
+<http://id.crossref.org/contributor/s-arai-2k3566ln5bb7m>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Arai" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "S." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "S. Arai" .
+
+<http://dx.doi.org/10.1109/68.157116>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1109/68.157116" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "966" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "964" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "4" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/h-hirayama-2k3566ln5bb7m> , <http://id.crossref.org/contributor/y-miyake-2k3566ln5bb7m> , <http://id.crossref.org/contributor/j-i-shim-2k3566ln5bb7m> , <http://id.crossref.org/contributor/s-arai-2k3566ln5bb7m> , <http://id.crossref.org/contributor/y-miyamoto-2k3566ln5bb7m> ;
+      <http://purl.org/dc/terms/date>
+              "1992-09"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1109/68.157116" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1041-1135> ;
+      <http://purl.org/dc/terms/publisher>
+              "Institute of Electrical and Electronics Engineers (IEEE)" ;
+      <http://purl.org/dc/terms/title>
+              "Threshold current reduction of GaInAs/GaInAsP/InP SCH quantum-well lasers with wire-like active region by using p-type substrates" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1109/68.157116" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "966" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "964" ;
+      <http://purl.org/ontology/bibo/volume>
+              "4" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1109/68.157116> , <info:doi/10.1109/68.157116> .
+
+<http://id.crossref.org/contributor/y-miyamoto-2k3566ln5bb7m>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Miyamoto" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Y." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Y. Miyamoto" .

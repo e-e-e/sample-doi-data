@@ -1,0 +1,36 @@
+<http://dx.doi.org/10.1016/s0140-6736(00)87663-1>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/s0140-6736(00)87663-1" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "643" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "228" ;
+      <http://purl.org/dc/terms/date>
+              "1936-09"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/s0140-6736(00)87663-1" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0140-6736> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "HISTIDINE IN THE RELIEF OF PAIN IN PEPTIC ULCER" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/s0140-6736(00)87663-1" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "643" ;
+      <http://purl.org/ontology/bibo/volume>
+              "228" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1016/s0140-6736(00)87663-1> , <doi:10.1016/s0140-6736(00)87663-1> .
+
+<http://id.crossref.org/issn/0140-6736>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0140-6736" ;
+      <http://purl.org/dc/terms/title>
+              "The Lancet" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0140-6736" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0140-6736" .

@@ -1,0 +1,96 @@
+<http://id.crossref.org/contributor/d-crook-3lhzrvmxu57ga>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Crook" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "D." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "D. Crook" .
+
+<http://id.crossref.org/contributor/l-dudek-3lhzrvmxu57ga>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Dudek" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "L." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "L. Dudek" .
+
+<http://id.crossref.org/contributor/j-satkofsky-3lhzrvmxu57ga>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Satkofsky" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "J." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "J. Satkofsky" .
+
+<http://dx.doi.org/10.1109/fusion.1995.534285>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1109/fusion.1995.534285" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/d-crook-3lhzrvmxu57ga> , <http://id.crossref.org/contributor/l-dudek-3lhzrvmxu57ga> , <http://id.crossref.org/contributor/j-satkofsky-3lhzrvmxu57ga> , <http://id.crossref.org/contributor/t-golian-3lhzrvmxu57ga> , <http://id.crossref.org/contributor/g-coward-3lhzrvmxu57ga> , <http://id.crossref.org/contributor/g-labik-3lhzrvmxu57ga> , <http://id.crossref.org/contributor/p-sichta-3lhzrvmxu57ga> , <http://id.crossref.org/contributor/r-parsells-3lhzrvmxu57ga> ;
+      <http://purl.org/dc/terms/date>
+              ""^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1109/fusion.1995.534285" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/0780329694> ;
+      <http://purl.org/dc/terms/publisher>
+              "IEEE" ;
+      <http://purl.org/dc/terms/title>
+              "Installation of the Tritium Purification System" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1109/fusion.1995.534285" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1109/fusion.1995.534285> , <doi:10.1109/fusion.1995.534285> .
+
+<http://id.crossref.org/contributor/t-golian-3lhzrvmxu57ga>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Golian" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "T." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "T. Golian" .
+
+<http://id.crossref.org/contributor/g-coward-3lhzrvmxu57ga>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Coward" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "G." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "G. Coward" .
+
+<http://id.crossref.org/contributor/g-labik-3lhzrvmxu57ga>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Labik" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "G." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "G. Labik" .
+
+<http://id.crossref.org/contributor/p-sichta-3lhzrvmxu57ga>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Sichta" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "P." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "P. Sichta" .
+
+<http://id.crossref.org/isbn/0780329694>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Proceedings of 16th International Symposium on Fusion Engineering" .
+
+<http://id.crossref.org/contributor/r-parsells-3lhzrvmxu57ga>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Parsells" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "R." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "R. Parsells" .

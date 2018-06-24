@@ -1,0 +1,123 @@
+<http://id.crossref.org/issn/0003-2670>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0003-2670" ;
+      <http://purl.org/dc/terms/title>
+              "Analytica Chimica Acta" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0003-2670" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0003-2670" .
+
+<http://id.crossref.org/contributor/yuko-ito-6778sibqueca>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Ito" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Yuko" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Yuko Ito" .
+
+<http://id.crossref.org/contributor/hideo-sugiyama-6778sibqueca>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Sugiyama" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Hideo" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Hideo Sugiyama" .
+
+<http://id.crossref.org/contributor/chiyoji-ohkubo-6778sibqueca>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Ohkubo" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Chiyoji" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Chiyoji Ohkubo" .
+
+<http://id.crossref.org/contributor/tomomi-goto-6778sibqueca>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Goto" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Tomomi" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Tomomi Goto" .
+
+<http://id.crossref.org/contributor/hisamitsu-nagase-6778sibqueca>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Nagase" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Hisamitsu" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Hisamitsu Nagase" .
+
+<http://id.crossref.org/contributor/hisao-oka-6778sibqueca>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Oka" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Hisao" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Hisao Oka" .
+
+<http://id.crossref.org/contributor/hiroyuki-nakazawa-6778sibqueca>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Nakazawa" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Hiroyuki" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Hiroyuki Nakazawa" .
+
+<http://id.crossref.org/contributor/hiroshi-matsumoto-6778sibqueca>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Matsumoto" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Hiroshi" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Hiroshi Matsumoto" .
+
+<http://dx.doi.org/10.1016/j.aca.2004.09.016>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/j.aca.2004.09.016" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "86" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "79" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "531" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/yuko-ito-6778sibqueca> , <http://id.crossref.org/contributor/chiyoji-ohkubo-6778sibqueca> , <http://id.crossref.org/contributor/hideo-sugiyama-6778sibqueca> , <http://id.crossref.org/contributor/hisamitsu-nagase-6778sibqueca> , <http://id.crossref.org/contributor/hisao-oka-6778sibqueca> , <http://id.crossref.org/contributor/tomomi-goto-6778sibqueca> , <http://id.crossref.org/contributor/hiroyuki-nakazawa-6778sibqueca> , <http://id.crossref.org/contributor/hiroshi-matsumoto-6778sibqueca> , <http://id.crossref.org/contributor/isao-saito-6778sibqueca> ;
+      <http://purl.org/dc/terms/date>
+              "2005-02"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/j.aca.2004.09.016" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0003-2670> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "The high throughput analysis of N-methyl carbamate pesticides in wine and juice by electrospray ionization liquid chromatography tandem mass spectrometry with direct sample injection into a short column" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/j.aca.2004.09.016" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "86" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "79" ;
+      <http://purl.org/ontology/bibo/volume>
+              "531" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1016/j.aca.2004.09.016> , <info:doi/10.1016/j.aca.2004.09.016> .
+
+<http://id.crossref.org/contributor/isao-saito-6778sibqueca>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Saito" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Isao" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Isao Saito" .

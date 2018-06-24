@@ -1,0 +1,56 @@
+<http://id.crossref.org/issn/0168-9525>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0168-9525" ;
+      <http://purl.org/dc/terms/title>
+              "Trends in Genetics" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0168-9525" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0168-9525" .
+
+<http://dx.doi.org/10.1016/0168-9525(93)90131-z>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/0168-9525(93)90131-z" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "378" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "9" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/p-k-tucker-32uih2hbieq4f> , <http://id.crossref.org/contributor/b-l-lundrigan-32uih2hbieq4f> ;
+      <http://purl.org/dc/terms/date>
+              "1993-11"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/0168-9525(93)90131-z" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0168-9525> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Rapid evolution of the sex determining locus in old world mice and rats" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/0168-9525(93)90131-z" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "378" ;
+      <http://purl.org/ontology/bibo/volume>
+              "9" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1016/0168-9525(93)90131-z> , <doi:10.1016/0168-9525(93)90131-z> .
+
+<http://id.crossref.org/contributor/p-k-tucker-32uih2hbieq4f>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Tucker" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "P.K." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "P.K. Tucker" .
+
+<http://id.crossref.org/contributor/b-l-lundrigan-32uih2hbieq4f>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Lundrigan" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "B.L." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "B.L. Lundrigan" .

@@ -1,0 +1,51 @@
+<http://dx.doi.org/10.1063/1.1673380>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1063/1.1673380" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "2781" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "2780" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "52" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/robert-c-dunbar-3516el2iuivra> ;
+      <http://purl.org/dc/terms/date>
+              "1970-03"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1063/1.1673380" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0021-9606> ;
+      <http://purl.org/dc/terms/publisher>
+              "AIP Publishing" ;
+      <http://purl.org/dc/terms/title>
+              "Energy Dependence of Methanol Proton Transfer Reaction Rate" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1063/1.1673380" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "2781" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "2780" ;
+      <http://purl.org/ontology/bibo/volume>
+              "52" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1063/1.1673380> , <info:doi/10.1063/1.1673380> .
+
+<http://id.crossref.org/issn/0021-9606>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0021-9606" , "1089-7690" ;
+      <http://purl.org/dc/terms/title>
+              "The Journal of Chemical Physics" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0021-9606" , "1089-7690" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0021-9606" , "urn:issn:1089-7690" .
+
+<http://id.crossref.org/contributor/robert-c-dunbar-3516el2iuivra>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Dunbar" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Robert C." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Robert C. Dunbar" .

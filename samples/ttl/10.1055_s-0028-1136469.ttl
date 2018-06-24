@@ -1,0 +1,51 @@
+<http://id.crossref.org/contributor/ferdinand-krechel-2f1btuutc2csa>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Krechel" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Ferdinand" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Ferdinand Krechel" .
+
+<http://dx.doi.org/10.1055/s-0028-1136469>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1055/s-0028-1136469" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "235" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "235" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "51" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/ferdinand-krechel-2f1btuutc2csa> ;
+      <http://purl.org/dc/terms/date>
+              "1925-02"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1055/s-0028-1136469" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0012-0472> ;
+      <http://purl.org/dc/terms/publisher>
+              "Georg Thieme Verlag KG" ;
+      <http://purl.org/dc/terms/title>
+              "Ueber Verchon, ein neues Desinfektionsmittel" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1055/s-0028-1136469" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "235" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "235" ;
+      <http://purl.org/ontology/bibo/volume>
+              "51" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1055/s-0028-1136469> , <doi:10.1055/s-0028-1136469> .
+
+<http://id.crossref.org/issn/0012-0472>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0012-0472" , "1439-4413" ;
+      <http://purl.org/dc/terms/title>
+              "DMW - Deutsche Medizinische Wochenschrift" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0012-0472" , "1439-4413" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1439-4413" , "urn:issn:0012-0472" .

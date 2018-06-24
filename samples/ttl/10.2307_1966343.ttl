@@ -1,0 +1,83 @@
+<http://id.crossref.org/contributor/d-lawrence-kincaid-39fpf7hpvmhx1>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kincaid" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "D. Lawrence" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "D. Lawrence Kincaid" .
+
+<http://dx.doi.org/10.2307/1966343>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.2307/1966343" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "275" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "7" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/d-lawrence-kincaid-39fpf7hpvmhx1> , <http://id.crossref.org/contributor/kyung-kyoon-chung-39fpf7hpvmhx1> , <http://id.crossref.org/contributor/hyung-jong-park-39fpf7hpvmhx1> , <http://id.crossref.org/contributor/sea-baick-lee-39fpf7hpvmhx1> , <http://id.crossref.org/contributor/dal-sun-han-39fpf7hpvmhx1> ;
+      <http://purl.org/dc/terms/date>
+              "1976-10"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.2307/1966343" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0039-3665> ;
+      <http://purl.org/dc/terms/publisher>
+              "JSTOR" ;
+      <http://purl.org/dc/terms/title>
+              "The Korean Mothers' Club Program" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.2307/1966343" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "275" ;
+      <http://purl.org/ontology/bibo/volume>
+              "7" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.2307/1966343> , <info:doi/10.2307/1966343> .
+
+<http://id.crossref.org/contributor/kyung-kyoon-chung-39fpf7hpvmhx1>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Chung" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Kyung Kyoon" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Kyung Kyoon Chung" .
+
+<http://id.crossref.org/contributor/hyung-jong-park-39fpf7hpvmhx1>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Park" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Hyung Jong" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Hyung Jong Park" .
+
+<http://id.crossref.org/contributor/sea-baick-lee-39fpf7hpvmhx1>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Lee" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Sea Baick" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Sea Baick Lee" .
+
+<http://id.crossref.org/issn/0039-3665>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0039-3665" ;
+      <http://purl.org/dc/terms/title>
+              "Studies in Family Planning" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0039-3665" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0039-3665" .
+
+<http://id.crossref.org/contributor/dal-sun-han-39fpf7hpvmhx1>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Han" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Dal Sun" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Dal Sun Han" .

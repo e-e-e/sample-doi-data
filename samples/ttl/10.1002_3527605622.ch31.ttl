@@ -1,0 +1,77 @@
+<http://id.crossref.org/contributor/f-rebillat-1p96ht0qnxs5>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Rebillat" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "F." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "F. Rebillat" .
+
+<http://id.crossref.org/contributor/a-guette-1p96ht0qnxs5>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Guette" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "A. Guette" .
+
+<http://id.crossref.org/contributor/s-legallet-1p96ht0qnxs5>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Legallet" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "S." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "S. Legallet" .
+
+<http://dx.doi.org/10.1002/3527605622.ch31>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1002/3527605622.ch31" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "198" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "193" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/f-rebillat-1p96ht0qnxs5> , <http://id.crossref.org/contributor/a-guette-1p96ht0qnxs5> , <http://id.crossref.org/contributor/s-legallet-1p96ht0qnxs5> , <http://id.crossref.org/contributor/x-bourrat-1p96ht0qnxs5> , <http://id.crossref.org/contributor/r-naslain-1p96ht0qnxs5> ;
+      <http://purl.org/dc/terms/date>
+              "2006-01-13"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1002/3527605622.ch31" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9783527605620> ;
+      <http://purl.org/dc/terms/publisher>
+              "Wiley-VCH Verlag GmbH & Co. KGaA" ;
+      <http://purl.org/dc/terms/title>
+              "Oxidation Resistance of BN Coatings with Different Textures" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1002/3527605622.ch31" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "198" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "193" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1002/3527605622.ch31> , <info:doi/10.1002/3527605622.ch31> .
+
+<http://id.crossref.org/contributor/x-bourrat-1p96ht0qnxs5>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Bourrat" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "X." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "X. Bourrat" .
+
+<http://id.crossref.org/isbn/9783527605620>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "High Temperature Ceramic Matrix Composites" .
+
+<http://id.crossref.org/contributor/r-naslain-1p96ht0qnxs5>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Naslain" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "R." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "R. Naslain" .

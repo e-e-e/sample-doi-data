@@ -1,0 +1,123 @@
+<http://id.crossref.org/contributor/v-a-shchukin-3718lkyq9ql5d>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Shchukin" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "V.A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "V.A. Shchukin" .
+
+<http://id.crossref.org/contributor/i-i-novikov-3718lkyq9ql5d>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Novikov" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "I.I." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "I.I. Novikov" .
+
+<http://id.crossref.org/contributor/m-v-maximov-3718lkyq9ql5d>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Maximov" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "M.V." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "M.V. Maximov" .
+
+<http://id.crossref.org/contributor/n-yu-gordeev-3718lkyq9ql5d>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Gordeev" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "N.Yu." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "N.Yu. Gordeev" .
+
+<http://id.crossref.org/contributor/v-p-kalosha-3718lkyq9ql5d>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kalosha" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "V.P." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "V.P. Kalosha" .
+
+<http://id.crossref.org/issn/0018-9197>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0018-9197" ;
+      <http://purl.org/dc/terms/title>
+              "IEEE Journal of Quantum Electronics" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0018-9197" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0018-9197" .
+
+<http://id.crossref.org/contributor/l-ya-karachinsky-3718lkyq9ql5d>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Karachinsky" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "L.Ya." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "L.Ya. Karachinsky" .
+
+<http://dx.doi.org/10.1109/jqe.2005.857066>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1109/jqe.2005.857066" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "1348" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "1341" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "41" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/v-a-shchukin-3718lkyq9ql5d> , <http://id.crossref.org/contributor/i-i-novikov-3718lkyq9ql5d> , <http://id.crossref.org/contributor/m-v-maximov-3718lkyq9ql5d> , <http://id.crossref.org/contributor/v-p-kalosha-3718lkyq9ql5d> , <http://id.crossref.org/contributor/n-yu-gordeev-3718lkyq9ql5d> , <http://id.crossref.org/contributor/l-ya-karachinsky-3718lkyq9ql5d> , <http://id.crossref.org/contributor/s-m-kuznetsov-3718lkyq9ql5d> , <http://id.crossref.org/contributor/y-m-shernyakov-3718lkyq9ql5d> , <http://id.crossref.org/contributor/n-n-ledentsov-3718lkyq9ql5d> ;
+      <http://purl.org/dc/terms/date>
+              "2005-11"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1109/jqe.2005.857066" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0018-9197> ;
+      <http://purl.org/dc/terms/publisher>
+              "Institute of Electrical and Electronics Engineers (IEEE)" ;
+      <http://purl.org/dc/terms/title>
+              "High-performance 640-nm-range GaInP-AlGaInP lasers based on the longitudinal photonic bandgap crystal with narrow vertical beam divergence" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1109/jqe.2005.857066" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "1348" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "1341" ;
+      <http://purl.org/ontology/bibo/volume>
+              "41" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1109/jqe.2005.857066> , <info:doi/10.1109/jqe.2005.857066> .
+
+<http://id.crossref.org/contributor/s-m-kuznetsov-3718lkyq9ql5d>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kuznetsov" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "S.M." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "S.M. Kuznetsov" .
+
+<http://id.crossref.org/contributor/y-m-shernyakov-3718lkyq9ql5d>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Shernyakov" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Y.M." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Y.M. Shernyakov" .
+
+<http://id.crossref.org/contributor/n-n-ledentsov-3718lkyq9ql5d>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Ledentsov" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "N.N." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "N.N. Ledentsov" .

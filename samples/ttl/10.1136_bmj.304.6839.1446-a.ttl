@@ -1,0 +1,51 @@
+<http://id.crossref.org/contributor/j-williams-zghco35xu5rh>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Williams" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "J." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "J. Williams" .
+
+<http://id.crossref.org/issn/0959-8138>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1468-5833" , "0959-8138" ;
+      <http://purl.org/dc/terms/title>
+              "BMJ" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1468-5833" , "0959-8138" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1468-5833" , "urn:issn:0959-8138" .
+
+<http://dx.doi.org/10.1136/bmj.304.6839.1446-a>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1136/bmj.304.6839.1446-a" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "1446" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "1446" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "304" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/j-williams-zghco35xu5rh> ;
+      <http://purl.org/dc/terms/date>
+              "1992-05-30"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1136/bmj.304.6839.1446-a" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0959-8138> ;
+      <http://purl.org/dc/terms/publisher>
+              "BMJ" ;
+      <http://purl.org/dc/terms/title>
+              "Conference on ethical review of clinical research" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1136/bmj.304.6839.1446-a" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "1446" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "1446" ;
+      <http://purl.org/ontology/bibo/volume>
+              "304" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1136/bmj.304.6839.1446-a> , <doi:10.1136/bmj.304.6839.1446-a> .

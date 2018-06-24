@@ -1,0 +1,22 @@
+<http://id.crossref.org/isbn/9783110208245>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Theory of Uniform Approximation of Functions by Polynomials" .
+
+<http://dx.doi.org/10.1515/9783110208245.379>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1515/9783110208245.379" ;
+      <http://purl.org/dc/terms/date>
+              "2008-01-15"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1515/9783110208245.379" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9783110208245> ;
+      <http://purl.org/dc/terms/publisher>
+              "Walter de Gruyter" ;
+      <http://purl.org/dc/terms/title>
+              "Chapter 7. Approximation by polynomials" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1515/9783110208245.379" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1515/9783110208245.379> , <doi:10.1515/9783110208245.379> .

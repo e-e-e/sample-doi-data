@@ -1,0 +1,65 @@
+<http://id.crossref.org/contributor/hafize-uzun-160uhmlnjr2hs>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Uzun" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Hafize" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Hafize Uzun" .
+
+<http://id.crossref.org/contributor/tuncay-altug-160uhmlnjr2hs>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Altug" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Tuncay" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Tuncay Altug" .
+
+<http://dx.doi.org/10.1016/j.clinbiochem.2008.09.082>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/j.clinbiochem.2008.09.082" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "346" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "42" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/hafize-uzun-160uhmlnjr2hs> , <http://id.crossref.org/contributor/tuncay-altug-160uhmlnjr2hs> , <http://id.crossref.org/contributor/seval-aydin-160uhmlnjr2hs> ;
+      <http://purl.org/dc/terms/date>
+              "2009-03"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/j.clinbiochem.2008.09.082" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0009-9120> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Effects of atorvastatin therapy on protein oxidation and oxidative DNA damage in hypercholesterolemic rabbits" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/j.clinbiochem.2008.09.082" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "346" ;
+      <http://purl.org/ontology/bibo/volume>
+              "42" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1016/j.clinbiochem.2008.09.082> , <doi:10.1016/j.clinbiochem.2008.09.082> .
+
+<http://id.crossref.org/issn/0009-9120>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0009-9120" ;
+      <http://purl.org/dc/terms/title>
+              "Clinical Biochemistry" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0009-9120" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0009-9120" .
+
+<http://id.crossref.org/contributor/seval-aydin-160uhmlnjr2hs>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Aydin" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Seval" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Seval Aydin" .

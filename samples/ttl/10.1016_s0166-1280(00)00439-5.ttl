@@ -1,0 +1,69 @@
+<http://id.crossref.org/contributor/wen-guo-xu-gj0ewbi89y81>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Xu" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Wen Guo" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Wen Guo Xu" .
+
+<http://id.crossref.org/contributor/qian-shu-li-gj0ewbi89y81>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Li" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Qian Shu" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Qian Shu Li" .
+
+<http://dx.doi.org/10.1016/s0166-1280(00)00439-5>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/s0166-1280(00)00439-5" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "125" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "119" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "531" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/wen-guo-xu-gj0ewbi89y81> , <http://id.crossref.org/contributor/qian-shu-li-gj0ewbi89y81> , <http://id.crossref.org/contributor/yue-wang-gj0ewbi89y81> ;
+      <http://purl.org/dc/terms/date>
+              "2000-10"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/s0166-1280(00)00439-5" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0166-1280> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Theoretical study of fullerene C 50  and its derivatives" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/s0166-1280(00)00439-5" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "125" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "119" ;
+      <http://purl.org/ontology/bibo/volume>
+              "531" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1016/s0166-1280(00)00439-5> , <doi:10.1016/s0166-1280(00)00439-5> .
+
+<http://id.crossref.org/issn/0166-1280>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0166-1280" ;
+      <http://purl.org/dc/terms/title>
+              "Journal of Molecular Structure: THEOCHEM" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0166-1280" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0166-1280" .
+
+<http://id.crossref.org/contributor/yue-wang-gj0ewbi89y81>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Wang" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Yue" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Yue Wang" .

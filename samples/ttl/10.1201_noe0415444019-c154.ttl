@@ -1,0 +1,68 @@
+<http://id.crossref.org/isbn/9780415444019>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Rock Mechanics: Meeting Society's Challenges and Demands" .
+
+<http://id.crossref.org/contributor/s-rogers-39iqzc2qdscxj>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Rogers" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "S" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "S Rogers" .
+
+<http://id.crossref.org/contributor/k-moffitt-39iqzc2qdscxj>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Moffitt" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "K" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "K Moffitt" .
+
+<http://dx.doi.org/10.1201/noe0415444019-c154>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1201/noe0415444019-c154" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "1250" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "1245" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/s-rogers-39iqzc2qdscxj> , <http://id.crossref.org/contributor/k-moffitt-39iqzc2qdscxj> , <http://id.crossref.org/contributor/r-beddoes-39iqzc2qdscxj> , <http://id.crossref.org/contributor/s-greer-39iqzc2qdscxj> ;
+      <http://purl.org/dc/terms/date>
+              "2007-05-17"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1201/noe0415444019-c154" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9780415444019> ;
+      <http://purl.org/dc/terms/publisher>
+              "Taylor &amp; Francis" ;
+      <http://purl.org/dc/terms/title>
+              "Analysis of slope stability in strong, fractured rock at the Diavik Diamond Mine, NWT" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1201/noe0415444019-c154" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "1250" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "1245" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1201/noe0415444019-c154> , <doi:10.1201/noe0415444019-c154> .
+
+<http://id.crossref.org/contributor/r-beddoes-39iqzc2qdscxj>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Beddoes" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "R" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "R Beddoes" .
+
+<http://id.crossref.org/contributor/s-greer-39iqzc2qdscxj>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Greer" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "S" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "S Greer" .

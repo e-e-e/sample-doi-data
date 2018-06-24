@@ -1,0 +1,105 @@
+<http://id.crossref.org/contributor/robert-lowry-g1rbqtfas1xh>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Lowry" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Robert" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Robert Lowry" .
+
+<http://id.crossref.org/contributor/andrew-podger-g1rbqtfas1xh>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Podger" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Andrew" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Andrew Podger" .
+
+<http://dx.doi.org/10.1080/10357710903312611>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1080/10357710903312611" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "605" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "593" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "63" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/andrew-podger-g1rbqtfas1xh> , <http://id.crossref.org/contributor/robert-lowry-g1rbqtfas1xh> , <http://id.crossref.org/contributor/kristine-lyons-g1rbqtfas1xh> , <http://id.crossref.org/contributor/jake-lynch-g1rbqtfas1xh> , <http://id.crossref.org/contributor/thomas-s-wilkins-g1rbqtfas1xh> , <http://id.crossref.org/contributor/gerard-hinchliffe-g1rbqtfas1xh> , <http://id.crossref.org/contributor/halim-rane-g1rbqtfas1xh> ;
+      <http://purl.org/dc/terms/date>
+              "2009-12"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1080/10357710903312611" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1035-7718> ;
+      <http://purl.org/dc/terms/publisher>
+              "Informa UK Limited" ;
+      <http://purl.org/dc/terms/title>
+              "Book Reviews" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1080/10357710903312611" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "605" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "593" ;
+      <http://purl.org/ontology/bibo/volume>
+              "63" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1080/10357710903312611> , <info:doi/10.1080/10357710903312611> .
+
+<http://id.crossref.org/contributor/kristine-lyons-g1rbqtfas1xh>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Lyons" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Kristine" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Kristine Lyons" .
+
+<http://id.crossref.org/contributor/jake-lynch-g1rbqtfas1xh>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Lynch" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Jake" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Jake Lynch" .
+
+<http://id.crossref.org/contributor/thomas-s-wilkins-g1rbqtfas1xh>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Wilkins" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Thomas S." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Thomas S. Wilkins" .
+
+<http://id.crossref.org/contributor/gerard-hinchliffe-g1rbqtfas1xh>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Hinchliffe" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Gerard" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Gerard Hinchliffe" .
+
+<http://id.crossref.org/issn/1035-7718>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1465-332X" , "1035-7718" ;
+      <http://purl.org/dc/terms/title>
+              "Australian Journal of International Affairs" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1465-332X" , "1035-7718" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1465-332X" , "urn:issn:1035-7718" .
+
+<http://id.crossref.org/contributor/halim-rane-g1rbqtfas1xh>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Rane" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Halim" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Halim Rane" .

@@ -1,0 +1,43 @@
+<http://id.crossref.org/contributor/t-kosaka-1onpy869hcc31>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kosaka" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "T." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "T. Kosaka" .
+
+<http://dx.doi.org/10.1007/bf00227642>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1007/bf00227642" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "112" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/t-kosaka-1onpy869hcc31> ;
+      <http://purl.org/dc/terms/date>
+              "1996-11"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1007/bf00227642" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0014-4819> ;
+      <http://purl.org/dc/terms/publisher>
+              "Springer Nature" ;
+      <http://purl.org/dc/terms/title>
+              "Synapses in the granule cell layer of the rat dentate gyrus: serial-sectioning study" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1007/bf00227642" ;
+      <http://purl.org/ontology/bibo/volume>
+              "112" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1007/bf00227642> , <info:doi/10.1007/bf00227642> .
+
+<http://id.crossref.org/issn/0014-4819>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0014-4819" , "1432-1106" ;
+      <http://purl.org/dc/terms/title>
+              "Experimental Brain Research" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0014-4819" , "1432-1106" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1432-1106" , "urn:issn:0014-4819" .

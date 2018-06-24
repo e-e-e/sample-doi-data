@@ -1,0 +1,78 @@
+<http://id.crossref.org/issn/1388-2481>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1388-2481" ;
+      <http://purl.org/dc/terms/title>
+              "Electrochemistry Communications" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1388-2481" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1388-2481" .
+
+<http://id.crossref.org/contributor/f-croce-1ftsmqlfttq40>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "CROCE" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "F" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "F CROCE" .
+
+<http://id.crossref.org/contributor/j-hassoun-1ftsmqlfttq40>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "HASSOUN" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "J" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "J HASSOUN" .
+
+<http://id.crossref.org/contributor/c-tizzani-1ftsmqlfttq40>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "TIZZANI" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "C" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "C TIZZANI" .
+
+<http://id.crossref.org/contributor/b-scrosati-1ftsmqlfttq40>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "SCROSATI" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "B" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "B SCROSATI" .
+
+<http://dx.doi.org/10.1016/j.elecom.2006.05.006>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/j.elecom.2006.05.006" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "1131" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "1125" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "8" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/f-croce-1ftsmqlfttq40> , <http://id.crossref.org/contributor/j-hassoun-1ftsmqlfttq40> , <http://id.crossref.org/contributor/c-tizzani-1ftsmqlfttq40> , <http://id.crossref.org/contributor/b-scrosati-1ftsmqlfttq40> ;
+      <http://purl.org/dc/terms/date>
+              "2006-07"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/j.elecom.2006.05.006" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1388-2481> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Nanoporous composite, low cost, protonic membranes for direct methanol fuel cells" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/j.elecom.2006.05.006" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "1131" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "1125" ;
+      <http://purl.org/ontology/bibo/volume>
+              "8" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1016/j.elecom.2006.05.006> , <doi:10.1016/j.elecom.2006.05.006> .

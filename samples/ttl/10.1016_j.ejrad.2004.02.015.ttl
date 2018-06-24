@@ -1,0 +1,78 @@
+<http://id.crossref.org/contributor/josip-valetic-2btxo1tsfuj2q>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Valetić" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Josip" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Josip Valetić" .
+
+<http://id.crossref.org/contributor/vanja-radic-2btxo1tsfuj2q>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Radić" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Vanja" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Vanja Radić" .
+
+<http://id.crossref.org/issn/0720-048X>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0720-048X" ;
+      <http://purl.org/dc/terms/title>
+              "European Journal of Radiology" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0720-048X" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0720-048X" .
+
+<http://id.crossref.org/contributor/zeljko-duic-2btxo1tsfuj2q>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Duić" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Željko" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Željko Duić" .
+
+<http://id.crossref.org/contributor/tomislav-canic-2btxo1tsfuj2q>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Čanić" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Tomislav" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Tomislav Čanić" .
+
+<http://dx.doi.org/10.1016/j.ejrad.2004.02.015>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/j.ejrad.2004.02.015" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "273" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "268" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "53" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/josip-valetic-2btxo1tsfuj2q> , <http://id.crossref.org/contributor/vanja-radic-2btxo1tsfuj2q> , <http://id.crossref.org/contributor/zeljko-duic-2btxo1tsfuj2q> , <http://id.crossref.org/contributor/tomislav-canic-2btxo1tsfuj2q> ;
+      <http://purl.org/dc/terms/date>
+              "2005-02"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/j.ejrad.2004.02.015" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0720-048X> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Advantages and disadvantages of hysterosonosalpingography in the assessment of the reproductive status of uterine cavity and fallopian tubes" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/j.ejrad.2004.02.015" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "273" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "268" ;
+      <http://purl.org/ontology/bibo/volume>
+              "53" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1016/j.ejrad.2004.02.015> , <info:doi/10.1016/j.ejrad.2004.02.015> .

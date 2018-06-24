@@ -1,0 +1,87 @@
+<http://id.crossref.org/contributor/geoffrey-k-tranmer-3sie9oa9alr37>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Tranmer" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Geoffrey K." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Geoffrey K. Tranmer" .
+
+<http://id.crossref.org/contributor/ian-r-baxendale-3sie9oa9alr37>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Baxendale" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Ian R." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Ian R. Baxendale" .
+
+<http://dx.doi.org/10.1021/ol061975c>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1021/ol061975c" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "5234" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "5231" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "8" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/geoffrey-k-tranmer-3sie9oa9alr37> , <http://id.crossref.org/contributor/ian-r-baxendale-3sie9oa9alr37> , <http://id.crossref.org/contributor/christoper-d-smith-3sie9oa9alr37> , <http://id.crossref.org/contributor/steven-v-ley-3sie9oa9alr37> , <http://id.crossref.org/contributor/marcus-baumann-3sie9oa9alr37> ;
+      <http://purl.org/dc/terms/date>
+              "2006-11"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1021/ol061975c" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1523-7060> ;
+      <http://purl.org/dc/terms/publisher>
+              "American Chemical Society (ACS)" ;
+      <http://purl.org/dc/terms/title>
+              "Fully Automated Continuous Flow Synthesis of 4,5-Disubstituted Oxazoles" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1021/ol061975c" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "5234" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "5231" ;
+      <http://purl.org/ontology/bibo/volume>
+              "8" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1021/ol061975c> , <doi:10.1021/ol061975c> .
+
+<http://id.crossref.org/contributor/christoper-d-smith-3sie9oa9alr37>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Smith" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Christoper D." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Christoper D. Smith" .
+
+<http://id.crossref.org/contributor/steven-v-ley-3sie9oa9alr37>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Ley" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Steven V." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Steven V. Ley" .
+
+<http://id.crossref.org/contributor/marcus-baumann-3sie9oa9alr37>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Baumann" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Marcus" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Marcus Baumann" .
+
+<http://id.crossref.org/issn/1523-7060>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1523-7052" , "1523-7060" ;
+      <http://purl.org/dc/terms/title>
+              "Organic Letters" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1523-7052" , "1523-7060" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1523-7052" , "urn:issn:1523-7060" .

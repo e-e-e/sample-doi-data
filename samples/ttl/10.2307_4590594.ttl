@@ -1,0 +1,56 @@
+<http://id.crossref.org/issn/0094-6214>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0094-6214" ;
+      <http://purl.org/dc/terms/title>
+              "Public Health Reports (1896-1970)" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0094-6214" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0094-6214" .
+
+<http://id.crossref.org/contributor/alice-t-dashiell-3shq6f97to5rg>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Dashiell" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Alice T." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Alice T. Dashiell" .
+
+<http://id.crossref.org/contributor/jacob-tuckman-3shq6f97to5rg>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Tuckman" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Jacob" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Jacob Tuckman" .
+
+<http://dx.doi.org/10.2307/4590594>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.2307/4590594" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "849" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "74" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/alice-t-dashiell-3shq6f97to5rg> , <http://id.crossref.org/contributor/jacob-tuckman-3shq6f97to5rg> ;
+      <http://purl.org/dc/terms/date>
+              "1959"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.2307/4590594" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0094-6214> ;
+      <http://purl.org/dc/terms/publisher>
+              "JSTOR" ;
+      <http://purl.org/dc/terms/title>
+              "A Mental Health Program for the Later Years" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.2307/4590594" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "849" ;
+      <http://purl.org/ontology/bibo/volume>
+              "74" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.2307/4590594> , <doi:10.2307/4590594> .

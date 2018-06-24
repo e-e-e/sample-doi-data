@@ -1,0 +1,168 @@
+<http://id.crossref.org/contributor/j-h-davidson-2c49aka66qrsp>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Davidson" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "J.H." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "J.H. Davidson" .
+
+<http://id.crossref.org/contributor/j-bischof-2c49aka66qrsp>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Bischof" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "J." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "J. Bischof" .
+
+<http://id.crossref.org/contributor/u-kortshagen-2c49aka66qrsp>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kortshagen" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "U." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "U. Kortshagen" .
+
+<http://dx.doi.org/10.1016/j.ijheatmasstransfer.2005.11.001>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/j.ijheatmasstransfer.2005.11.001" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "534" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "451" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "49" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/j-h-davidson-2c49aka66qrsp> , <http://id.crossref.org/contributor/j-bischof-2c49aka66qrsp> , <http://id.crossref.org/contributor/u-kortshagen-2c49aka66qrsp> , <http://id.crossref.org/contributor/k-k-tamma-2c49aka66qrsp> , <http://id.crossref.org/contributor/w-e-ibele-2c49aka66qrsp> , <http://id.crossref.org/contributor/f-a-kulacki-2c49aka66qrsp> , <http://id.crossref.org/contributor/v-srinivasan-2c49aka66qrsp> , <http://id.crossref.org/contributor/r-j-goldstein-2c49aka66qrsp> , <http://id.crossref.org/contributor/s-v-patankar-2c49aka66qrsp> , <http://id.crossref.org/contributor/t-h-kuehn-2c49aka66qrsp> , <http://id.crossref.org/contributor/t-w-simon-2c49aka66qrsp> , <http://id.crossref.org/contributor/j-v-r-heberlein-2c49aka66qrsp> , <http://id.crossref.org/contributor/s-garrick-2c49aka66qrsp> , <http://id.crossref.org/contributor/p-j-strykowski-2c49aka66qrsp> ;
+      <http://purl.org/dc/terms/date>
+              "2006-02"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/j.ijheatmasstransfer.2005.11.001" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0017-9310> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Heat transfer—A review of 2003 literature" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/j.ijheatmasstransfer.2005.11.001" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "534" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "451" ;
+      <http://purl.org/ontology/bibo/volume>
+              "49" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1016/j.ijheatmasstransfer.2005.11.001> , <doi:10.1016/j.ijheatmasstransfer.2005.11.001> .
+
+<http://id.crossref.org/contributor/k-k-tamma-2c49aka66qrsp>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Tamma" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "K.K." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "K.K. Tamma" .
+
+<http://id.crossref.org/issn/0017-9310>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0017-9310" ;
+      <http://purl.org/dc/terms/title>
+              "International Journal of Heat and Mass Transfer" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0017-9310" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0017-9310" .
+
+<http://id.crossref.org/contributor/v-srinivasan-2c49aka66qrsp>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Srinivasan" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "V." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "V. Srinivasan" .
+
+<http://id.crossref.org/contributor/f-a-kulacki-2c49aka66qrsp>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kulacki" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "F.A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "F.A. Kulacki" .
+
+<http://id.crossref.org/contributor/w-e-ibele-2c49aka66qrsp>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Ibele" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "W.E." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "W.E. Ibele" .
+
+<http://id.crossref.org/contributor/r-j-goldstein-2c49aka66qrsp>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Goldstein" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "R.J." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "R.J. Goldstein" .
+
+<http://id.crossref.org/contributor/s-v-patankar-2c49aka66qrsp>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Patankar" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "S.V." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "S.V. Patankar" .
+
+<http://id.crossref.org/contributor/t-h-kuehn-2c49aka66qrsp>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kuehn" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "T.H." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "T.H. Kuehn" .
+
+<http://id.crossref.org/contributor/j-v-r-heberlein-2c49aka66qrsp>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Heberlein" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "J.V.R." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "J.V.R. Heberlein" .
+
+<http://id.crossref.org/contributor/t-w-simon-2c49aka66qrsp>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Simon" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "T.W." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "T.W. Simon" .
+
+<http://id.crossref.org/contributor/s-garrick-2c49aka66qrsp>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Garrick" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "S." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "S. Garrick" .
+
+<http://id.crossref.org/contributor/p-j-strykowski-2c49aka66qrsp>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Strykowski" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "P.J." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "P.J. Strykowski" .

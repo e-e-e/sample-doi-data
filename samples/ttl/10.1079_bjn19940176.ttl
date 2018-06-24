@@ -1,0 +1,74 @@
+<http://dx.doi.org/10.1079/bjn19940176>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1079/bjn19940176" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "687" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "71" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/annet-j-c-roodenburg-7qj1htmnw101> , <http://id.crossref.org/contributor/anton-c-beynen-7qj1htmnw101> , <http://id.crossref.org/contributor/shiguang-yu-7qj1htmnw101> , <http://id.crossref.org/contributor/clive-e-west-7qj1htmnw101> ;
+      <http://purl.org/dc/terms/date>
+              "1994-05"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1079/bjn19940176" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0007-1145> ;
+      <http://purl.org/dc/terms/publisher>
+              "Cambridge University Press (CUP)" ;
+      <http://purl.org/dc/terms/title>
+              "Comparison between time-dependent changes in iron metabolism of rats as induced by marginal deficiency of either vitamin A or iron" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1079/bjn19940176" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "687" ;
+      <http://purl.org/ontology/bibo/volume>
+              "71" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1079/bjn19940176> , <doi:10.1079/bjn19940176> .
+
+<http://id.crossref.org/contributor/annet-j-c-roodenburg-7qj1htmnw101>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Roodenburg" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Annet J. C." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Annet J. C. Roodenburg" .
+
+<http://id.crossref.org/contributor/anton-c-beynen-7qj1htmnw101>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Beynen" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Anton C." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Anton C. Beynen" .
+
+<http://id.crossref.org/issn/0007-1145>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1475-2662" , "0007-1145" ;
+      <http://purl.org/dc/terms/title>
+              "British Journal of Nutrition" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1475-2662" , "0007-1145" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1475-2662" , "urn:issn:0007-1145" .
+
+<http://id.crossref.org/contributor/shiguang-yu-7qj1htmnw101>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Yu" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Shiguang" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Shiguang Yu" .
+
+<http://id.crossref.org/contributor/clive-e-west-7qj1htmnw101>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "West" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Clive E." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Clive E. West" .

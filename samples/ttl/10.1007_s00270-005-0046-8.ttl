@@ -1,0 +1,87 @@
+<http://id.crossref.org/contributor/giovanni-guido-cerri-2vmrurxxxv7xn>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Cerri" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Giovanni Guido" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Giovanni Guido Cerri" .
+
+<http://id.crossref.org/contributor/francisco-cesar-carnevale-2vmrurxxxv7xn>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Carnevale" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Francisco Cesar" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Francisco Cesar Carnevale" .
+
+<http://dx.doi.org/10.1007/s00270-005-0046-8>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1007/s00270-005-0046-8" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "461" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "457" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "29" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/giovanni-guido-cerri-2vmrurxxxv7xn> , <http://id.crossref.org/contributor/francisco-cesar-carnevale-2vmrurxxxv7xn> , <http://id.crossref.org/contributor/airton-mota-moreira-2vmrurxxxv7xn> , <http://id.crossref.org/contributor/marcus-vinicius-borges-2vmrurxxxv7xn> , <http://id.crossref.org/contributor/joao-gilberto-maksoud-2vmrurxxxv7xn> ;
+      <http://purl.org/dc/terms/date>
+              "2006-02-18"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1007/s00270-005-0046-8" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0174-1551> ;
+      <http://purl.org/dc/terms/publisher>
+              "Springer Nature" ;
+      <http://purl.org/dc/terms/title>
+              "Endovascular Treatment of Acute Portal Vein Thrombosis After Liver Transplantation in a Child" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1007/s00270-005-0046-8" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "461" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "457" ;
+      <http://purl.org/ontology/bibo/volume>
+              "29" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1007/s00270-005-0046-8> , <info:doi/10.1007/s00270-005-0046-8> .
+
+<http://id.crossref.org/issn/0174-1551>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0174-1551" , "1432-086X" ;
+      <http://purl.org/dc/terms/title>
+              "CardioVascular and Interventional Radiology" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0174-1551" , "1432-086X" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0174-1551" , "urn:issn:1432-086X" .
+
+<http://id.crossref.org/contributor/airton-mota-moreira-2vmrurxxxv7xn>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Moreira" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Airton Mota" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Airton Mota Moreira" .
+
+<http://id.crossref.org/contributor/marcus-vinicius-borges-2vmrurxxxv7xn>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Borges" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Marcus Vinicius" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Marcus Vinicius Borges" .
+
+<http://id.crossref.org/contributor/joao-gilberto-maksoud-2vmrurxxxv7xn>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Maksoud" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "João Gilberto" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "João Gilberto Maksoud" .

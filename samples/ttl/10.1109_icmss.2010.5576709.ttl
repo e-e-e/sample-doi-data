@@ -1,0 +1,33 @@
+<http://dx.doi.org/10.1109/icmss.2010.5576709>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1109/icmss.2010.5576709" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/shuang-zhao-1gxe8tz99f3w> ;
+      <http://purl.org/dc/terms/date>
+              "2010-08"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1109/icmss.2010.5576709" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9781424453252> ;
+      <http://purl.org/dc/terms/publisher>
+              "IEEE" ;
+      <http://purl.org/dc/terms/title>
+              "An Empirical Study on the Relationship between Network Competence and Firm Performance" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1109/icmss.2010.5576709" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1109/icmss.2010.5576709> , <info:doi/10.1109/icmss.2010.5576709> .
+
+<http://id.crossref.org/isbn/9781424453252>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "2010 International Conference on Management and Service Science" .
+
+<http://id.crossref.org/contributor/shuang-zhao-1gxe8tz99f3w>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Zhao" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Shuang" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Shuang Zhao" .

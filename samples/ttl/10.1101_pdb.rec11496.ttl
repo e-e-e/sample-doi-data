@@ -1,0 +1,40 @@
+<http://dx.doi.org/10.1101/pdb.rec11496>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1101/pdb.rec11496" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "pdb.rec11496" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "pdb.rec11496" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "2008" ;
+      <http://purl.org/dc/terms/date>
+              "2008-10-01"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1101/pdb.rec11496" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1559-6095> ;
+      <http://purl.org/dc/terms/publisher>
+              "Cold Spring Harbor Laboratory" ;
+      <http://purl.org/dc/terms/title>
+              "Fixative solution for Monodelphis embryos" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1101/pdb.rec11496" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "pdb.rec11496" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "pdb.rec11496" ;
+      <http://purl.org/ontology/bibo/volume>
+              "2008" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1101/pdb.rec11496> , <info:doi/10.1101/pdb.rec11496> .
+
+<http://id.crossref.org/issn/1559-6095>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1559-6095" ;
+      <http://purl.org/dc/terms/title>
+              "Cold Spring Harbor Protocols" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1559-6095" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1559-6095" .

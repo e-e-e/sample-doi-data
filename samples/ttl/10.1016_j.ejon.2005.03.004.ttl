@@ -1,0 +1,87 @@
+<http://dx.doi.org/10.1016/j.ejon.2005.03.004>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/j.ejon.2005.03.004" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "155" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "150" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "10" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/anna-schiaffino-2s7qlsoe8j7cq> , <http://id.crossref.org/contributor/isabel-martinez-2s7qlsoe8j7cq> , <http://id.crossref.org/contributor/lina-jodar-2s7qlsoe8j7cq> , <http://id.crossref.org/contributor/carolina-godino-2s7qlsoe8j7cq> , <http://id.crossref.org/contributor/angela-duran-2s7qlsoe8j7cq> ;
+      <http://purl.org/dc/terms/date>
+              "2006-04"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/j.ejon.2005.03.004" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1462-3889> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Nursing education as an intervention to decrease fatigue perception in oncology patients" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/j.ejon.2005.03.004" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "155" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "150" ;
+      <http://purl.org/ontology/bibo/volume>
+              "10" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1016/j.ejon.2005.03.004> , <info:doi/10.1016/j.ejon.2005.03.004> .
+
+<http://id.crossref.org/issn/1462-3889>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1462-3889" ;
+      <http://purl.org/dc/terms/title>
+              "European Journal of Oncology Nursing" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1462-3889" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1462-3889" .
+
+<http://id.crossref.org/contributor/anna-schiaffino-2s7qlsoe8j7cq>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Schiaffino" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Anna" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Anna Schiaffino" .
+
+<http://id.crossref.org/contributor/lina-jodar-2s7qlsoe8j7cq>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Jodar" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Lina" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Lina Jodar" .
+
+<http://id.crossref.org/contributor/isabel-martinez-2s7qlsoe8j7cq>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Martínez" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Isabel" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Isabel Martínez" .
+
+<http://id.crossref.org/contributor/carolina-godino-2s7qlsoe8j7cq>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Godino" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Carolina" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Carolina Godino" .
+
+<http://id.crossref.org/contributor/angela-duran-2s7qlsoe8j7cq>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Durán" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Ángela" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Ángela Durán" .

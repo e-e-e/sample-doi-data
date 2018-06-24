@@ -1,0 +1,105 @@
+<http://id.crossref.org/contributor/shigenori-watanabe-3pdge7nkxv4gv>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Watanabe" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Shigenori" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Shigenori Watanabe" .
+
+<http://id.crossref.org/contributor/toshiyuki-hamada-3pdge7nkxv4gv>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Hamada" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Toshiyuki" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Toshiyuki Hamada" .
+
+<http://dx.doi.org/10.1016/s0006-8993(99)01719-9>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/s0006-8993(99)01719-9" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "135" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "131" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "838" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/shigenori-watanabe-3pdge7nkxv4gv> , <http://id.crossref.org/contributor/toshiyuki-hamada-3pdge7nkxv4gv> , <http://id.crossref.org/contributor/pan-ziging-3pdge7nkxv4gv> , <http://id.crossref.org/contributor/tomoyasu-sugiyama-3pdge7nkxv4gv> , <http://id.crossref.org/contributor/katsuhiko-mikoshiba-3pdge7nkxv4gv> , <http://id.crossref.org/contributor/tomoko-niki-3pdge7nkxv4gv> , <http://id.crossref.org/contributor/norio-ishida-3pdge7nkxv4gv> ;
+      <http://purl.org/dc/terms/date>
+              "1999-08"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/s0006-8993(99)01719-9" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0006-8993> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Differential expression patterns of inositol trisphosphate receptor types 1 and 3 in the rat suprachiasmatic nucleus" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/s0006-8993(99)01719-9" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "135" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "131" ;
+      <http://purl.org/ontology/bibo/volume>
+              "838" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1016/s0006-8993(99)01719-9> , <info:doi/10.1016/s0006-8993(99)01719-9> .
+
+<http://id.crossref.org/contributor/pan-ziging-3pdge7nkxv4gv>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Ziging" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Pan" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Pan Ziging" .
+
+<http://id.crossref.org/contributor/tomoyasu-sugiyama-3pdge7nkxv4gv>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Sugiyama" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Tomoyasu" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Tomoyasu Sugiyama" .
+
+<http://id.crossref.org/contributor/tomoko-niki-3pdge7nkxv4gv>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Niki" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Tomoko" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Tomoko Niki" .
+
+<http://id.crossref.org/contributor/katsuhiko-mikoshiba-3pdge7nkxv4gv>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Mikoshiba" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Katsuhiko" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Katsuhiko Mikoshiba" .
+
+<http://id.crossref.org/contributor/norio-ishida-3pdge7nkxv4gv>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Ishida" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Norio" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Norio Ishida" .
+
+<http://id.crossref.org/issn/0006-8993>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0006-8993" ;
+      <http://purl.org/dc/terms/title>
+              "Brain Research" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0006-8993" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0006-8993" .

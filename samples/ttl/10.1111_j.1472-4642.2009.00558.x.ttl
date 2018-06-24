@@ -1,0 +1,78 @@
+<http://dx.doi.org/10.1111/j.1472-4642.2009.00558.x>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1111/j.1472-4642.2009.00558.x" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "468" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "459" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "15" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/renato-caparroz-319zlqcltwe0d> , <http://id.crossref.org/contributor/glaucia-helena-fernandes-seixas-319zlqcltwe0d> , <http://id.crossref.org/contributor/igor-berkunsky-319zlqcltwe0d> , <http://id.crossref.org/contributor/rosane-garcia-collevatti-319zlqcltwe0d> ;
+      <http://purl.org/dc/terms/date>
+              "2009-05"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1111/j.1472-4642.2009.00558.x" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1366-9516> ;
+      <http://purl.org/dc/terms/publisher>
+              "Wiley" ;
+      <http://purl.org/dc/terms/title>
+              "The role of demography and climatic events in shaping the phylogeography ofAmazona aestiva(Psittaciformes, Aves) and definition of management units for conservation" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1111/j.1472-4642.2009.00558.x" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "468" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "459" ;
+      <http://purl.org/ontology/bibo/volume>
+              "15" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1111/j.1472-4642.2009.00558.x> , <info:doi/10.1111/j.1472-4642.2009.00558.x> .
+
+<http://id.crossref.org/contributor/renato-caparroz-319zlqcltwe0d>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Caparroz" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Renato" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Renato Caparroz" .
+
+<http://id.crossref.org/contributor/glaucia-helena-fernandes-seixas-319zlqcltwe0d>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Seixas" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Gláucia Helena Fernandes" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Gláucia Helena Fernandes Seixas" .
+
+<http://id.crossref.org/issn/1366-9516>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1366-9516" , "1472-4642" ;
+      <http://purl.org/dc/terms/title>
+              "Diversity and Distributions" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1366-9516" , "1472-4642" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1472-4642" , "urn:issn:1366-9516" .
+
+<http://id.crossref.org/contributor/igor-berkunsky-319zlqcltwe0d>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Berkunsky" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Igor" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Igor Berkunsky" .
+
+<http://id.crossref.org/contributor/rosane-garcia-collevatti-319zlqcltwe0d>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Collevatti" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Rosane Garcia" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Rosane Garcia Collevatti" .

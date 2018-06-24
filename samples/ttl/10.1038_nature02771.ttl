@@ -1,0 +1,105 @@
+<http://id.crossref.org/contributor/david-m-h-sexton-1ooy9e3vrr4pq>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Sexton" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "David M. H." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "David M. H. Sexton" .
+
+<http://id.crossref.org/contributor/david-a-stainforth-1ooy9e3vrr4pq>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Stainforth" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "David A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "David A. Stainforth" .
+
+<http://id.crossref.org/issn/0028-0836>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0028-0836" , "1476-4679" ;
+      <http://purl.org/dc/terms/title>
+              "Nature" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0028-0836" , "1476-4679" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0028-0836" , "urn:issn:1476-4679" .
+
+<http://id.crossref.org/contributor/james-m-murphy-1ooy9e3vrr4pq>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Murphy" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "James M." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "James M. Murphy" .
+
+<http://id.crossref.org/contributor/gareth-s-jones-1ooy9e3vrr4pq>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Jones" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Gareth S." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Gareth S. Jones" .
+
+<http://dx.doi.org/10.1038/nature02771>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1038/nature02771" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "772" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "768" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "430" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/david-m-h-sexton-1ooy9e3vrr4pq> , <http://id.crossref.org/contributor/david-a-stainforth-1ooy9e3vrr4pq> , <http://id.crossref.org/contributor/james-m-murphy-1ooy9e3vrr4pq> , <http://id.crossref.org/contributor/gareth-s-jones-1ooy9e3vrr4pq> , <http://id.crossref.org/contributor/matthew-collins-1ooy9e3vrr4pq> , <http://id.crossref.org/contributor/mark-j-webb-1ooy9e3vrr4pq> , <http://id.crossref.org/contributor/david-n-barnett-1ooy9e3vrr4pq> ;
+      <http://purl.org/dc/terms/date>
+              "2004-08-12"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1038/nature02771" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0028-0836> ;
+      <http://purl.org/dc/terms/publisher>
+              "Springer Nature" ;
+      <http://purl.org/dc/terms/title>
+              "Quantification of modelling uncertainties in a large ensemble of climate change simulations" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1038/nature02771" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "772" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "768" ;
+      <http://purl.org/ontology/bibo/volume>
+              "430" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1038/nature02771> , <info:doi/10.1038/nature02771> .
+
+<http://id.crossref.org/contributor/mark-j-webb-1ooy9e3vrr4pq>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Webb" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Mark J." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Mark J. Webb" .
+
+<http://id.crossref.org/contributor/matthew-collins-1ooy9e3vrr4pq>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Collins" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Matthew" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Matthew Collins" .
+
+<http://id.crossref.org/contributor/david-n-barnett-1ooy9e3vrr4pq>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Barnett" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "David N." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "David N. Barnett" .

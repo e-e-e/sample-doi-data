@@ -1,0 +1,69 @@
+<http://id.crossref.org/contributor/r-sugaya-2wl2wrmtqyz9g>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Sugaya" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "R." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "R. Sugaya" .
+
+<http://dx.doi.org/10.1016/0375-9601(77)90629-6>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/0375-9601(77)90629-6" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "325" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "323" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "61" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/r-sugaya-2wl2wrmtqyz9g> , <http://id.crossref.org/contributor/h-nomoto-2wl2wrmtqyz9g> , <http://id.crossref.org/contributor/m-sugawa-2wl2wrmtqyz9g> ;
+      <http://purl.org/dc/terms/date>
+              "1977-05"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/0375-9601(77)90629-6" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0375-9601> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Absolute and convective instabilities of electrostatic ion cyclotron waves excited in an ion beam-plasma system" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/0375-9601(77)90629-6" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "325" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "323" ;
+      <http://purl.org/ontology/bibo/volume>
+              "61" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1016/0375-9601(77)90629-6> , <info:doi/10.1016/0375-9601(77)90629-6> .
+
+<http://id.crossref.org/contributor/h-nomoto-2wl2wrmtqyz9g>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Nomoto" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "H." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "H. Nomoto" .
+
+<http://id.crossref.org/contributor/m-sugawa-2wl2wrmtqyz9g>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Sugawa" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "M." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "M. Sugawa" .
+
+<http://id.crossref.org/issn/0375-9601>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0375-9601" ;
+      <http://purl.org/dc/terms/title>
+              "Physics Letters A" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0375-9601" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0375-9601" .

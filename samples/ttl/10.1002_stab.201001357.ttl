@@ -1,0 +1,78 @@
+<http://id.crossref.org/contributor/ludger-lohaus-dw8rnyeolrkx>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Lohaus" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Ludger" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Ludger Lohaus" .
+
+<http://id.crossref.org/contributor/stephan-lochte-holtgreven-dw8rnyeolrkx>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Lochte-Holtgreven" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Stephan" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Stephan Lochte-Holtgreven" .
+
+<http://id.crossref.org/contributor/nick-lindschulte-dw8rnyeolrkx>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Lindschulte" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Nick" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Nick Lindschulte" .
+
+<http://id.crossref.org/issn/0038-9145>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0038-9145" ;
+      <http://purl.org/dc/terms/title>
+              "Stahlbau" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0038-9145" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0038-9145" .
+
+<http://id.crossref.org/contributor/peter-schaumann-dw8rnyeolrkx>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Schaumann" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Peter" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Peter Schaumann" .
+
+<http://dx.doi.org/10.1002/stab.201001357>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1002/stab.201001357" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "647" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "637" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "79" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/ludger-lohaus-dw8rnyeolrkx> , <http://id.crossref.org/contributor/stephan-lochte-holtgreven-dw8rnyeolrkx> , <http://id.crossref.org/contributor/nick-lindschulte-dw8rnyeolrkx> , <http://id.crossref.org/contributor/peter-schaumann-dw8rnyeolrkx> ;
+      <http://purl.org/dc/terms/date>
+              "2010-09-06"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1002/stab.201001357" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0038-9145> ;
+      <http://purl.org/dc/terms/publisher>
+              "Wiley" ;
+      <http://purl.org/dc/terms/title>
+              "Durchrutschende Grout-Verbindungen in OWEA - Tragverhalten, Instandsetzung und Optimierung" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1002/stab.201001357" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "647" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "637" ;
+      <http://purl.org/ontology/bibo/volume>
+              "79" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1002/stab.201001357> , <info:doi/10.1002/stab.201001357> .

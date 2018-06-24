@@ -1,0 +1,60 @@
+<http://id.crossref.org/contributor/yoshihiko-ito-202yep0ef7x5a>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Ito" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Yoshihiko" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Yoshihiko Ito" .
+
+<http://dx.doi.org/10.1021/cr00013a005>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1021/cr00013a005" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "871" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "857" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "92" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/yoshihiko-ito-202yep0ef7x5a> , <http://id.crossref.org/contributor/masaya-sawamura-202yep0ef7x5a> ;
+      <http://purl.org/dc/terms/date>
+              "1992-07"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1021/cr00013a005" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0009-2665> ;
+      <http://purl.org/dc/terms/publisher>
+              "American Chemical Society (ACS)" ;
+      <http://purl.org/dc/terms/title>
+              "Catalytic asymmetric synthesis by means of secondary interaction between chiral ligands and substrates" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1021/cr00013a005" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "871" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "857" ;
+      <http://purl.org/ontology/bibo/volume>
+              "92" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1021/cr00013a005> , <doi:10.1021/cr00013a005> .
+
+<http://id.crossref.org/issn/0009-2665>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1520-6890" , "0009-2665" ;
+      <http://purl.org/dc/terms/title>
+              "Chemical Reviews" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1520-6890" , "0009-2665" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1520-6890" , "urn:issn:0009-2665" .
+
+<http://id.crossref.org/contributor/masaya-sawamura-202yep0ef7x5a>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Sawamura" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Masaya" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Masaya Sawamura" .

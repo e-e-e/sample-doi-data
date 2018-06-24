@@ -1,0 +1,41 @@
+<http://id.crossref.org/contributor/kate-distin-x5mtadanxws>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Distin" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Kate" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Kate Distin" .
+
+<http://id.crossref.org/isbn/9780511614286>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "The Selfish Meme" .
+
+<http://dx.doi.org/10.1017/cbo9780511614286.008>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1017/cbo9780511614286.008" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "91" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "72" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/kate-distin-x5mtadanxws> ;
+      <http://purl.org/dc/terms/date>
+              ""^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1017/cbo9780511614286.008" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9780511614286> ;
+      <http://purl.org/dc/terms/publisher>
+              "Cambridge University Press" ;
+      <http://purl.org/dc/terms/title>
+              "The Human Mind: Meme Complex with a Virus?" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1017/cbo9780511614286.008" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "91" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "72" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1017/cbo9780511614286.008> , <info:doi/10.1017/cbo9780511614286.008> .

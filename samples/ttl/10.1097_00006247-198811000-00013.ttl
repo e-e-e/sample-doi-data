@@ -1,0 +1,47 @@
+<http://dx.doi.org/10.1097/00006247-198811000-00013>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1097/00006247-198811000-00013" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "30???32" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "19" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/paul-l-grimaldi-zr22lvz4538y> ;
+      <http://purl.org/dc/terms/date>
+              "1988-11"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1097/00006247-198811000-00013" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0744-6314> ;
+      <http://purl.org/dc/terms/publisher>
+              "Ovid Technologies (Wolters Kluwer Health)" ;
+      <http://purl.org/dc/terms/title>
+              "FY 1989 PPS Rules Change Medicare Outlier Policy" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1097/00006247-198811000-00013" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "30???32" ;
+      <http://purl.org/ontology/bibo/volume>
+              "19" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1097/00006247-198811000-00013> , <info:doi/10.1097/00006247-198811000-00013> .
+
+<http://id.crossref.org/issn/0744-6314>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0744-6314" ;
+      <http://purl.org/dc/terms/title>
+              "Nursing Management (Springhouse)" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0744-6314" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0744-6314" .
+
+<http://id.crossref.org/contributor/paul-l-grimaldi-zr22lvz4538y>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "GRIMALDI" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "PAUL L." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "PAUL L. GRIMALDI" .

@@ -1,0 +1,42 @@
+<http://id.crossref.org/contributor/m-v-tostes-37ug5whimtbva>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Tostes" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "M.V." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "M.V. Tostes" .
+
+<http://id.crossref.org/contributor/k-fonseca-37ug5whimtbva>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Fonseca" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "K." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "K. Fonseca" .
+
+<http://id.crossref.org/isbn/0769525229>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Advanced Int'l Conference on Telecommunications and Int'l Conference on Internet and Web Applications and Services (AICT-ICIW'06)" .
+
+<http://dx.doi.org/10.1109/aict-iciw.2006.185>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1109/aict-iciw.2006.185" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/m-v-tostes-37ug5whimtbva> , <http://id.crossref.org/contributor/k-fonseca-37ug5whimtbva> ;
+      <http://purl.org/dc/terms/date>
+              "2006"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1109/aict-iciw.2006.185" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/0769525229> ;
+      <http://purl.org/dc/terms/publisher>
+              "IEEE" ;
+      <http://purl.org/dc/terms/title>
+              "TCP TS-Prio: An Approach to end-to-end service differentiation for DiffServ AF classes" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1109/aict-iciw.2006.185" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1109/aict-iciw.2006.185> , <doi:10.1109/aict-iciw.2006.185> .

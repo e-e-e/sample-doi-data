@@ -1,0 +1,96 @@
+<http://id.crossref.org/contributor/masatoshi-watanabe-3zjqoq5hyz88>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Watanabe" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Masatoshi" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Masatoshi Watanabe" .
+
+<http://id.crossref.org/issn/0006-291X>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0006-291X" ;
+      <http://purl.org/dc/terms/title>
+              "Biochemical and Biophysical Research Communications" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0006-291X" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0006-291X" .
+
+<http://id.crossref.org/contributor/daisuke-maeda-3zjqoq5hyz88>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Maeda" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Daisuke" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Daisuke Maeda" .
+
+<http://id.crossref.org/contributor/shunichi-tozawa-3zjqoq5hyz88>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Tozawa" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Shunichi" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Shunichi Tozawa" .
+
+<http://id.crossref.org/contributor/mitsuko-masutani-3zjqoq5hyz88>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Masutani" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Mitsuko" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Mitsuko Masutani" .
+
+<http://id.crossref.org/contributor/hitoshi-nakagama-3zjqoq5hyz88>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Nakagama" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Hitoshi" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Hitoshi Nakagama" .
+
+<http://dx.doi.org/10.1016/j.bbrc.2007.01.171>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/j.bbrc.2007.01.171" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "456" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "451" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "355" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/masatoshi-watanabe-3zjqoq5hyz88> , <http://id.crossref.org/contributor/shunichi-tozawa-3zjqoq5hyz88> , <http://id.crossref.org/contributor/daisuke-maeda-3zjqoq5hyz88> , <http://id.crossref.org/contributor/mitsuko-masutani-3zjqoq5hyz88> , <http://id.crossref.org/contributor/hitoshi-nakagama-3zjqoq5hyz88> , <http://id.crossref.org/contributor/masayasu-shirato-3zjqoq5hyz88> ;
+      <http://purl.org/dc/terms/date>
+              "2007-04"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/j.bbrc.2007.01.171" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0006-291X> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Poly(etheno ADP-ribose) blocks poly(ADP-ribose) glycohydrolase activity" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/j.bbrc.2007.01.171" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "456" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "451" ;
+      <http://purl.org/ontology/bibo/volume>
+              "355" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1016/j.bbrc.2007.01.171> , <info:doi/10.1016/j.bbrc.2007.01.171> .
+
+<http://id.crossref.org/contributor/masayasu-shirato-3zjqoq5hyz88>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Shirato" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Masayasu" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Masayasu Shirato" .

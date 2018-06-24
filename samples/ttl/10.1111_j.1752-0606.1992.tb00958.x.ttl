@@ -1,0 +1,40 @@
+<http://dx.doi.org/10.1111/j.1752-0606.1992.tb00958.x>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1111/j.1752-0606.1992.tb00958.x" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "428" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "425" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "18" ;
+      <http://purl.org/dc/terms/date>
+              "1992-10"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1111/j.1752-0606.1992.tb00958.x" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0194-472X> ;
+      <http://purl.org/dc/terms/publisher>
+              "Wiley" ;
+      <http://purl.org/dc/terms/title>
+              "BOOKS RECEIVED" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1111/j.1752-0606.1992.tb00958.x" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "428" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "425" ;
+      <http://purl.org/ontology/bibo/volume>
+              "18" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1111/j.1752-0606.1992.tb00958.x> , <info:doi/10.1111/j.1752-0606.1992.tb00958.x> .
+
+<http://id.crossref.org/issn/0194-472X>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0194-472X" ;
+      <http://purl.org/dc/terms/title>
+              "Journal of Marital and Family Therapy" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0194-472X" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0194-472X" .

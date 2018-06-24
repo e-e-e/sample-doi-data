@@ -1,0 +1,69 @@
+<http://id.crossref.org/issn/0077-8923>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1749-6632" , "0077-8923" ;
+      <http://purl.org/dc/terms/title>
+              "Annals of the New York Academy of Sciences" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1749-6632" , "0077-8923" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1749-6632" , "urn:issn:0077-8923" .
+
+<http://dx.doi.org/10.1111/j.1749-6632.1986.tb46594.x>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1111/j.1749-6632.1986.tb46594.x" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "539" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "537" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "488" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/j-christophe-3l00dfjj1vgyb> , <http://id.crossref.org/contributor/p-chatelain-3l00dfjj1vgyb> , <http://id.crossref.org/contributor/p-robberecht-3l00dfjj1vgyb> ;
+      <http://purl.org/dc/terms/date>
+              "1986-12"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1111/j.1749-6632.1986.tb46594.x" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0077-8923> ;
+      <http://purl.org/dc/terms/publisher>
+              "Wiley" ;
+      <http://purl.org/dc/terms/title>
+              "?-Adrenergic Receptors and Adenylate Cyclase Activity in Erythrocyte Membranes from Spontaneously Hypertensive Rats" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1111/j.1749-6632.1986.tb46594.x" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "539" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "537" ;
+      <http://purl.org/ontology/bibo/volume>
+              "488" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1111/j.1749-6632.1986.tb46594.x> , <doi:10.1111/j.1749-6632.1986.tb46594.x> .
+
+<http://id.crossref.org/contributor/j-christophe-3l00dfjj1vgyb>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "CHRISTOPHE" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "J." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "J. CHRISTOPHE" .
+
+<http://id.crossref.org/contributor/p-chatelain-3l00dfjj1vgyb>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "CHATELAIN" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "P." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "P. CHATELAIN" .
+
+<http://id.crossref.org/contributor/p-robberecht-3l00dfjj1vgyb>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "ROBBERECHT" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "P." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "P. ROBBERECHT" .

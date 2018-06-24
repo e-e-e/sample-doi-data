@@ -1,0 +1,87 @@
+<http://id.crossref.org/issn/0947-7047>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1862-0760" , "0947-7047" ;
+      <http://purl.org/dc/terms/title>
+              "Ionics" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1862-0760" , "0947-7047" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0947-7047" , "urn:issn:1862-0760" .
+
+<http://id.crossref.org/contributor/norio-miura-2fenewgdvcscx>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Miura" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Norio" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Norio Miura" .
+
+<http://id.crossref.org/contributor/perumal-elumalai-2fenewgdvcscx>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Elumalai" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Perumal" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Perumal Elumalai" .
+
+<http://id.crossref.org/contributor/vladimir-v-plashnitsa-2fenewgdvcscx>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Plashnitsa" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Vladimir V." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Vladimir V. Plashnitsa" .
+
+<http://id.crossref.org/contributor/masaharu-hasei-2fenewgdvcscx>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Hasei" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Masaharu" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Masaharu Hasei" .
+
+<http://id.crossref.org/contributor/taro-ueda-2fenewgdvcscx>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Ueda" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Taro" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Taro Ueda" .
+
+<http://dx.doi.org/10.1007/s11581-008-0206-3>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1007/s11581-008-0206-3" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "179" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "179" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "14" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/norio-miura-2fenewgdvcscx> , <http://id.crossref.org/contributor/perumal-elumalai-2fenewgdvcscx> , <http://id.crossref.org/contributor/vladimir-v-plashnitsa-2fenewgdvcscx> , <http://id.crossref.org/contributor/masaharu-hasei-2fenewgdvcscx> , <http://id.crossref.org/contributor/taro-ueda-2fenewgdvcscx> ;
+      <http://purl.org/dc/terms/date>
+              "2008-02-13"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1007/s11581-008-0206-3" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0947-7047> ;
+      <http://purl.org/dc/terms/publisher>
+              "Springer Nature" ;
+      <http://purl.org/dc/terms/title>
+              "Dependence of NO2 sensitivity on thickness of oxide-sensing electrodes for mixed-potential-type sensor using stabilized zirconia" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1007/s11581-008-0206-3" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "179" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "179" ;
+      <http://purl.org/ontology/bibo/volume>
+              "14" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1007/s11581-008-0206-3> , <doi:10.1007/s11581-008-0206-3> .

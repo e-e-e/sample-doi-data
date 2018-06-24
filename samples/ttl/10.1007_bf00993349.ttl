@@ -1,0 +1,60 @@
+<http://id.crossref.org/issn/0885-6125>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1573-0565" , "0885-6125" ;
+      <http://purl.org/dc/terms/title>
+              "Machine Learning" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1573-0565" , "0885-6125" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0885-6125" , "urn:issn:1573-0565" .
+
+<http://dx.doi.org/10.1007/bf00993349>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1007/bf00993349" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "329" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "321" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "15" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/wei-zhong-liu-1qxf3e91damf9> , <http://id.crossref.org/contributor/allan-p-white-1qxf3e91damf9> ;
+      <http://purl.org/dc/terms/date>
+              "1994-06"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1007/bf00993349" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0885-6125> ;
+      <http://purl.org/dc/terms/publisher>
+              "Springer Nature" ;
+      <http://purl.org/dc/terms/title>
+              "Bias in information-based measures in decision tree induction" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1007/bf00993349" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "329" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "321" ;
+      <http://purl.org/ontology/bibo/volume>
+              "15" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1007/bf00993349> , <info:doi/10.1007/bf00993349> .
+
+<http://id.crossref.org/contributor/wei-zhong-liu-1qxf3e91damf9>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Liu" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Wei Zhong" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Wei Zhong Liu" .
+
+<http://id.crossref.org/contributor/allan-p-white-1qxf3e91damf9>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "White" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Allan P." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Allan P. White" .

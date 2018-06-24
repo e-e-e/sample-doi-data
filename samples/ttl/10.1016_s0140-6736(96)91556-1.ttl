@@ -1,0 +1,78 @@
+<http://id.crossref.org/contributor/d-weald-2nfg1chx43myz>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Weald" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "D" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "D Weald" .
+
+<http://id.crossref.org/contributor/i-strickland-2nfg1chx43myz>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Strickland" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "I" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "I Strickland" .
+
+<http://dx.doi.org/10.1016/s0140-6736(96)91556-1>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/s0140-6736(96)91556-1" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "18" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "15" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "347" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/d-weald-2nfg1chx43myz> , <http://id.crossref.org/contributor/i-strickland-2nfg1chx43myz> , <http://id.crossref.org/contributor/p-s-freidmann-2nfg1chx43myz> , <http://id.crossref.org/contributor/b-b-tan-2nfg1chx43myz> ;
+      <http://purl.org/dc/terms/date>
+              "1996-01"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/s0140-6736(96)91556-1" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0140-6736> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Double-blind controlled trial of effect of housedust-mite allergen avoidance on atopic dermatitis" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/s0140-6736(96)91556-1" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "18" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "15" ;
+      <http://purl.org/ontology/bibo/volume>
+              "347" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1016/s0140-6736(96)91556-1> , <doi:10.1016/s0140-6736(96)91556-1> .
+
+<http://id.crossref.org/contributor/p-s-freidmann-2nfg1chx43myz>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Freidmann" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "P.S" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "P.S Freidmann" .
+
+<http://id.crossref.org/contributor/b-b-tan-2nfg1chx43myz>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Tan" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "B.B" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "B.B Tan" .
+
+<http://id.crossref.org/issn/0140-6736>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0140-6736" ;
+      <http://purl.org/dc/terms/title>
+              "The Lancet" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0140-6736" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0140-6736" .

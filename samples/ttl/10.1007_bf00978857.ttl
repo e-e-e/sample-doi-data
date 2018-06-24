@@ -1,0 +1,51 @@
+<http://id.crossref.org/issn/0543-1972>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0543-1972" , "1573-8906" ;
+      <http://purl.org/dc/terms/title>
+              "Measurement Techniques" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0543-1972" , "1573-8906" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0543-1972" , "urn:issn:1573-8906" .
+
+<http://dx.doi.org/10.1007/bf00978857>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1007/bf00978857" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "131" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "127" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "35" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/a-m-kosolapov-2xi9hbc8t6g77> ;
+      <http://purl.org/dc/terms/date>
+              "1992-02"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1007/bf00978857" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0543-1972> ;
+      <http://purl.org/dc/terms/publisher>
+              "Springer Nature" ;
+      <http://purl.org/dc/terms/title>
+              "A method of measuring physical quantities" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1007/bf00978857" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "131" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "127" ;
+      <http://purl.org/ontology/bibo/volume>
+              "35" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1007/bf00978857> , <info:doi/10.1007/bf00978857> .
+
+<http://id.crossref.org/contributor/a-m-kosolapov-2xi9hbc8t6g77>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kosolapov" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "A. M." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "A. M. Kosolapov" .

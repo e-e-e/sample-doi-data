@@ -1,0 +1,87 @@
+<http://id.crossref.org/contributor/a-p-dyachkovskii-yz2q30nu6i39>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "D’yachkovskii" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "A. P." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "A. P. D’yachkovskii" .
+
+<http://id.crossref.org/contributor/t-i-ivanova-yz2q30nu6i39>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Ivanova" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "T. I." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "T. I. Ivanova" .
+
+<http://id.crossref.org/contributor/n-p-kuzmina-yz2q30nu6i39>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kuz’mina" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "N. P." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "N. P. Kuz’mina" .
+
+<http://id.crossref.org/contributor/s-v-petrova-yz2q30nu6i39>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Petrova" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "S. V." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "S. V. Petrova" .
+
+<http://dx.doi.org/10.1134/s1995425509010056>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1134/s1995425509010056" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "32" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "27" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "2" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/a-p-dyachkovskii-yz2q30nu6i39> , <http://id.crossref.org/contributor/t-i-ivanova-yz2q30nu6i39> , <http://id.crossref.org/contributor/n-p-kuzmina-yz2q30nu6i39> , <http://id.crossref.org/contributor/s-v-petrova-yz2q30nu6i39> , <http://id.crossref.org/contributor/a-p-chevychelov-yz2q30nu6i39> ;
+      <http://purl.org/dc/terms/date>
+              "2009-02"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1134/s1995425509010056" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1995-4255> ;
+      <http://purl.org/dc/terms/publisher>
+              "Pleiades Publishing Ltd" ;
+      <http://purl.org/dc/terms/title>
+              "Soil microbial communities in the zone of uranium deposits of the Central Aldan (South Yakutia)" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1134/s1995425509010056" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "32" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "27" ;
+      <http://purl.org/ontology/bibo/volume>
+              "2" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1134/s1995425509010056> , <info:doi/10.1134/s1995425509010056> .
+
+<http://id.crossref.org/issn/1995-4255>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1995-4263" , "1995-4255" ;
+      <http://purl.org/dc/terms/title>
+              "Contemporary Problems of Ecology" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1995-4263" , "1995-4255" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1995-4255" , "urn:issn:1995-4263" .
+
+<http://id.crossref.org/contributor/a-p-chevychelov-yz2q30nu6i39>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Chevychelov" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "A. P." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "A. P. Chevychelov" .

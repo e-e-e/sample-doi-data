@@ -1,0 +1,69 @@
+<http://id.crossref.org/contributor/avner-fleischer-2k8s5talnmoyh>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Fleischer" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Avner" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Avner Fleischer" .
+
+<http://id.crossref.org/contributor/nimrod-moiseyev-2k8s5talnmoyh>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Moiseyev" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Nimrod" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Nimrod Moiseyev" .
+
+<http://id.crossref.org/contributor/ashish-kumar-gupta-2k8s5talnmoyh>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Gupta" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Ashish Kumar" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Ashish Kumar Gupta" .
+
+<http://id.crossref.org/issn/0020-7608>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0020-7608" , "1097-461X" ;
+      <http://purl.org/dc/terms/title>
+              "International Journal of Quantum Chemistry" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0020-7608" , "1097-461X" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0020-7608" , "urn:issn:1097-461X" .
+
+<http://dx.doi.org/10.1002/qua.20541>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1002/qua.20541" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "840" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "824" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "103" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/avner-fleischer-2k8s5talnmoyh> , <http://id.crossref.org/contributor/nimrod-moiseyev-2k8s5talnmoyh> , <http://id.crossref.org/contributor/ashish-kumar-gupta-2k8s5talnmoyh> ;
+      <http://purl.org/dc/terms/date>
+              "2005"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1002/qua.20541" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0020-7608> ;
+      <http://purl.org/dc/terms/publisher>
+              "Wiley" ;
+      <http://purl.org/dc/terms/title>
+              "Dynamical symmetry analysis of ionization and harmonic generation of atoms in bichromatic laser pulses" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1002/qua.20541" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "840" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "824" ;
+      <http://purl.org/ontology/bibo/volume>
+              "103" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1002/qua.20541> , <info:doi/10.1002/qua.20541> .

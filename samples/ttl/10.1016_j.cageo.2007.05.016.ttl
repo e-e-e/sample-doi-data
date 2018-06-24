@@ -1,0 +1,69 @@
+<http://id.crossref.org/contributor/alexander-damm-dy8co4evf61u>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Damm" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Alexander" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Alexander Damm" .
+
+<http://id.crossref.org/issn/0098-3004>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0098-3004" ;
+      <http://purl.org/dc/terms/title>
+              "Computers & Geosciences" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0098-3004" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0098-3004" .
+
+<http://id.crossref.org/contributor/patrick-hostert-dy8co4evf61u>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Hostert" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Patrick" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Patrick Hostert" .
+
+<http://id.crossref.org/contributor/tobias-kuemmerle-dy8co4evf61u>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kuemmerle" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Tobias" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Tobias Kuemmerle" .
+
+<http://dx.doi.org/10.1016/j.cageo.2007.05.016>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/j.cageo.2007.05.016" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "455" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "445" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "34" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/alexander-damm-dy8co4evf61u> , <http://id.crossref.org/contributor/patrick-hostert-dy8co4evf61u> , <http://id.crossref.org/contributor/tobias-kuemmerle-dy8co4evf61u> ;
+      <http://purl.org/dc/terms/date>
+              "2008-05"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/j.cageo.2007.05.016" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0098-3004> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "A method to detect and correct single-band missing pixels in Landsat TM and ETM+ data" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/j.cageo.2007.05.016" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "455" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "445" ;
+      <http://purl.org/ontology/bibo/volume>
+              "34" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1016/j.cageo.2007.05.016> , <info:doi/10.1016/j.cageo.2007.05.016> .

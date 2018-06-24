@@ -1,0 +1,51 @@
+<http://id.crossref.org/issn/0031-6768>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0031-6768" , "1432-2013" ;
+      <http://purl.org/dc/terms/title>
+              "Pflügers Archiv für die Gesamte Physiologie des Menschen und der Tiere" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0031-6768" , "1432-2013" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1432-2013" , "urn:issn:0031-6768" .
+
+<http://dx.doi.org/10.1007/bf01766883>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1007/bf01766883" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "77" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "51" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "234" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/adolf-schott-jv2fok51of1f> ;
+      <http://purl.org/dc/terms/date>
+              "1934-12"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1007/bf01766883" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0031-6768> ;
+      <http://purl.org/dc/terms/publisher>
+              "Springer Nature" ;
+      <http://purl.org/dc/terms/title>
+              "Zur Frage der heterotopen Arrhythmien durch Carotidenabklemmung" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1007/bf01766883" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "77" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "51" ;
+      <http://purl.org/ontology/bibo/volume>
+              "234" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1007/bf01766883> , <doi:10.1007/bf01766883> .
+
+<http://id.crossref.org/contributor/adolf-schott-jv2fok51of1f>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Schott" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Adolf" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Adolf Schott" .

@@ -1,0 +1,51 @@
+<http://id.crossref.org/contributor/jacques-m-downs-t5ifvtetw2v>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Downs" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Jacques M." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Jacques M. Downs" .
+
+<http://id.crossref.org/issn/0007-6805>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0007-6805" , "2044-768X" ;
+      <http://purl.org/dc/terms/title>
+              "Business History Review" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0007-6805" , "2044-768X" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:2044-768X" , "urn:issn:0007-6805" .
+
+<http://dx.doi.org/10.2307/3114914>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.2307/3114914" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "272" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "271" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "55" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/jacques-m-downs-t5ifvtetw2v> ;
+      <http://purl.org/dc/terms/date>
+              "1981-06"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.2307/3114914" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0007-6805> ;
+      <http://purl.org/dc/terms/publisher>
+              "Cambridge University Press (CUP)" ;
+      <http://purl.org/dc/terms/title>
+              "Mandarins and Merchants: Jardine Matheson & Co., A China Agency of the Early Nineteenth Century. By W.E. Cheong. Atlantic Highlands, N.J., Humanities Press, 1980. Pp. xii + 298. $12.50." ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.2307/3114914" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "272" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "271" ;
+      <http://purl.org/ontology/bibo/volume>
+              "55" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.2307/3114914> , <info:doi/10.2307/3114914> .

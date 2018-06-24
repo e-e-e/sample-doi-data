@@ -1,0 +1,78 @@
+<http://id.crossref.org/contributor/k-daniel-oleary-7nbgi8s978gm>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "O’Leary" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "K. Daniel" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "K. Daniel O’Leary" .
+
+<http://id.crossref.org/contributor/semyon-f-gluzman-7nbgi8s978gm>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Gluzman" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Semyon F." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Semyon F. Gluzman" .
+
+<http://dx.doi.org/10.1007/s00127-008-0339-8>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1007/s00127-008-0339-8" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "626" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "619" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "43" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/k-daniel-oleary-7nbgi8s978gm> , <http://id.crossref.org/contributor/semyon-f-gluzman-7nbgi8s978gm> , <http://id.crossref.org/contributor/evelyn-j-bromet-7nbgi8s978gm> , <http://id.crossref.org/contributor/nathan-tintle-7nbgi8s978gm> ;
+      <http://purl.org/dc/terms/date>
+              "2008-03-22"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1007/s00127-008-0339-8" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0933-7954> ;
+      <http://purl.org/dc/terms/publisher>
+              "Springer Nature" ;
+      <http://purl.org/dc/terms/title>
+              "Descriptive epidemiology of intimate partner aggression in Ukraine" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1007/s00127-008-0339-8" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "626" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "619" ;
+      <http://purl.org/ontology/bibo/volume>
+              "43" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1007/s00127-008-0339-8> , <doi:10.1007/s00127-008-0339-8> .
+
+<http://id.crossref.org/issn/0933-7954>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1433-9285" , "0933-7954" ;
+      <http://purl.org/dc/terms/title>
+              "Social Psychiatry and Psychiatric Epidemiology" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1433-9285" , "0933-7954" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1433-9285" , "urn:issn:0933-7954" .
+
+<http://id.crossref.org/contributor/evelyn-j-bromet-7nbgi8s978gm>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Bromet" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Evelyn J." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Evelyn J. Bromet" .
+
+<http://id.crossref.org/contributor/nathan-tintle-7nbgi8s978gm>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Tintle" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Nathan" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Nathan Tintle" .

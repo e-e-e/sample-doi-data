@@ -1,0 +1,47 @@
+<http://dx.doi.org/10.1039/b706819k>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1039/b706819k" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "4189" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "9" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/john-j-orlando-2ajac8ezxvybt> ;
+      <http://purl.org/dc/terms/date>
+              "2007"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1039/b706819k" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1463-9076> ;
+      <http://purl.org/dc/terms/publisher>
+              "Royal Society of Chemistry (RSC)" ;
+      <http://purl.org/dc/terms/title>
+              "The atmospheric oxidation of diethyl ether: chemistry of the C2H5–O–CH(O˙)CH3 radical between 218 and 335 K" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1039/b706819k" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "4189" ;
+      <http://purl.org/ontology/bibo/volume>
+              "9" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1039/b706819k> , <doi:10.1039/b706819k> .
+
+<http://id.crossref.org/issn/1463-9076>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1463-9084" , "1463-9076" ;
+      <http://purl.org/dc/terms/title>
+              "Physical Chemistry Chemical Physics" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1463-9084" , "1463-9076" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1463-9084" , "urn:issn:1463-9076" .
+
+<http://id.crossref.org/contributor/john-j-orlando-2ajac8ezxvybt>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Orlando" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "John J." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "John J. Orlando" .

@@ -1,0 +1,51 @@
+<http://id.crossref.org/issn/0028-3878>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1526-632X" , "0028-3878" ;
+      <http://purl.org/dc/terms/title>
+              "Neurology" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1526-632X" , "0028-3878" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1526-632X" , "urn:issn:0028-3878" .
+
+<http://id.crossref.org/contributor/e-e-benarroch-vhrsywpp7arh>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Benarroch" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "E. E." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "E. E. Benarroch" .
+
+<http://dx.doi.org/10.1212/wnl.0b013e3181f884b1>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1212/wnl.0b013e3181f884b1" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "1479" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "1472" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "75" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/e-e-benarroch-vhrsywpp7arh> ;
+      <http://purl.org/dc/terms/date>
+              "2010-10-18"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1212/wnl.0b013e3181f884b1" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0028-3878> ;
+      <http://purl.org/dc/terms/publisher>
+              "Ovid Technologies (Wolters Kluwer Health)" ;
+      <http://purl.org/dc/terms/title>
+              "Histamine in the CNS: Multiple functions and potential neurologic implications" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1212/wnl.0b013e3181f884b1" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "1479" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "1472" ;
+      <http://purl.org/ontology/bibo/volume>
+              "75" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1212/wnl.0b013e3181f884b1> , <info:doi/10.1212/wnl.0b013e3181f884b1> .

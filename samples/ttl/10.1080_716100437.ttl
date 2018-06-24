@@ -1,0 +1,40 @@
+<http://dx.doi.org/10.1080/716100437>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1080/716100437" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "3" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "1" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "37" ;
+      <http://purl.org/dc/terms/date>
+              "2003-06"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1080/716100437" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0732-1872> ;
+      <http://purl.org/dc/terms/publisher>
+              "Informa UK Limited" ;
+      <http://purl.org/dc/terms/title>
+              "Overture to December" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1080/716100437" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "3" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "1" ;
+      <http://purl.org/ontology/bibo/volume>
+              "37" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1080/716100437> , <info:doi/10.1080/716100437> .
+
+<http://id.crossref.org/issn/0732-1872>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1547-3562" , "0732-1872" ;
+      <http://purl.org/dc/terms/title>
+              "Homily Service" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1547-3562" , "0732-1872" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1547-3562" , "urn:issn:0732-1872" .

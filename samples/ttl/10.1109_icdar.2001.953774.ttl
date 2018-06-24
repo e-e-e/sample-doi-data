@@ -1,0 +1,51 @@
+<http://dx.doi.org/10.1109/icdar.2001.953774>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1109/icdar.2001.953774" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/d-nishiwaki-4am2wna6newb> , <http://id.crossref.org/contributor/t-koshinaka-4am2wna6newb> , <http://id.crossref.org/contributor/k-yamada-4am2wna6newb> ;
+      <http://purl.org/dc/terms/date>
+              ""^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1109/icdar.2001.953774" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/0769512631> ;
+      <http://purl.org/dc/terms/publisher>
+              "IEEE Comput. Soc" ;
+      <http://purl.org/dc/terms/title>
+              "A stochastic model for handwritten word recognition using context dependency between character patterns" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1109/icdar.2001.953774" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1109/icdar.2001.953774> , <info:doi/10.1109/icdar.2001.953774> .
+
+<http://id.crossref.org/contributor/d-nishiwaki-4am2wna6newb>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Nishiwaki" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "D." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "D. Nishiwaki" .
+
+<http://id.crossref.org/contributor/t-koshinaka-4am2wna6newb>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Koshinaka" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "T." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "T. Koshinaka" .
+
+<http://id.crossref.org/contributor/k-yamada-4am2wna6newb>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Yamada" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "K." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "K. Yamada" .
+
+<http://id.crossref.org/isbn/0769512631>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Proceedings of Sixth International Conference on Document Analysis and Recognition" .

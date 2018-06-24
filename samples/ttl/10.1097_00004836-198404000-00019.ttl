@@ -1,0 +1,47 @@
+<http://dx.doi.org/10.1097/00004836-198404000-00019>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1097/00004836-198404000-00019" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "189" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "6" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/howard-m-spiro-6yrtvg5xh8zc> ;
+      <http://purl.org/dc/terms/date>
+              "1984-04"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1097/00004836-198404000-00019" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0192-0790> ;
+      <http://purl.org/dc/terms/publisher>
+              "Ovid Technologies (Wolters Kluwer Health)" ;
+      <http://purl.org/dc/terms/title>
+              "Pathology of the Liver" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1097/00004836-198404000-00019" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "189" ;
+      <http://purl.org/ontology/bibo/volume>
+              "6" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1097/00004836-198404000-00019> , <doi:10.1097/00004836-198404000-00019> .
+
+<http://id.crossref.org/issn/0192-0790>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0192-0790" ;
+      <http://purl.org/dc/terms/title>
+              "Journal of Clinical Gastroenterology" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0192-0790" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0192-0790" .
+
+<http://id.crossref.org/contributor/howard-m-spiro-6yrtvg5xh8zc>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Spiro" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Howard M." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Howard M. Spiro" .

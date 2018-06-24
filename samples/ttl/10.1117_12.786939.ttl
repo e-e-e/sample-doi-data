@@ -1,0 +1,44 @@
+<http://id.crossref.org/contributor/aleksey-g-volkov-2mknuane69d1n>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Volkov" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Aleksey G." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Aleksey G. Volkov" .
+
+<http://id.crossref.org/contributor/vadim-p-veiko-2mknuane69d1n>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Veiko" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Vadim P." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Vadim P. Veiko" .
+
+<http://dx.doi.org/10.1117/12.786939>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1117/12.786939" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/aleksey-g-volkov-2mknuane69d1n> , <http://id.crossref.org/contributor/vadim-p-veiko-2mknuane69d1n> , <http://id.crossref.org/contributor/vyacheslav-a-trofimov-2mknuane69d1n> ;
+      <http://purl.org/dc/terms/date>
+              "2008-01-30"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1117/12.786939" ;
+      <http://purl.org/dc/terms/publisher>
+              "SPIE" ;
+      <http://purl.org/dc/terms/title>
+              "<title>Possibility of control of propagation regime in medium with cubic nonlinearity for chirped femtosecond pulse under the temporal dispersion of nonlinear response</title>" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1117/12.786939" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1117/12.786939> , <doi:10.1117/12.786939> .
+
+<http://id.crossref.org/contributor/vyacheslav-a-trofimov-2mknuane69d1n>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Trofimov" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Vyacheslav A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Vyacheslav A. Trofimov" .

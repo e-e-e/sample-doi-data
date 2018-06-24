@@ -1,0 +1,51 @@
+<http://id.crossref.org/issn/1353-0194>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1469-3542" , "1353-0194" ;
+      <http://purl.org/dc/terms/title>
+              "British Journal of Middle Eastern Studies" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1469-3542" , "1353-0194" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1353-0194" , "urn:issn:1469-3542" .
+
+<http://dx.doi.org/10.1080/13530190600953328>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1080/13530190600953328" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "197" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "179" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "33" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/meir-hatina-2g4xlohj6vz4m> ;
+      <http://purl.org/dc/terms/date>
+              "2006-11"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1080/13530190600953328" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1353-0194> ;
+      <http://purl.org/dc/terms/publisher>
+              "Informa UK Limited" ;
+      <http://purl.org/dc/terms/title>
+              "Restoring a Lost Identity: Models of Education in Modern Islamic Thought" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1080/13530190600953328" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "197" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "179" ;
+      <http://purl.org/ontology/bibo/volume>
+              "33" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1080/13530190600953328> , <doi:10.1080/13530190600953328> .
+
+<http://id.crossref.org/contributor/meir-hatina-2g4xlohj6vz4m>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Hatina" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Meir" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Meir Hatina" .

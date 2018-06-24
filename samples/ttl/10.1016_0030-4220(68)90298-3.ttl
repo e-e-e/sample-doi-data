@@ -1,0 +1,60 @@
+<http://id.crossref.org/contributor/julius-abramson-h1dfbeqliuvx>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Abramson" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Julius" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Julius Abramson" .
+
+<http://id.crossref.org/issn/0030-4220>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0030-4220" ;
+      <http://purl.org/dc/terms/title>
+              "Oral Surgery, Oral Medicine, Oral Pathology" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0030-4220" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0030-4220" .
+
+<http://id.crossref.org/contributor/hilde-h-tillman-h1dfbeqliuvx>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Tillman" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Hilde H." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Hilde H. Tillman" .
+
+<http://dx.doi.org/10.1016/0030-4220(68)90298-3>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/0030-4220(68)90298-3" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "552" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "546" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "25" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/julius-abramson-h1dfbeqliuvx> , <http://id.crossref.org/contributor/hilde-h-tillman-h1dfbeqliuvx> ;
+      <http://purl.org/dc/terms/date>
+              "1968-04"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/0030-4220(68)90298-3" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0030-4220> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "An integrated approach to dental care for the pregnant cardiac patient" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/0030-4220(68)90298-3" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "552" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "546" ;
+      <http://purl.org/ontology/bibo/volume>
+              "25" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1016/0030-4220(68)90298-3> , <doi:10.1016/0030-4220(68)90298-3> .

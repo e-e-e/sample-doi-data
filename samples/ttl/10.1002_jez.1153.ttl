@@ -1,0 +1,87 @@
+<http://id.crossref.org/contributor/terry-w-turner-3d9wwvum65iig>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Turner" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Terry W." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Terry W. Turner" .
+
+<http://dx.doi.org/10.1002/jez.1153>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1002/jez.1153" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "186" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "180" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "292" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/terry-w-turner-3d9wwvum65iig> , <http://id.crossref.org/contributor/j-d-congdon-3d9wwvum65iig> , <http://id.crossref.org/contributor/susannah-sheldon-3d9wwvum65iig> , <http://id.crossref.org/contributor/sue-m-dawes-3d9wwvum65iig> , <http://id.crossref.org/contributor/daniel-h-gist-3d9wwvum65iig> ;
+      <http://purl.org/dc/terms/date>
+              "2001-12-14"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1002/jez.1153" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0022-104X> ;
+      <http://purl.org/dc/terms/publisher>
+              "Wiley" ;
+      <http://purl.org/dc/terms/title>
+              "Sperm storage in turtles: A male perspective" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1002/jez.1153" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "186" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "180" ;
+      <http://purl.org/ontology/bibo/volume>
+              "292" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1002/jez.1153> , <info:doi/10.1002/jez.1153> .
+
+<http://id.crossref.org/contributor/j-d-congdon-3d9wwvum65iig>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Congdon" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "J. D." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "J. D. Congdon" .
+
+<http://id.crossref.org/contributor/susannah-sheldon-3d9wwvum65iig>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Sheldon" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Susannah" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Susannah Sheldon" .
+
+<http://id.crossref.org/contributor/sue-m-dawes-3d9wwvum65iig>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Dawes" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Sue M." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Sue M. Dawes" .
+
+<http://id.crossref.org/contributor/daniel-h-gist-3d9wwvum65iig>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Gist" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Daniel H." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Daniel H. Gist" .
+
+<http://id.crossref.org/issn/0022-104X>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1097-010X" , "0022-104X" ;
+      <http://purl.org/dc/terms/title>
+              "Journal of Experimental Zoology" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1097-010X" , "0022-104X" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1097-010X" , "urn:issn:0022-104X" .

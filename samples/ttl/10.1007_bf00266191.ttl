@@ -1,0 +1,70 @@
+<http://id.crossref.org/contributor/d-b-willmot-6sj6w8n15a61>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Willmot" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "D.B." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "D.B. Willmot" .
+
+<http://id.crossref.org/contributor/c-d-nickell-6sj6w8n15a61>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Nickell" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "C.D." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "C.D. Nickell" .
+
+<http://dx.doi.org/10.1007/bf00266191>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1007/bf00266191" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "77" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/d-b-willmot-6sj6w8n15a61> , <http://id.crossref.org/contributor/c-d-nickell-6sj6w8n15a61> , <http://id.crossref.org/contributor/j-m-widholm-6sj6w8n15a61> , <http://id.crossref.org/contributor/l-e-gray-6sj6w8n15a61> ;
+      <http://purl.org/dc/terms/date>
+              "1989-02"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1007/bf00266191" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0040-5752> ;
+      <http://purl.org/dc/terms/publisher>
+              "Springer Nature" ;
+      <http://purl.org/dc/terms/title>
+              "Evaluation of soybean resistance to Phialophora gregata culture filtrate in tissue culture" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1007/bf00266191" ;
+      <http://purl.org/ontology/bibo/volume>
+              "77" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1007/bf00266191> , <doi:10.1007/bf00266191> .
+
+<http://id.crossref.org/contributor/j-m-widholm-6sj6w8n15a61>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Widholm" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "J.M." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "J.M. Widholm" .
+
+<http://id.crossref.org/contributor/l-e-gray-6sj6w8n15a61>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Gray" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "L.E." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "L.E. Gray" .
+
+<http://id.crossref.org/issn/0040-5752>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0040-5752" , "1432-2242" ;
+      <http://purl.org/dc/terms/title>
+              "Theoretical and Applied Genetics" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0040-5752" , "1432-2242" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1432-2242" , "urn:issn:0040-5752" .

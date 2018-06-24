@@ -1,0 +1,51 @@
+<http://id.crossref.org/issn/0002-7189>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1477-4585" , "0002-7189" ;
+      <http://purl.org/dc/terms/title>
+              "Journal of the American Academy of Religion" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1477-4585" , "0002-7189" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0002-7189" , "urn:issn:1477-4585" .
+
+<http://id.crossref.org/contributor/george-a-barton-2dbn1fpvoklvn>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "BARTON" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "GEORGE A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "GEORGE A. BARTON" .
+
+<http://dx.doi.org/10.1093/jaarel/viii.2.92>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1093/jaarel/viii.2.92" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "93" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "92" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "VIII" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/george-a-barton-2dbn1fpvoklvn> ;
+      <http://purl.org/dc/terms/date>
+              "1940"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1093/jaarel/viii.2.92" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0002-7189> ;
+      <http://purl.org/dc/terms/publisher>
+              "Oxford University Press (OUP)" ;
+      <http://purl.org/dc/terms/title>
+              "BOOK REVIEWS" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1093/jaarel/viii.2.92" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "93" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "92" ;
+      <http://purl.org/ontology/bibo/volume>
+              "VIII" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1093/jaarel/viii.2.92> , <info:doi/10.1093/jaarel/viii.2.92> .

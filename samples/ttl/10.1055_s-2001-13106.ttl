@@ -1,0 +1,60 @@
+<http://id.crossref.org/issn/0340-2541>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0340-2541" , "1438-938X" ;
+      <http://purl.org/dc/terms/title>
+              "Aktuelle Dermatologie" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0340-2541" , "1438-938X" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1438-938X" , "urn:issn:0340-2541" .
+
+<http://id.crossref.org/contributor/dj-djawari-ck44myfw8dhl>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Djawari" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Dj." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Dj. Djawari" .
+
+<http://id.crossref.org/contributor/a-alpagut-ck44myfw8dhl>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Alpagut" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "A. Alpagut" .
+
+<http://dx.doi.org/10.1055/s-2001-13106>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1055/s-2001-13106" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "160" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "158" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "27" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/dj-djawari-ck44myfw8dhl> , <http://id.crossref.org/contributor/a-alpagut-ck44myfw8dhl> ;
+      <http://purl.org/dc/terms/date>
+              "2001-05"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1055/s-2001-13106" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0340-2541> ;
+      <http://purl.org/dc/terms/publisher>
+              "Georg Thieme Verlag KG" ;
+      <http://purl.org/dc/terms/title>
+              "Kutane Leishmaniose" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1055/s-2001-13106" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "160" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "158" ;
+      <http://purl.org/ontology/bibo/volume>
+              "27" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1055/s-2001-13106> , <info:doi/10.1055/s-2001-13106> .

@@ -1,0 +1,51 @@
+<http://id.crossref.org/issn/0031-9317>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0031-9317" , "1399-3054" ;
+      <http://purl.org/dc/terms/title>
+              "Physiologia Plantarum" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0031-9317" , "1399-3054" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0031-9317" , "urn:issn:1399-3054" .
+
+<http://id.crossref.org/contributor/christopher-p-keller-2w0tyj3an9rmr>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Keller" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Christopher P." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Christopher P. Keller" .
+
+<http://dx.doi.org/10.1111/j.1399-3054.2007.00916.x>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1111/j.1399-3054.2007.00916.x" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "589" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "580" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "130" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/christopher-p-keller-2w0tyj3an9rmr> ;
+      <http://purl.org/dc/terms/date>
+              "2007-08"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1111/j.1399-3054.2007.00916.x" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0031-9317> ;
+      <http://purl.org/dc/terms/publisher>
+              "Wiley" ;
+      <http://purl.org/dc/terms/title>
+              "Leaf expansion in Phaseolus: transient auxin-induced growth increase" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1111/j.1399-3054.2007.00916.x" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "589" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "580" ;
+      <http://purl.org/ontology/bibo/volume>
+              "130" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1111/j.1399-3054.2007.00916.x> , <info:doi/10.1111/j.1399-3054.2007.00916.x> .

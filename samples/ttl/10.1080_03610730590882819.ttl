@@ -1,0 +1,78 @@
+<http://id.crossref.org/issn/0361-073X>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0361-073X" , "1096-4657" ;
+      <http://purl.org/dc/terms/title>
+              "Experimental Aging Research" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0361-073X" , "1096-4657" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1096-4657" , "urn:issn:0361-073X" .
+
+<http://id.crossref.org/contributor/r-g-thompson-2eayb6pbxorgd>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Thompson" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "R. G." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "R. G. Thompson" .
+
+<http://dx.doi.org/10.1080/03610730590882819>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1080/03610730590882819" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "99" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "91" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "31" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/r-g-thompson-2eayb6pbxorgd> , <http://id.crossref.org/contributor/r-w-jones-2eayb6pbxorgd> , <http://id.crossref.org/contributor/s-hayre-2eayb6pbxorgd> , <http://id.crossref.org/contributor/c-j-a-moulin-2eayb6pbxorgd> ;
+      <http://purl.org/dc/terms/date>
+              "2005-01"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1080/03610730590882819" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0361-073X> ;
+      <http://purl.org/dc/terms/publisher>
+              "Informa UK Limited" ;
+      <http://purl.org/dc/terms/title>
+              "Music Enhances Category Fluency In Healthy Older Adults And Alzheimer's Disease Patients" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1080/03610730590882819" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "99" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "91" ;
+      <http://purl.org/ontology/bibo/volume>
+              "31" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1080/03610730590882819> , <doi:10.1080/03610730590882819> .
+
+<http://id.crossref.org/contributor/r-w-jones-2eayb6pbxorgd>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Jones" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "R. W." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "R. W. Jones" .
+
+<http://id.crossref.org/contributor/s-hayre-2eayb6pbxorgd>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Hayre" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "S." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "S. Hayre" .
+
+<http://id.crossref.org/contributor/c-j-a-moulin-2eayb6pbxorgd>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Moulin" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "C. J. A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "C. J. A. Moulin" .

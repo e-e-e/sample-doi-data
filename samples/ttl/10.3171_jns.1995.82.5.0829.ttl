@@ -1,0 +1,60 @@
+<http://dx.doi.org/10.3171/jns.1995.82.5.0829>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.3171/jns.1995.82.5.0829" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "833" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "829" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "82" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/christopher-s-ogilvy-1uc7uor019tn7> , <http://id.crossref.org/contributor/kenneth-i-maynard-1uc7uor019tn7> ;
+      <http://purl.org/dc/terms/date>
+              "1995-05"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.3171/jns.1995.82.5.0829" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0022-3085> ;
+      <http://purl.org/dc/terms/publisher>
+              "Journal of Neurosurgery Publishing Group (JNSPG)" ;
+      <http://purl.org/dc/terms/title>
+              "Patterns of peptide-containing perivascular nerves in the circle of Willis: their absence in intracranial arteriovenous malformations" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.3171/jns.1995.82.5.0829" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "833" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "829" ;
+      <http://purl.org/ontology/bibo/volume>
+              "82" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.3171/jns.1995.82.5.0829> , <info:doi/10.3171/jns.1995.82.5.0829> .
+
+<http://id.crossref.org/issn/0022-3085>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0022-3085" ;
+      <http://purl.org/dc/terms/title>
+              "Journal of Neurosurgery" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0022-3085" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0022-3085" .
+
+<http://id.crossref.org/contributor/christopher-s-ogilvy-1uc7uor019tn7>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Ogilvy" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Christopher S." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Christopher S. Ogilvy" .
+
+<http://id.crossref.org/contributor/kenneth-i-maynard-1uc7uor019tn7>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Maynard" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Kenneth I." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Kenneth I. Maynard" .

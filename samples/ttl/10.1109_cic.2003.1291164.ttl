@@ -1,0 +1,33 @@
+<http://id.crossref.org/contributor/m-matveev-33vhemm1d9sjn>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Matveev" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "M." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "M. Matveev" .
+
+<http://dx.doi.org/10.1109/cic.2003.1291164>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1109/cic.2003.1291164" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/m-matveev-33vhemm1d9sjn> ;
+      <http://purl.org/dc/terms/date>
+              "2003"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1109/cic.2003.1291164" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/078038170X> ;
+      <http://purl.org/dc/terms/publisher>
+              "IEEE" ;
+      <http://purl.org/dc/terms/title>
+              "ST-depression as a risk indicator for the occurrence of postoperative cardiovascular complications in emergency abdominal surgery" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1109/cic.2003.1291164" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1109/cic.2003.1291164> , <info:doi/10.1109/cic.2003.1291164> .
+
+<http://id.crossref.org/isbn/078038170X>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Computers in Cardiology, 2003" .

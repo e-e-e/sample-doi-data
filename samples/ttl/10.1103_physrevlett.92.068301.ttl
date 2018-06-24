@@ -1,0 +1,70 @@
+<http://id.crossref.org/contributor/d-gottwald-pdfgwcdxxox6>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Gottwald" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "D." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "D. Gottwald" .
+
+<http://dx.doi.org/10.1103/physrevlett.92.068301>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1103/physrevlett.92.068301" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "92" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/d-gottwald-pdfgwcdxxox6> , <http://id.crossref.org/contributor/g-kahl-pdfgwcdxxox6> , <http://id.crossref.org/contributor/h-lowen-pdfgwcdxxox6> , <http://id.crossref.org/contributor/c-n-likos-pdfgwcdxxox6> ;
+      <http://purl.org/dc/terms/date>
+              "2004-02-09"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1103/physrevlett.92.068301" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0031-9007> ;
+      <http://purl.org/dc/terms/publisher>
+              "American Physical Society (APS)" ;
+      <http://purl.org/dc/terms/title>
+              "Phase Behavior of Ionic Microgels" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1103/physrevlett.92.068301" ;
+      <http://purl.org/ontology/bibo/volume>
+              "92" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1103/physrevlett.92.068301> , <doi:10.1103/physrevlett.92.068301> .
+
+<http://id.crossref.org/contributor/g-kahl-pdfgwcdxxox6>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kahl" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "G." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "G. Kahl" .
+
+<http://id.crossref.org/contributor/h-lowen-pdfgwcdxxox6>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Löwen" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "H." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "H. Löwen" .
+
+<http://id.crossref.org/issn/0031-9007>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1079-7114" , "0031-9007" ;
+      <http://purl.org/dc/terms/title>
+              "Physical Review Letters" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1079-7114" , "0031-9007" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1079-7114" , "urn:issn:0031-9007" .
+
+<http://id.crossref.org/contributor/c-n-likos-pdfgwcdxxox6>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Likos" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "C. N." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "C. N. Likos" .

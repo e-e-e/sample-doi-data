@@ -1,0 +1,40 @@
+<http://id.crossref.org/issn/0036-8326>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1098-237X" , "0036-8326" ;
+      <http://purl.org/dc/terms/title>
+              "Science Education" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1098-237X" , "0036-8326" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0036-8326" , "urn:issn:1098-237X" .
+
+<http://dx.doi.org/10.1002/sce.3730310133>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1002/sce.3730310133" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "41" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "40" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "31" ;
+      <http://purl.org/dc/terms/date>
+              "1947-02"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1002/sce.3730310133" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0036-8326> ;
+      <http://purl.org/dc/terms/publisher>
+              "Wiley" ;
+      <http://purl.org/dc/terms/title>
+              "Nathanson, Jerome (Editor). Science for democracy. New York: King's Crown Press, 1946, 170 p. $2.50" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1002/sce.3730310133" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "41" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "40" ;
+      <http://purl.org/ontology/bibo/volume>
+              "31" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1002/sce.3730310133> , <doi:10.1002/sce.3730310133> .

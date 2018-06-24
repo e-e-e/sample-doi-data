@@ -1,0 +1,87 @@
+<http://id.crossref.org/contributor/derek-leroith-39f2t4ptwg6ab>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "LeRoith" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Derek" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Derek LeRoith" .
+
+<http://id.crossref.org/contributor/akira-ota-39f2t4ptwg6ab>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Ota" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Akira" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Akira Ota" .
+
+<http://id.crossref.org/contributor/rebecca-m-pruss-39f2t4ptwg6ab>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Pruss" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Rebecca M." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Rebecca M. Pruss" .
+
+<http://id.crossref.org/contributor/william-l-lowe-39f2t4ptwg6ab>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Lowe" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "William L." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "William L. Lowe" .
+
+<http://id.crossref.org/contributor/joshua-shemer-39f2t4ptwg6ab>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Shemer" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Joshua" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Joshua Shemer" .
+
+<http://id.crossref.org/issn/0006-8993>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0006-8993" ;
+      <http://purl.org/dc/terms/title>
+              "Brain Research" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0006-8993" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0006-8993" .
+
+<http://dx.doi.org/10.1016/0006-8993(88)91592-2>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/0006-8993(88)91592-2" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "11" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "1" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "443" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/akira-ota-39f2t4ptwg6ab> , <http://id.crossref.org/contributor/derek-leroith-39f2t4ptwg6ab> , <http://id.crossref.org/contributor/rebecca-m-pruss-39f2t4ptwg6ab> , <http://id.crossref.org/contributor/joshua-shemer-39f2t4ptwg6ab> , <http://id.crossref.org/contributor/william-l-lowe-39f2t4ptwg6ab> ;
+      <http://purl.org/dc/terms/date>
+              "1988-03"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/0006-8993(88)91592-2" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0006-8993> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Characterization of the altered oligosaccharide composition of the insulin receptor on neural-derived cells" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/0006-8993(88)91592-2" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "11" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "1" ;
+      <http://purl.org/ontology/bibo/volume>
+              "443" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1016/0006-8993(88)91592-2> , <doi:10.1016/0006-8993(88)91592-2> .

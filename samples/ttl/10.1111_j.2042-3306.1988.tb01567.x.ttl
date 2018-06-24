@@ -1,0 +1,78 @@
+<http://id.crossref.org/contributor/b-essen-gustavsson-1mfat68rwye7r>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "ESSÉN-GUSTAVSSON" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "B." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "B. ESSÉN-GUSTAVSSON" .
+
+<http://id.crossref.org/contributor/a-lindholm-1mfat68rwye7r>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "LINDHOLM" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "A. LINDHOLM" .
+
+<http://dx.doi.org/10.1111/j.2042-3306.1988.tb01567.x>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1111/j.2042-3306.1988.tb01567.x" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "434" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "430" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "20" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/b-essen-gustavsson-1mfat68rwye7r> , <http://id.crossref.org/contributor/a-lindholm-1mfat68rwye7r> , <http://id.crossref.org/contributor/m-gottlieb-1mfat68rwye7r> , <http://id.crossref.org/contributor/s-g-b-persson-1mfat68rwye7r> ;
+      <http://purl.org/dc/terms/date>
+              "1988-11"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1111/j.2042-3306.1988.tb01567.x" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0425-1644> ;
+      <http://purl.org/dc/terms/publisher>
+              "Wiley" ;
+      <http://purl.org/dc/terms/title>
+              "Circulatory and muscle metabolic responses to draught work compared to increasing trotting velocities" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1111/j.2042-3306.1988.tb01567.x" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "434" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "430" ;
+      <http://purl.org/ontology/bibo/volume>
+              "20" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1111/j.2042-3306.1988.tb01567.x> , <info:doi/10.1111/j.2042-3306.1988.tb01567.x> .
+
+<http://id.crossref.org/contributor/m-gottlieb-1mfat68rwye7r>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "GOTTLIEB" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "M." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "M. GOTTLIEB" .
+
+<http://id.crossref.org/issn/0425-1644>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0425-1644" , "2042-3306" ;
+      <http://purl.org/dc/terms/title>
+              "Equine Veterinary Journal" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0425-1644" , "2042-3306" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0425-1644" , "urn:issn:2042-3306" .
+
+<http://id.crossref.org/contributor/s-g-b-persson-1mfat68rwye7r>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "PERSSON" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "S. G. B." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "S. G. B. PERSSON" .

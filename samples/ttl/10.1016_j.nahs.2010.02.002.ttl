@@ -1,0 +1,96 @@
+<http://id.crossref.org/contributor/chang-hua-lien-12932gxj3sxrj>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Lien" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Chang-Hua" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Chang-Hua Lien" .
+
+<http://id.crossref.org/contributor/chih-ta-huang-12932gxj3sxrj>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Huang" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Chih-Ta" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Chih-Ta Huang" .
+
+<http://id.crossref.org/contributor/jenq-der-chen-12932gxj3sxrj>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Chen" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Jenq-Der" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Jenq-Der Chen" .
+
+<http://id.crossref.org/contributor/pei-ying-chou-12932gxj3sxrj>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Chou" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Pei-Ying" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Pei-Ying Chou" .
+
+<http://dx.doi.org/10.1016/j.nahs.2010.02.002>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/j.nahs.2010.02.002" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "556" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "550" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "4" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/chang-hua-lien-12932gxj3sxrj> , <http://id.crossref.org/contributor/chih-ta-huang-12932gxj3sxrj> , <http://id.crossref.org/contributor/jenq-der-chen-12932gxj3sxrj> , <http://id.crossref.org/contributor/pei-ying-chou-12932gxj3sxrj> , <http://id.crossref.org/contributor/long-yeu-chung-12932gxj3sxrj> , <http://id.crossref.org/contributor/ker-wei-yu-12932gxj3sxrj> ;
+      <http://purl.org/dc/terms/date>
+              "2010-08"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/j.nahs.2010.02.002" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1751-570X> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Robust control for uncertain T–S fuzzy time-delay systems with sampled-data input and nonlinear perturbations" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/j.nahs.2010.02.002" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "556" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "550" ;
+      <http://purl.org/ontology/bibo/volume>
+              "4" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1016/j.nahs.2010.02.002> , <doi:10.1016/j.nahs.2010.02.002> .
+
+<http://id.crossref.org/issn/1751-570X>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1751-570X" ;
+      <http://purl.org/dc/terms/title>
+              "Nonlinear Analysis: Hybrid Systems" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1751-570X" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1751-570X" .
+
+<http://id.crossref.org/contributor/ker-wei-yu-12932gxj3sxrj>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Yu" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Ker-Wei" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Ker-Wei Yu" .
+
+<http://id.crossref.org/contributor/long-yeu-chung-12932gxj3sxrj>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Chung" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Long-Yeu" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Long-Yeu Chung" .

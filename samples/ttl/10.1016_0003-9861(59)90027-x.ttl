@@ -1,0 +1,60 @@
+<http://id.crossref.org/issn/0003-9861>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0003-9861" ;
+      <http://purl.org/dc/terms/title>
+              "Archives of Biochemistry and Biophysics" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0003-9861" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0003-9861" .
+
+<http://id.crossref.org/contributor/paul-h-maurer-5z9k6h1sp7q1>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Maurer" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Paul H." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Paul H. Maurer" .
+
+<http://dx.doi.org/10.1016/0003-9861(59)90027-x>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/0003-9861(59)90027-x" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "232" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "223" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "83" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/paul-h-maurer-5z9k6h1sp7q1> , <http://id.crossref.org/contributor/j-sri-ram-5z9k6h1sp7q1> ;
+      <http://purl.org/dc/terms/date>
+              "1959-07"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/0003-9861(59)90027-x" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0003-9861> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Modified bovine serum albumin. VII. Studies on the role of free carboxyl groups of the protein in the interaction with its antibodies" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/0003-9861(59)90027-x" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "232" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "223" ;
+      <http://purl.org/ontology/bibo/volume>
+              "83" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1016/0003-9861(59)90027-x> , <info:doi/10.1016/0003-9861(59)90027-x> .
+
+<http://id.crossref.org/contributor/j-sri-ram-5z9k6h1sp7q1>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Ram" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "J.Sri" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "J.Sri Ram" .

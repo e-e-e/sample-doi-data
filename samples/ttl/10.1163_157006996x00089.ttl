@@ -1,0 +1,51 @@
+<http://id.crossref.org/contributor/mathieu-lommen-3rlcthi1mjdlc>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Lommen" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Mathieu" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Mathieu Lommen" .
+
+<http://id.crossref.org/issn/0014-9527>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0014-9527" , "1570-0690" ;
+      <http://purl.org/dc/terms/title>
+              "Quaerendo" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0014-9527" , "1570-0690" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1570-0690" , "urn:issn:0014-9527" .
+
+<http://dx.doi.org/10.1163/157006996x00089>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1163/157006996x00089" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "143" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "111" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "26" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/mathieu-lommen-3rlcthi1mjdlc> ;
+      <http://purl.org/dc/terms/date>
+              "1996-01-01"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1163/157006996x00089" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0014-9527> ;
+      <http://purl.org/dc/terms/publisher>
+              "Brill Academic Publishers" ;
+      <http://purl.org/dc/terms/title>
+              "A history of Lettergieterij 'Amsterdam' voorheen N. Tetterode (Typefoundry Amsterdam) 1851-19881" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1163/157006996x00089" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "143" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "111" ;
+      <http://purl.org/ontology/bibo/volume>
+              "26" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1163/157006996x00089> , <info:doi/10.1163/157006996x00089> .

@@ -1,0 +1,60 @@
+<http://id.crossref.org/contributor/g-a-partington-4127toqoykj1>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Partington" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "G.A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "G.A. Partington" .
+
+<http://id.crossref.org/contributor/j-m-gottesfeld-4127toqoykj1>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Gottesfeld" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "J.M." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "J.M. Gottesfeld" .
+
+<http://id.crossref.org/issn/0092-8674>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0092-8674" ;
+      <http://purl.org/dc/terms/title>
+              "Cell" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0092-8674" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0092-8674" .
+
+<http://dx.doi.org/10.1016/0092-8674(77)90160-x>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/0092-8674(77)90160-x" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "962" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "953" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "12" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/g-a-partington-4127toqoykj1> , <http://id.crossref.org/contributor/j-m-gottesfeld-4127toqoykj1> ;
+      <http://purl.org/dc/terms/date>
+              "1977-12"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/0092-8674(77)90160-x" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0092-8674> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Distribution of messenger RNA-coding sequences in fractionated chromatin" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/0092-8674(77)90160-x" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "962" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "953" ;
+      <http://purl.org/ontology/bibo/volume>
+              "12" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1016/0092-8674(77)90160-x> , <info:doi/10.1016/0092-8674(77)90160-x> .

@@ -1,0 +1,78 @@
+<http://id.crossref.org/issn/0305-4470>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1361-6447" , "0305-4470" ;
+      <http://purl.org/dc/terms/title>
+              "Journal of Physics A: Mathematical and General" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1361-6447" , "0305-4470" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1361-6447" , "urn:issn:0305-4470" .
+
+<http://id.crossref.org/contributor/a-vulpiani-37t11tivhfhsu>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Vulpiani" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "A" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "A Vulpiani" .
+
+<http://id.crossref.org/contributor/f-marchesoni-37t11tivhfhsu>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Marchesoni" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "F" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "F Marchesoni" .
+
+<http://dx.doi.org/10.1088/0305-4470/16/1/020>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1088/0305-4470/16/1/020" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "124" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "117" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "16" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/a-vulpiani-37t11tivhfhsu> , <http://id.crossref.org/contributor/f-marchesoni-37t11tivhfhsu> , <http://id.crossref.org/contributor/f-fucito-37t11tivhfhsu> , <http://id.crossref.org/contributor/m-sparpaglione-37t11tivhfhsu> ;
+      <http://purl.org/dc/terms/date>
+              "1983-01-11"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1088/0305-4470/16/1/020" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0305-4470> ;
+      <http://purl.org/dc/terms/publisher>
+              "IOP Publishing" ;
+      <http://purl.org/dc/terms/title>
+              "Intermittent behaviour in non-linear Hamiltonian systems far from equilibrium" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1088/0305-4470/16/1/020" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "124" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "117" ;
+      <http://purl.org/ontology/bibo/volume>
+              "16" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1088/0305-4470/16/1/020> , <info:doi/10.1088/0305-4470/16/1/020> .
+
+<http://id.crossref.org/contributor/f-fucito-37t11tivhfhsu>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Fucito" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "F" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "F Fucito" .
+
+<http://id.crossref.org/contributor/m-sparpaglione-37t11tivhfhsu>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Sparpaglione" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "M" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "M Sparpaglione" .

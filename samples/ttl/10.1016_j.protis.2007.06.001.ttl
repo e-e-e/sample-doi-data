@@ -1,0 +1,96 @@
+<http://id.crossref.org/contributor/joachim-mergeay-35t9mv3c9hv21>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Mergeay" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Joachim" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Joachim Mergeay" .
+
+<http://id.crossref.org/contributor/karel-hornak-35t9mv3c9hv21>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Horňák" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Karel" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Karel Horňák" .
+
+<http://id.crossref.org/contributor/rene-groben-35t9mv3c9hv21>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Groben" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "René" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "René Groben" .
+
+<http://id.crossref.org/contributor/martin-w-hahn-35t9mv3c9hv21>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Hahn" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Martin W." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Martin W. Hahn" .
+
+<http://id.crossref.org/contributor/karel-simek-35t9mv3c9hv21>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Šimek" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Karel" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Karel Šimek" .
+
+<http://id.crossref.org/issn/1434-4610>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1434-4610" ;
+      <http://purl.org/dc/terms/title>
+              "Protist" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1434-4610" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1434-4610" .
+
+<http://id.crossref.org/contributor/jaroslav-vrba-35t9mv3c9hv21>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Vrba" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Jaroslav" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Jaroslav Vrba" .
+
+<http://dx.doi.org/10.1016/j.protis.2007.06.001>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/j.protis.2007.06.001" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "421" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "417" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "158" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/joachim-mergeay-35t9mv3c9hv21> , <http://id.crossref.org/contributor/karel-hornak-35t9mv3c9hv21> , <http://id.crossref.org/contributor/rene-groben-35t9mv3c9hv21> , <http://id.crossref.org/contributor/martin-w-hahn-35t9mv3c9hv21> , <http://id.crossref.org/contributor/karel-simek-35t9mv3c9hv21> , <http://id.crossref.org/contributor/jaroslav-vrba-35t9mv3c9hv21> ;
+      <http://purl.org/dc/terms/date>
+              "2007-10"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/j.protis.2007.06.001" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1434-4610> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Meeting Report: ALTER-Net Workshop about the “Application of Molecular Techniques to Study Biodiversity, Structure and Function of Planktonic Communities in Lakes” at Blanes, Spain, February 15–16, 2007" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/j.protis.2007.06.001" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "421" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "417" ;
+      <http://purl.org/ontology/bibo/volume>
+              "158" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1016/j.protis.2007.06.001> , <doi:10.1016/j.protis.2007.06.001> .

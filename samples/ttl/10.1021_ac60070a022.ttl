@@ -1,0 +1,51 @@
+<http://id.crossref.org/issn/0003-2700>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1520-6882" , "0003-2700" ;
+      <http://purl.org/dc/terms/title>
+              "Analytical Chemistry" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1520-6882" , "0003-2700" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0003-2700" , "urn:issn:1520-6882" .
+
+<http://dx.doi.org/10.1021/ac60070a022>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1021/ac60070a022" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "1607" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "1604" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "24" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/l-r-goldbaum-2s8dtal5ouh52> ;
+      <http://purl.org/dc/terms/date>
+              "1952-10"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1021/ac60070a022" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0003-2700> ;
+      <http://purl.org/dc/terms/publisher>
+              "American Chemical Society (ACS)" ;
+      <http://purl.org/dc/terms/title>
+              "Determination of Barbiturates" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1021/ac60070a022" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "1607" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "1604" ;
+      <http://purl.org/ontology/bibo/volume>
+              "24" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1021/ac60070a022> , <info:doi/10.1021/ac60070a022> .
+
+<http://id.crossref.org/contributor/l-r-goldbaum-2s8dtal5ouh52>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Goldbaum" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "L. R." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "L. R. Goldbaum" .

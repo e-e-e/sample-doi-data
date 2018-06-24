@@ -1,0 +1,60 @@
+<http://id.crossref.org/contributor/d-leclet-d9p3xljok0x6>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Leclet" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "D." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "D. Leclet" .
+
+<http://id.crossref.org/issn/0266-4909>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0266-4909" , "1365-2729" ;
+      <http://purl.org/dc/terms/title>
+              "Journal of Computer Assisted Learning" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0266-4909" , "1365-2729" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0266-4909" , "urn:issn:1365-2729" .
+
+<http://dx.doi.org/10.1046/j.1365-2729.1998.1420140.x>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1046/j.1365-2729.1998.1420140.x" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "147" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "140" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "14" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/d-leclet-d9p3xljok0x6> , <http://id.crossref.org/contributor/g-weidenfeld-d9p3xljok0x6> ;
+      <http://purl.org/dc/terms/date>
+              "1998-06"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1046/j.1365-2729.1998.1420140.x" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0266-4909> ;
+      <http://purl.org/dc/terms/publisher>
+              "Wiley" ;
+      <http://purl.org/dc/terms/title>
+              "Training for strategic decision making in professional contexts" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1046/j.1365-2729.1998.1420140.x" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "147" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "140" ;
+      <http://purl.org/ontology/bibo/volume>
+              "14" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1046/j.1365-2729.1998.1420140.x> , <doi:10.1046/j.1365-2729.1998.1420140.x> .
+
+<http://id.crossref.org/contributor/g-weidenfeld-d9p3xljok0x6>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Weidenfeld" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "G." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "G. Weidenfeld" .

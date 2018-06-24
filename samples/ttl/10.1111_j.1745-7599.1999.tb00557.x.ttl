@@ -1,0 +1,51 @@
+<http://id.crossref.org/issn/1041-2972>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1041-2972" , "1745-7599" ;
+      <http://purl.org/dc/terms/title>
+              "Journal of the American Academy of Nurse Practitioners" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1041-2972" , "1745-7599" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1745-7599" , "urn:issn:1041-2972" .
+
+<http://dx.doi.org/10.1111/j.1745-7599.1999.tb00557.x>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1111/j.1745-7599.1999.tb00557.x" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "166" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "165" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "11" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/kenneth-korn-2vbd1o8l7q6w1> ;
+      <http://purl.org/dc/terms/date>
+              "1999-04"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1111/j.1745-7599.1999.tb00557.x" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1041-2972> ;
+      <http://purl.org/dc/terms/publisher>
+              "Wiley" ;
+      <http://purl.org/dc/terms/title>
+              "Professional Liability and Risk Management Information on the Internet" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1111/j.1745-7599.1999.tb00557.x" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "166" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "165" ;
+      <http://purl.org/ontology/bibo/volume>
+              "11" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1111/j.1745-7599.1999.tb00557.x> , <doi:10.1111/j.1745-7599.1999.tb00557.x> .
+
+<http://id.crossref.org/contributor/kenneth-korn-2vbd1o8l7q6w1>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Korn" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Kenneth" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Kenneth Korn" .

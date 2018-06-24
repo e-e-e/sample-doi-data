@@ -1,0 +1,78 @@
+<http://dx.doi.org/10.1002/bscb.19931020908>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1002/bscb.19931020908" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "614" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "611" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "102" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/h-g-viehe-2tcvgxsuwczaw> , <http://id.crossref.org/contributor/b-tinant-2tcvgxsuwczaw> , <http://id.crossref.org/contributor/j-p-h-bouillon-2tcvgxsuwczaw> , <http://id.crossref.org/contributor/j-p-declercq-2tcvgxsuwczaw> ;
+      <http://purl.org/dc/terms/date>
+              "2010-09-01"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1002/bscb.19931020908" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0037-9646> ;
+      <http://purl.org/dc/terms/publisher>
+              "Wiley" ;
+      <http://purl.org/dc/terms/title>
+              "X-Ray Structure of 3-[1′-(1″-Methylypiperidine-2″-Iminyl)-2′,2′,2′-Trifluoroethylidene]-1-Methylpyrrolidin-2-One" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1002/bscb.19931020908" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "614" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "611" ;
+      <http://purl.org/ontology/bibo/volume>
+              "102" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1002/bscb.19931020908> , <doi:10.1002/bscb.19931020908> .
+
+<http://id.crossref.org/contributor/h-g-viehe-2tcvgxsuwczaw>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Viehe" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "H. G." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "H. G. Viehe" .
+
+<http://id.crossref.org/issn/0037-9646>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0037-9646" ;
+      <http://purl.org/dc/terms/title>
+              "Bulletin des Sociétés Chimiques Belges" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0037-9646" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0037-9646" .
+
+<http://id.crossref.org/contributor/b-tinant-2tcvgxsuwczaw>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Tinant" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "B." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "B. Tinant" .
+
+<http://id.crossref.org/contributor/j-p-h-bouillon-2tcvgxsuwczaw>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Bouillon" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "J. P. H." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "J. P. H. Bouillon" .
+
+<http://id.crossref.org/contributor/j-p-declercq-2tcvgxsuwczaw>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Declercq" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "J. P." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "J. P. Declercq" .

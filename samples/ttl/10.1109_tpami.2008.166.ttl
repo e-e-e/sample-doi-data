@@ -1,0 +1,40 @@
+<http://dx.doi.org/10.1109/tpami.2008.166>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1109/tpami.2008.166" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "c4" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "c4" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "30" ;
+      <http://purl.org/dc/terms/date>
+              "2008-08"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1109/tpami.2008.166" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0162-8828> ;
+      <http://purl.org/dc/terms/publisher>
+              "Institute of Electrical and Electronics Engineers (IEEE)" ;
+      <http://purl.org/dc/terms/title>
+              "[Back cover]" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1109/tpami.2008.166" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "c4" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "c4" ;
+      <http://purl.org/ontology/bibo/volume>
+              "30" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1109/tpami.2008.166> , <info:doi/10.1109/tpami.2008.166> .
+
+<http://id.crossref.org/issn/0162-8828>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0162-8828" , "2160-9292" ;
+      <http://purl.org/dc/terms/title>
+              "IEEE Transactions on Pattern Analysis and Machine Intelligence" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0162-8828" , "2160-9292" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:2160-9292" , "urn:issn:0162-8828" .

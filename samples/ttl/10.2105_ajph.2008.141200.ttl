@@ -1,0 +1,78 @@
+<http://id.crossref.org/contributor/joanne-e-mantell-1jg0v2ybdhdo>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Mantell" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Joanne E." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Joanne E. Mantell" .
+
+<http://id.crossref.org/contributor/elizabeth-a-kelvin-1jg0v2ybdhdo>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kelvin" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Elizabeth A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Elizabeth A. Kelvin" .
+
+<http://id.crossref.org/contributor/zena-a-stein-1jg0v2ybdhdo>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Stein" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Zena A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Zena A. Stein" .
+
+<http://id.crossref.org/issn/0090-0036>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0090-0036" , "1541-0048" ;
+      <http://purl.org/dc/terms/title>
+              "American Journal of Public Health" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0090-0036" , "1541-0048" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1541-0048" , "urn:issn:0090-0036" .
+
+<http://dx.doi.org/10.2105/ajph.2008.141200>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.2105/ajph.2008.141200" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "987" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "985" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "99" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/joanne-e-mantell-1jg0v2ybdhdo> , <http://id.crossref.org/contributor/elizabeth-a-kelvin-1jg0v2ybdhdo> , <http://id.crossref.org/contributor/zena-a-stein-1jg0v2ybdhdo> , <http://id.crossref.org/contributor/raymond-a-smith-1jg0v2ybdhdo> ;
+      <http://purl.org/dc/terms/date>
+              "2009-06"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.2105/ajph.2008.141200" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0090-0036> ;
+      <http://purl.org/dc/terms/publisher>
+              "American Public Health Association" ;
+      <http://purl.org/dc/terms/title>
+              "Adding the Female Condom to the Public Health Agenda on Prevention of HIV and Other Sexually Transmitted Infections Among Men and Women During Anal Intercourse" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.2105/ajph.2008.141200" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "987" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "985" ;
+      <http://purl.org/ontology/bibo/volume>
+              "99" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.2105/ajph.2008.141200> , <info:doi/10.2105/ajph.2008.141200> .
+
+<http://id.crossref.org/contributor/raymond-a-smith-1jg0v2ybdhdo>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Smith" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Raymond A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Raymond A. Smith" .

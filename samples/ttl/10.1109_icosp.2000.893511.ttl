@@ -1,0 +1,38 @@
+<http://id.crossref.org/isbn/0780357477>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "WCC 2000 - ICSP 2000. 2000 5th International Conference on Signal Processing Proceedings. 16th World Computer Congress 2000" .
+
+<http://id.crossref.org/contributor/yuan-baozong-1pt25s5ve4fyn>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Yuan Baozong" ;
+      <http://xmlns.com/foaf/0.1/name>
+              " Yuan Baozong" .
+
+<http://id.crossref.org/contributor/chen-houjin-1pt25s5ve4fyn>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Chen Houjin" ;
+      <http://xmlns.com/foaf/0.1/name>
+              " Chen Houjin" .
+
+<http://dx.doi.org/10.1109/icosp.2000.893511>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1109/icosp.2000.893511" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/yuan-baozong-1pt25s5ve4fyn> , <http://id.crossref.org/contributor/chen-houjin-1pt25s5ve4fyn> ;
+      <http://purl.org/dc/terms/date>
+              ""^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1109/icosp.2000.893511" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/0780357477> ;
+      <http://purl.org/dc/terms/publisher>
+              "IEEE" ;
+      <http://purl.org/dc/terms/title>
+              "Research of integration signal and information processing techniques into medical comprehensive analysis system" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1109/icosp.2000.893511" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1109/icosp.2000.893511> , <info:doi/10.1109/icosp.2000.893511> .

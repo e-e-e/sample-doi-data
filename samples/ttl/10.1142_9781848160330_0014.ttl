@@ -1,0 +1,30 @@
+<http://dx.doi.org/10.1142/9781848160330_0014>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1142/9781848160330_0014" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "164" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "155" ;
+      <http://purl.org/dc/terms/date>
+              "2008-04"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1142/9781848160330_0014" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9781848160316> ;
+      <http://purl.org/dc/terms/publisher>
+              "PUBLISHED BY IMPERIAL COLLEGE PRESS AND DISTRIBUTED BY WORLD SCIENTIFIC PUBLISHING CO." ;
+      <http://purl.org/dc/terms/title>
+              "Taking Samples—How Many Fish in the Pond?" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1142/9781848160330_0014" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "164" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "155" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1142/9781848160330_0014> , <info:doi/10.1142/9781848160330_0014> .
+
+<http://id.crossref.org/isbn/9781848160316>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Everyday Probability and Statistics" .

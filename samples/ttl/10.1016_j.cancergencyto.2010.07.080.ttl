@@ -1,0 +1,128 @@
+<http://id.crossref.org/contributor/antonio-llombart-bosch-3czi8whytci37>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Llombart-Bosch" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Antonio" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Antonio Llombart-Bosch" .
+
+<http://id.crossref.org/contributor/miguel-cerda-nicolas-3czi8whytci37>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Cerdá-Nicolás" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Miguel" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Miguel Cerdá-Nicolás" .
+
+<http://id.crossref.org/contributor/concha-lopez-gines-3czi8whytci37>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "López-Ginés" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Concha" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Concha López-Ginés" .
+
+<http://id.crossref.org/contributor/teresa-san-miguel-3czi8whytci37>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "San Miguel" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Teresa" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Teresa San Miguel" .
+
+<http://id.crossref.org/contributor/carmen-carda-3czi8whytci37>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Carda" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Carmen" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Carmen Carda" .
+
+<http://id.crossref.org/contributor/robert-callaghan-3czi8whytci37>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Callaghan" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Robert" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Robert Callaghan" .
+
+<http://id.crossref.org/contributor/rosario-gil-benso-3czi8whytci37>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Gil-Benso" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Rosario" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Rosario Gil-Benso" .
+
+<http://dx.doi.org/10.1016/j.cancergencyto.2010.07.080>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/j.cancergencyto.2010.07.080" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "81" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "203" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/antonio-llombart-bosch-3czi8whytci37> , <http://id.crossref.org/contributor/miguel-cerda-nicolas-3czi8whytci37> , <http://id.crossref.org/contributor/teresa-san-miguel-3czi8whytci37> , <http://id.crossref.org/contributor/concha-lopez-gines-3czi8whytci37> , <http://id.crossref.org/contributor/carmen-carda-3czi8whytci37> , <http://id.crossref.org/contributor/robert-callaghan-3czi8whytci37> , <http://id.crossref.org/contributor/rosario-gil-benso-3czi8whytci37> , <http://id.crossref.org/contributor/alicia-martinez-3czi8whytci37> , <http://id.crossref.org/contributor/sandra-pinto-3czi8whytci37> , <http://id.crossref.org/contributor/ana-pellin-carcelen-3czi8whytci37> ;
+      <http://purl.org/dc/terms/date>
+              "2010-11"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/j.cancergencyto.2010.07.080" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0165-4608> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Expression of chemokine receptor CXCR3, CXCR4, and CXCR7 and their respective ligands in rhabdomyosarcoma" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/j.cancergencyto.2010.07.080" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "81" ;
+      <http://purl.org/ontology/bibo/volume>
+              "203" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1016/j.cancergencyto.2010.07.080> , <doi:10.1016/j.cancergencyto.2010.07.080> .
+
+<http://id.crossref.org/contributor/sandra-pinto-3czi8whytci37>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Pinto" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Sandra" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Sandra Pinto" .
+
+<http://id.crossref.org/issn/0165-4608>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0165-4608" ;
+      <http://purl.org/dc/terms/title>
+              "Cancer Genetics and Cytogenetics" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0165-4608" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0165-4608" .
+
+<http://id.crossref.org/contributor/alicia-martinez-3czi8whytci37>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Martínez" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Alicia" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Alicia Martínez" .
+
+<http://id.crossref.org/contributor/ana-pellin-carcelen-3czi8whytci37>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Pellín-Carcelén" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Ana" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Ana Pellín-Carcelén" .

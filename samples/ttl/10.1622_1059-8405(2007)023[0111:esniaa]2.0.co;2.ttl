@@ -1,0 +1,87 @@
+<http://id.crossref.org/contributor/pat-kramer-my2wbu31rxyj>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kramer" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Pat" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Pat Kramer" .
+
+<http://id.crossref.org/contributor/merry-a-grasska-my2wbu31rxyj>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Grasska" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Merry A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Merry A. Grasska" .
+
+<http://dx.doi.org/10.1177/10598405070230020901>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1177/10598405070230020901" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "118" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "111" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "23" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/pat-kramer-my2wbu31rxyj> , <http://id.crossref.org/contributor/merry-a-grasska-my2wbu31rxyj> , <http://id.crossref.org/contributor/marilyn-alexander-my2wbu31rxyj> , <http://id.crossref.org/contributor/penny-c-weismuller-my2wbu31rxyj> , <http://id.crossref.org/contributor/catherine-g-white-my2wbu31rxyj> ;
+      <http://purl.org/dc/terms/date>
+              "2007-04"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1177/10598405070230020901" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1059-8405> ;
+      <http://purl.org/dc/terms/publisher>
+              "SAGE Publications" ;
+      <http://purl.org/dc/terms/title>
+              "Elementary School Nurse Interventions: Attendance and Health Outcomes" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1177/10598405070230020901" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "118" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "111" ;
+      <http://purl.org/ontology/bibo/volume>
+              "23" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1177/10598405070230020901> , <info:doi/10.1177/10598405070230020901> .
+
+<http://id.crossref.org/issn/1059-8405>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1059-8405" , "1546-8364" ;
+      <http://purl.org/dc/terms/title>
+              "The Journal of School Nursing" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1059-8405" , "1546-8364" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1546-8364" , "urn:issn:1059-8405" .
+
+<http://id.crossref.org/contributor/marilyn-alexander-my2wbu31rxyj>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Alexander" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Marilyn" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Marilyn Alexander" .
+
+<http://id.crossref.org/contributor/penny-c-weismuller-my2wbu31rxyj>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Weismuller" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Penny C." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Penny C. Weismuller" .
+
+<http://id.crossref.org/contributor/catherine-g-white-my2wbu31rxyj>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "White" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Catherine G." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Catherine G. White" .

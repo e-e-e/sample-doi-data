@@ -1,0 +1,60 @@
+<http://id.crossref.org/issn/1424-3199>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1424-3202" , "1424-3199" ;
+      <http://purl.org/dc/terms/title>
+              "Journal of Evolution Equations" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1424-3202" , "1424-3199" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1424-3199" , "urn:issn:1424-3202" .
+
+<http://id.crossref.org/contributor/cyril-odasso-1zegap9cjjdvm>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Odasso" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Cyril" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Cyril Odasso" .
+
+<http://id.crossref.org/contributor/arnaud-debussche-1zegap9cjjdvm>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Debussche" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Arnaud" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Arnaud Debussche" .
+
+<http://dx.doi.org/10.1007/s00028-005-0195-x>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1007/s00028-005-0195-x" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "356" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "317" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "5" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/cyril-odasso-1zegap9cjjdvm> , <http://id.crossref.org/contributor/arnaud-debussche-1zegap9cjjdvm> ;
+      <http://purl.org/dc/terms/date>
+              "2005-08"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1007/s00028-005-0195-x" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1424-3199> ;
+      <http://purl.org/dc/terms/publisher>
+              "Springer Nature" ;
+      <http://purl.org/dc/terms/title>
+              "Ergodicity for a weakly damped stochastic non-linear Schrödinger equation" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1007/s00028-005-0195-x" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "356" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "317" ;
+      <http://purl.org/ontology/bibo/volume>
+              "5" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1007/s00028-005-0195-x> , <info:doi/10.1007/s00028-005-0195-x> .

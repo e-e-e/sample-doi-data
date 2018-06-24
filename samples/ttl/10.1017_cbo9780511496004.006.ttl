@@ -1,0 +1,41 @@
+<http://id.crossref.org/contributor/michael-c-questier-2ptsfpb49mr1m>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Questier" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Michael C." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Michael C. Questier" .
+
+<http://dx.doi.org/10.1017/cbo9780511496004.006>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1017/cbo9780511496004.006" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "149" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "109" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/michael-c-questier-2ptsfpb49mr1m> ;
+      <http://purl.org/dc/terms/date>
+              ""^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1017/cbo9780511496004.006" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9780511496004> ;
+      <http://purl.org/dc/terms/publisher>
+              "Cambridge University Press" ;
+      <http://purl.org/dc/terms/title>
+              "The Brownes, Catholicism and politics until the Ridolfi plot" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1017/cbo9780511496004.006" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "149" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "109" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1017/cbo9780511496004.006> , <doi:10.1017/cbo9780511496004.006> .
+
+<http://id.crossref.org/isbn/9780511496004>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Catholicism and Community in Early Modern England" .

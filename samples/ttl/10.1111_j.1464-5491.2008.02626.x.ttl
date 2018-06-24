@@ -1,0 +1,40 @@
+<http://dx.doi.org/10.1111/j.1464-5491.2008.02626.x>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1111/j.1464-5491.2008.02626.x" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "1510" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "1491" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "25" ;
+      <http://purl.org/dc/terms/date>
+              "2008-12"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1111/j.1464-5491.2008.02626.x" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0742-3071> ;
+      <http://purl.org/dc/terms/publisher>
+              "Wiley" ;
+      <http://purl.org/dc/terms/title>
+              "Author Index" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1111/j.1464-5491.2008.02626.x" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "1510" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "1491" ;
+      <http://purl.org/ontology/bibo/volume>
+              "25" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1111/j.1464-5491.2008.02626.x> , <doi:10.1111/j.1464-5491.2008.02626.x> .
+
+<http://id.crossref.org/issn/0742-3071>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1464-5491" , "0742-3071" ;
+      <http://purl.org/dc/terms/title>
+              "Diabetic Medicine" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1464-5491" , "0742-3071" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0742-3071" , "urn:issn:1464-5491" .

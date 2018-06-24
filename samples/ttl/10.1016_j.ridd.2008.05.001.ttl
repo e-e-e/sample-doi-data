@@ -1,0 +1,51 @@
+<http://id.crossref.org/issn/0891-4222>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0891-4222" ;
+      <http://purl.org/dc/terms/title>
+              "Research in Developmental Disabilities" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0891-4222" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0891-4222" .
+
+<http://id.crossref.org/contributor/jin-ding-lin-6lc2spentysv>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Lin" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Jin-Ding" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Jin-Ding Lin" .
+
+<http://dx.doi.org/10.1016/j.ridd.2008.05.001>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/j.ridd.2008.05.001" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "300" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "294" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "30" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/jin-ding-lin-6lc2spentysv> ;
+      <http://purl.org/dc/terms/date>
+              "2009-03"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/j.ridd.2008.05.001" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0891-4222> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Population with intellectual disability based on 2000–2007 national registers in Taiwan: Age and gender" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/j.ridd.2008.05.001" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "300" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "294" ;
+      <http://purl.org/ontology/bibo/volume>
+              "30" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1016/j.ridd.2008.05.001> , <info:doi/10.1016/j.ridd.2008.05.001> .

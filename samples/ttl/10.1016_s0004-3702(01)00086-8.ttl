@@ -1,0 +1,60 @@
+<http://id.crossref.org/issn/0004-3702>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0004-3702" ;
+      <http://purl.org/dc/terms/title>
+              "Artificial Intelligence" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0004-3702" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0004-3702" .
+
+<http://id.crossref.org/contributor/didier-dubois-c8b8kmpk7dbb>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Dubois" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Didier" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Didier Dubois" .
+
+<http://dx.doi.org/10.1016/s0004-3702(01)00086-8>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/s0004-3702(01)00086-8" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "246" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "245" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "128" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/didier-dubois-c8b8kmpk7dbb> , <http://id.crossref.org/contributor/henri-prade-c8b8kmpk7dbb> ;
+      <http://purl.org/dc/terms/date>
+              "2001-05"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/s0004-3702(01)00086-8" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0004-3702> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Special Issue of the journal Artificial Intelligence on “Fuzzy Set and Possibility Theory-Based Methods in Artificial Intelligence”" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/s0004-3702(01)00086-8" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "246" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "245" ;
+      <http://purl.org/ontology/bibo/volume>
+              "128" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1016/s0004-3702(01)00086-8> , <info:doi/10.1016/s0004-3702(01)00086-8> .
+
+<http://id.crossref.org/contributor/henri-prade-c8b8kmpk7dbb>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Prade" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Henri" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Henri Prade" .

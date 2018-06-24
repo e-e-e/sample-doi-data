@@ -1,0 +1,51 @@
+<http://id.crossref.org/contributor/norman-reid-35a52thxnv6gc>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Reid" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Norman" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Norman Reid" .
+
+<http://dx.doi.org/10.1080/02635140500485332>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1080/02635140500485332" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "27" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "3" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "24" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/norman-reid-35a52thxnv6gc> ;
+      <http://purl.org/dc/terms/date>
+              "2006-05"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1080/02635140500485332" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0263-5143> ;
+      <http://purl.org/dc/terms/publisher>
+              "Informa UK Limited" ;
+      <http://purl.org/dc/terms/title>
+              "Thoughts on attitude measurement" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1080/02635140500485332" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "27" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "3" ;
+      <http://purl.org/ontology/bibo/volume>
+              "24" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1080/02635140500485332> , <doi:10.1080/02635140500485332> .
+
+<http://id.crossref.org/issn/0263-5143>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0263-5143" , "1470-1138" ;
+      <http://purl.org/dc/terms/title>
+              "Research in Science & Technological Education" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0263-5143" , "1470-1138" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1470-1138" , "urn:issn:0263-5143" .

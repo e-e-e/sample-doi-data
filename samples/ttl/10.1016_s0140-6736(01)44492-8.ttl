@@ -1,0 +1,36 @@
+<http://dx.doi.org/10.1016/s0140-6736(01)44492-8>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/s0140-6736(01)44492-8" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "192" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "167" ;
+      <http://purl.org/dc/terms/date>
+              "1906-01"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/s0140-6736(01)44492-8" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0140-6736> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "PARIS." ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/s0140-6736(01)44492-8" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "192" ;
+      <http://purl.org/ontology/bibo/volume>
+              "167" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1016/s0140-6736(01)44492-8> , <doi:10.1016/s0140-6736(01)44492-8> .
+
+<http://id.crossref.org/issn/0140-6736>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0140-6736" ;
+      <http://purl.org/dc/terms/title>
+              "The Lancet" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0140-6736" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0140-6736" .

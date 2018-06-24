@@ -1,0 +1,47 @@
+<http://id.crossref.org/issn/0031-949X>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0031-949X" ;
+      <http://purl.org/dc/terms/title>
+              "Phytopathology" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0031-949X" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0031-949X" .
+
+<http://id.crossref.org/contributor/r-j-williams-3j243pvp5ekkk>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Williams" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "R. J." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "R. J. Williams" .
+
+<http://dx.doi.org/10.1094/phyto-65-217>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1094/phyto-65-217" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "217" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "65" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/r-j-williams-3j243pvp5ekkk> ;
+      <http://purl.org/dc/terms/date>
+              "1975"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1094/phyto-65-217" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0031-949X> ;
+      <http://purl.org/dc/terms/publisher>
+              "Scientific Societies" ;
+      <http://purl.org/dc/terms/title>
+              "Increased Incidence of Pythium Stem Rot in Cowpeas Treated with Benomyl and Related Fungicides" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1094/phyto-65-217" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "217" ;
+      <http://purl.org/ontology/bibo/volume>
+              "65" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1094/phyto-65-217> , <info:doi/10.1094/phyto-65-217> .

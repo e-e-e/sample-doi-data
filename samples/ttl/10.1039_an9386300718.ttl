@@ -1,0 +1,74 @@
+<http://id.crossref.org/contributor/w-v-b-sandara-rao-rlezom7okzrq>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Rao" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "W. V. B. Sandara" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "W. V. B. Sandara Rao" .
+
+<http://dx.doi.org/10.1039/an9386300718>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1039/an9386300718" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "718" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "63" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/w-v-b-sandara-rao-rlezom7okzrq> , <http://id.crossref.org/contributor/g-gopala-rao-rlezom7okzrq> , <http://id.crossref.org/contributor/c-e-sage-rlezom7okzrq> , <http://id.crossref.org/contributor/s-g-e-stevens-rlezom7okzrq> ;
+      <http://purl.org/dc/terms/date>
+              "1938"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1039/an9386300718" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0003-2654> ;
+      <http://purl.org/dc/terms/publisher>
+              "Royal Society of Chemistry (RSC)" ;
+      <http://purl.org/dc/terms/title>
+              "Notes" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1039/an9386300718" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "718" ;
+      <http://purl.org/ontology/bibo/volume>
+              "63" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1039/an9386300718> , <doi:10.1039/an9386300718> .
+
+<http://id.crossref.org/issn/0003-2654>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0003-2654" , "1364-5528" ;
+      <http://purl.org/dc/terms/title>
+              "The Analyst" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0003-2654" , "1364-5528" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1364-5528" , "urn:issn:0003-2654" .
+
+<http://id.crossref.org/contributor/g-gopala-rao-rlezom7okzrq>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Rao" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "G. Gopala" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "G. Gopala Rao" .
+
+<http://id.crossref.org/contributor/c-e-sage-rlezom7okzrq>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Sage" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "C. E." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "C. E. Sage" .
+
+<http://id.crossref.org/contributor/s-g-e-stevens-rlezom7okzrq>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Stevens" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "S. G. E." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "S. G. E. Stevens" .

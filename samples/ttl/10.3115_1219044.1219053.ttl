@@ -1,0 +1,26 @@
+<http://id.crossref.org/contributor/charles-b-callaway-24dkdw9ihbyhi>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Callaway" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Charles B." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Charles B. Callaway" .
+
+<http://dx.doi.org/10.3115/1219044.1219053>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.3115/1219044.1219053" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/charles-b-callaway-24dkdw9ihbyhi> ;
+      <http://purl.org/dc/terms/date>
+              "2004"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.3115/1219044.1219053" ;
+      <http://purl.org/dc/terms/publisher>
+              "Association for Computational Linguistics" ;
+      <http://purl.org/dc/terms/title>
+              "Wide coverage symbolic surface realization" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.3115/1219044.1219053" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.3115/1219044.1219053> , <info:doi/10.3115/1219044.1219053> .

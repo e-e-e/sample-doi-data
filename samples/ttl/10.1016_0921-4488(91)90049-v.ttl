@@ -1,0 +1,78 @@
+<http://id.crossref.org/contributor/j-z-adamczewski-2q87sk6tf4ixj>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Adamczewski" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "J.Z." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "J.Z. Adamczewski" .
+
+<http://id.crossref.org/contributor/h-m-kozak-2q87sk6tf4ixj>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kozak" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "H.M." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "H.M. Kozak" .
+
+<http://id.crossref.org/contributor/r-j-hudson-2q87sk6tf4ixj>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Hudson" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "R.J." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "R.J. Hudson" .
+
+<http://id.crossref.org/issn/0921-4488>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0921-4488" ;
+      <http://purl.org/dc/terms/title>
+              "Small Ruminant Research" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0921-4488" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0921-4488" .
+
+<http://dx.doi.org/10.1016/0921-4488(91)90049-v>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/0921-4488(91)90049-v" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "28" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "19" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "4" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/j-z-adamczewski-2q87sk6tf4ixj> , <http://id.crossref.org/contributor/h-m-kozak-2q87sk6tf4ixj> , <http://id.crossref.org/contributor/r-j-hudson-2q87sk6tf4ixj> , <http://id.crossref.org/contributor/c-d-olsen-2q87sk6tf4ixj> ;
+      <http://purl.org/dc/terms/date>
+              "1991-01"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/0921-4488(91)90049-v" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0921-4488> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Reproductive performance of farmed wapiti (Cervus elaphus nelsoni)" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/0921-4488(91)90049-v" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "28" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "19" ;
+      <http://purl.org/ontology/bibo/volume>
+              "4" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1016/0921-4488(91)90049-v> , <doi:10.1016/0921-4488(91)90049-v> .
+
+<http://id.crossref.org/contributor/c-d-olsen-2q87sk6tf4ixj>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Olsen" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "C.D." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "C.D. Olsen" .

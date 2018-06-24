@@ -1,0 +1,132 @@
+<http://id.crossref.org/contributor/hideyuki-kuwata-1bbeyc54q1bwr>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kuwata" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Hideyuki" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Hideyuki Kuwata" .
+
+<http://id.crossref.org/contributor/shin-ichiro-shoda-1bbeyc54q1bwr>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Shoda" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Shin-ichiro" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Shin-ichiro Shoda" .
+
+<http://id.crossref.org/contributor/chakapan-lohavisavapanichi-1bbeyc54q1bwr>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Lohavisavapanichi" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Chakapan" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Chakapan Lohavisavapanichi" .
+
+<http://id.crossref.org/contributor/takeshi-watanabe-1bbeyc54q1bwr>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Watanabe" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Takeshi" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Takeshi Watanabe" .
+
+<http://id.crossref.org/contributor/masaya-fujita-1bbeyc54q1bwr>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Fujita" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Masaya" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Masaya Fujita" .
+
+<http://id.crossref.org/contributor/mao-kuriyama-1bbeyc54q1bwr>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kuriyama" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Mao" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Mao Kuriyama" .
+
+<http://id.crossref.org/contributor/michinari-kohri-1bbeyc54q1bwr>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kohri" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Michinari" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Michinari Kohri" .
+
+<http://dx.doi.org/10.1002/1522-2675(200211)85:11<3919::aid-hlca3919>3.0.co;2-p>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1002/1522-2675(200211)85:11<3919::aid-hlca3919>3.0.co;2-p" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "3936" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "3919" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "85" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/hideyuki-kuwata-1bbeyc54q1bwr> , <http://id.crossref.org/contributor/shin-ichiro-shoda-1bbeyc54q1bwr> , <http://id.crossref.org/contributor/takeshi-watanabe-1bbeyc54q1bwr> , <http://id.crossref.org/contributor/chakapan-lohavisavapanichi-1bbeyc54q1bwr> , <http://id.crossref.org/contributor/masaya-fujita-1bbeyc54q1bwr> , <http://id.crossref.org/contributor/mao-kuriyama-1bbeyc54q1bwr> , <http://id.crossref.org/contributor/michinari-kohri-1bbeyc54q1bwr> , <http://id.crossref.org/contributor/yukiko-tawata-1bbeyc54q1bwr> , <http://id.crossref.org/contributor/koushin-ushizaki-1bbeyc54q1bwr> , <http://id.crossref.org/contributor/yoshinori-misawa-1bbeyc54q1bwr> ;
+      <http://purl.org/dc/terms/date>
+              "2002-11"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1002/1522-2675(200211)85:11<3919::aid-hlca3919>3.0.co;2-p" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0018-019X> ;
+      <http://purl.org/dc/terms/publisher>
+              "Wiley" ;
+      <http://purl.org/dc/terms/title>
+              "Efficient Method for the Elongation of the N-Acetylglucosamine Unit by Combined Use of Chitinase and -Galactosidase" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1002/1522-2675(200211)85:11<3919::aid-hlca3919>3.0.co;2-p" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "3936" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "3919" ;
+      <http://purl.org/ontology/bibo/volume>
+              "85" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1002/1522-2675(200211)85:11<3919::aid-hlca3919>3.0.co;2-p> , <info:doi/10.1002/1522-2675(200211)85:11<3919::aid-hlca3919>3.0.co;2-p> .
+
+<http://id.crossref.org/contributor/yukiko-tawata-1bbeyc54q1bwr>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Tawata" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Yukiko" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Yukiko Tawata" .
+
+<http://id.crossref.org/contributor/koushin-ushizaki-1bbeyc54q1bwr>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Ushizaki" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Koushin" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Koushin Ushizaki" .
+
+<http://id.crossref.org/issn/0018-019X>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1522-2675" , "0018-019X" ;
+      <http://purl.org/dc/terms/title>
+              "Helvetica Chimica Acta" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1522-2675" , "0018-019X" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0018-019X" , "urn:issn:1522-2675" .
+
+<http://id.crossref.org/contributor/yoshinori-misawa-1bbeyc54q1bwr>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Misawa" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Yoshinori" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Yoshinori Misawa" .

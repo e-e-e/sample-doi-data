@@ -1,0 +1,51 @@
+<http://id.crossref.org/issn/1527-943X>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1527-943X" ;
+      <http://purl.org/dc/terms/title>
+              "Manoa" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1527-943X" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1527-943X" .
+
+<http://dx.doi.org/10.1353/man.2002.0007>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1353/man.2002.0007" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "160" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "152" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "14" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/frank-gerke-23qvbbo203h3m> ;
+      <http://purl.org/dc/terms/date>
+              "2002"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1353/man.2002.0007" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1527-943X> ;
+      <http://purl.org/dc/terms/publisher>
+              "Johns Hopkins University Press" ;
+      <http://purl.org/dc/terms/title>
+              "Our Hands Shall Embrace: A Eulogy for Trinh Cong Son" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1353/man.2002.0007" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "160" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "152" ;
+      <http://purl.org/ontology/bibo/volume>
+              "14" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1353/man.2002.0007> , <info:doi/10.1353/man.2002.0007> .
+
+<http://id.crossref.org/contributor/frank-gerke-23qvbbo203h3m>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Gerke" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Frank" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Frank Gerke" .

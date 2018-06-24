@@ -1,0 +1,69 @@
+<http://dx.doi.org/10.1016/j.eurpsy.2008.01.1046>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/j.eurpsy.2008.01.1046" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "S305" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "S304" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "23" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/s-alcaz-1obqzwe0nfhu> , <http://id.crossref.org/contributor/s-vucetic-1obqzwe0nfhu> , <http://id.crossref.org/contributor/g-popadic-1obqzwe0nfhu> ;
+      <http://purl.org/dc/terms/date>
+              "2008-04"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/j.eurpsy.2008.01.1046" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0924-9338> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Domestic Violence and child abuse as risk factors for heroin addiction" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/j.eurpsy.2008.01.1046" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "S305" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "S304" ;
+      <http://purl.org/ontology/bibo/volume>
+              "23" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1016/j.eurpsy.2008.01.1046> , <info:doi/10.1016/j.eurpsy.2008.01.1046> .
+
+<http://id.crossref.org/contributor/s-alcaz-1obqzwe0nfhu>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Alcaz" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "S." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "S. Alcaz" .
+
+<http://id.crossref.org/issn/0924-9338>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0924-9338" ;
+      <http://purl.org/dc/terms/title>
+              "European Psychiatry" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0924-9338" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0924-9338" .
+
+<http://id.crossref.org/contributor/s-vucetic-1obqzwe0nfhu>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Vucetic" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "S." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "S. Vucetic" .
+
+<http://id.crossref.org/contributor/g-popadic-1obqzwe0nfhu>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Popadic" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "G." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "G. Popadic" .

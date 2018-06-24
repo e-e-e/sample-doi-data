@@ -1,0 +1,60 @@
+<http://id.crossref.org/contributor/s-m-mitrofanov-2cwj96y9sx7vh>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Mitrofanov" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "S. M." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "S. M. Mitrofanov" .
+
+<http://dx.doi.org/10.1007/s10740-006-0087-y>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1007/s10740-006-0087-y" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "728" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "720" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "44" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/s-m-mitrofanov-2cwj96y9sx7vh> , <http://id.crossref.org/contributor/p-a-pavlov-2cwj96y9sx7vh> ;
+      <http://purl.org/dc/terms/date>
+              "2006-09"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1007/s10740-006-0087-y" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0018-151X> ;
+      <http://purl.org/dc/terms/publisher>
+              "Springer Nature" ;
+      <http://purl.org/dc/terms/title>
+              "Geometric characteristics of unsteady-state boiling crisis" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1007/s10740-006-0087-y" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "728" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "720" ;
+      <http://purl.org/ontology/bibo/volume>
+              "44" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1007/s10740-006-0087-y> , <info:doi/10.1007/s10740-006-0087-y> .
+
+<http://id.crossref.org/issn/0018-151X>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1608-3156" , "0018-151X" ;
+      <http://purl.org/dc/terms/title>
+              "High Temperature" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1608-3156" , "0018-151X" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0018-151X" , "urn:issn:1608-3156" .
+
+<http://id.crossref.org/contributor/p-a-pavlov-2cwj96y9sx7vh>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Pavlov" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "P. A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "P. A. Pavlov" .

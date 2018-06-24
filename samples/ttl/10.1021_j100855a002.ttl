@@ -1,0 +1,60 @@
+<http://id.crossref.org/contributor/jean-h-futrell-3cj3nxhciod8h>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Futrell" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Jean H." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Jean H. Futrell" .
+
+<http://dx.doi.org/10.1021/j100855a002>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1021/j100855a002" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "3093" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "3080" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "72" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/jean-h-futrell-3cj3nxhciod8h> , <http://id.crossref.org/contributor/thomas-o-tiernan-3cj3nxhciod8h> ;
+      <http://purl.org/dc/terms/date>
+              "1968-09"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1021/j100855a002" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0022-3654> ;
+      <http://purl.org/dc/terms/publisher>
+              "American Chemical Society (ACS)" ;
+      <http://purl.org/dc/terms/title>
+              "Ionic reactions in unsaturated compounds. II. Ethylene" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1021/j100855a002" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "3093" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "3080" ;
+      <http://purl.org/ontology/bibo/volume>
+              "72" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1021/j100855a002> , <info:doi/10.1021/j100855a002> .
+
+<http://id.crossref.org/contributor/thomas-o-tiernan-3cj3nxhciod8h>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Tiernan" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Thomas O." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Thomas O. Tiernan" .
+
+<http://id.crossref.org/issn/0022-3654>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1541-5740" , "0022-3654" ;
+      <http://purl.org/dc/terms/title>
+              "The Journal of Physical Chemistry" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1541-5740" , "0022-3654" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0022-3654" , "urn:issn:1541-5740" .

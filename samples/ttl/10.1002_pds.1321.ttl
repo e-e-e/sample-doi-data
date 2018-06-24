@@ -1,0 +1,69 @@
+<http://id.crossref.org/contributor/kristin-krigsman-2nvponinefj5l>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Krigsman" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Kristin" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Kristin Krigsman" .
+
+<http://id.crossref.org/contributor/j-lars-g-nilsson-2nvponinefj5l>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Nilsson" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "J. Lars G." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "J. Lars G. Nilsson" .
+
+<http://id.crossref.org/issn/1053-8569>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1099-1557" , "1053-8569" ;
+      <http://purl.org/dc/terms/title>
+              "Pharmacoepidemiology and Drug Safety" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1099-1557" , "1053-8569" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1053-8569" , "urn:issn:1099-1557" .
+
+<http://dx.doi.org/10.1002/pds.1321>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1002/pds.1321" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "448" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "441" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "16" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/kristin-krigsman-2nvponinefj5l> , <http://id.crossref.org/contributor/j-lars-g-nilsson-2nvponinefj5l> , <http://id.crossref.org/contributor/lena-ring-2nvponinefj5l> ;
+      <http://purl.org/dc/terms/date>
+              "2007"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1002/pds.1321" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1053-8569> ;
+      <http://purl.org/dc/terms/publisher>
+              "Wiley" ;
+      <http://purl.org/dc/terms/title>
+              "Refill adherence for patients with asthma and COPD: comparison of a pharmacy record database with manually collected repeat prescriptions" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1002/pds.1321" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "448" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "441" ;
+      <http://purl.org/ontology/bibo/volume>
+              "16" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1002/pds.1321> , <doi:10.1002/pds.1321> .
+
+<http://id.crossref.org/contributor/lena-ring-2nvponinefj5l>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Ring" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Lena" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Lena Ring" .

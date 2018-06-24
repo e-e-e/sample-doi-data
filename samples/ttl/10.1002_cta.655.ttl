@@ -1,0 +1,60 @@
+<http://id.crossref.org/issn/0098-9886>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0098-9886" ;
+      <http://purl.org/dc/terms/title>
+              "International Journal of Circuit Theory and Applications" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0098-9886" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0098-9886" .
+
+<http://id.crossref.org/contributor/eleni-stoumpou-2vh1qsojuwei>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Stoumpou" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Eleni" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Eleni Stoumpou" .
+
+<http://id.crossref.org/contributor/costas-psychalinos-2vh1qsojuwei>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Psychalinos" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Costas" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Costas Psychalinos" .
+
+<http://dx.doi.org/10.1002/cta.655>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1002/cta.655" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "731" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "719" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "39" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/eleni-stoumpou-2vh1qsojuwei> , <http://id.crossref.org/contributor/costas-psychalinos-2vh1qsojuwei> ;
+      <http://purl.org/dc/terms/date>
+              "2010-03-22"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1002/cta.655" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0098-9886> ;
+      <http://purl.org/dc/terms/publisher>
+              "Wiley" ;
+      <http://purl.org/dc/terms/title>
+              "Square-root domain linear transformation filters" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1002/cta.655" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "731" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "719" ;
+      <http://purl.org/ontology/bibo/volume>
+              "39" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1002/cta.655> , <doi:10.1002/cta.655> .

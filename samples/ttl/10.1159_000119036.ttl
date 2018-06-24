@@ -1,0 +1,105 @@
+<http://id.crossref.org/contributor/kenji-takahagi-3two2dkwxjziy>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Takahagi" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Kenji" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Kenji Takahagi" .
+
+<http://id.crossref.org/contributor/hisashi-kumashiro-3two2dkwxjziy>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kumashiro" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Hisashi" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Hisashi Kumashiro" .
+
+<http://id.crossref.org/contributor/shigeo-murata-3two2dkwxjziy>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Murata" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Shigeo" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Shigeo Murata" .
+
+<http://id.crossref.org/issn/0302-282X>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1423-0224" , "0302-282X" ;
+      <http://purl.org/dc/terms/title>
+              "Neuropsychobiology" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1423-0224" , "0302-282X" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0302-282X" , "urn:issn:1423-0224" .
+
+<http://dx.doi.org/10.1159/000119036>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1159/000119036" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "16" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "12" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "24" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/hisashi-kumashiro-3two2dkwxjziy> , <http://id.crossref.org/contributor/kenji-takahagi-3two2dkwxjziy> , <http://id.crossref.org/contributor/shigeo-murata-3two2dkwxjziy> , <http://id.crossref.org/contributor/yoshihiko-hoshino-3two2dkwxjziy> , <http://id.crossref.org/contributor/makoto-watanabe-3two2dkwxjziy> , <http://id.crossref.org/contributor/fujio-yokoyama-3two2dkwxjziy> , <http://id.crossref.org/contributor/motohisa-kaneko-3two2dkwxjziy> ;
+      <http://purl.org/dc/terms/date>
+              "1990"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1159/000119036" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0302-282X> ;
+      <http://purl.org/dc/terms/publisher>
+              "S. Karger AG" ;
+      <http://purl.org/dc/terms/title>
+              "Dexamethasone Suppression Test in Schizophrenia: Its Relation to Monoamine Metabolism in Hypothalamic-Pituitary-Adrenal Axis" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1159/000119036" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "16" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "12" ;
+      <http://purl.org/ontology/bibo/volume>
+              "24" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1159/000119036> , <info:doi/10.1159/000119036> .
+
+<http://id.crossref.org/contributor/yoshihiko-hoshino-3two2dkwxjziy>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Hoshino" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Yoshihiko" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Yoshihiko Hoshino" .
+
+<http://id.crossref.org/contributor/makoto-watanabe-3two2dkwxjziy>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Watanabe" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Makoto" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Makoto Watanabe" .
+
+<http://id.crossref.org/contributor/motohisa-kaneko-3two2dkwxjziy>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kaneko" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Motohisa" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Motohisa Kaneko" .
+
+<http://id.crossref.org/contributor/fujio-yokoyama-3two2dkwxjziy>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Yokoyama" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Fujio" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Fujio Yokoyama" .

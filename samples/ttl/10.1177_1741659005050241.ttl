@@ -1,0 +1,51 @@
+<http://id.crossref.org/contributor/eugene-mclaughlin-3a0f73jgyrv55>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "McLaughlin" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Eugene" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Eugene McLaughlin" .
+
+<http://dx.doi.org/10.1177/1741659005050241>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1177/1741659005050241" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "30" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "11" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "1" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/eugene-mclaughlin-3a0f73jgyrv55> ;
+      <http://purl.org/dc/terms/date>
+              "2005-03"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1177/1741659005050241" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1741-6590> ;
+      <http://purl.org/dc/terms/publisher>
+              "SAGE Publications" ;
+      <http://purl.org/dc/terms/title>
+              "From reel to ideal: The Blue Lamp and the popular cultural construction of                 the English ‘bobby’" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1177/1741659005050241" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "30" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "11" ;
+      <http://purl.org/ontology/bibo/volume>
+              "1" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1177/1741659005050241> , <doi:10.1177/1741659005050241> .
+
+<http://id.crossref.org/issn/1741-6590>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1741-6590" , "1741-6604" ;
+      <http://purl.org/dc/terms/title>
+              "Crime, Media, Culture: An International Journal" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1741-6590" , "1741-6604" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1741-6590" , "urn:issn:1741-6604" .

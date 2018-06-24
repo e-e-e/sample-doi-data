@@ -1,0 +1,75 @@
+<http://id.crossref.org/contributor/g-rodriguez-fuentes-nkbkfsfb7yt6>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Rodríguez-Fuentes" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "G." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "G. Rodríguez-Fuentes" .
+
+<http://dx.doi.org/10.1016/s0167-2991(01)81881-4>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/s0167-2991(01)81881-4" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "373" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/g-rodriguez-fuentes-nkbkfsfb7yt6> , <http://id.crossref.org/contributor/l-m-rodriguez-albelo-nkbkfsfb7yt6> , <http://id.crossref.org/contributor/a-rivera-nkbkfsfb7yt6> , <http://id.crossref.org/contributor/e-altshuler-nkbkfsfb7yt6> ;
+      <http://purl.org/dc/terms/date>
+              "2001"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/s0167-2991(01)81881-4" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9780444502384> , <http://id.crossref.org/issn/0167-2991> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier" ;
+      <http://purl.org/dc/terms/title>
+              "32-P-07-Interaction studies between aspirin and purified natural clinoptilolite" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/s0167-2991(01)81881-4" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "373" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1016/s0167-2991(01)81881-4> , <info:doi/10.1016/s0167-2991(01)81881-4> .
+
+<http://id.crossref.org/contributor/l-m-rodriguez-albelo-nkbkfsfb7yt6>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Rodríguez-Albelo" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "L.M." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "L.M. Rodríguez-Albelo" .
+
+<http://id.crossref.org/isbn/9780444502384>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Studies in Surface Science and Catalysis" .
+
+<http://id.crossref.org/contributor/a-rivera-nkbkfsfb7yt6>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Rivera" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "A. Rivera" .
+
+<http://id.crossref.org/issn/0167-2991>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0167-2991" ;
+      <http://purl.org/dc/terms/title>
+              "Studies in Surface Science and Catalysis" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0167-2991" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0167-2991" .
+
+<http://id.crossref.org/contributor/e-altshuler-nkbkfsfb7yt6>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Altshuler" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "E." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "E. Altshuler" .

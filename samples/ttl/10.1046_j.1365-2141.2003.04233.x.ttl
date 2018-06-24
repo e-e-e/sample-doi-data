@@ -1,0 +1,105 @@
+<http://id.crossref.org/contributor/elizabeth-brass-33c2jg0nkxgyq>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Brass" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Elizabeth" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Elizabeth Brass" .
+
+<http://id.crossref.org/contributor/thomas-a-buchanan-33c2jg0nkxgyq>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Buchanan" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Thomas A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Thomas A. Buchanan" .
+
+<http://id.crossref.org/contributor/kimberly-a-loda-33c2jg0nkxgyq>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Loda" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Kimberly A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Kimberly A. Loda" .
+
+<http://dx.doi.org/10.1046/j.1365-2141.2003.04233.x>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1046/j.1365-2141.2003.04233.x" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "142" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "139" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "121" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/thomas-a-buchanan-33c2jg0nkxgyq> , <http://id.crossref.org/contributor/elizabeth-brass-33c2jg0nkxgyq> , <http://id.crossref.org/contributor/kimberly-a-loda-33c2jg0nkxgyq> , <http://id.crossref.org/contributor/denice-d-tsao-wei-33c2jg0nkxgyq> , <http://id.crossref.org/contributor/susan-groshen-33c2jg0nkxgyq> , <http://id.crossref.org/contributor/michele-r-hacker-33c2jg0nkxgyq> , <http://id.crossref.org/contributor/david-c-calverley-33c2jg0nkxgyq> ;
+      <http://purl.org/dc/terms/date>
+              "2003-04"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1046/j.1365-2141.2003.04233.x" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0007-1048> ;
+      <http://purl.org/dc/terms/publisher>
+              "Wiley" ;
+      <http://purl.org/dc/terms/title>
+              "Increased platelet Fc receptor expression as a potential contributing cause of platelet hypersensitivity to collagen in diabetes mellitus" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1046/j.1365-2141.2003.04233.x" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "142" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "139" ;
+      <http://purl.org/ontology/bibo/volume>
+              "121" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1046/j.1365-2141.2003.04233.x> , <info:doi/10.1046/j.1365-2141.2003.04233.x> .
+
+<http://id.crossref.org/issn/0007-1048>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1365-2141" , "0007-1048" ;
+      <http://purl.org/dc/terms/title>
+              "British Journal of Haematology" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1365-2141" , "0007-1048" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1365-2141" , "urn:issn:0007-1048" .
+
+<http://id.crossref.org/contributor/denice-d-tsao-wei-33c2jg0nkxgyq>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Tsao-Wei" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Denice D." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Denice D. Tsao-Wei" .
+
+<http://id.crossref.org/contributor/susan-groshen-33c2jg0nkxgyq>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Groshen" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Susan" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Susan Groshen" .
+
+<http://id.crossref.org/contributor/michele-r-hacker-33c2jg0nkxgyq>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Hacker" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Michele R." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Michele R. Hacker" .
+
+<http://id.crossref.org/contributor/david-c-calverley-33c2jg0nkxgyq>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Calverley" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "David C." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "David C. Calverley" .

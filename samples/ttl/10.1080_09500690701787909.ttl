@@ -1,0 +1,69 @@
+<http://id.crossref.org/issn/0950-0693>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1464-5289" , "0950-0693" ;
+      <http://purl.org/dc/terms/title>
+              "International Journal of Science Education" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1464-5289" , "0950-0693" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0950-0693" , "urn:issn:1464-5289" .
+
+<http://id.crossref.org/contributor/dana-l-zeidler-ghg1rj63m7ws>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Zeidler" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Dana L." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Dana L. Zeidler" .
+
+<http://id.crossref.org/contributor/samantha-r-fowler-ghg1rj63m7ws>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Fowler" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Samantha R." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Samantha R. Fowler" .
+
+<http://dx.doi.org/10.1080/09500690701787909>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1080/09500690701787909" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "296" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "279" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "31" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/dana-l-zeidler-ghg1rj63m7ws> , <http://id.crossref.org/contributor/samantha-r-fowler-ghg1rj63m7ws> , <http://id.crossref.org/contributor/troy-d-sadler-ghg1rj63m7ws> ;
+      <http://purl.org/dc/terms/date>
+              "2009-01-15"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1080/09500690701787909" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0950-0693> ;
+      <http://purl.org/dc/terms/publisher>
+              "Informa UK Limited" ;
+      <http://purl.org/dc/terms/title>
+              "Moral Sensitivity in the Context of Socioscientific Issues in High School Science Students" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1080/09500690701787909" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "296" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "279" ;
+      <http://purl.org/ontology/bibo/volume>
+              "31" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1080/09500690701787909> , <info:doi/10.1080/09500690701787909> .
+
+<http://id.crossref.org/contributor/troy-d-sadler-ghg1rj63m7ws>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Sadler" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Troy D." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Troy D. Sadler" .

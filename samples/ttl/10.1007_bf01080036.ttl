@@ -1,0 +1,51 @@
+<http://id.crossref.org/contributor/jay-gilbert-1eztguuexninq>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Gilbert" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Jay" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Jay Gilbert" .
+
+<http://dx.doi.org/10.1007/bf01080036>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1007/bf01080036" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "32" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "25" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "1" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/jay-gilbert-1eztguuexninq> ;
+      <http://purl.org/dc/terms/date>
+              "1976"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1007/bf01080036" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0361-6851> ;
+      <http://purl.org/dc/terms/publisher>
+              "Springer Nature" ;
+      <http://purl.org/dc/terms/title>
+              "Contract learning" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1007/bf01080036" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "32" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "25" ;
+      <http://purl.org/ontology/bibo/volume>
+              "1" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1007/bf01080036> , <doi:10.1007/bf01080036> .
+
+<http://id.crossref.org/issn/0361-6851>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1573-1758" , "0361-6851" ;
+      <http://purl.org/dc/terms/title>
+              "Alternative Higher Education" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1573-1758" , "0361-6851" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1573-1758" , "urn:issn:0361-6851" .

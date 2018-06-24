@@ -1,0 +1,51 @@
+<http://id.crossref.org/issn/0015-752X>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0015-752X" , "1464-3626" ;
+      <http://purl.org/dc/terms/title>
+              "Forestry" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0015-752X" , "1464-3626" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1464-3626" , "urn:issn:0015-752X" .
+
+<http://id.crossref.org/contributor/w-v-harris-1bfyws2pkvy3j>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "HARRIS" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "W. V." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "W. V. HARRIS" .
+
+<http://dx.doi.org/10.1093/forestry/45.1.111>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1093/forestry/45.1.111" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "112" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "111" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "45" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/w-v-harris-1bfyws2pkvy3j> ;
+      <http://purl.org/dc/terms/date>
+              "1972"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1093/forestry/45.1.111" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0015-752X> ;
+      <http://purl.org/dc/terms/publisher>
+              "Oxford University Press (OUP)" ;
+      <http://purl.org/dc/terms/title>
+              "REVIEWS" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1093/forestry/45.1.111" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "112" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "111" ;
+      <http://purl.org/ontology/bibo/volume>
+              "45" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1093/forestry/45.1.111> , <doi:10.1093/forestry/45.1.111> .

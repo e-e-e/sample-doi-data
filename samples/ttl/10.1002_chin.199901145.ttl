@@ -1,0 +1,96 @@
+<http://id.crossref.org/contributor/k-ahn-23ir79umuycl9>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "AHN" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "K." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "K. AHN" .
+
+<http://dx.doi.org/10.1002/chin.199901145>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1002/chin.199901145" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "no" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "no" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "30" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/k-ahn-23ir79umuycl9> , <http://id.crossref.org/contributor/m-a-massa-23ir79umuycl9> , <http://id.crossref.org/contributor/w-c-patt-23ir79umuycl9> , <http://id.crossref.org/contributor/a-m-sisneros-23ir79umuycl9> , <http://id.crossref.org/contributor/a-doherty-23ir79umuycl9> , <http://id.crossref.org/contributor/s-b-herman-23ir79umuycl9> ;
+      <http://purl.org/dc/terms/date>
+              "2010-06-18"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1002/chin.199901145" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0931-7597> ;
+      <http://purl.org/dc/terms/publisher>
+              "Wiley" ;
+      <http://purl.org/dc/terms/title>
+              "ChemInform Abstract: Synthesis of Novel Substituted Pyridines as Inhibitors of Endothelin Converting Enzyme-1 (ECE-1)." ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1002/chin.199901145" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "no" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "no" ;
+      <http://purl.org/ontology/bibo/volume>
+              "30" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1002/chin.199901145> , <doi:10.1002/chin.199901145> .
+
+<http://id.crossref.org/contributor/m-a-massa-23ir79umuycl9>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "MASSA" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "M. A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "M. A. MASSA" .
+
+<http://id.crossref.org/contributor/w-c-patt-23ir79umuycl9>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "PATT" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "W. C." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "W. C. PATT" .
+
+<http://id.crossref.org/issn/0931-7597>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1522-2667" , "0931-7597" ;
+      <http://purl.org/dc/terms/title>
+              "ChemInform" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1522-2667" , "0931-7597" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0931-7597" , "urn:issn:1522-2667" .
+
+<http://id.crossref.org/contributor/a-m-sisneros-23ir79umuycl9>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "SISNEROS" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "A. M." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "A. M. SISNEROS" .
+
+<http://id.crossref.org/contributor/a-doherty-23ir79umuycl9>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "DOHERTY" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "A. DOHERTY" .
+
+<http://id.crossref.org/contributor/s-b-herman-23ir79umuycl9>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "HERMAN" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "S. B." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "S. B. HERMAN" .

@@ -1,0 +1,39 @@
+<http://id.crossref.org/contributor/bruce-j-west-3ch2o1vwwep8v>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "West" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Bruce J." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Bruce J. West" .
+
+<http://id.crossref.org/issn/0094-243X>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0094-243X" ;
+      <http://purl.org/dc/terms/title>
+              "AIP Conference Proceedings" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0094-243X" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0094-243X" .
+
+<http://dx.doi.org/10.1063/1.33187>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1063/1.33187" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/bruce-j-west-3ch2o1vwwep8v> ;
+      <http://purl.org/dc/terms/date>
+              "1981"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1063/1.33187" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0094-243X> ;
+      <http://purl.org/dc/terms/publisher>
+              "AIP" ;
+      <http://purl.org/dc/terms/title>
+              "Overview of workshop" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1063/1.33187" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1063/1.33187> , <info:doi/10.1063/1.33187> .

@@ -1,0 +1,96 @@
+<http://id.crossref.org/issn/0008-6363>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0008-6363" ;
+      <http://purl.org/dc/terms/title>
+              "Cardiovascular Research" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0008-6363" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0008-6363" .
+
+<http://dx.doi.org/10.1016/j.cardiores.2007.06.003>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/j.cardiores.2007.06.003" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "90" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "81" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "76" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/s-ball-2z7974oi7hr4l> , <http://id.crossref.org/contributor/p-warburton-2z7974oi7hr4l> , <http://id.crossref.org/contributor/r-mughal-2z7974oi7hr4l> , <http://id.crossref.org/contributor/d-oregan-2z7974oi7hr4l> , <http://id.crossref.org/contributor/k-porter-2z7974oi7hr4l> , <http://id.crossref.org/contributor/n-turner-2z7974oi7hr4l> ;
+      <http://purl.org/dc/terms/date>
+              "2007-10-01"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/j.cardiores.2007.06.003" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0008-6363> ;
+      <http://purl.org/dc/terms/publisher>
+              "Oxford University Press (OUP)" ;
+      <http://purl.org/dc/terms/title>
+              "Mechanism of TNFα-induced IL-1α, IL-1β and IL-6 expression in human cardiac fibroblasts: Effects of statins and thiazolidinediones" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/j.cardiores.2007.06.003" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "90" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "81" ;
+      <http://purl.org/ontology/bibo/volume>
+              "76" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1016/j.cardiores.2007.06.003> , <doi:10.1016/j.cardiores.2007.06.003> .
+
+<http://id.crossref.org/contributor/s-ball-2z7974oi7hr4l>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "BALL" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "S" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "S BALL" .
+
+<http://id.crossref.org/contributor/p-warburton-2z7974oi7hr4l>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "WARBURTON" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "P" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "P WARBURTON" .
+
+<http://id.crossref.org/contributor/r-mughal-2z7974oi7hr4l>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "MUGHAL" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "R" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "R MUGHAL" .
+
+<http://id.crossref.org/contributor/d-oregan-2z7974oi7hr4l>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "OREGAN" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "D" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "D OREGAN" .
+
+<http://id.crossref.org/contributor/k-porter-2z7974oi7hr4l>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "PORTER" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "K" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "K PORTER" .
+
+<http://id.crossref.org/contributor/n-turner-2z7974oi7hr4l>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "TURNER" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "N" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "N TURNER" .

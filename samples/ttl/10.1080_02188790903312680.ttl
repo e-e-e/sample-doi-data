@@ -1,0 +1,96 @@
+<http://id.crossref.org/contributor/chengfang-liu-h8pz9qcsopzk>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Liu" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Chengfang" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Chengfang Liu" .
+
+<http://dx.doi.org/10.1080/02188790903312680>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1080/02188790903312680" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "501" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "481" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "29" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/chengfang-liu-h8pz9qcsopzk> , <http://id.crossref.org/contributor/scott-rozelle-h8pz9qcsopzk> , <http://id.crossref.org/contributor/linxiu-zhang-h8pz9qcsopzk> , <http://id.crossref.org/contributor/renfu-luo-h8pz9qcsopzk> , <http://id.crossref.org/contributor/brian-sharbono-h8pz9qcsopzk> , <http://id.crossref.org/contributor/yaojiang-shi-h8pz9qcsopzk> ;
+      <http://purl.org/dc/terms/date>
+              "2009-12"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1080/02188790903312680" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0218-8791> ;
+      <http://purl.org/dc/terms/publisher>
+              "Informa UK Limited" ;
+      <http://purl.org/dc/terms/title>
+              "Malnutrition in China's rural boarding schools: the case of primary schools in Shaanxi Province" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1080/02188790903312680" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "501" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "481" ;
+      <http://purl.org/ontology/bibo/volume>
+              "29" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1080/02188790903312680> , <doi:10.1080/02188790903312680> .
+
+<http://id.crossref.org/contributor/scott-rozelle-h8pz9qcsopzk>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Rozelle" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Scott" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Scott Rozelle" .
+
+<http://id.crossref.org/contributor/linxiu-zhang-h8pz9qcsopzk>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Zhang" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Linxiu" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Linxiu Zhang" .
+
+<http://id.crossref.org/issn/0218-8791>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1742-6855" , "0218-8791" ;
+      <http://purl.org/dc/terms/title>
+              "Asia Pacific Journal of Education" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1742-6855" , "0218-8791" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0218-8791" , "urn:issn:1742-6855" .
+
+<http://id.crossref.org/contributor/renfu-luo-h8pz9qcsopzk>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Luo" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Renfu" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Renfu Luo" .
+
+<http://id.crossref.org/contributor/yaojiang-shi-h8pz9qcsopzk>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Shi" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Yaojiang" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Yaojiang Shi" .
+
+<http://id.crossref.org/contributor/brian-sharbono-h8pz9qcsopzk>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Sharbono" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Brian" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Brian Sharbono" .

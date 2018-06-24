@@ -1,0 +1,51 @@
+<http://dx.doi.org/10.1115/imece2004-59330>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1115/imece2004-59330" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/hui-wang-18mt1lpw3y2r4> , <http://id.crossref.org/contributor/reuven-katz-18mt1lpw3y2r4> , <http://id.crossref.org/contributor/qiang-huang-18mt1lpw3y2r4> ;
+      <http://purl.org/dc/terms/date>
+              "2004"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1115/imece2004-59330" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/0791847136> ;
+      <http://purl.org/dc/terms/publisher>
+              "ASME" ;
+      <http://purl.org/dc/terms/title>
+              "Multi-Operational Machining Processes Modeling for Sequential Root Cause Identification and Measurement Reduction" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1115/imece2004-59330" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1115/imece2004-59330> , <info:doi/10.1115/imece2004-59330> .
+
+<http://id.crossref.org/contributor/hui-wang-18mt1lpw3y2r4>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Wang" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Hui" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Hui Wang" .
+
+<http://id.crossref.org/isbn/0791847136>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Manufacturing Engineering and Materials Handling Engineering" .
+
+<http://id.crossref.org/contributor/reuven-katz-18mt1lpw3y2r4>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Katz" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Reuven" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Reuven Katz" .
+
+<http://id.crossref.org/contributor/qiang-huang-18mt1lpw3y2r4>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Huang" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Qiang" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Qiang Huang" .

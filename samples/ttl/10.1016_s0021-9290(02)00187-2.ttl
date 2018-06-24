@@ -1,0 +1,96 @@
+<http://id.crossref.org/contributor/thomas-pressel-2uy5vnkkmiik6>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Pressel" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Thomas" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Thomas Pressel" .
+
+<http://id.crossref.org/contributor/peter-griss-2uy5vnkkmiik6>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Griss" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Peter" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Peter Griss" .
+
+<http://id.crossref.org/contributor/ronald-leppek-2uy5vnkkmiik6>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Leppek" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Ronald" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Ronald Leppek" .
+
+<http://id.crossref.org/issn/0021-9290>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0021-9290" ;
+      <http://purl.org/dc/terms/title>
+              "Journal of Biomechanics" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0021-9290" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0021-9290" .
+
+<http://id.crossref.org/contributor/markus-lengsfeld-2uy5vnkkmiik6>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Lengsfeld" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Markus" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Markus Lengsfeld" .
+
+<http://id.crossref.org/contributor/daniel-gunther-2uy5vnkkmiik6>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Günther" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Daniel" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Daniel Günther" .
+
+<http://id.crossref.org/contributor/jan-schmitt-2uy5vnkkmiik6>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Schmitt" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Jan" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Jan Schmitt" .
+
+<http://dx.doi.org/10.1016/s0021-9290(02)00187-2>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/s0021-9290(02)00187-2" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "1564" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "1553" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "35" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/ronald-leppek-2uy5vnkkmiik6> , <http://id.crossref.org/contributor/peter-griss-2uy5vnkkmiik6> , <http://id.crossref.org/contributor/thomas-pressel-2uy5vnkkmiik6> , <http://id.crossref.org/contributor/markus-lengsfeld-2uy5vnkkmiik6> , <http://id.crossref.org/contributor/daniel-gunther-2uy5vnkkmiik6> , <http://id.crossref.org/contributor/jan-schmitt-2uy5vnkkmiik6> ;
+      <http://purl.org/dc/terms/date>
+              "2002-12"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/s0021-9290(02)00187-2" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0021-9290> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Validation data for periprosthetic bone remodelling theories" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/s0021-9290(02)00187-2" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "1564" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "1553" ;
+      <http://purl.org/ontology/bibo/volume>
+              "35" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1016/s0021-9290(02)00187-2> , <doi:10.1016/s0021-9290(02)00187-2> .

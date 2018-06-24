@@ -1,0 +1,60 @@
+<http://dx.doi.org/10.1016/s0040-1951(99)00059-1>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/s0040-1951(99)00059-1" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "268" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "261" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "306" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/e-c-ramalho-23zfob6qc7hrp> , <http://id.crossref.org/contributor/a-correia-23zfob6qc7hrp> ;
+      <http://purl.org/dc/terms/date>
+              "1999-06"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/s0040-1951(99)00059-1" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0040-1951> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "One-dimensional thermal models constrained by seismic velocities and surface radiogenic heat production for two main geotectonic units in southern Portugal" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/s0040-1951(99)00059-1" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "268" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "261" ;
+      <http://purl.org/ontology/bibo/volume>
+              "306" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1016/s0040-1951(99)00059-1> , <info:doi/10.1016/s0040-1951(99)00059-1> .
+
+<http://id.crossref.org/issn/0040-1951>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0040-1951" ;
+      <http://purl.org/dc/terms/title>
+              "Tectonophysics" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0040-1951" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0040-1951" .
+
+<http://id.crossref.org/contributor/e-c-ramalho-23zfob6qc7hrp>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Ramalho" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "E.C." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "E.C. Ramalho" .
+
+<http://id.crossref.org/contributor/a-correia-23zfob6qc7hrp>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Correia" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "A. Correia" .

@@ -1,0 +1,69 @@
+<http://id.crossref.org/contributor/yang-leng-1szbcddwfkg5h>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Leng" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Yang" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Yang Leng" .
+
+<http://id.crossref.org/contributor/shing-chung-wong-1szbcddwfkg5h>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Wong" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Shing-Chung" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Shing-Chung Wong" .
+
+<http://id.crossref.org/contributor/yiu-wing-mai-1szbcddwfkg5h>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Mai" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Yiu-Wing" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Yiu-Wing Mai" .
+
+<http://id.crossref.org/issn/0032-3888>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1548-2634" , "0032-3888" ;
+      <http://purl.org/dc/terms/title>
+              "Polymer Engineering & Science" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1548-2634" , "0032-3888" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0032-3888" , "urn:issn:1548-2634" .
+
+<http://dx.doi.org/10.1002/pen.10176>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1002/pen.10176" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "168" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "156" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "38" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/yang-leng-1szbcddwfkg5h> , <http://id.crossref.org/contributor/shing-chung-wong-1szbcddwfkg5h> , <http://id.crossref.org/contributor/yiu-wing-mai-1szbcddwfkg5h> ;
+      <http://purl.org/dc/terms/date>
+              "1998-01"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1002/pen.10176" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0032-3888> ;
+      <http://purl.org/dc/terms/publisher>
+              "Wiley" ;
+      <http://purl.org/dc/terms/title>
+              "Fiber reinforcement and fracture resistance of PC/PBT/LCP ternaryin situ composite" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1002/pen.10176" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "168" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "156" ;
+      <http://purl.org/ontology/bibo/volume>
+              "38" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1002/pen.10176> , <info:doi/10.1002/pen.10176> .

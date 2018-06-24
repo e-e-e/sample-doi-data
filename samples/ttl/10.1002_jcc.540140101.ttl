@@ -1,0 +1,40 @@
+<http://id.crossref.org/issn/0192-8651>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1096-987X" , "0192-8651" ;
+      <http://purl.org/dc/terms/title>
+              "Journal of Computational Chemistry" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1096-987X" , "0192-8651" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1096-987X" , "urn:issn:0192-8651" .
+
+<http://dx.doi.org/10.1002/jcc.540140101>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1002/jcc.540140101" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "fmi" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "fmi" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "14" ;
+      <http://purl.org/dc/terms/date>
+              "1993-01"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1002/jcc.540140101" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0192-8651> ;
+      <http://purl.org/dc/terms/publisher>
+              "Wiley" ;
+      <http://purl.org/dc/terms/title>
+              "Masthead" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1002/jcc.540140101" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "fmi" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "fmi" ;
+      <http://purl.org/ontology/bibo/volume>
+              "14" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1002/jcc.540140101> , <doi:10.1002/jcc.540140101> .

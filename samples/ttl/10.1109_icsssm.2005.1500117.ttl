@@ -1,0 +1,42 @@
+<http://id.crossref.org/isbn/0780389719>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Proceedings of ICSSSM '05. 2005 International Conference on Services Systems and Services Management, 2005." .
+
+<http://dx.doi.org/10.1109/icsssm.2005.1500117>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1109/icsssm.2005.1500117" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/m-koivuaho-1cyrpgaohknp9> , <http://id.crossref.org/contributor/h-laihonen-1cyrpgaohknp9> ;
+      <http://purl.org/dc/terms/date>
+              "2005"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1109/icsssm.2005.1500117" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/0780389719> ;
+      <http://purl.org/dc/terms/publisher>
+              "IEEE" ;
+      <http://purl.org/dc/terms/title>
+              "Building synergies in industrial service production through life cycle thinking and complexity based knowledge management" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1109/icsssm.2005.1500117" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1109/icsssm.2005.1500117> , <info:doi/10.1109/icsssm.2005.1500117> .
+
+<http://id.crossref.org/contributor/m-koivuaho-1cyrpgaohknp9>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Koivuaho" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "M." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "M. Koivuaho" .
+
+<http://id.crossref.org/contributor/h-laihonen-1cyrpgaohknp9>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Laihonen" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "H." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "H. Laihonen" .

@@ -1,0 +1,38 @@
+<http://id.crossref.org/isbn/9781424463473>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "2010 2nd International Conference on Computer Engineering and Technology" .
+
+<http://id.crossref.org/contributor/zhou-tianrui-o05uhjvf75rb>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Zhou Tianrui" ;
+      <http://xmlns.com/foaf/0.1/name>
+              " Zhou Tianrui" .
+
+<http://id.crossref.org/contributor/hu-shifei-o05uhjvf75rb>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Hu Shifei" ;
+      <http://xmlns.com/foaf/0.1/name>
+              " Hu Shifei" .
+
+<http://dx.doi.org/10.1109/iccet.2010.5486121>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1109/iccet.2010.5486121" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/zhou-tianrui-o05uhjvf75rb> , <http://id.crossref.org/contributor/hu-shifei-o05uhjvf75rb> ;
+      <http://purl.org/dc/terms/date>
+              "2010"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1109/iccet.2010.5486121" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9781424463473> ;
+      <http://purl.org/dc/terms/publisher>
+              "IEEE" ;
+      <http://purl.org/dc/terms/title>
+              "General purpose interface engine design" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1109/iccet.2010.5486121" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1109/iccet.2010.5486121> , <doi:10.1109/iccet.2010.5486121> .

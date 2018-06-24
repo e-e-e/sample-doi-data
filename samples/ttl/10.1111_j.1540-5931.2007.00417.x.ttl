@@ -1,0 +1,51 @@
+<http://id.crossref.org/contributor/ken-muir-3dxx5ymds1uf8>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Muir" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Ken" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Ken Muir" .
+
+<http://dx.doi.org/10.1111/j.1540-5931.2007.00417.x>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1111/j.1540-5931.2007.00417.x" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "571" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "570" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "40" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/ken-muir-3dxx5ymds1uf8> ;
+      <http://purl.org/dc/terms/date>
+              "2007-06"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1111/j.1540-5931.2007.00417.x" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0022-3840> ;
+      <http://purl.org/dc/terms/publisher>
+              "Wiley" ;
+      <http://purl.org/dc/terms/title>
+              "Journalism in the Movies" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1111/j.1540-5931.2007.00417.x" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "571" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "570" ;
+      <http://purl.org/ontology/bibo/volume>
+              "40" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1111/j.1540-5931.2007.00417.x> , <doi:10.1111/j.1540-5931.2007.00417.x> .
+
+<http://id.crossref.org/issn/0022-3840>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1540-5931" , "0022-3840" ;
+      <http://purl.org/dc/terms/title>
+              "The Journal of Popular Culture" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1540-5931" , "0022-3840" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0022-3840" , "urn:issn:1540-5931" .

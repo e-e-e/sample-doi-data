@@ -1,0 +1,78 @@
+<http://dx.doi.org/10.1103/physrevlett.54.2139>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1103/physrevlett.54.2139" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "2142" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "2139" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "54" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/f-k-legoues-3ryqmsj77x71> , <http://id.crossref.org/contributor/p-e-schmid-3ryqmsj77x71> , <http://id.crossref.org/contributor/p-s-ho-3ryqmsj77x71> , <http://id.crossref.org/contributor/m-liehr-3ryqmsj77x71> ;
+      <http://purl.org/dc/terms/date>
+              "1985-05-13"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1103/physrevlett.54.2139" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0031-9007> ;
+      <http://purl.org/dc/terms/publisher>
+              "American Physical Society (APS)" ;
+      <http://purl.org/dc/terms/title>
+              "Correlation of Schottky-Barrier Height and Microstructure in the Epitaxial Ni Silicide on Si(111)" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1103/physrevlett.54.2139" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "2142" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "2139" ;
+      <http://purl.org/ontology/bibo/volume>
+              "54" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1103/physrevlett.54.2139> , <info:doi/10.1103/physrevlett.54.2139> .
+
+<http://id.crossref.org/contributor/f-k-legoues-3ryqmsj77x71>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "LeGoues" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "F. K." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "F. K. LeGoues" .
+
+<http://id.crossref.org/contributor/p-e-schmid-3ryqmsj77x71>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Schmid" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "P. E." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "P. E. Schmid" .
+
+<http://id.crossref.org/contributor/p-s-ho-3ryqmsj77x71>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Ho" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "P. S." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "P. S. Ho" .
+
+<http://id.crossref.org/contributor/m-liehr-3ryqmsj77x71>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Liehr" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "M." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "M. Liehr" .
+
+<http://id.crossref.org/issn/0031-9007>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0031-9007" ;
+      <http://purl.org/dc/terms/title>
+              "Physical Review Letters" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0031-9007" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0031-9007" .

@@ -1,0 +1,87 @@
+<http://dx.doi.org/10.1063/1.97097>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1063/1.97097" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "568" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "567" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "49" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/s-y-wang-11etxh5o93qrb> , <http://id.crossref.org/contributor/s-a-newton-11etxh5o93qrb> , <http://id.crossref.org/contributor/t-r-ranganath-11etxh5o93qrb> , <http://id.crossref.org/contributor/d-k-donald-11etxh5o93qrb> , <http://id.crossref.org/contributor/w-r-trutna-11etxh5o93qrb> ;
+      <http://purl.org/dc/terms/date>
+              "1986-09-08"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1063/1.97097" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0003-6951> ;
+      <http://purl.org/dc/terms/publisher>
+              "AIP Publishing" ;
+      <http://purl.org/dc/terms/title>
+              "Photocurrent amplification in Schottky photodiodes" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1063/1.97097" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "568" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "567" ;
+      <http://purl.org/ontology/bibo/volume>
+              "49" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1063/1.97097> , <doi:10.1063/1.97097> .
+
+<http://id.crossref.org/contributor/s-y-wang-11etxh5o93qrb>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Wang" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "S. Y." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "S. Y. Wang" .
+
+<http://id.crossref.org/contributor/s-a-newton-11etxh5o93qrb>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Newton" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "S. A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "S. A. Newton" .
+
+<http://id.crossref.org/issn/0003-6951>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1077-3118" , "0003-6951" ;
+      <http://purl.org/dc/terms/title>
+              "Applied Physics Letters" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1077-3118" , "0003-6951" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1077-3118" , "urn:issn:0003-6951" .
+
+<http://id.crossref.org/contributor/t-r-ranganath-11etxh5o93qrb>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Ranganath" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "T. R." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "T. R. Ranganath" .
+
+<http://id.crossref.org/contributor/d-k-donald-11etxh5o93qrb>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Donald" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "D. K." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "D. K. Donald" .
+
+<http://id.crossref.org/contributor/w-r-trutna-11etxh5o93qrb>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Trutna" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "W. R." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "W. R. Trutna" .

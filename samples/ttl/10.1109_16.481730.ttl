@@ -1,0 +1,70 @@
+<http://id.crossref.org/contributor/shye-lin-wu-diuzgbie928u>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Shye Lin Wu" ;
+      <http://xmlns.com/foaf/0.1/name>
+              " Shye Lin Wu" .
+
+<http://dx.doi.org/10.1109/16.481730>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1109/16.481730" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "294" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "287" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "43" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/shye-lin-wu-diuzgbie928u> , <http://id.crossref.org/contributor/chung-len-lee-diuzgbie928u> , <http://id.crossref.org/contributor/de-ming-chiao-diuzgbie928u> , <http://id.crossref.org/contributor/tan-fu-lei-diuzgbie928u> ;
+      <http://purl.org/dc/terms/date>
+              "1996"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1109/16.481730" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0018-9383> ;
+      <http://purl.org/dc/terms/publisher>
+              "Institute of Electrical and Electronics Engineers (IEEE)" ;
+      <http://purl.org/dc/terms/title>
+              "Characterization of thin textured tunnel oxide prepared by thermal oxidation of thin polysilicon film on silicon" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1109/16.481730" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "294" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "287" ;
+      <http://purl.org/ontology/bibo/volume>
+              "43" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1109/16.481730> , <doi:10.1109/16.481730> .
+
+<http://id.crossref.org/contributor/chung-len-lee-diuzgbie928u>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Chung Len Lee" ;
+      <http://xmlns.com/foaf/0.1/name>
+              " Chung Len Lee" .
+
+<http://id.crossref.org/issn/0018-9383>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0018-9383" ;
+      <http://purl.org/dc/terms/title>
+              "IEEE Transactions on Electron Devices" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0018-9383" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0018-9383" .
+
+<http://id.crossref.org/contributor/de-ming-chiao-diuzgbie928u>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "De Ming Chiao" ;
+      <http://xmlns.com/foaf/0.1/name>
+              " De Ming Chiao" .
+
+<http://id.crossref.org/contributor/tan-fu-lei-diuzgbie928u>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Tan Fu Lei" ;
+      <http://xmlns.com/foaf/0.1/name>
+              " Tan Fu Lei" .

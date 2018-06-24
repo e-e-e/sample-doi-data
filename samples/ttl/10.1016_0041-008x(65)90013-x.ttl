@@ -1,0 +1,36 @@
+<http://dx.doi.org/10.1016/0041-008x(65)90013-x>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/0041-008x(65)90013-x" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "868" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "7" ;
+      <http://purl.org/dc/terms/date>
+              "1965-11"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/0041-008x(65)90013-x" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0041-008X> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Erratum" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/0041-008x(65)90013-x" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "868" ;
+      <http://purl.org/ontology/bibo/volume>
+              "7" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1016/0041-008x(65)90013-x> , <doi:10.1016/0041-008x(65)90013-x> .
+
+<http://id.crossref.org/issn/0041-008X>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0041-008X" ;
+      <http://purl.org/dc/terms/title>
+              "Toxicology and Applied Pharmacology" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0041-008X" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0041-008X" .

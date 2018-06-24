@@ -1,0 +1,96 @@
+<http://id.crossref.org/contributor/lars-henrik-jensen-1yrfzwjj9y8qx>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Jensen" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Lars Henrik" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Lars Henrik Jensen" .
+
+<http://id.crossref.org/contributor/dorthe-gylling-cruger-1yrfzwjj9y8qx>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Crüger" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Dorthe Gylling" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Dorthe Gylling Crüger" .
+
+<http://id.crossref.org/contributor/steen-klvra-1yrfzwjj9y8qx>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kølvrå" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Steen" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Steen Kølvrå" .
+
+<http://dx.doi.org/10.1016/j.ejca.2010.03.016>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/j.ejca.2010.03.016" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "1828" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "1823" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "46" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/lars-henrik-jensen-1yrfzwjj9y8qx> , <http://id.crossref.org/contributor/dorthe-gylling-cruger-1yrfzwjj9y8qx> , <http://id.crossref.org/contributor/steen-klvra-1yrfzwjj9y8qx> , <http://id.crossref.org/contributor/jan-lindebjerg-1yrfzwjj9y8qx> , <http://id.crossref.org/contributor/lars-dysager-1yrfzwjj9y8qx> , <http://id.crossref.org/contributor/lene-byriel-1yrfzwjj9y8qx> ;
+      <http://purl.org/dc/terms/date>
+              "2010-07"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/j.ejca.2010.03.016" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0959-8049> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Molecular biology from bench-to-bedside – Which colorectal cancer patients should be referred for genetic counselling and risk assessment" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/j.ejca.2010.03.016" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "1828" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "1823" ;
+      <http://purl.org/ontology/bibo/volume>
+              "46" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1016/j.ejca.2010.03.016> , <info:doi/10.1016/j.ejca.2010.03.016> .
+
+<http://id.crossref.org/contributor/jan-lindebjerg-1yrfzwjj9y8qx>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Lindebjerg" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Jan" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Jan Lindebjerg" .
+
+<http://id.crossref.org/contributor/lars-dysager-1yrfzwjj9y8qx>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Dysager" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Lars" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Lars Dysager" .
+
+<http://id.crossref.org/issn/0959-8049>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0959-8049" ;
+      <http://purl.org/dc/terms/title>
+              "European Journal of Cancer" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0959-8049" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0959-8049" .
+
+<http://id.crossref.org/contributor/lene-byriel-1yrfzwjj9y8qx>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Byriel" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Lene" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Lene Byriel" .

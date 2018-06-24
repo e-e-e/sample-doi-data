@@ -1,0 +1,47 @@
+<http://dx.doi.org/10.1097/01.numa.0000326560.16296.69>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1097/01.numa.0000326560.16296.69" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "10,12" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "39" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/ivy-razmus-22xxypdky4fa5> ;
+      <http://purl.org/dc/terms/date>
+              "2008-07"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1097/01.numa.0000326560.16296.69" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0744-6314> ;
+      <http://purl.org/dc/terms/publisher>
+              "Ovid Technologies (Wolters Kluwer Health)" ;
+      <http://purl.org/dc/terms/title>
+              "What you need to know about EBP" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1097/01.numa.0000326560.16296.69" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "10,12" ;
+      <http://purl.org/ontology/bibo/volume>
+              "39" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1097/01.numa.0000326560.16296.69> , <info:doi/10.1097/01.numa.0000326560.16296.69> .
+
+<http://id.crossref.org/issn/0744-6314>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0744-6314" ;
+      <http://purl.org/dc/terms/title>
+              "Nursing Management (Springhouse)" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0744-6314" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0744-6314" .
+
+<http://id.crossref.org/contributor/ivy-razmus-22xxypdky4fa5>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Razmus" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Ivy" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Ivy Razmus" .

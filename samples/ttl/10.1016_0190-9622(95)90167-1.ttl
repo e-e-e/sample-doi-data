@@ -1,0 +1,51 @@
+<http://id.crossref.org/contributor/steven-r-feldman-vx5pbpbwcyf9>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Feldman" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Steven R" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Steven R Feldman" .
+
+<http://dx.doi.org/10.1016/0190-9622(95)90167-1>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/0190-9622(95)90167-1" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "303" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "302" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "32" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/steven-r-feldman-vx5pbpbwcyf9> ;
+      <http://purl.org/dc/terms/date>
+              "1995-02"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/0190-9622(95)90167-1" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0190-9622> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Topical glucocorticoids with increased benefit/risk ratio. (Current Problems in Dermatology; vol. 21)" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/0190-9622(95)90167-1" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "303" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "302" ;
+      <http://purl.org/ontology/bibo/volume>
+              "32" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1016/0190-9622(95)90167-1> , <info:doi/10.1016/0190-9622(95)90167-1> .
+
+<http://id.crossref.org/issn/0190-9622>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0190-9622" ;
+      <http://purl.org/dc/terms/title>
+              "Journal of the American Academy of Dermatology" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0190-9622" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0190-9622" .

@@ -1,0 +1,60 @@
+<http://id.crossref.org/contributor/w-a-curtin-1oymie9y7gixl>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Curtin" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "W. A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "W. A. Curtin" .
+
+<http://id.crossref.org/contributor/n-w-ashcroft-1oymie9y7gixl>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Ashcroft" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "N. W." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "N. W. Ashcroft" .
+
+<http://dx.doi.org/10.1103/physreva.32.2909>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1103/physreva.32.2909" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "2919" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "2909" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "32" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/w-a-curtin-1oymie9y7gixl> , <http://id.crossref.org/contributor/n-w-ashcroft-1oymie9y7gixl> ;
+      <http://purl.org/dc/terms/date>
+              "1985-11-01"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1103/physreva.32.2909" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0556-2791> ;
+      <http://purl.org/dc/terms/publisher>
+              "American Physical Society (APS)" ;
+      <http://purl.org/dc/terms/title>
+              "Weighted-density-functional theory of inhomogeneous liquids and the freezing transition" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1103/physreva.32.2909" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "2919" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "2909" ;
+      <http://purl.org/ontology/bibo/volume>
+              "32" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1103/physreva.32.2909> , <doi:10.1103/physreva.32.2909> .
+
+<http://id.crossref.org/issn/0556-2791>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0556-2791" ;
+      <http://purl.org/dc/terms/title>
+              "Physical Review A" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0556-2791" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0556-2791" .

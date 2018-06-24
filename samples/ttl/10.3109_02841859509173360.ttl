@@ -1,0 +1,40 @@
+<http://id.crossref.org/issn/0284-1851>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0284-1851" ;
+      <http://purl.org/dc/terms/title>
+              "Acta Radiologica" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0284-1851" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0284-1851" .
+
+<http://dx.doi.org/10.3109/02841859509173360>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.3109/02841859509173360" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "109" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "107" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "36" ;
+      <http://purl.org/dc/terms/date>
+              "1995-01-01"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.3109/02841859509173360" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0284-1851> ;
+      <http://purl.org/dc/terms/publisher>
+              "SAGE Publications" ;
+      <http://purl.org/dc/terms/title>
+              "Book Reviews" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.3109/02841859509173360" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "109" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "107" ;
+      <http://purl.org/ontology/bibo/volume>
+              "36" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.3109/02841859509173360> , <doi:10.3109/02841859509173360> .

@@ -1,0 +1,150 @@
+<http://id.crossref.org/contributor/m-parsons-14s7xpxuoivbi>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Parsons" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "M." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "M. Parsons" .
+
+<http://id.crossref.org/contributor/b-arroll-14s7xpxuoivbi>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Arroll" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "B." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "B. Arroll" .
+
+<http://id.crossref.org/contributor/l-kiata-14s7xpxuoivbi>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kiata" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "L." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "L. Kiata" .
+
+<http://id.crossref.org/contributor/m-v-randow-14s7xpxuoivbi>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Randow" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "M. v." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "M. v. Randow" .
+
+<http://id.crossref.org/contributor/n-latham-14s7xpxuoivbi>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Latham" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "N." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "N. Latham" .
+
+<http://id.crossref.org/contributor/t-wilkinson-14s7xpxuoivbi>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Wilkinson" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "T." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "T. Wilkinson" .
+
+<http://dx.doi.org/10.1136/bmj.a1445>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1136/bmj.a1445" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "a1445" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "a1445" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "337" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/m-parsons-14s7xpxuoivbi> , <http://id.crossref.org/contributor/j-willingale-14s7xpxuoivbi> , <http://id.crossref.org/contributor/k-peri-14s7xpxuoivbi> , <http://id.crossref.org/contributor/j-parsons-14s7xpxuoivbi> , <http://id.crossref.org/contributor/b-arroll-14s7xpxuoivbi> , <http://id.crossref.org/contributor/l-kiata-14s7xpxuoivbi> , <http://id.crossref.org/contributor/p-brown-14s7xpxuoivbi> , <http://id.crossref.org/contributor/n-kerse-14s7xpxuoivbi> , <http://id.crossref.org/contributor/e-robinson-14s7xpxuoivbi> , <http://id.crossref.org/contributor/m-v-randow-14s7xpxuoivbi> , <http://id.crossref.org/contributor/t-wilkinson-14s7xpxuoivbi> , <http://id.crossref.org/contributor/n-latham-14s7xpxuoivbi> ;
+      <http://purl.org/dc/terms/date>
+              "2008-10-09"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1136/bmj.a1445" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0959-8138> ;
+      <http://purl.org/dc/terms/publisher>
+              "BMJ" ;
+      <http://purl.org/dc/terms/title>
+              "Does a functional activity programme improve function, quality of life, and falls for residents in long term care? Cluster randomised controlled trial" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1136/bmj.a1445" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "a1445" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "a1445" ;
+      <http://purl.org/ontology/bibo/volume>
+              "337" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1136/bmj.a1445> , <info:doi/10.1136/bmj.a1445> .
+
+<http://id.crossref.org/issn/0959-8138>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1468-5833" , "0959-8138" ;
+      <http://purl.org/dc/terms/title>
+              "BMJ" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1468-5833" , "0959-8138" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1468-5833" , "urn:issn:0959-8138" .
+
+<http://id.crossref.org/contributor/j-willingale-14s7xpxuoivbi>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Willingale" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "J." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "J. Willingale" .
+
+<http://id.crossref.org/contributor/k-peri-14s7xpxuoivbi>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Peri" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "K." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "K. Peri" .
+
+<http://id.crossref.org/contributor/j-parsons-14s7xpxuoivbi>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Parsons" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "J." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "J. Parsons" .
+
+<http://id.crossref.org/contributor/p-brown-14s7xpxuoivbi>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Brown" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "P." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "P. Brown" .
+
+<http://id.crossref.org/contributor/n-kerse-14s7xpxuoivbi>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kerse" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "N." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "N. Kerse" .
+
+<http://id.crossref.org/contributor/e-robinson-14s7xpxuoivbi>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Robinson" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "E." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "E. Robinson" .

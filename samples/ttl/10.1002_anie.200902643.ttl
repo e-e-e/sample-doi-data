@@ -1,0 +1,69 @@
+<http://id.crossref.org/contributor/anthonyk-cheetham-2ek9ws508azbg>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Cheetham" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Anthony K." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Anthony K. Cheetham" .
+
+<http://id.crossref.org/contributor/stephena-moggach-2ek9ws508azbg>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Moggach" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Stephen A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Stephen A. Moggach" .
+
+<http://dx.doi.org/10.1002/anie.200902643>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1002/anie.200902643" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "7089" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "7087" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "48" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/stephena-moggach-2ek9ws508azbg> , <http://id.crossref.org/contributor/anthonyk-cheetham-2ek9ws508azbg> , <http://id.crossref.org/contributor/thomasd-bennett-2ek9ws508azbg> ;
+      <http://purl.org/dc/terms/date>
+              "2009-09-07"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1002/anie.200902643" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1433-7851> ;
+      <http://purl.org/dc/terms/publisher>
+              "Wiley" ;
+      <http://purl.org/dc/terms/title>
+              "The Effect of Pressure on ZIF-8: Increasing Pore Size with Pressure and the Formation of a High-Pressure Phase at 1.47 GPa" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1002/anie.200902643" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "7089" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "7087" ;
+      <http://purl.org/ontology/bibo/volume>
+              "48" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1002/anie.200902643> , <info:doi/10.1002/anie.200902643> .
+
+<http://id.crossref.org/issn/1433-7851>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1433-7851" , "1521-3773" ;
+      <http://purl.org/dc/terms/title>
+              "Angewandte Chemie International Edition" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1433-7851" , "1521-3773" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1521-3773" , "urn:issn:1433-7851" .
+
+<http://id.crossref.org/contributor/thomasd-bennett-2ek9ws508azbg>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Bennett" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Thomas D." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Thomas D. Bennett" .

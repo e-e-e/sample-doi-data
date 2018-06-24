@@ -1,0 +1,78 @@
+<http://id.crossref.org/contributor/lynn-f-cherkas-pqwoubxjrlv1>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Cherkas" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Lynn F." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Lynn F. Cherkas" .
+
+<http://id.crossref.org/issn/1369-0523>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0000-0000" , "1369-0523" ;
+      <http://purl.org/dc/terms/title>
+              "Twin Research" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0000-0000" , "1369-0523" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1369-0523" , "urn:issn:0000-0000" .
+
+<http://id.crossref.org/contributor/adrian-j-williams-pqwoubxjrlv1>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Williams" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Adrian J." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Adrian J. Williams" .
+
+<http://id.crossref.org/contributor/tim-d-spector-pqwoubxjrlv1>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Spector" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Tim D." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Tim D. Spector" .
+
+<http://dx.doi.org/10.1375/1369052042663841>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1375/1369052042663841" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "595" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "589" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "7" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/lynn-f-cherkas-pqwoubxjrlv1> , <http://id.crossref.org/contributor/adrian-j-williams-pqwoubxjrlv1> , <http://id.crossref.org/contributor/tim-d-spector-pqwoubxjrlv1> , <http://id.crossref.org/contributor/anup-v-desai-pqwoubxjrlv1> ;
+      <http://purl.org/dc/terms/date>
+              "2004-12-01"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1375/1369052042663841" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1369-0523> ;
+      <http://purl.org/dc/terms/publisher>
+              "Cambridge University Press (CUP)" ;
+      <http://purl.org/dc/terms/title>
+              "Genetic Influences in Self-Reported Symptoms of Obstructive Sleep Apnoea and Restless Legs: A Twin Study" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1375/1369052042663841" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "595" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "589" ;
+      <http://purl.org/ontology/bibo/volume>
+              "7" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1375/1369052042663841> , <doi:10.1375/1369052042663841> .
+
+<http://id.crossref.org/contributor/anup-v-desai-pqwoubxjrlv1>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Desai" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Anup V." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Anup V. Desai" .

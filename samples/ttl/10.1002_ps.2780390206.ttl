@@ -1,0 +1,69 @@
+<http://dx.doi.org/10.1002/ps.2780390206>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1002/ps.2780390206" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "140" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "131" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "39" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/adrian-s-terry-3txe6up6m25jl> , <http://id.crossref.org/contributor/kenneth-wright-3txe6up6m25jl> , <http://id.crossref.org/contributor/john-b-pillmoor-3txe6up6m25jl> ;
+      <http://purl.org/dc/terms/date>
+              "1993"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1002/ps.2780390206" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0031-613X> ;
+      <http://purl.org/dc/terms/publisher>
+              "Wiley" ;
+      <http://purl.org/dc/terms/title>
+              "Natural products as a source of agrochemicals and leads for chemical synthesis" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1002/ps.2780390206" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "140" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "131" ;
+      <http://purl.org/ontology/bibo/volume>
+              "39" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1002/ps.2780390206> , <info:doi/10.1002/ps.2780390206> .
+
+<http://id.crossref.org/contributor/adrian-s-terry-3txe6up6m25jl>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Terry" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Adrian S." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Adrian S. Terry" .
+
+<http://id.crossref.org/contributor/kenneth-wright-3txe6up6m25jl>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Wright" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Kenneth" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Kenneth Wright" .
+
+<http://id.crossref.org/issn/0031-613X>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0031-613X" ;
+      <http://purl.org/dc/terms/title>
+              "Pesticide Science" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0031-613X" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0031-613X" .
+
+<http://id.crossref.org/contributor/john-b-pillmoor-3txe6up6m25jl>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Pillmoor" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "John B." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "John B. Pillmoor" .

@@ -1,0 +1,78 @@
+<http://id.crossref.org/contributor/dingguo-xia-5srqd9vqo25l>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Xia" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Dingguo" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Dingguo Xia" .
+
+<http://id.crossref.org/contributor/suijun-wang-5srqd9vqo25l>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Wang" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Suijun" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Suijun Wang" .
+
+<http://id.crossref.org/contributor/yujuan-zhao-5srqd9vqo25l>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Zhao" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Yujuan" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Yujuan Zhao" .
+
+<http://id.crossref.org/contributor/chunsong-zhao-5srqd9vqo25l>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Zhao" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Chunsong" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Chunsong Zhao" .
+
+<http://id.crossref.org/issn/1001-0521>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1867-7185" , "1001-0521" ;
+      <http://purl.org/dc/terms/title>
+              "Rare Metals" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1867-7185" , "1001-0521" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1867-7185" , "urn:issn:1001-0521" .
+
+<http://dx.doi.org/10.1007/s12598-009-0023-5>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1007/s12598-009-0023-5" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "121" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "117" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "28" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/dingguo-xia-5srqd9vqo25l> , <http://id.crossref.org/contributor/suijun-wang-5srqd9vqo25l> , <http://id.crossref.org/contributor/yujuan-zhao-5srqd9vqo25l> , <http://id.crossref.org/contributor/chunsong-zhao-5srqd9vqo25l> ;
+      <http://purl.org/dc/terms/date>
+              "2009-03-15"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1007/s12598-009-0023-5" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1001-0521> ;
+      <http://purl.org/dc/terms/publisher>
+              "Springer Nature" ;
+      <http://purl.org/dc/terms/title>
+              "Synthesis and electrochemical performance of LiCoPO4 micron-rods by dispersant-aided hydrothermal method for lithium ion batteries" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1007/s12598-009-0023-5" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "121" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "117" ;
+      <http://purl.org/ontology/bibo/volume>
+              "28" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1007/s12598-009-0023-5> , <info:doi/10.1007/s12598-009-0023-5> .

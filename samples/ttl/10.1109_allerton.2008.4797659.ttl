@@ -1,0 +1,42 @@
+<http://id.crossref.org/contributor/ross-baldick-3eh3pktjgx48a>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Baldick" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Ross" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Ross Baldick" .
+
+<http://id.crossref.org/isbn/9781424429257>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "2008 46th Annual Allerton Conference on Communication, Control, and Computing" .
+
+<http://dx.doi.org/10.1109/allerton.2008.4797659>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1109/allerton.2008.4797659" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/ross-baldick-3eh3pktjgx48a> , <http://id.crossref.org/contributor/lin-xu-3eh3pktjgx48a> ;
+      <http://purl.org/dc/terms/date>
+              "2008-09"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1109/allerton.2008.4797659" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9781424429257> ;
+      <http://purl.org/dc/terms/publisher>
+              "IEEE" ;
+      <http://purl.org/dc/terms/title>
+              "Stability of supply function equilibrium in electricity markets under piecewise linear function perturbations" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1109/allerton.2008.4797659" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1109/allerton.2008.4797659> , <doi:10.1109/allerton.2008.4797659> .
+
+<http://id.crossref.org/contributor/lin-xu-3eh3pktjgx48a>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Xu" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Lin" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Lin Xu" .

@@ -1,0 +1,60 @@
+<http://id.crossref.org/contributor/e-g-friedman-1e0zno9nfzt2t>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Friedman" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "E.G." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "E.G. Friedman" .
+
+<http://id.crossref.org/contributor/s-g-narendra-1e0zno9nfzt2t>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Narendra" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "S.G." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "S.G. Narendra" .
+
+<http://id.crossref.org/contributor/v-kursun-1e0zno9nfzt2t>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kursun" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "V." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "V. Kursun" .
+
+<http://id.crossref.org/isbn/0769518818>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Fourth International Symposium on Quality Electronic Design, 2003. Proceedings." .
+
+<http://id.crossref.org/contributor/v-k-de-1e0zno9nfzt2t>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "De" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "V.K." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "V.K. De" .
+
+<http://dx.doi.org/10.1109/isqed.2003.1194746>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1109/isqed.2003.1194746" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/e-g-friedman-1e0zno9nfzt2t> , <http://id.crossref.org/contributor/s-g-narendra-1e0zno9nfzt2t> , <http://id.crossref.org/contributor/v-kursun-1e0zno9nfzt2t> , <http://id.crossref.org/contributor/v-k-de-1e0zno9nfzt2t> ;
+      <http://purl.org/dc/terms/date>
+              ""^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1109/isqed.2003.1194746" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/0769518818> ;
+      <http://purl.org/dc/terms/publisher>
+              "IEEE Comput. Soc" ;
+      <http://purl.org/dc/terms/title>
+              "Monolithic DC-DC converter analysis and MOSFET gate voltage optimization" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1109/isqed.2003.1194746" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1109/isqed.2003.1194746> , <doi:10.1109/isqed.2003.1194746> .

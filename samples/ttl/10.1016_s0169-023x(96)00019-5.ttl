@@ -1,0 +1,51 @@
+<http://id.crossref.org/contributor/s-v-vrbsky-2rypg6ztjag3l>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Vrbsky" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "S.V." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "S.V. Vrbsky" .
+
+<http://id.crossref.org/issn/0169-023X>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0169-023X" ;
+      <http://purl.org/dc/terms/title>
+              "Data & Knowledge Engineering" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0169-023X" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0169-023X" .
+
+<http://dx.doi.org/10.1016/s0169-023x(96)00019-5>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/s0169-023x(96)00019-5" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "102" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "79" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "21" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/s-v-vrbsky-2rypg6ztjag3l> ;
+      <http://purl.org/dc/terms/date>
+              "1996-12"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/s0169-023x(96)00019-5" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0169-023X> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "A data model for approximate query processing of real-time databases" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/s0169-023x(96)00019-5" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "102" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "79" ;
+      <http://purl.org/ontology/bibo/volume>
+              "21" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1016/s0169-023x(96)00019-5> , <info:doi/10.1016/s0169-023x(96)00019-5> .

@@ -1,0 +1,65 @@
+<http://id.crossref.org/contributor/sunil-k-sapra-16uvvzszadr5>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Sapra" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Sunil K." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Sunil K. Sapra" .
+
+<http://dx.doi.org/10.5018/economics-ejournal.ja.2007-12>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.5018/economics-ejournal.ja.2007-12" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "1" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "1" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/sunil-k-sapra-16uvvzszadr5> , <http://id.crossref.org/contributor/stephen-k-pollard-16uvvzszadr5> , <http://id.crossref.org/contributor/giorgio-canarella-16uvvzszadr5> ;
+      <http://purl.org/dc/terms/date>
+              "2007"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.5018/economics-ejournal.ja.2007-12" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1864-6042> ;
+      <http://purl.org/dc/terms/publisher>
+              "ZBW - German National Library of Economics" ;
+      <http://purl.org/dc/terms/title>
+              "Asymmetry and Spillover Effects in the North American Equity Markets" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.5018/economics-ejournal.ja.2007-12" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "1" ;
+      <http://purl.org/ontology/bibo/volume>
+              "1" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.5018/economics-ejournal.ja.2007-12> , <doi:10.5018/economics-ejournal.ja.2007-12> .
+
+<http://id.crossref.org/issn/1864-6042>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1864-6042" ;
+      <http://purl.org/dc/terms/title>
+              "Economics: The Open-Access, Open-Assessment E-Journal" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1864-6042" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1864-6042" .
+
+<http://id.crossref.org/contributor/giorgio-canarella-16uvvzszadr5>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Canarella" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Giorgio" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Giorgio Canarella" .
+
+<http://id.crossref.org/contributor/stephen-k-pollard-16uvvzszadr5>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Pollard" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Stephen K." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Stephen K. Pollard" .

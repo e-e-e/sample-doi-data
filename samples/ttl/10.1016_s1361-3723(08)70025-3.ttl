@@ -1,0 +1,51 @@
+<http://dx.doi.org/10.1016/s1361-3723(08)70025-3>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/s1361-3723(08)70025-3" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "11" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "9" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "2008" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/philip-hunter-wst6v31hjim6> ;
+      <http://purl.org/dc/terms/date>
+              "2008-02"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/s1361-3723(08)70025-3" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1361-3723> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "US primaries highlight continuing e-voting controversy" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/s1361-3723(08)70025-3" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "11" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "9" ;
+      <http://purl.org/ontology/bibo/volume>
+              "2008" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1016/s1361-3723(08)70025-3> , <doi:10.1016/s1361-3723(08)70025-3> .
+
+<http://id.crossref.org/contributor/philip-hunter-wst6v31hjim6>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Hunter" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Philip" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Philip Hunter" .
+
+<http://id.crossref.org/issn/1361-3723>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1361-3723" ;
+      <http://purl.org/dc/terms/title>
+              "Computer Fraud & Security" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1361-3723" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1361-3723" .

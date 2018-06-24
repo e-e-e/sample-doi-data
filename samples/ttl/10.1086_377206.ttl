@@ -1,0 +1,168 @@
+<http://id.crossref.org/contributor/m-f-yuen-2mscupu4t0rxa>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Yuen" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "M.-F." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "M.-F. Yuen" .
+
+<http://id.crossref.org/contributor/h-h-x-xia-2mscupu4t0rxa>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Xia" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "H. H.-X." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "H. H.-X. Xia" .
+
+<http://id.crossref.org/contributor/f-m-y-fung-2mscupu4t0rxa>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Fung" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "F. M.-Y." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "F. M.-Y. Fung" .
+
+<http://id.crossref.org/contributor/s-k-lam-2mscupu4t0rxa>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Lam" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "S. K." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "S. K. Lam" .
+
+<http://id.crossref.org/issn/1058-4838>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1058-4838" , "1537-6591" ;
+      <http://purl.org/dc/terms/title>
+              "Clinical Infectious Diseases" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1058-4838" , "1537-6591" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1537-6591" , "urn:issn:1058-4838" .
+
+<http://id.crossref.org/contributor/w-h-wang-2mscupu4t0rxa>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Wang" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "W. H." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "W. H. Wang" .
+
+<http://id.crossref.org/contributor/a-o-o-chan-2mscupu4t0rxa>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Chan" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "A. O.-O." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "A. O.-O. Chan" .
+
+<http://id.crossref.org/contributor/c-k-hui-2mscupu4t0rxa>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Hui" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "C.-K." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "C.-K. Hui" .
+
+<http://id.crossref.org/contributor/k-c-lai-2mscupu4t0rxa>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Lai" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "K. C." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "K. C. Lai" .
+
+<http://id.crossref.org/contributor/b-c-y-wong-2mscupu4t0rxa>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Wong" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "B. C.-Y." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "B. C.-Y. Wong" .
+
+<http://id.crossref.org/contributor/w-m-wong-2mscupu4t0rxa>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Wong" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "W. M." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "W. M. Wong" .
+
+<http://id.crossref.org/contributor/w-h-c-hu-2mscupu4t0rxa>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Hu" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "W. H. C." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "W. H. C. Hu" .
+
+<http://id.crossref.org/contributor/c-k-chan-2mscupu4t0rxa>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Chan" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "C. K." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "C. K. Chan" .
+
+<http://id.crossref.org/contributor/q-gu-2mscupu4t0rxa>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Gu" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Q." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Q. Gu" .
+
+<http://id.crossref.org/contributor/d-e-berg-2mscupu4t0rxa>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Berg" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "D. E." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "D. E. Berg" .
+
+<http://dx.doi.org/10.1086/377206>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1086/377206" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "889" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "882" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "37" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/m-f-yuen-2mscupu4t0rxa> , <http://id.crossref.org/contributor/h-h-x-xia-2mscupu4t0rxa> , <http://id.crossref.org/contributor/f-m-y-fung-2mscupu4t0rxa> , <http://id.crossref.org/contributor/s-k-lam-2mscupu4t0rxa> , <http://id.crossref.org/contributor/a-o-o-chan-2mscupu4t0rxa> , <http://id.crossref.org/contributor/w-h-wang-2mscupu4t0rxa> , <http://id.crossref.org/contributor/c-k-hui-2mscupu4t0rxa> , <http://id.crossref.org/contributor/k-c-lai-2mscupu4t0rxa> , <http://id.crossref.org/contributor/b-c-y-wong-2mscupu4t0rxa> , <http://id.crossref.org/contributor/w-m-wong-2mscupu4t0rxa> , <http://id.crossref.org/contributor/w-h-c-hu-2mscupu4t0rxa> , <http://id.crossref.org/contributor/c-k-chan-2mscupu4t0rxa> , <http://id.crossref.org/contributor/q-gu-2mscupu4t0rxa> , <http://id.crossref.org/contributor/d-e-berg-2mscupu4t0rxa> ;
+      <http://purl.org/dc/terms/date>
+              "2003-10-01"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1086/377206" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1058-4838> ;
+      <http://purl.org/dc/terms/publisher>
+              "Oxford University Press (OUP)" ;
+      <http://purl.org/dc/terms/title>
+              "Effects of Primary Metronidazole and Clarithromycin Resistance to Helicobacter pylori on Omeprazole, Metronidazole, and Clarithromycin Triple-Therapy Regimen in a Region with High Rates of Metronidazole Resistance" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1086/377206" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "889" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "882" ;
+      <http://purl.org/ontology/bibo/volume>
+              "37" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1086/377206> , <info:doi/10.1086/377206> .

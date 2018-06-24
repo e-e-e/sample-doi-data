@@ -1,0 +1,40 @@
+<http://dx.doi.org/10.1016/0165-1838(89)90119-7>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/0165-1838(89)90119-7" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "258" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "257" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "27" ;
+      <http://purl.org/dc/terms/date>
+              "1989-08"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/0165-1838(89)90119-7" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0165-1838> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Author index" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/0165-1838(89)90119-7" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "258" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "257" ;
+      <http://purl.org/ontology/bibo/volume>
+              "27" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1016/0165-1838(89)90119-7> , <doi:10.1016/0165-1838(89)90119-7> .
+
+<http://id.crossref.org/issn/0165-1838>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0165-1838" ;
+      <http://purl.org/dc/terms/title>
+              "Journal of the Autonomic Nervous System" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0165-1838" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0165-1838" .

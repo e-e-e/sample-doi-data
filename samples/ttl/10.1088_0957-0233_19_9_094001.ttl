@@ -1,0 +1,110 @@
+<http://id.crossref.org/contributor/a-tkachuk-3t88as6ajjhpk>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Tkachuk" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "A" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "A Tkachuk" .
+
+<http://dx.doi.org/10.1088/0957-0233/19/9/094001>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1088/0957-0233/19/9/094001" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "094001" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "19" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/a-tkachuk-3t88as6ajjhpk> , <http://id.crossref.org/contributor/h-chang-3t88as6ajjhpk> , <http://id.crossref.org/contributor/m-feser-3t88as6ajjhpk> , <http://id.crossref.org/contributor/w-yun-3t88as6ajjhpk> , <http://id.crossref.org/contributor/s-h-lau-3t88as6ajjhpk> , <http://id.crossref.org/contributor/f-duewer-3t88as6ajjhpk> , <http://id.crossref.org/contributor/j-gelb-3t88as6ajjhpk> , <http://id.crossref.org/contributor/h-cui-3t88as6ajjhpk> ;
+      <http://purl.org/dc/terms/date>
+              "2008-07-24"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1088/0957-0233/19/9/094001" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0957-0233> ;
+      <http://purl.org/dc/terms/publisher>
+              "IOP Publishing" ;
+      <http://purl.org/dc/terms/title>
+              "Sub-micron resolution CT for failure analysis and process development" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1088/0957-0233/19/9/094001" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "094001" ;
+      <http://purl.org/ontology/bibo/volume>
+              "19" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1088/0957-0233/19/9/094001> , <info:doi/10.1088/0957-0233/19/9/094001> .
+
+<http://id.crossref.org/contributor/m-feser-3t88as6ajjhpk>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Feser" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "M" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "M Feser" .
+
+<http://id.crossref.org/contributor/h-chang-3t88as6ajjhpk>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Chang" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "H" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "H Chang" .
+
+<http://id.crossref.org/contributor/w-yun-3t88as6ajjhpk>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Yun" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "W" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "W Yun" .
+
+<http://id.crossref.org/contributor/s-h-lau-3t88as6ajjhpk>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Lau" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "S H" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "S H Lau" .
+
+<http://id.crossref.org/issn/0957-0233>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0957-0233" , "1361-6501" ;
+      <http://purl.org/dc/terms/title>
+              "Measurement Science and Technology" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0957-0233" , "1361-6501" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1361-6501" , "urn:issn:0957-0233" .
+
+<http://id.crossref.org/contributor/f-duewer-3t88as6ajjhpk>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Duewer" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "F" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "F Duewer" .
+
+<http://id.crossref.org/contributor/h-cui-3t88as6ajjhpk>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Cui" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "H" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "H Cui" .
+
+<http://id.crossref.org/contributor/j-gelb-3t88as6ajjhpk>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Gelb" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "J" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "J Gelb" .

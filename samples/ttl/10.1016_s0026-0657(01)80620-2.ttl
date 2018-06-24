@@ -1,0 +1,36 @@
+<http://id.crossref.org/issn/0026-0657>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0026-0657" ;
+      <http://purl.org/dc/terms/title>
+              "Metal Powder Report" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0026-0657" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0026-0657" .
+
+<http://dx.doi.org/10.1016/s0026-0657(01)80620-2>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/s0026-0657(01)80620-2" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "40" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "56" ;
+      <http://purl.org/dc/terms/date>
+              "2001-10"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/s0026-0657(01)80620-2" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0026-0657> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Improvement in tooling for PM part production" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/s0026-0657(01)80620-2" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "40" ;
+      <http://purl.org/ontology/bibo/volume>
+              "56" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1016/s0026-0657(01)80620-2> , <doi:10.1016/s0026-0657(01)80620-2> .

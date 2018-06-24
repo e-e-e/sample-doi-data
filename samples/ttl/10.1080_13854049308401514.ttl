@@ -1,0 +1,60 @@
+<http://id.crossref.org/contributor/janet-m-leathern-f913qgr47u78>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Leathern" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Janet M." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Janet M. Leathern" .
+
+<http://id.crossref.org/contributor/george-p-prigatano-f913qgr47u78>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Prigatano" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "George P." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "George P. Prigatano" .
+
+<http://dx.doi.org/10.1080/13854049308401514>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1080/13854049308401514" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "135" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "123" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "7" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/janet-m-leathern-f913qgr47u78> , <http://id.crossref.org/contributor/george-p-prigatano-f913qgr47u78> ;
+      <http://purl.org/dc/terms/date>
+              "1993-04"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1080/13854049308401514" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0920-1637> ;
+      <http://purl.org/dc/terms/publisher>
+              "Informa UK Limited" ;
+      <http://purl.org/dc/terms/title>
+              "Awareness of behavioral limitations after traumatic brain injury: A cross-cultural study of New Zealand maoris and non-maoris" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1080/13854049308401514" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "135" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "123" ;
+      <http://purl.org/ontology/bibo/volume>
+              "7" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1080/13854049308401514> , <doi:10.1080/13854049308401514> .
+
+<http://id.crossref.org/issn/0920-1637>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0920-1637" ;
+      <http://purl.org/dc/terms/title>
+              "Clinical Neuropsychologist" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0920-1637" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0920-1637" .

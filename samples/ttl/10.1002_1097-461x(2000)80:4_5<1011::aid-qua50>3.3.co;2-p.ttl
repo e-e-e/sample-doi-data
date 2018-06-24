@@ -1,0 +1,60 @@
+<http://id.crossref.org/contributor/anil-kumar-17rbyzqco3u3i>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kumar" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Anil" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Anil Kumar" .
+
+<http://id.crossref.org/issn/0020-7608>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0020-7608" , "1097-461X" ;
+      <http://purl.org/dc/terms/title>
+              "International Journal of Quantum Chemistry" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0020-7608" , "1097-461X" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0020-7608" , "urn:issn:1097-461X" .
+
+<http://dx.doi.org/10.1002/1097-461X(2000)80:4/5<1011::AID-QUA50>3.0.CO;2-Y>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1002/1097-461x(2000)80:4/5<1011::aid-qua50>3.0.co;2-y" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "1023" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "1011" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "80" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/anil-kumar-17rbyzqco3u3i> , <http://id.crossref.org/contributor/bidhan-c-saha-17rbyzqco3u3i> ;
+      <http://purl.org/dc/terms/date>
+              "2000"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1002/1097-461x(2000)80:4/5<1011::aid-qua50>3.0.co;2-y" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0020-7608> ;
+      <http://purl.org/dc/terms/publisher>
+              "Wiley" ;
+      <http://purl.org/dc/terms/title>
+              "State-changing collisions of low-Rydberg Na atoms with ground state He atoms: A low-energy study involving spherical and nonspherical initial target states" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1002/1097-461x(2000)80:4/5<1011::aid-qua50>3.0.co;2-y" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "1023" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "1011" ;
+      <http://purl.org/ontology/bibo/volume>
+              "80" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1002/1097-461x(2000)80:4/5<1011::aid-qua50>3.0.co;2-y> , <info:doi/10.1002/1097-461x(2000)80:4/5<1011::aid-qua50>3.0.co;2-y> , <http://dx.doi.org/10.1002/1097-461x(2000)80:4/5<1011::aid-qua50>3.0.co;2-y> .
+
+<http://id.crossref.org/contributor/bidhan-c-saha-17rbyzqco3u3i>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Saha" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Bidhan C." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Bidhan C. Saha" .

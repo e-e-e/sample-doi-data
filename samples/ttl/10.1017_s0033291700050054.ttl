@@ -1,0 +1,83 @@
+<http://id.crossref.org/contributor/gary-a-chase-2exadrkb2k619>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Chase" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Gary A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Gary A. Chase" .
+
+<http://dx.doi.org/10.1017/s0033291700050054>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1017/s0033291700050054" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "45" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "13" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/gary-a-chase-2exadrkb2k619> , <http://id.crossref.org/contributor/mary-lousie-franz-2exadrkb2k619> , <http://id.crossref.org/contributor/marshal-f-folstein-2exadrkb2k619> , <http://id.crossref.org/contributor/susan-e-folstein-2exadrkb2k619> , <http://id.crossref.org/contributor/barbara-a-jensen-2exadrkb2k619> ;
+      <http://purl.org/dc/terms/date>
+              "1983-02"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1017/s0033291700050054" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0033-2917> ;
+      <http://purl.org/dc/terms/publisher>
+              "Cambridge University Press (CUP)" ;
+      <http://purl.org/dc/terms/title>
+              "Conduct disorder and affective disorder among the offspring of patients with Huntington's Disease" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1017/s0033291700050054" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "45" ;
+      <http://purl.org/ontology/bibo/volume>
+              "13" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1017/s0033291700050054> , <doi:10.1017/s0033291700050054> .
+
+<http://id.crossref.org/contributor/marshal-f-folstein-2exadrkb2k619>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Folstein" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Marshal F." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Marshal F. Folstein" .
+
+<http://id.crossref.org/contributor/mary-lousie-franz-2exadrkb2k619>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Franz" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Mary Lousie" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Mary Lousie Franz" .
+
+<http://id.crossref.org/contributor/susan-e-folstein-2exadrkb2k619>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Folstein" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Susan E." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Susan E. Folstein" .
+
+<http://id.crossref.org/contributor/barbara-a-jensen-2exadrkb2k619>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Jensen" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Barbara A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Barbara A. Jensen" .
+
+<http://id.crossref.org/issn/0033-2917>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1469-8978" , "0033-2917" ;
+      <http://purl.org/dc/terms/title>
+              "Psychological Medicine" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1469-8978" , "0033-2917" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1469-8978" , "urn:issn:0033-2917" .

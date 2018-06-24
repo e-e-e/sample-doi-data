@@ -1,0 +1,51 @@
+<http://id.crossref.org/contributor/mary-l-s-vachon-3ebaq6i1km6p7>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Vachon" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Mary L. S." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Mary L. S. Vachon" .
+
+<http://id.crossref.org/issn/1357-6275>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1469-9885" , "1357-6275" ;
+      <http://purl.org/dc/terms/title>
+              "Mortality" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1469-9885" , "1357-6275" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1357-6275" , "urn:issn:1469-9885" .
+
+<http://dx.doi.org/10.1080/13576270701782951>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1080/13576270701782951" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "300" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "299" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "13" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/mary-l-s-vachon-3ebaq6i1km6p7> ;
+      <http://purl.org/dc/terms/date>
+              "2008-08"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1080/13576270701782951" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1357-6275> ;
+      <http://purl.org/dc/terms/publisher>
+              "Informa UK Limited" ;
+      <http://purl.org/dc/terms/title>
+              "When professionals weep" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1080/13576270701782951" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "300" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "299" ;
+      <http://purl.org/ontology/bibo/volume>
+              "13" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1080/13576270701782951> , <doi:10.1080/13576270701782951> .

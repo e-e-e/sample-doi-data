@@ -1,0 +1,32 @@
+<http://id.crossref.org/issn/1951-6827>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1951-6827" , "0035-2829" ;
+      <http://purl.org/dc/terms/title>
+              "Revue Forestière Française" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1951-6827" , "0035-2829" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0035-2829" , "urn:issn:1951-6827" .
+
+<http://dx.doi.org/10.4267/2042/27106>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.4267/2042/27106" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "493" ;
+      <http://purl.org/dc/terms/date>
+              "1955"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.4267/2042/27106" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1951-6827> ;
+      <http://purl.org/dc/terms/publisher>
+              "INIST-CNRS" ;
+      <http://purl.org/dc/terms/title>
+              "Revue des Revues" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.4267/2042/27106" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "493" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.4267/2042/27106> , <info:doi/10.4267/2042/27106> .

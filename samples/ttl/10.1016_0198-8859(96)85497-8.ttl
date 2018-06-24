@@ -1,0 +1,65 @@
+<http://id.crossref.org/contributor/jersild-casper-3rntg9d5chg5u>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Casper" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Jersild" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Jersild Casper" .
+
+<http://id.crossref.org/issn/0198-8859>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0198-8859" ;
+      <http://purl.org/dc/terms/title>
+              "Human Immunology" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0198-8859" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0198-8859" .
+
+<http://id.crossref.org/contributor/steffensen-rudi-3rntg9d5chg5u>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Rudi" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Steffensen" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Steffensen Rudi" .
+
+<http://id.crossref.org/contributor/b-christiansen-ole-3rntg9d5chg5u>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Christiansen Ole" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "B" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "B Christiansen Ole" .
+
+<http://dx.doi.org/10.1016/0198-8859(96)85497-8>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/0198-8859(96)85497-8" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "147" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "47" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/jersild-casper-3rntg9d5chg5u> , <http://id.crossref.org/contributor/b-christiansen-ole-3rntg9d5chg5u> , <http://id.crossref.org/contributor/steffensen-rudi-3rntg9d5chg5u> ;
+      <http://purl.org/dc/terms/date>
+              "1996-04"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/0198-8859(96)85497-8" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0198-8859> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "HLA-E oligonucleotide typing of women with multiple spontaneous abortions" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/0198-8859(96)85497-8" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "147" ;
+      <http://purl.org/ontology/bibo/volume>
+              "47" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1016/0198-8859(96)85497-8> , <info:doi/10.1016/0198-8859(96)85497-8> .

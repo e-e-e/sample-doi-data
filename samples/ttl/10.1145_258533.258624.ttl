@@ -1,0 +1,33 @@
+<http://id.crossref.org/isbn/0897918886>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Proceedings of the twenty-ninth annual ACM symposium on Theory of computing  - STOC '97" .
+
+<http://dx.doi.org/10.1145/258533.258624>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1145/258533.258624" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/laszlo-babai-1p4ldl3y7l2ps> ;
+      <http://purl.org/dc/terms/date>
+              "1997"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1145/258533.258624" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/0897918886> ;
+      <http://purl.org/dc/terms/publisher>
+              "ACM Press" ;
+      <http://purl.org/dc/terms/title>
+              "Paul Erdös (1913?1996)" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1145/258533.258624" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1145/258533.258624> , <info:doi/10.1145/258533.258624> .
+
+<http://id.crossref.org/contributor/laszlo-babai-1p4ldl3y7l2ps>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Babai" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "László" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "László Babai" .

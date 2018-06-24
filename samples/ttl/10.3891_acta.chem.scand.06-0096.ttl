@@ -1,0 +1,96 @@
+<http://id.crossref.org/contributor/nils-andreas-sorensen-bgtlk5lbmejf>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Sörensen" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Nils Andreas" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Nils Andreas Sörensen" .
+
+<http://id.crossref.org/contributor/jorgine-stene-sorensen-bgtlk5lbmejf>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Sörensen" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Jörgine Stene" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Jörgine Stene Sörensen" .
+
+<http://id.crossref.org/contributor/k-motzfeldt-bgtlk5lbmejf>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Motzfeldt" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "K." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "K. Motzfeldt" .
+
+<http://id.crossref.org/contributor/per-ekwall-bgtlk5lbmejf>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Ekwall" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Per" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Per Ekwall" .
+
+<http://id.crossref.org/contributor/lars-sjoblom-bgtlk5lbmejf>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Sjöblom" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Lars" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Lars Sjöblom" .
+
+<http://dx.doi.org/10.3891/acta.chem.scand.06-0096>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.3891/acta.chem.scand.06-0096" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "100" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "96" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "6" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/nils-andreas-sorensen-bgtlk5lbmejf> , <http://id.crossref.org/contributor/jorgine-stene-sorensen-bgtlk5lbmejf> , <http://id.crossref.org/contributor/k-motzfeldt-bgtlk5lbmejf> , <http://id.crossref.org/contributor/per-ekwall-bgtlk5lbmejf> , <http://id.crossref.org/contributor/lars-sjoblom-bgtlk5lbmejf> , <http://id.crossref.org/contributor/ernst-finsnes-bgtlk5lbmejf> ;
+      <http://purl.org/dc/terms/date>
+              "1952"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.3891/acta.chem.scand.06-0096" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0904-213X> ;
+      <http://purl.org/dc/terms/publisher>
+              "Danish Chemical Society" ;
+      <http://purl.org/dc/terms/title>
+              "Butyric Acid and Lactic Acid in Aqueous Solutions as Solubilizers for Carcinogenic Hydrocarbons." ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.3891/acta.chem.scand.06-0096" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "100" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "96" ;
+      <http://purl.org/ontology/bibo/volume>
+              "6" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.3891/acta.chem.scand.06-0096> , <doi:10.3891/acta.chem.scand.06-0096> .
+
+<http://id.crossref.org/issn/0904-213X>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0904-213X" ;
+      <http://purl.org/dc/terms/title>
+              "Acta Chemica Scandinavica" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0904-213X" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0904-213X" .
+
+<http://id.crossref.org/contributor/ernst-finsnes-bgtlk5lbmejf>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Finsnes" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Ernst" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Ernst Finsnes" .

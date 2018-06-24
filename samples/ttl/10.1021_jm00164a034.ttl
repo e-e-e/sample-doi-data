@@ -1,0 +1,94 @@
+<http://id.crossref.org/contributor/graham-m-f-bisset-339yamgcw8d69>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Bisset" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Graham M. F." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Graham M. F. Bisset" .
+
+<http://id.crossref.org/contributor/michael-jarman-339yamgcw8d69>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Jarman" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Michael" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Michael Jarman" .
+
+<http://id.crossref.org/contributor/pari-antoniw-339yamgcw8d69>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Antoniw" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Pari" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Pari Antoniw" .
+
+<http://id.crossref.org/contributor/bagshawe-339yamgcw8d69>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Bagshawe" ;
+      <http://xmlns.com/foaf/0.1/name>
+              " Bagshawe" .
+
+<http://id.crossref.org/contributor/caroline-j-springer-339yamgcw8d69>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Springer" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Caroline J." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Caroline J. Springer" .
+
+<http://id.crossref.org/issn/0022-2623>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1520-4804" , "0022-2623" ;
+      <http://purl.org/dc/terms/title>
+              "Journal of Medicinal Chemistry" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1520-4804" , "0022-2623" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1520-4804" , "urn:issn:0022-2623" .
+
+<http://id.crossref.org/contributor/frances-searle-339yamgcw8d69>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Searle" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Frances" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Frances Searle" .
+
+<http://dx.doi.org/10.1021/jm00164a034>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1021/jm00164a034" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "681" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "677" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "33" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/graham-m-f-bisset-339yamgcw8d69> , <http://id.crossref.org/contributor/michael-jarman-339yamgcw8d69> , <http://id.crossref.org/contributor/pari-antoniw-339yamgcw8d69> , <http://id.crossref.org/contributor/bagshawe-339yamgcw8d69> , <http://id.crossref.org/contributor/caroline-j-springer-339yamgcw8d69> , <http://id.crossref.org/contributor/frances-searle-339yamgcw8d69> ;
+      <http://purl.org/dc/terms/date>
+              "1990-02"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1021/jm00164a034" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0022-2623> ;
+      <http://purl.org/dc/terms/publisher>
+              "American Chemical Society (ACS)" ;
+      <http://purl.org/dc/terms/title>
+              "Novel prodrugs which are activated to cytotoxic alkylating agents by carboxypeptidase G2" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1021/jm00164a034" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "681" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "677" ;
+      <http://purl.org/ontology/bibo/volume>
+              "33" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1021/jm00164a034> , <doi:10.1021/jm00164a034> .

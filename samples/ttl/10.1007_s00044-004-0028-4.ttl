@@ -1,0 +1,60 @@
+<http://id.crossref.org/contributor/r-pellicciari-ar7an5l7y3g>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Pellicciari" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "R." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "R. Pellicciari" .
+
+<http://dx.doi.org/10.1007/s00044-004-0028-4>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1007/s00044-004-0028-4" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "217" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "216" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "13" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/r-pellicciari-ar7an5l7y3g> , <http://id.crossref.org/contributor/g-gaviraghi-ar7an5l7y3g> ;
+      <http://purl.org/dc/terms/date>
+              "2004-04"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1007/s00044-004-0028-4" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1054-2523> ;
+      <http://purl.org/dc/terms/publisher>
+              "Springer Nature" ;
+      <http://purl.org/dc/terms/title>
+              "Drug Discovery: Back and Forward" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1007/s00044-004-0028-4" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "217" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "216" ;
+      <http://purl.org/ontology/bibo/volume>
+              "13" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1007/s00044-004-0028-4> , <info:doi/10.1007/s00044-004-0028-4> .
+
+<http://id.crossref.org/contributor/g-gaviraghi-ar7an5l7y3g>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Gaviraghi" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "G." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "G. Gaviraghi" .
+
+<http://id.crossref.org/issn/1054-2523>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1054-2523" , "1554-8120" ;
+      <http://purl.org/dc/terms/title>
+              "Medicinal Chemistry Research" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1054-2523" , "1554-8120" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1054-2523" , "urn:issn:1554-8120" .

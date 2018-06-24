@@ -1,0 +1,69 @@
+<http://dx.doi.org/10.1021/jm00306a029>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1021/jm00306a029" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "1096" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "1093" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "12" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/e-i-takesue-7109hkglqa3v> , <http://id.crossref.org/contributor/goetz-e-hardtmann-7109hkglqa3v> , <http://id.crossref.org/contributor/william-j-houlihan-7109hkglqa3v> ;
+      <http://purl.org/dc/terms/date>
+              "1969-11"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1021/jm00306a029" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0022-2623> ;
+      <http://purl.org/dc/terms/publisher>
+              "American Chemical Society (ACS)" ;
+      <http://purl.org/dc/terms/title>
+              "Antiinflammatory aryl pyridyl ketones" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1021/jm00306a029" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "1096" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "1093" ;
+      <http://purl.org/ontology/bibo/volume>
+              "12" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1021/jm00306a029> , <doi:10.1021/jm00306a029> .
+
+<http://id.crossref.org/contributor/e-i-takesue-7109hkglqa3v>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Takesue" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "E. I." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "E. I. Takesue" .
+
+<http://id.crossref.org/issn/0022-2623>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1520-4804" , "0022-2623" ;
+      <http://purl.org/dc/terms/title>
+              "Journal of Medicinal Chemistry" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1520-4804" , "0022-2623" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1520-4804" , "urn:issn:0022-2623" .
+
+<http://id.crossref.org/contributor/goetz-e-hardtmann-7109hkglqa3v>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Hardtmann" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Goetz E." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Goetz E. Hardtmann" .
+
+<http://id.crossref.org/contributor/william-j-houlihan-7109hkglqa3v>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Houlihan" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "William J." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "William J. Houlihan" .

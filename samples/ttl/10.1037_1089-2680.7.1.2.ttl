@@ -1,0 +1,49 @@
+<http://dx.doi.org/10.1037/1089-2680.7.1.2>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1037/1089-2680.7.1.2" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "2" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "2" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "7" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/no-authorship-indicated-3g07i5dqjmats> ;
+      <http://purl.org/dc/terms/date>
+              "2003"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1037/1089-2680.7.1.2" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1089-2680> ;
+      <http://purl.org/dc/terms/publisher>
+              "Test accounts" ;
+      <http://purl.org/dc/terms/title>
+              "Review of General Psychology: Instructions to authors." ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1037/1089-2680.7.1.2" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "2" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "2" ;
+      <http://purl.org/ontology/bibo/volume>
+              "7" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1037/1089-2680.7.1.2> , <doi:10.1037/1089-2680.7.1.2> .
+
+<http://id.crossref.org/contributor/no-authorship-indicated-3g07i5dqjmats>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "No authorship indicated" ;
+      <http://xmlns.com/foaf/0.1/name>
+              " No authorship indicated" .
+
+<http://id.crossref.org/issn/1089-2680>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1089-2680" ;
+      <http://purl.org/dc/terms/title>
+              "Review of General Psychology" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1089-2680" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1089-2680" .

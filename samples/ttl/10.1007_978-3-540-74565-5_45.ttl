@@ -1,0 +1,52 @@
+<http://dx.doi.org/10.1007/978-3-540-74565-5_45>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1007/978-3-540-74565-5_45" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "484" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "481" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/marc-erich-latoschik-bnzkl1qqcrgr> ;
+      <http://purl.org/dc/terms/date>
+              ""^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1007/978-3-540-74565-5_45" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0302-9743> , <http://id.crossref.org/isbn/9783540745648> ;
+      <http://purl.org/dc/terms/publisher>
+              "Springer Berlin Heidelberg" ;
+      <http://purl.org/dc/terms/title>
+              "Semantic Reflection – Knowledge Based Design of Intelligent Simulation Environments" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1007/978-3-540-74565-5_45" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "484" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "481" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1007/978-3-540-74565-5_45> , <doi:10.1007/978-3-540-74565-5_45> .
+
+<http://id.crossref.org/issn/0302-9743>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0302-9743" , "1611-3349" ;
+      <http://purl.org/dc/terms/title>
+              "Lecture Notes in Computer Science" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0302-9743" , "1611-3349" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1611-3349" , "urn:issn:0302-9743" .
+
+<http://id.crossref.org/isbn/9783540745648>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Lecture Notes in Computer Science" .
+
+<http://id.crossref.org/contributor/marc-erich-latoschik-bnzkl1qqcrgr>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Latoschik" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Marc Erich" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Marc Erich Latoschik" .

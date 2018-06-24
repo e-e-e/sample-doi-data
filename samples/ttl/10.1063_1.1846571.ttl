@@ -1,0 +1,128 @@
+<http://id.crossref.org/contributor/m-h-zheng-149mc4qza7r68>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Zheng" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "M. H." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "M. H. Zheng" .
+
+<http://id.crossref.org/contributor/y-l-jiao-149mc4qza7r68>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Jiao" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Y. L." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Y. L. Jiao" .
+
+<http://id.crossref.org/contributor/x-l-wang-149mc4qza7r68>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Wang" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "X. L." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "X. L. Wang" .
+
+<http://id.crossref.org/contributor/x-b-xu-149mc4qza7r68>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Xu" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "X. B." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "X. B. Xu" .
+
+<http://id.crossref.org/contributor/j-g-zhu-149mc4qza7r68>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Zhu" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "J. G." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "J. G. Zhu" .
+
+<http://id.crossref.org/contributor/l-xiao-149mc4qza7r68>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Xiao" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "L." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "L. Xiao" .
+
+<http://id.crossref.org/contributor/l-zhang-149mc4qza7r68>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Zhang" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "L." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "L. Zhang" .
+
+<http://id.crossref.org/contributor/h-t-ren-149mc4qza7r68>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Ren" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "H. T." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "H. T. Ren" .
+
+<http://id.crossref.org/contributor/s-y-ding-149mc4qza7r68>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Ding" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "S. Y." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "S. Y. Ding" .
+
+<http://dx.doi.org/10.1063/1.1846571>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1063/1.1846571" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "10B101" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "97" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/m-h-zheng-149mc4qza7r68> , <http://id.crossref.org/contributor/y-l-jiao-149mc4qza7r68> , <http://id.crossref.org/contributor/x-l-wang-149mc4qza7r68> , <http://id.crossref.org/contributor/x-b-xu-149mc4qza7r68> , <http://id.crossref.org/contributor/h-t-ren-149mc4qza7r68> , <http://id.crossref.org/contributor/s-y-ding-149mc4qza7r68> , <http://id.crossref.org/contributor/l-zhang-149mc4qza7r68> , <http://id.crossref.org/contributor/j-g-zhu-149mc4qza7r68> , <http://id.crossref.org/contributor/l-xiao-149mc4qza7r68> , <http://id.crossref.org/contributor/z-w-lin-149mc4qza7r68> ;
+      <http://purl.org/dc/terms/date>
+              "2005-05-15"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1063/1.1846571" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0021-8979> ;
+      <http://purl.org/dc/terms/publisher>
+              "AIP Publishing" ;
+      <http://purl.org/dc/terms/title>
+              "Effect of doping on flux pinning of GdBa2Cu3O7−y" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1063/1.1846571" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "10B101" ;
+      <http://purl.org/ontology/bibo/volume>
+              "97" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1063/1.1846571> , <info:doi/10.1063/1.1846571> .
+
+<http://id.crossref.org/issn/0021-8979>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1089-7550" , "0021-8979" ;
+      <http://purl.org/dc/terms/title>
+              "Journal of Applied Physics" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1089-7550" , "0021-8979" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1089-7550" , "urn:issn:0021-8979" .
+
+<http://id.crossref.org/contributor/z-w-lin-149mc4qza7r68>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Lin" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Z. W." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Z. W. Lin" .

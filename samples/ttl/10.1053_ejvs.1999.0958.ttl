@@ -1,0 +1,40 @@
+<http://id.crossref.org/issn/1078-5884>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1078-5884" ;
+      <http://purl.org/dc/terms/title>
+              "European Journal of Vascular and Endovascular Surgery" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1078-5884" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1078-5884" .
+
+<http://dx.doi.org/10.1053/ejvs.1999.0958>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1053/ejvs.1999.0958" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "276" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "275" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "18" ;
+      <http://purl.org/dc/terms/date>
+              "1999-09"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1053/ejvs.1999.0958" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1078-5884> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Forthcoming Events" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1053/ejvs.1999.0958" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "276" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "275" ;
+      <http://purl.org/ontology/bibo/volume>
+              "18" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1053/ejvs.1999.0958> , <info:doi/10.1053/ejvs.1999.0958> .

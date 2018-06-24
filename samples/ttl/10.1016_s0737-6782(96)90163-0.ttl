@@ -1,0 +1,51 @@
+<http://dx.doi.org/10.1016/s0737-6782(96)90163-0>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/s0737-6782(96)90163-0" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "186" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "184" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "13" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/g-funkhouser-167g5o8xip0x0> ;
+      <http://purl.org/dc/terms/date>
+              "1996-03"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/s0737-6782(96)90163-0" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0737-6782> ;
+      <http://purl.org/dc/terms/publisher>
+              "Wiley" ;
+      <http://purl.org/dc/terms/title>
+              "International consumer behavior: Its impact on marketing strategy development by A. Coskun Samli. Westport, CT: Quorum Books, 186 + xviii pages. $dollar;59.95. and Consumer Behavior: Implications for Marketing Strategy (6th edition), by Del I. Hawkins, Roger J. Best, and Kenneth A. Coney. Chicago: Richard D. Irwin, Inc. 649 + xix pages. $dollar;66.95" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/s0737-6782(96)90163-0" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "186" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "184" ;
+      <http://purl.org/ontology/bibo/volume>
+              "13" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1016/s0737-6782(96)90163-0> , <doi:10.1016/s0737-6782(96)90163-0> .
+
+<http://id.crossref.org/issn/0737-6782>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0737-6782" ;
+      <http://purl.org/dc/terms/title>
+              "Journal of Product Innovation Management" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0737-6782" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0737-6782" .
+
+<http://id.crossref.org/contributor/g-funkhouser-167g5o8xip0x0>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "FUNKHOUSER" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "G" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "G FUNKHOUSER" .

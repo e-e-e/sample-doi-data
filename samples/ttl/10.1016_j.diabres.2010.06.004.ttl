@@ -1,0 +1,96 @@
+<http://id.crossref.org/issn/0168-8227>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0168-8227" ;
+      <http://purl.org/dc/terms/title>
+              "Diabetes Research and Clinical Practice" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0168-8227" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0168-8227" .
+
+<http://dx.doi.org/10.1016/j.diabres.2010.06.004>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/j.diabres.2010.06.004" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "e52" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "e49" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "89" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/kwan-woo-lee-2zfy3d5i37hux> , <http://id.crossref.org/contributor/seung-jin-han-2zfy3d5i37hux> , <http://id.crossref.org/contributor/yup-kang-2zfy3d5i37hux> , <http://id.crossref.org/contributor/sung-e-choi-2zfy3d5i37hux> , <http://id.crossref.org/contributor/dae-jung-kim-2zfy3d5i37hux> , <http://id.crossref.org/contributor/hae-jin-kim-2zfy3d5i37hux> ;
+      <http://purl.org/dc/terms/date>
+              "2010-09"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/j.diabres.2010.06.004" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0168-8227> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Incretin secretion and serum DPP-IV activity in Korean patients with type 2 diabetes" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/j.diabres.2010.06.004" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "e52" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "e49" ;
+      <http://purl.org/ontology/bibo/volume>
+              "89" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1016/j.diabres.2010.06.004> , <info:doi/10.1016/j.diabres.2010.06.004> .
+
+<http://id.crossref.org/contributor/kwan-woo-lee-2zfy3d5i37hux>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Lee" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Kwan Woo" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Kwan Woo Lee" .
+
+<http://id.crossref.org/contributor/seung-jin-han-2zfy3d5i37hux>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Han" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Seung Jin" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Seung Jin Han" .
+
+<http://id.crossref.org/contributor/yup-kang-2zfy3d5i37hux>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kang" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Yup" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Yup Kang" .
+
+<http://id.crossref.org/contributor/sung-e-choi-2zfy3d5i37hux>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Choi" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Sung-E" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Sung-E Choi" .
+
+<http://id.crossref.org/contributor/dae-jung-kim-2zfy3d5i37hux>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kim" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Dae Jung" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Dae Jung Kim" .
+
+<http://id.crossref.org/contributor/hae-jin-kim-2zfy3d5i37hux>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kim" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Hae Jin" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Hae Jin Kim" .

@@ -1,0 +1,74 @@
+<http://id.crossref.org/issn/0742-4787>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0742-4787" ;
+      <http://purl.org/dc/terms/title>
+              "Journal of Tribology" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0742-4787" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0742-4787" .
+
+<http://id.crossref.org/contributor/nihar-raje-3f1moh0svihfc>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Raje" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Nihar" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Nihar Raje" .
+
+<http://id.crossref.org/contributor/richard-g-rateick-3f1moh0svihfc>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Rateick" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Richard G." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Richard G. Rateick" .
+
+<http://id.crossref.org/contributor/farshid-sadeghi-3f1moh0svihfc>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Sadeghi" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Farshid" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Farshid Sadeghi" .
+
+<http://dx.doi.org/10.1115/1.2806163>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1115/1.2806163" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "011011" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "130" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/nihar-raje-3f1moh0svihfc> , <http://id.crossref.org/contributor/farshid-sadeghi-3f1moh0svihfc> , <http://id.crossref.org/contributor/richard-g-rateick-3f1moh0svihfc> , <http://id.crossref.org/contributor/michael-r-hoeprich-3f1moh0svihfc> ;
+      <http://purl.org/dc/terms/date>
+              "2008"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1115/1.2806163" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0742-4787> ;
+      <http://purl.org/dc/terms/publisher>
+              "ASME International" ;
+      <http://purl.org/dc/terms/title>
+              "A Numerical Model for Life Scatter in Rolling Element Bearings" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1115/1.2806163" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "011011" ;
+      <http://purl.org/ontology/bibo/volume>
+              "130" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1115/1.2806163> , <doi:10.1115/1.2806163> .
+
+<http://id.crossref.org/contributor/michael-r-hoeprich-3f1moh0svihfc>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Hoeprich" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Michael R." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Michael R. Hoeprich" .

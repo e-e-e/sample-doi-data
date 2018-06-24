@@ -1,0 +1,60 @@
+<http://id.crossref.org/issn/1438-7697>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1438-9312" , "1438-7697" ;
+      <http://purl.org/dc/terms/title>
+              "European Journal of Lipid Science and Technology" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1438-9312" , "1438-7697" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1438-7697" , "urn:issn:1438-9312" .
+
+<http://dx.doi.org/10.1002/ejlt.200700291>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1002/ejlt.200700291" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "205" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "191" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "110" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/bettina-meissburger-1yr5146v9tenp> , <http://id.crossref.org/contributor/christian-wolfrum-1yr5146v9tenp> ;
+      <http://purl.org/dc/terms/date>
+              "2008-03"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1002/ejlt.200700291" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1438-7697> ;
+      <http://purl.org/dc/terms/publisher>
+              "Wiley" ;
+      <http://purl.org/dc/terms/title>
+              "The role of retinoids and their receptors in metabolic disorders" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1002/ejlt.200700291" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "205" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "191" ;
+      <http://purl.org/ontology/bibo/volume>
+              "110" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1002/ejlt.200700291> , <doi:10.1002/ejlt.200700291> .
+
+<http://id.crossref.org/contributor/bettina-meissburger-1yr5146v9tenp>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Meissburger" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Bettina" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Bettina Meissburger" .
+
+<http://id.crossref.org/contributor/christian-wolfrum-1yr5146v9tenp>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Wolfrum" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Christian" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Christian Wolfrum" .

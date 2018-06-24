@@ -1,0 +1,51 @@
+<http://dx.doi.org/10.1063/1.528691>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1063/1.528691" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "1928" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "1919" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "31" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/susumu-okubo-32j8z8vdrhgzj> ;
+      <http://purl.org/dc/terms/date>
+              "1990-08"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1063/1.528691" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0022-2488> ;
+      <http://purl.org/dc/terms/publisher>
+              "AIP Publishing" ;
+      <http://purl.org/dc/terms/title>
+              "Integrability condition and finite‐periodic Toda lattice" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1063/1.528691" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "1928" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "1919" ;
+      <http://purl.org/ontology/bibo/volume>
+              "31" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1063/1.528691> , <info:doi/10.1063/1.528691> .
+
+<http://id.crossref.org/contributor/susumu-okubo-32j8z8vdrhgzj>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Okubo" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Susumu" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Susumu Okubo" .
+
+<http://id.crossref.org/issn/0022-2488>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1089-7658" , "0022-2488" ;
+      <http://purl.org/dc/terms/title>
+              "Journal of Mathematical Physics" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1089-7658" , "0022-2488" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0022-2488" , "urn:issn:1089-7658" .

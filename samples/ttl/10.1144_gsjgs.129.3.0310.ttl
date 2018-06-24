@@ -1,0 +1,40 @@
+<http://id.crossref.org/issn/0016-7649>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "2041-479X" , "0016-7649" ;
+      <http://purl.org/dc/terms/title>
+              "Journal of the Geological Society" ;
+      <http://purl.org/ontology/bibo/issn>
+              "2041-479X" , "0016-7649" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:2041-479X" , "urn:issn:0016-7649" .
+
+<http://dx.doi.org/10.1144/gsjgs.129.3.0310>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1144/gsjgs.129.3.0310" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "310" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "310" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "129" ;
+      <http://purl.org/dc/terms/date>
+              "1973-05"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1144/gsjgs.129.3.0310" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0016-7649> ;
+      <http://purl.org/dc/terms/publisher>
+              "Geological Society of London" ;
+      <http://purl.org/dc/terms/title>
+              "Discussion" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1144/gsjgs.129.3.0310" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "310" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "310" ;
+      <http://purl.org/ontology/bibo/volume>
+              "129" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1144/gsjgs.129.3.0310> , <doi:10.1144/gsjgs.129.3.0310> .

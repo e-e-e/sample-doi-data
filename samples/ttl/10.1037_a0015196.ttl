@@ -1,0 +1,78 @@
+<http://dx.doi.org/10.1037/a0015196>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1037/a0015196" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "295" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "287" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "24" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/laura-m-miller-3o30i0v65fw80> , <http://id.crossref.org/contributor/kira-s-birditt-3o30i0v65fw80> , <http://id.crossref.org/contributor/eva-s-lefkowitz-3o30i0v65fw80> , <http://id.crossref.org/contributor/karen-l-fingerman-3o30i0v65fw80> ;
+      <http://purl.org/dc/terms/date>
+              "2009"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1037/a0015196" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1939-1498> ;
+      <http://purl.org/dc/terms/publisher>
+              "American Psychological Association (APA)" ;
+      <http://purl.org/dc/terms/title>
+              "Tensions in the parent and adult child relationship: Links to solidarity and ambivalence." ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1037/a0015196" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "295" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "287" ;
+      <http://purl.org/ontology/bibo/volume>
+              "24" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1037/a0015196> , <info:doi/10.1037/a0015196> .
+
+<http://id.crossref.org/contributor/laura-m-miller-3o30i0v65fw80>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Miller" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Laura M." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Laura M. Miller" .
+
+<http://id.crossref.org/contributor/kira-s-birditt-3o30i0v65fw80>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Birditt" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Kira S." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Kira S. Birditt" .
+
+<http://id.crossref.org/contributor/eva-s-lefkowitz-3o30i0v65fw80>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Lefkowitz" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Eva S." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Eva S. Lefkowitz" .
+
+<http://id.crossref.org/contributor/karen-l-fingerman-3o30i0v65fw80>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Fingerman" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Karen L." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Karen L. Fingerman" .
+
+<http://id.crossref.org/issn/1939-1498>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1939-1498" , "0882-7974" ;
+      <http://purl.org/dc/terms/title>
+              "Psychology and Aging" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1939-1498" , "0882-7974" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0882-7974" , "urn:issn:1939-1498" .

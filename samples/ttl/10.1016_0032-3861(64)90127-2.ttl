@@ -1,0 +1,51 @@
+<http://dx.doi.org/10.1016/0032-3861(64)90127-2>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/0032-3861(64)90127-2" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "141" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "135" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "5" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/m-b-huglin-zhe9iuy2xrhd> ;
+      <http://purl.org/dc/terms/date>
+              "1964-01"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/0032-3861(64)90127-2" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0032-3861> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Graft copolymerization initiated by poly-p-lithiostyrene" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/0032-3861(64)90127-2" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "141" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "135" ;
+      <http://purl.org/ontology/bibo/volume>
+              "5" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1016/0032-3861(64)90127-2> , <info:doi/10.1016/0032-3861(64)90127-2> .
+
+<http://id.crossref.org/contributor/m-b-huglin-zhe9iuy2xrhd>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Huglin" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "M.B." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "M.B. Huglin" .
+
+<http://id.crossref.org/issn/0032-3861>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0032-3861" ;
+      <http://purl.org/dc/terms/title>
+              "Polymer" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0032-3861" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0032-3861" .

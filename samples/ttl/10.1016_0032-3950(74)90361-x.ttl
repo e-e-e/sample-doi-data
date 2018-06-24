@@ -1,0 +1,69 @@
+<http://id.crossref.org/contributor/n-m-zharova-33smfljnsnmtk>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Zharova" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "N.M." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "N.M. Zharova" .
+
+<http://id.crossref.org/contributor/i-i-migunova-33smfljnsnmtk>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Migunova" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "I.I." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "I.I. Migunova" .
+
+<http://id.crossref.org/issn/0032-3950>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0032-3950" ;
+      <http://purl.org/dc/terms/title>
+              "Polymer Science U.S.S.R." ;
+      <http://purl.org/ontology/bibo/issn>
+              "0032-3950" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0032-3950" .
+
+<http://id.crossref.org/contributor/v-s-ivanov-33smfljnsnmtk>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Ivanov" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "V.S." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "V.S. Ivanov" .
+
+<http://dx.doi.org/10.1016/0032-3950(74)90361-x>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/0032-3950(74)90361-x" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "1346" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "1345" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "16" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/n-m-zharova-33smfljnsnmtk> , <http://id.crossref.org/contributor/i-i-migunova-33smfljnsnmtk> , <http://id.crossref.org/contributor/v-s-ivanov-33smfljnsnmtk> ;
+      <http://purl.org/dc/terms/date>
+              "1974-01"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/0032-3950(74)90361-x" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0032-3950> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Spontaneous polymerization during melting solid monomers as shown by DTA" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/0032-3950(74)90361-x" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "1346" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "1345" ;
+      <http://purl.org/ontology/bibo/volume>
+              "16" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1016/0032-3950(74)90361-x> , <info:doi/10.1016/0032-3950(74)90361-x> .

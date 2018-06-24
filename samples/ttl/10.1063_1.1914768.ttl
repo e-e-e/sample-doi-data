@@ -1,0 +1,47 @@
+<http://id.crossref.org/issn/0021-9606>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0021-9606" , "1089-7690" ;
+      <http://purl.org/dc/terms/title>
+              "The Journal of Chemical Physics" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0021-9606" , "1089-7690" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0021-9606" , "urn:issn:1089-7690" .
+
+<http://id.crossref.org/contributor/frank-c-spano-381da62hjv4eb>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Spano" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Frank C." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Frank C. Spano" .
+
+<http://dx.doi.org/10.1063/1.1914768>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1063/1.1914768" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "234701" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "122" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/frank-c-spano-381da62hjv4eb> ;
+      <http://purl.org/dc/terms/date>
+              "2005-06-15"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1063/1.1914768" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0021-9606> ;
+      <http://purl.org/dc/terms/publisher>
+              "AIP Publishing" ;
+      <http://purl.org/dc/terms/title>
+              "Modeling disorder in polymer aggregates: The optical spectroscopy of regioregular poly(3-hexylthiophene) thin films" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1063/1.1914768" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "234701" ;
+      <http://purl.org/ontology/bibo/volume>
+              "122" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1063/1.1914768> , <doi:10.1063/1.1914768> .

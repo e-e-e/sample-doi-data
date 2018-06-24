@@ -1,0 +1,51 @@
+<http://dx.doi.org/10.1007/bf02455866>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1007/bf02455866" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "1241" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "1237" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "10" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/a-ascoli-36irhulnfjit3> ;
+      <http://purl.org/dc/terms/date>
+              "1988-10"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1007/bf02455866" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0392-6737> ;
+      <http://purl.org/dc/terms/publisher>
+              "Springer Nature" ;
+      <http://purl.org/dc/terms/title>
+              "Creep and trapping of atoms sublimated from faulted cluster facets" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1007/bf02455866" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "1241" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "1237" ;
+      <http://purl.org/ontology/bibo/volume>
+              "10" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1007/bf02455866> , <info:doi/10.1007/bf02455866> .
+
+<http://id.crossref.org/issn/0392-6737>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0392-6737" ;
+      <http://purl.org/dc/terms/title>
+              "Il Nuovo Cimento D" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0392-6737" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0392-6737" .
+
+<http://id.crossref.org/contributor/a-ascoli-36irhulnfjit3>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Ascoli" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "A. Ascoli" .

@@ -1,0 +1,69 @@
+<http://dx.doi.org/10.1080/11250007609430143>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1080/11250007609430143" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "258" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "251" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "43" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/franco-verni-37atme3mlh984> , <http://id.crossref.org/contributor/giovanna-rosati-37atme3mlh984> , <http://id.crossref.org/contributor/renzo-nobili-37atme3mlh984> ;
+      <http://purl.org/dc/terms/date>
+              "1976-01"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1080/11250007609430143" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0373-4137> ;
+      <http://purl.org/dc/terms/publisher>
+              "Informa UK Limited" ;
+      <http://purl.org/dc/terms/title>
+              "The Killer Trait inEuplotes Crassus(Ciliata, Hypotrichida)" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1080/11250007609430143" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "258" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "251" ;
+      <http://purl.org/ontology/bibo/volume>
+              "43" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1080/11250007609430143> , <info:doi/10.1080/11250007609430143> .
+
+<http://id.crossref.org/issn/0373-4137>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0373-4137" ;
+      <http://purl.org/dc/terms/title>
+              "Bolletino di zoologia" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0373-4137" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0373-4137" .
+
+<http://id.crossref.org/contributor/giovanna-rosati-37atme3mlh984>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Rosati" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Giovanna" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Giovanna Rosati" .
+
+<http://id.crossref.org/contributor/franco-verni-37atme3mlh984>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Verni" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Franco" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Franco Verni" .
+
+<http://id.crossref.org/contributor/renzo-nobili-37atme3mlh984>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Nobili" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Renzo" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Renzo Nobili" .

@@ -1,0 +1,60 @@
+<http://id.crossref.org/contributor/ian-m-lange-13vq26x6jcoxd>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Lange" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Ian M." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Ian M. Lange" .
+
+<http://id.crossref.org/contributor/eric-s-cheney-13vq26x6jcoxd>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Cheney" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Eric S." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Eric S. Cheney" .
+
+<http://dx.doi.org/10.2113/gsecongeo.66.1.63>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.2113/gsecongeo.66.1.63" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "74" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "63" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "66" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/ian-m-lange-13vq26x6jcoxd> , <http://id.crossref.org/contributor/eric-s-cheney-13vq26x6jcoxd> ;
+      <http://purl.org/dc/terms/date>
+              "1971-02-01"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.2113/gsecongeo.66.1.63" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1554-0774> ;
+      <http://purl.org/dc/terms/publisher>
+              "Society of Economic Geologists" ;
+      <http://purl.org/dc/terms/title>
+              "Sulfur isotopic reconnaissance of Butte, Montana" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.2113/gsecongeo.66.1.63" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "74" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "63" ;
+      <http://purl.org/ontology/bibo/volume>
+              "66" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.2113/gsecongeo.66.1.63> , <doi:10.2113/gsecongeo.66.1.63> .
+
+<http://id.crossref.org/issn/1554-0774>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1554-0774" , "0361-0128" ;
+      <http://purl.org/dc/terms/title>
+              "Economic Geology" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1554-0774" , "0361-0128" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0361-0128" , "urn:issn:1554-0774" .

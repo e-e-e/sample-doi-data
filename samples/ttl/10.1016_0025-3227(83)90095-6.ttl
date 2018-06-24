@@ -1,0 +1,51 @@
+<http://dx.doi.org/10.1016/0025-3227(83)90095-6>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/0025-3227(83)90095-6" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "175" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "163" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "51" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/john-f-marshall-3aifp5s8p0lbl> ;
+      <http://purl.org/dc/terms/date>
+              "1983-02"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/0025-3227(83)90095-6" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0025-3227> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Geochemistry of iron-rich sediments on the outer continental shelf off northern New South Wales" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/0025-3227(83)90095-6" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "175" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "163" ;
+      <http://purl.org/ontology/bibo/volume>
+              "51" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1016/0025-3227(83)90095-6> , <info:doi/10.1016/0025-3227(83)90095-6> .
+
+<http://id.crossref.org/contributor/john-f-marshall-3aifp5s8p0lbl>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Marshall" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "John F." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "John F. Marshall" .
+
+<http://id.crossref.org/issn/0025-3227>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0025-3227" ;
+      <http://purl.org/dc/terms/title>
+              "Marine Geology" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0025-3227" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0025-3227" .

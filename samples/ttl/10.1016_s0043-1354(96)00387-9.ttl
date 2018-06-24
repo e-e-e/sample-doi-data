@@ -1,0 +1,78 @@
+<http://dx.doi.org/10.1016/s0043-1354(96)00387-9>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/s0043-1354(96)00387-9" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "1346" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "1333" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "31" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/a-h-havelaar-bvhpzinny6i2> , <http://id.crossref.org/contributor/p-f-m-teunis-bvhpzinny6i2> , <http://id.crossref.org/contributor/g-j-medema-bvhpzinny6i2> , <http://id.crossref.org/contributor/l-kruidenier-bvhpzinny6i2> ;
+      <http://purl.org/dc/terms/date>
+              "1997-06"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/s0043-1354(96)00387-9" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0043-1354> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Assessment of the risk of infection by Cryptosporidium or Giardia in drinking water from a surface water source" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/s0043-1354(96)00387-9" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "1346" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "1333" ;
+      <http://purl.org/ontology/bibo/volume>
+              "31" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1016/s0043-1354(96)00387-9> , <info:doi/10.1016/s0043-1354(96)00387-9> .
+
+<http://id.crossref.org/contributor/a-h-havelaar-bvhpzinny6i2>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Havelaar" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "A.H." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "A.H. Havelaar" .
+
+<http://id.crossref.org/issn/0043-1354>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0043-1354" ;
+      <http://purl.org/dc/terms/title>
+              "Water Research" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0043-1354" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0043-1354" .
+
+<http://id.crossref.org/contributor/p-f-m-teunis-bvhpzinny6i2>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Teunis" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "P.F.M." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "P.F.M. Teunis" .
+
+<http://id.crossref.org/contributor/g-j-medema-bvhpzinny6i2>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Medema" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "G.J." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "G.J. Medema" .
+
+<http://id.crossref.org/contributor/l-kruidenier-bvhpzinny6i2>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kruidenier" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "L." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "L. Kruidenier" .

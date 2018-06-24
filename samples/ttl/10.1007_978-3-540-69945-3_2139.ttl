@@ -1,0 +1,61 @@
+<http://id.crossref.org/isbn/9783540699446>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Nuclei with Z = 1 - 54" .
+
+<http://dx.doi.org/10.1007/978-3-540-69945-3_2139>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1007/978-3-540-69945-3_2139" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "4799" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "4798" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/z-n-soroko-2t8cx6svffw8s> , <http://id.crossref.org/contributor/s-i-sukhoruchkin-2t8cx6svffw8s> ;
+      <http://purl.org/dc/terms/date>
+              "2009"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1007/978-3-540-69945-3_2139" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9783540699446> , <http://id.crossref.org/issn/1616-9522> ;
+      <http://purl.org/dc/terms/publisher>
+              "Springer Berlin Heidelberg" ;
+      <http://purl.org/dc/terms/title>
+              "Atomic Mass and Nuclear Binding Energy for Zr-142 (Zirconium)" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1007/978-3-540-69945-3_2139" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "4799" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "4798" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1007/978-3-540-69945-3_2139> , <info:doi/10.1007/978-3-540-69945-3_2139> .
+
+<http://id.crossref.org/contributor/z-n-soroko-2t8cx6svffw8s>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Soroko" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Z.N." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Z.N. Soroko" .
+
+<http://id.crossref.org/contributor/s-i-sukhoruchkin-2t8cx6svffw8s>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Sukhoruchkin" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "S.I." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "S.I. Sukhoruchkin" .
+
+<http://id.crossref.org/issn/1616-9522>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1616-9522" ;
+      <http://purl.org/dc/terms/title>
+              "Nuclei with Z = 1 - 54" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1616-9522" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1616-9522" .

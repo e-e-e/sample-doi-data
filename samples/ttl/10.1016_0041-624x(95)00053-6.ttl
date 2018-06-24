@@ -1,0 +1,78 @@
+<http://id.crossref.org/contributor/dmitry-a-tikhonov-xgxysr19r3fd>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Tikhonov" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Dmitry A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Dmitry A. Tikhonov" .
+
+<http://id.crossref.org/contributor/oleg-e-kiselyov-xgxysr19r3fd>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kiselyov" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Oleg E." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Oleg E. Kiselyov" .
+
+<http://id.crossref.org/contributor/gari-n-sarkisov-xgxysr19r3fd>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Sarkisov" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Gari N." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Gari N. Sarkisov" .
+
+<http://id.crossref.org/issn/0041-624X>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0041-624X" ;
+      <http://purl.org/dc/terms/title>
+              "Ultrasonics" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0041-624X" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0041-624X" .
+
+<http://dx.doi.org/10.1016/0041-624x(95)00053-6>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/0041-624x(95)00053-6" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "310" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "301" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "33" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/dmitry-a-tikhonov-xgxysr19r3fd> , <http://id.crossref.org/contributor/oleg-e-kiselyov-xgxysr19r3fd> , <http://id.crossref.org/contributor/gari-n-sarkisov-xgxysr19r3fd> , <http://id.crossref.org/contributor/armen-p-sarvazyan-xgxysr19r3fd> ;
+      <http://purl.org/dc/terms/date>
+              "1995-07"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/0041-624x(95)00053-6" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0041-624X> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Ultrasonic approach to obtaining partial thermodynamic characteristics of solutions" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/0041-624x(95)00053-6" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "310" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "301" ;
+      <http://purl.org/ontology/bibo/volume>
+              "33" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1016/0041-624x(95)00053-6> , <info:doi/10.1016/0041-624x(95)00053-6> .
+
+<http://id.crossref.org/contributor/armen-p-sarvazyan-xgxysr19r3fd>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Sarvazyan" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Armen P." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Armen P. Sarvazyan" .

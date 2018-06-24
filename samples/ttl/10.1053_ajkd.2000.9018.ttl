@@ -1,0 +1,78 @@
+<http://id.crossref.org/contributor/neeraja-kambham-3exftbtln6kna>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kambham" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Neeraja" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Neeraja Kambham" .
+
+<http://dx.doi.org/10.1053/ajkd.2000.9018>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1053/ajkd.2000.9018" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "446" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "441" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "36" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/neeraja-kambham-3exftbtln6kna> , <http://id.crossref.org/contributor/glen-s-markowitz-3exftbtln6kna> , <http://id.crossref.org/contributor/vivette-d-dagati-3exftbtln6kna> , <http://id.crossref.org/contributor/lindsey-m-slater-3exftbtln6kna> ;
+      <http://purl.org/dc/terms/date>
+              "2000-08"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1053/ajkd.2000.9018" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0272-6386> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "An 18-year-old female with acute onset of nephrotic syndrome" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1053/ajkd.2000.9018" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "446" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "441" ;
+      <http://purl.org/ontology/bibo/volume>
+              "36" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1053/ajkd.2000.9018> , <info:doi/10.1053/ajkd.2000.9018> .
+
+<http://id.crossref.org/contributor/glen-s-markowitz-3exftbtln6kna>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Markowitz" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Glen S." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Glen S. Markowitz" .
+
+<http://id.crossref.org/contributor/vivette-d-dagati-3exftbtln6kna>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "D’Agati" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Vivette D." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Vivette D. D’Agati" .
+
+<http://id.crossref.org/contributor/lindsey-m-slater-3exftbtln6kna>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Slater" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Lindsey M." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Lindsey M. Slater" .
+
+<http://id.crossref.org/issn/0272-6386>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0272-6386" ;
+      <http://purl.org/dc/terms/title>
+              "American Journal of Kidney Diseases" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0272-6386" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0272-6386" .

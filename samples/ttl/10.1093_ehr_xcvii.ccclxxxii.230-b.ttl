@@ -1,0 +1,51 @@
+<http://id.crossref.org/issn/0013-8266>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0013-8266" , "1477-4534" ;
+      <http://purl.org/dc/terms/title>
+              "The English Historical Review" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0013-8266" , "1477-4534" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1477-4534" , "urn:issn:0013-8266" .
+
+<http://dx.doi.org/10.1093/ehr/xcvii.ccclxxxii.230-b>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1093/ehr/xcvii.ccclxxxii.230-b" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "b" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "230" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "XCVII" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/j-r-c-wright-1qll1184v90x2> ;
+      <http://purl.org/dc/terms/date>
+              "1982"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1093/ehr/xcvii.ccclxxxii.230-b" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0013-8266> ;
+      <http://purl.org/dc/terms/publisher>
+              "Oxford University Press (OUP)" ;
+      <http://purl.org/dc/terms/title>
+              "Short Notices" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1093/ehr/xcvii.ccclxxxii.230-b" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "b" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "230" ;
+      <http://purl.org/ontology/bibo/volume>
+              "XCVII" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1093/ehr/xcvii.ccclxxxii.230-b> , <info:doi/10.1093/ehr/xcvii.ccclxxxii.230-b> .
+
+<http://id.crossref.org/contributor/j-r-c-wright-1qll1184v90x2>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "WRIGHT" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "J. R. C." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "J. R. C. WRIGHT" .

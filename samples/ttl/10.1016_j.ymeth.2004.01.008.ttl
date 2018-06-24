@@ -1,0 +1,51 @@
+<http://id.crossref.org/issn/1046-2023>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1046-2023" ;
+      <http://purl.org/dc/terms/title>
+              "Methods" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1046-2023" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1046-2023" .
+
+<http://dx.doi.org/10.1016/j.ymeth.2004.01.008>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/j.ymeth.2004.01.008" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "280" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "273" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "33" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/f-boockfor-2o9xpsm241idx> ;
+      <http://purl.org/dc/terms/date>
+              "2004-08"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/j.ymeth.2004.01.008" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1046-2023> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Reverse hemolytic plaque assays: versatility in the study of secretion" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/j.ymeth.2004.01.008" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "280" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "273" ;
+      <http://purl.org/ontology/bibo/volume>
+              "33" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1016/j.ymeth.2004.01.008> , <doi:10.1016/j.ymeth.2004.01.008> .
+
+<http://id.crossref.org/contributor/f-boockfor-2o9xpsm241idx>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "BOOCKFOR" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "F" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "F BOOCKFOR" .

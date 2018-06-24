@@ -1,0 +1,22 @@
+<http://dx.doi.org/10.2210/pdb2a0n/pdb>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.2210/pdb2a0n/pdb" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/-3lvm3i6hwp9u4> ;
+      <http://purl.org/dc/terms/date>
+              "2005-07-19"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.2210/pdb2a0n/pdb" ;
+      <http://purl.org/dc/terms/publisher>
+              "Protein Data Bank, Rutgers University" ;
+      <http://purl.org/dc/terms/title>
+              "Crystal structure of Imidazole glycerol phosphate synthase subunit hisF (EC 4.1.3.-) (tm1036) from Thermotoga maritima at 1.64 A resolution" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.2210/pdb2a0n/pdb" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.2210/pdb2a0n/pdb> , <doi:10.2210/pdb2a0n/pdb> .
+
+<http://id.crossref.org/contributor/-3lvm3i6hwp9u4>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/name>
+              " " .

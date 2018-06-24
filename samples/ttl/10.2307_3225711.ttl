@@ -1,0 +1,56 @@
+<http://dx.doi.org/10.2307/3225711>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.2307/3225711" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "221" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "99" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/timothy-l-obrien-8r6kimybpnsm> , <http://id.crossref.org/contributor/charles-r-wyttenbach-8r6kimybpnsm> ;
+      <http://purl.org/dc/terms/date>
+              "1980-04"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.2307/3225711" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0003-0023> ;
+      <http://purl.org/dc/terms/publisher>
+              "JSTOR" ;
+      <http://purl.org/dc/terms/title>
+              "Some Effects of Temperature on the Symbiotic Association between Zoochlorellae (Chlorophyceae) and the Sea Anemone Anthopleura xanthogrammica" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.2307/3225711" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "221" ;
+      <http://purl.org/ontology/bibo/volume>
+              "99" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.2307/3225711> , <doi:10.2307/3225711> .
+
+<http://id.crossref.org/issn/0003-0023>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0003-0023" ;
+      <http://purl.org/dc/terms/title>
+              "Transactions of the American Microscopical Society" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0003-0023" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0003-0023" .
+
+<http://id.crossref.org/contributor/timothy-l-obrien-8r6kimybpnsm>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "O'Brien" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Timothy L." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Timothy L. O'Brien" .
+
+<http://id.crossref.org/contributor/charles-r-wyttenbach-8r6kimybpnsm>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Wyttenbach" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Charles R." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Charles R. Wyttenbach" .

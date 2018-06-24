@@ -1,0 +1,56 @@
+<http://id.crossref.org/contributor/a-kanerva-vkh1rg1zhdpf>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kanerva" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "A. Kanerva" .
+
+<http://id.crossref.org/issn/0377-8282>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0377-8282" ;
+      <http://purl.org/dc/terms/title>
+              "Drugs of the Future" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0377-8282" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0377-8282" .
+
+<http://id.crossref.org/contributor/a-hemminki-vkh1rg1zhdpf>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Hemminki" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "A. Hemminki" .
+
+<http://dx.doi.org/10.1358/dof.2004.029.04.850952>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1358/dof.2004.029.04.850952" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "359" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "29" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/a-kanerva-vkh1rg1zhdpf> , <http://id.crossref.org/contributor/a-hemminki-vkh1rg1zhdpf> ;
+      <http://purl.org/dc/terms/date>
+              "2004"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1358/dof.2004.029.04.850952" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0377-8282> ;
+      <http://purl.org/dc/terms/publisher>
+              "Prous Science" ;
+      <http://purl.org/dc/terms/title>
+              "Replication-competent viruses for cancer therapy" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1358/dof.2004.029.04.850952" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "359" ;
+      <http://purl.org/ontology/bibo/volume>
+              "29" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1358/dof.2004.029.04.850952> , <doi:10.1358/dof.2004.029.04.850952> .

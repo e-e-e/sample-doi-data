@@ -1,0 +1,36 @@
+<http://id.crossref.org/issn/0034-3617>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0034-3617" ;
+      <http://purl.org/dc/terms/title>
+              "Reinforced Plastics" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0034-3617" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0034-3617" .
+
+<http://dx.doi.org/10.1016/s0034-3617(04)00297-8>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/s0034-3617(04)00297-8" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "16" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "48" ;
+      <http://purl.org/dc/terms/date>
+              "2004-05"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/s0034-3617(04)00297-8" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0034-3617> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Further resin price rises worldwide" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/s0034-3617(04)00297-8" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "16" ;
+      <http://purl.org/ontology/bibo/volume>
+              "48" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1016/s0034-3617(04)00297-8> , <doi:10.1016/s0034-3617(04)00297-8> .

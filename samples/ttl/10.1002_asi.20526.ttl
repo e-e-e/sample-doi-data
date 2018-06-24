@@ -1,0 +1,60 @@
+<http://id.crossref.org/contributor/y-c-fang-22bcxjlp87br>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Fang" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Y.C." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Y.C. Fang" .
+
+<http://dx.doi.org/10.1002/asi.20526>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1002/asi.20526" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "525" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "518" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "58" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/y-c-fang-22bcxjlp87br> , <http://id.crossref.org/contributor/frank-schwartz-22bcxjlp87br> ;
+      <http://purl.org/dc/terms/date>
+              "2007"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1002/asi.20526" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1532-2882> ;
+      <http://purl.org/dc/terms/publisher>
+              "Wiley" ;
+      <http://purl.org/dc/terms/title>
+              "Citation data analysis on hydrogeology" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1002/asi.20526" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "525" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "518" ;
+      <http://purl.org/ontology/bibo/volume>
+              "58" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1002/asi.20526> , <info:doi/10.1002/asi.20526> .
+
+<http://id.crossref.org/issn/1532-2882>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1532-2882" , "1532-2890" ;
+      <http://purl.org/dc/terms/title>
+              "Journal of the American Society for Information Science and Technology" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1532-2882" , "1532-2890" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1532-2882" , "urn:issn:1532-2890" .
+
+<http://id.crossref.org/contributor/frank-schwartz-22bcxjlp87br>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Schwartz" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Frank" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Frank Schwartz" .

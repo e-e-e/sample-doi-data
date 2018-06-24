@@ -1,0 +1,96 @@
+<http://id.crossref.org/contributor/c-corrales-2cyecqv2k1ek6>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Corrales" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "C" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "C Corrales" .
+
+<http://id.crossref.org/contributor/n-garca-honduvilla-2cyecqv2k1ek6>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Garcı́a-Honduvilla" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "N" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "N Garcı́a-Honduvilla" .
+
+<http://id.crossref.org/contributor/j-m-bellon-2cyecqv2k1ek6>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Bellón" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "J.M" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "J.M Bellón" .
+
+<http://id.crossref.org/issn/1078-5884>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1078-5884" ;
+      <http://purl.org/dc/terms/title>
+              "European Journal of Vascular and Endovascular Surgery" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1078-5884" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1078-5884" .
+
+<http://dx.doi.org/10.1016/j.ejvs.2004.01.029>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/j.ejvs.2004.01.029" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "431" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "423" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "27" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/n-garca-honduvilla-2cyecqv2k1ek6> , <http://id.crossref.org/contributor/c-corrales-2cyecqv2k1ek6> , <http://id.crossref.org/contributor/j-m-bellon-2cyecqv2k1ek6> , <http://id.crossref.org/contributor/s-martnez-2cyecqv2k1ek6> , <http://id.crossref.org/contributor/j-bujan-2cyecqv2k1ek6> , <http://id.crossref.org/contributor/g-pascual-2cyecqv2k1ek6> ;
+      <http://purl.org/dc/terms/date>
+              "2004-04"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/j.ejvs.2004.01.029" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1078-5884> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Long-term Behaviour of Cryopreserved Arterial Grafts Versus Prosthetic Micrografts" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/j.ejvs.2004.01.029" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "431" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "423" ;
+      <http://purl.org/ontology/bibo/volume>
+              "27" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1016/j.ejvs.2004.01.029> , <doi:10.1016/j.ejvs.2004.01.029> .
+
+<http://id.crossref.org/contributor/s-martnez-2cyecqv2k1ek6>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Martı́nez" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "S" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "S Martı́nez" .
+
+<http://id.crossref.org/contributor/j-bujan-2cyecqv2k1ek6>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Buján" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "J" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "J Buján" .
+
+<http://id.crossref.org/contributor/g-pascual-2cyecqv2k1ek6>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Pascual" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "G" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "G Pascual" .

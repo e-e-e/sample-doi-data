@@ -1,0 +1,105 @@
+<http://id.crossref.org/contributor/seong-eun-cho-2h0h4t6m67b2q>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Cho" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Seong Eun" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Seong Eun Cho" .
+
+<http://id.crossref.org/contributor/man-wook-hur-2h0h4t6m67b2q>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Hur" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Man-Wook" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Man-Wook Hur" .
+
+<http://id.crossref.org/contributor/jeon-han-park-2h0h4t6m67b2q>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Park" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Jeon Han" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Jeon Han Park" .
+
+<http://id.crossref.org/contributor/jongsun-kim-2h0h4t6m67b2q>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kim" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Jongsun" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Jongsun Kim" .
+
+<http://id.crossref.org/contributor/dong-kee-lee-2h0h4t6m67b2q>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Lee" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Dong-Kee" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Dong-Kee Lee" .
+
+<http://dx.doi.org/10.1007/s10059-000-0065-x>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1007/s10059-000-0065-x" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "70" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "65" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "10" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/seong-eun-cho-2h0h4t6m67b2q> , <http://id.crossref.org/contributor/jeon-han-park-2h0h4t6m67b2q> , <http://id.crossref.org/contributor/jongsun-kim-2h0h4t6m67b2q> , <http://id.crossref.org/contributor/man-wook-hur-2h0h4t6m67b2q> , <http://id.crossref.org/contributor/dong-kee-lee-2h0h4t6m67b2q> , <http://id.crossref.org/contributor/eui-cheol-shin-2h0h4t6m67b2q> , <http://id.crossref.org/contributor/seung-r-paik-2h0h4t6m67b2q> ;
+      <http://purl.org/dc/terms/date>
+              "2000-02"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1007/s10059-000-0065-x" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1016-8478> ;
+      <http://purl.org/dc/terms/publisher>
+              "Springer Nature" ;
+      <http://purl.org/dc/terms/title>
+              "Expression Patterns of α-Synuclein in Human Hematopoietic Cells and in Drosophila at Different Developmental Stages" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1007/s10059-000-0065-x" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "70" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "65" ;
+      <http://purl.org/ontology/bibo/volume>
+              "10" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1007/s10059-000-0065-x> , <info:doi/10.1007/s10059-000-0065-x> .
+
+<http://id.crossref.org/contributor/eui-cheol-shin-2h0h4t6m67b2q>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Shin" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Eui Cheol" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Eui Cheol Shin" .
+
+<http://id.crossref.org/contributor/seung-r-paik-2h0h4t6m67b2q>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Paik" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Seung R." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Seung R. Paik" .
+
+<http://id.crossref.org/issn/1016-8478>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1016-8478" ;
+      <http://purl.org/dc/terms/title>
+              "Molecules and Cells" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1016-8478" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1016-8478" .

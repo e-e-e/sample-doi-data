@@ -1,0 +1,51 @@
+<http://dx.doi.org/10.1037/0012026>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1037/0012026" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "229" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "228" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "18" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/phillip-shaver-j6psafsl2ip3> ;
+      <http://purl.org/dc/terms/date>
+              "1973-05"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1037/0012026" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0010-7549> ;
+      <http://purl.org/dc/terms/publisher>
+              "Portico" ;
+      <http://purl.org/dc/terms/title>
+              "Two More Attempts to Introduce Social Psychology" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1037/0012026" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "229" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "228" ;
+      <http://purl.org/ontology/bibo/volume>
+              "18" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1037/0012026> , <info:doi/10.1037/0012026> .
+
+<http://id.crossref.org/issn/0010-7549>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0010-7549" ;
+      <http://purl.org/dc/terms/title>
+              "Contemporary Psychology: A Journal of Reviews" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0010-7549" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0010-7549" .
+
+<http://id.crossref.org/contributor/phillip-shaver-j6psafsl2ip3>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Shaver" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Phillip" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Phillip Shaver" .

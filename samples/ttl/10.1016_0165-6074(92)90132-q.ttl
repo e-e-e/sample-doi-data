@@ -1,0 +1,69 @@
+<http://id.crossref.org/contributor/luis-gomez-2w1fivrsyrxk0>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Gómez" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Luis" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Luis Gómez" .
+
+<http://id.crossref.org/issn/0165-6074>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0165-6074" ;
+      <http://purl.org/dc/terms/title>
+              "Microprocessing and Microprogramming" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0165-6074" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0165-6074" .
+
+<http://dx.doi.org/10.1016/0165-6074(92)90132-q>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/0165-6074(92)90132-q" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "196" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "193" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "34" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/luis-gomez-2w1fivrsyrxk0> , <http://id.crossref.org/contributor/antonio-hernandez-2w1fivrsyrxk0> , <http://id.crossref.org/contributor/antonio-nunez-2w1fivrsyrxk0> ;
+      <http://purl.org/dc/terms/date>
+              "1992-02"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/0165-6074(92)90132-q" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0165-6074> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Timimg model for SDCFL digital circuits" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/0165-6074(92)90132-q" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "196" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "193" ;
+      <http://purl.org/ontology/bibo/volume>
+              "34" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1016/0165-6074(92)90132-q> , <doi:10.1016/0165-6074(92)90132-q> .
+
+<http://id.crossref.org/contributor/antonio-hernandez-2w1fivrsyrxk0>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Hernández" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Antonio" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Antonio Hernández" .
+
+<http://id.crossref.org/contributor/antonio-nunez-2w1fivrsyrxk0>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Núñez" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Antonio" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Antonio Núñez" .

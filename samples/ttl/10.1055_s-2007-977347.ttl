@@ -1,0 +1,115 @@
+<http://id.crossref.org/contributor/b-morgenstern-ykkkstx9xdo2>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Morgenstern" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "B" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "B Morgenstern" .
+
+<http://id.crossref.org/contributor/h-zentgraf-ykkkstx9xdo2>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Zentgraf" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "H" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "H Zentgraf" .
+
+<http://dx.doi.org/10.1055/s-2007-977347>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1055/s-2007-977347" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "179" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/b-morgenstern-ykkkstx9xdo2> , <http://id.crossref.org/contributor/h-zentgraf-ykkkstx9xdo2> , <http://id.crossref.org/contributor/f-kiessling-ykkkstx9xdo2> , <http://id.crossref.org/contributor/m-jugold-ykkkstx9xdo2> , <http://id.crossref.org/contributor/c-zhang-ykkkstx9xdo2> , <http://id.crossref.org/contributor/t-lammers-ykkkstx9xdo2> , <http://id.crossref.org/contributor/m-bock-ykkkstx9xdo2> , <http://id.crossref.org/contributor/ec-woenne-ykkkstx9xdo2> , <http://id.crossref.org/contributor/mm-mueller-ykkkstx9xdo2> ;
+      <http://purl.org/dc/terms/date>
+              "2007"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1055/s-2007-977347" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1438-9029> ;
+      <http://purl.org/dc/terms/publisher>
+              "Georg Thieme Verlag KG" ;
+      <http://purl.org/dc/terms/title>
+              "Angiogene Charakterisierung von Tumoren im MRT mittels alphaVbeta3-spezifischen USPIO" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1055/s-2007-977347" ;
+      <http://purl.org/ontology/bibo/volume>
+              "179" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1055/s-2007-977347> , <info:doi/10.1055/s-2007-977347> .
+
+<http://id.crossref.org/contributor/f-kiessling-ykkkstx9xdo2>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kiessling" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "F" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "F Kiessling" .
+
+<http://id.crossref.org/contributor/m-jugold-ykkkstx9xdo2>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Jugold" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "M" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "M Jugold" .
+
+<http://id.crossref.org/contributor/c-zhang-ykkkstx9xdo2>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Zhang" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "C" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "C Zhang" .
+
+<http://id.crossref.org/contributor/t-lammers-ykkkstx9xdo2>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Lammers" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "T" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "T Lammers" .
+
+<http://id.crossref.org/contributor/m-bock-ykkkstx9xdo2>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Bock" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "M" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "M Bock" .
+
+<http://id.crossref.org/contributor/ec-woenne-ykkkstx9xdo2>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Woenne" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "EC" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "EC Woenne" .
+
+<http://id.crossref.org/contributor/mm-mueller-ykkkstx9xdo2>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Mueller" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "MM" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "MM Mueller" .
+
+<http://id.crossref.org/issn/1438-9029>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1438-9010" , "1438-9029" ;
+      <http://purl.org/dc/terms/title>
+              "RöFo - Fortschritte auf dem Gebiet der Röntgenstrahlen und der bildgebenden Verfahren" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1438-9010" , "1438-9029" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1438-9010" , "urn:issn:1438-9029" .

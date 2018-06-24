@@ -1,0 +1,87 @@
+<http://id.crossref.org/contributor/menno-p-witter-1gkybebrghdoo>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Witter" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Menno P." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Menno P. Witter" .
+
+<http://id.crossref.org/contributor/jacobus-j-dudok-1gkybebrghdoo>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Dudok" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Jacobus J." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Jacobus J. Dudok" .
+
+<http://id.crossref.org/contributor/matthijs-verhage-1gkybebrghdoo>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Verhage" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Matthijs" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Matthijs Verhage" .
+
+<http://dx.doi.org/10.1016/j.brainres.2009.08.071>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/j.brainres.2009.08.071" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "9" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "1" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "1302" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/menno-p-witter-1gkybebrghdoo> , <http://id.crossref.org/contributor/jacobus-j-dudok-1gkybebrghdoo> , <http://id.crossref.org/contributor/matthijs-verhage-1gkybebrghdoo> , <http://id.crossref.org/contributor/pieter-voorn-1gkybebrghdoo> , <http://id.crossref.org/contributor/alexander-j-a-groffen-1gkybebrghdoo> ;
+      <http://purl.org/dc/terms/date>
+              "2009-11"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/j.brainres.2009.08.071" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0006-8993> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Chronic activation of the 5-HT2 receptor reduces 5-HT neurite density as studied in organotypic slice cultures" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/j.brainres.2009.08.071" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "9" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "1" ;
+      <http://purl.org/ontology/bibo/volume>
+              "1302" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1016/j.brainres.2009.08.071> , <doi:10.1016/j.brainres.2009.08.071> .
+
+<http://id.crossref.org/contributor/pieter-voorn-1gkybebrghdoo>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Voorn" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Pieter" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Pieter Voorn" .
+
+<http://id.crossref.org/issn/0006-8993>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0006-8993" ;
+      <http://purl.org/dc/terms/title>
+              "Brain Research" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0006-8993" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0006-8993" .
+
+<http://id.crossref.org/contributor/alexander-j-a-groffen-1gkybebrghdoo>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Groffen" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Alexander J.A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Alexander J.A. Groffen" .

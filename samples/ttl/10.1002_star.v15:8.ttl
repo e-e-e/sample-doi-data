@@ -1,0 +1,30 @@
+<http://id.crossref.org/issn/0038-9056>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0038-9056" , "1521-379X" ;
+      <http://purl.org/dc/terms/title>
+              "Starch - Stärke" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0038-9056" , "1521-379X" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1521-379X" , "urn:issn:0038-9056" .
+
+<http://dx.doi.org/10.1002/star.v15:8>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1002/star.v15:8" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "15" ;
+      <http://purl.org/dc/terms/date>
+              "1963"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1002/star.v15:8" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0038-9056> ;
+      <http://purl.org/dc/terms/publisher>
+              "Wiley" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1002/star.v15:8" ;
+      <http://purl.org/ontology/bibo/volume>
+              "15" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1002/star.v15:8> , <info:doi/10.1002/star.v15:8> .

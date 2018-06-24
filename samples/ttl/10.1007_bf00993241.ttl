@@ -1,0 +1,60 @@
+<http://id.crossref.org/issn/0364-3190>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0364-3190" , "1573-6903" ;
+      <http://purl.org/dc/terms/title>
+              "Neurochemical Research" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0364-3190" , "1573-6903" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0364-3190" , "urn:issn:1573-6903" .
+
+<http://id.crossref.org/contributor/didier-gauthier-29wiv2hxkc1jf>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Gauthier" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Didier" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Didier Gauthier" .
+
+<http://id.crossref.org/contributor/m-r-ven-murthy-29wiv2hxkc1jf>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Ven Murthy" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "M. R." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "M. R. Ven Murthy" .
+
+<http://dx.doi.org/10.1007/bf00993241>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1007/bf00993241" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "339" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "335" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "12" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/didier-gauthier-29wiv2hxkc1jf> , <http://id.crossref.org/contributor/m-r-ven-murthy-29wiv2hxkc1jf> ;
+      <http://purl.org/dc/terms/date>
+              "1987-04"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1007/bf00993241" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0364-3190> ;
+      <http://purl.org/dc/terms/publisher>
+              "Springer Nature" ;
+      <http://purl.org/dc/terms/title>
+              "Efficacy of RNase inhibitors during brain polysome isolation" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1007/bf00993241" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "339" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "335" ;
+      <http://purl.org/ontology/bibo/volume>
+              "12" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1007/bf00993241> , <info:doi/10.1007/bf00993241> .

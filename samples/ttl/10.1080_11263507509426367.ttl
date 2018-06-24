@@ -1,0 +1,69 @@
+<http://id.crossref.org/contributor/ugo-laneri-3g22bes00dzp7>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Laneri" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Ugo" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Ugo Laneri" .
+
+<http://id.crossref.org/contributor/paola-de-martinis-3g22bes00dzp7>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Martinis" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Paola De" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Paola De Martinis" .
+
+<http://id.crossref.org/contributor/marcel-devreux-3g22bes00dzp7>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Devreux" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Marcel" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Marcel Devreux" .
+
+<http://dx.doi.org/10.1080/11263507509426367>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1080/11263507509426367" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "349" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "335" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "109" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/ugo-laneri-3g22bes00dzp7> , <http://id.crossref.org/contributor/paola-de-martinis-3g22bes00dzp7> , <http://id.crossref.org/contributor/marcel-devreux-3g22bes00dzp7> ;
+      <http://purl.org/dc/terms/date>
+              "1975-11"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1080/11263507509426367" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0017-0070> ;
+      <http://purl.org/dc/terms/publisher>
+              "Informa UK Limited" ;
+      <http://purl.org/dc/terms/title>
+              "Reflexions sur nos cultures d'antheres de plantes cultivées" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1080/11263507509426367" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "349" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "335" ;
+      <http://purl.org/ontology/bibo/volume>
+              "109" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1080/11263507509426367> , <doi:10.1080/11263507509426367> .
+
+<http://id.crossref.org/issn/0017-0070>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0017-0070" ;
+      <http://purl.org/dc/terms/title>
+              "Giornale botanico italiano" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0017-0070" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0017-0070" .

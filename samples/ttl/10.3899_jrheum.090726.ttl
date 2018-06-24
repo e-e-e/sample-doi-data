@@ -1,0 +1,114 @@
+<http://id.crossref.org/contributor/r-h-scofield-1b1eqz8guzb02>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "SCOFIELD" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "R. H." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "R. H. SCOFIELD" .
+
+<http://id.crossref.org/contributor/j-a-james-1b1eqz8guzb02>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "JAMES" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "J. A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "J. A. JAMES" .
+
+<http://id.crossref.org/issn/0315-162X>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1499-2752" , "0315-162X" ;
+      <http://purl.org/dc/terms/title>
+              "The Journal of Rheumatology" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1499-2752" , "0315-162X" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1499-2752" , "urn:issn:0315-162X" .
+
+<http://id.crossref.org/contributor/r-aggarwal-1b1eqz8guzb02>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "AGGARWAL" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "R." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "R. AGGARWAL" .
+
+<http://id.crossref.org/contributor/b-namjou-1b1eqz8guzb02>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "NAMJOU" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "B." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "B. NAMJOU" .
+
+<http://id.crossref.org/contributor/a-dsouza-1b1eqz8guzb02>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "D'SOUZA" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "A. D'SOUZA" .
+
+<http://id.crossref.org/contributor/b-p-tsao-1b1eqz8guzb02>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "TSAO" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "B. P." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "B. P. TSAO" .
+
+<http://id.crossref.org/contributor/b-f-bruner-1b1eqz8guzb02>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "BRUNER" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "B. F." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "B. F. BRUNER" .
+
+<http://dx.doi.org/10.3899/jrheum.090726>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.3899/jrheum.090726" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "1487" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "1480" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "37" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/r-h-scofield-1b1eqz8guzb02> , <http://id.crossref.org/contributor/j-a-james-1b1eqz8guzb02> , <http://id.crossref.org/contributor/b-namjou-1b1eqz8guzb02> , <http://id.crossref.org/contributor/r-aggarwal-1b1eqz8guzb02> , <http://id.crossref.org/contributor/a-dsouza-1b1eqz8guzb02> , <http://id.crossref.org/contributor/b-p-tsao-1b1eqz8guzb02> , <http://id.crossref.org/contributor/b-f-bruner-1b1eqz8guzb02> , <http://id.crossref.org/contributor/s-li-1b1eqz8guzb02> ;
+      <http://purl.org/dc/terms/date>
+              "2010-05-15"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.3899/jrheum.090726" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0315-162X> ;
+      <http://purl.org/dc/terms/publisher>
+              "The Journal of Rheumatology" ;
+      <http://purl.org/dc/terms/title>
+              "Male-only Systemic Lupus" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.3899/jrheum.090726" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "1487" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "1480" ;
+      <http://purl.org/ontology/bibo/volume>
+              "37" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.3899/jrheum.090726> , <doi:10.3899/jrheum.090726> .
+
+<http://id.crossref.org/contributor/s-li-1b1eqz8guzb02>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "LI" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "S." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "S. LI" .

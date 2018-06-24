@@ -1,0 +1,69 @@
+<http://dx.doi.org/10.1016/j.physletb.2007.10.071>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/j.physletb.2007.10.071" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "360" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "357" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "659" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/nobuchika-okada-33i9t3qjgadbi> , <http://id.crossref.org/contributor/ilia-gogoladze-33i9t3qjgadbi> , <http://id.crossref.org/contributor/qaisar-shafi-33i9t3qjgadbi> ;
+      <http://purl.org/dc/terms/date>
+              "2008-01"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/j.physletb.2007.10.071" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0370-2693> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Unparticle physics and gauge coupling unification" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/j.physletb.2007.10.071" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "360" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "357" ;
+      <http://purl.org/ontology/bibo/volume>
+              "659" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1016/j.physletb.2007.10.071> , <info:doi/10.1016/j.physletb.2007.10.071> .
+
+<http://id.crossref.org/issn/0370-2693>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0370-2693" ;
+      <http://purl.org/dc/terms/title>
+              "Physics Letters B" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0370-2693" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0370-2693" .
+
+<http://id.crossref.org/contributor/nobuchika-okada-33i9t3qjgadbi>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Okada" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Nobuchika" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Nobuchika Okada" .
+
+<http://id.crossref.org/contributor/qaisar-shafi-33i9t3qjgadbi>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Shafi" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Qaisar" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Qaisar Shafi" .
+
+<http://id.crossref.org/contributor/ilia-gogoladze-33i9t3qjgadbi>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Gogoladze" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Ilia" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Ilia Gogoladze" .

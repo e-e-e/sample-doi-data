@@ -1,0 +1,36 @@
+<http://id.crossref.org/issn/0017-811X>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0017-811X" ;
+      <http://purl.org/dc/terms/title>
+              "Harvard Law Review" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0017-811X" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0017-811X" .
+
+<http://dx.doi.org/10.2307/1327688>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.2307/1327688" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "81" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "32" ;
+      <http://purl.org/dc/terms/date>
+              "1918-11"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.2307/1327688" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0017-811X> ;
+      <http://purl.org/dc/terms/publisher>
+              "JSTOR" ;
+      <http://purl.org/dc/terms/title>
+              "Contracts. Defenses. Public Policy as a Defense for Non-Performance" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.2307/1327688" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "81" ;
+      <http://purl.org/ontology/bibo/volume>
+              "32" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.2307/1327688> , <doi:10.2307/1327688> .

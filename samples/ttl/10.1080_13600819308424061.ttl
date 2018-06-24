@@ -1,0 +1,40 @@
+<http://dx.doi.org/10.1080/13600819308424061>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1080/13600819308424061" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "ebi" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "ebi" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "21" ;
+      <http://purl.org/dc/terms/date>
+              "1993-01"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1080/13600819308424061" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0264-5491> ;
+      <http://purl.org/dc/terms/publisher>
+              "Informa UK Limited" ;
+      <http://purl.org/dc/terms/title>
+              "Editorial board" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1080/13600819308424061" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "ebi" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "ebi" ;
+      <http://purl.org/ontology/bibo/volume>
+              "21" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1080/13600819308424061> , <info:doi/10.1080/13600819308424061> .
+
+<http://id.crossref.org/issn/0264-5491>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0264-5491" ;
+      <http://purl.org/dc/terms/title>
+              "Oxford Agrarian Studies" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0264-5491" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0264-5491" .

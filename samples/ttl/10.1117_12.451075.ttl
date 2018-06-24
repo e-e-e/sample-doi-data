@@ -1,0 +1,62 @@
+<http://id.crossref.org/contributor/subramania-i-sudharsanan-14j5gd8fnatym>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Sudharsanan" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Subramania I." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Subramania I. Sudharsanan" .
+
+<http://id.crossref.org/contributor/james-mcbride-14j5gd8fnatym>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "McBride" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "James" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "James McBride" .
+
+<http://id.crossref.org/contributor/v-michael-bove-jr-14j5gd8fnatym>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Bove, Jr." ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "V. Michael" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "V. Michael Bove, Jr." .
+
+<http://dx.doi.org/10.1117/12.451075>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1117/12.451075" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/subramania-i-sudharsanan-14j5gd8fnatym> , <http://id.crossref.org/contributor/james-mcbride-14j5gd8fnatym> , <http://id.crossref.org/contributor/v-michael-bove-jr-14j5gd8fnatym> , <http://id.crossref.org/contributor/sethuraman-panchanathan-14j5gd8fnatym> , <http://id.crossref.org/contributor/william-butera-14j5gd8fnatym> ;
+      <http://purl.org/dc/terms/date>
+              "2001-12-20"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1117/12.451075" ;
+      <http://purl.org/dc/terms/publisher>
+              "SPIE" ;
+      <http://purl.org/dc/terms/title>
+              "Extremely distributed media processing" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1117/12.451075" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1117/12.451075> , <doi:10.1117/12.451075> .
+
+<http://id.crossref.org/contributor/sethuraman-panchanathan-14j5gd8fnatym>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Panchanathan" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Sethuraman" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Sethuraman Panchanathan" .
+
+<http://id.crossref.org/contributor/william-butera-14j5gd8fnatym>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Butera" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "William" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "William Butera" .

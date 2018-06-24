@@ -1,0 +1,60 @@
+<http://id.crossref.org/contributor/lee-chuang-hsu-38c0ynoso4jvw>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Hsu" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Lee-Chuang" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Lee-Chuang Hsu" .
+
+<http://id.crossref.org/issn/0167-6911>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0167-6911" ;
+      <http://purl.org/dc/terms/title>
+              "Systems & Control Letters" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0167-6911" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0167-6911" .
+
+<http://id.crossref.org/contributor/fan-ren-chang-38c0ynoso4jvw>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Chang" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Fan-Ren" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Fan-Ren Chang" .
+
+<http://dx.doi.org/10.1016/0167-6911(95)00065-8>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/0167-6911(95)00065-8" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "123" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "117" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "27" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/lee-chuang-hsu-38c0ynoso4jvw> , <http://id.crossref.org/contributor/fan-ren-chang-38c0ynoso4jvw> ;
+      <http://purl.org/dc/terms/date>
+              "1996-02"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/0167-6911(95)00065-8" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0167-6911> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "The generalized Ackermann's formula for singular systems" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/0167-6911(95)00065-8" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "123" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "117" ;
+      <http://purl.org/ontology/bibo/volume>
+              "27" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1016/0167-6911(95)00065-8> , <info:doi/10.1016/0167-6911(95)00065-8> .

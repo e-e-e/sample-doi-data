@@ -1,0 +1,60 @@
+<http://dx.doi.org/10.1002/jpln.19791420506>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1002/jpln.19791420506" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "704" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "696" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "142" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/g-domres-2tfw9uude0apk> , <http://id.crossref.org/contributor/j-richter-2tfw9uude0apk> ;
+      <http://purl.org/dc/terms/date>
+              "1979"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1002/jpln.19791420506" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0044-3263> ;
+      <http://purl.org/dc/terms/publisher>
+              "Wiley" ;
+      <http://purl.org/dc/terms/title>
+              "Verlagerung von Chlorid und Nitrat in Lößmonolithen unter einfachen nicht-stationären hydraulischen Bedingungen" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1002/jpln.19791420506" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "704" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "696" ;
+      <http://purl.org/ontology/bibo/volume>
+              "142" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1002/jpln.19791420506> , <doi:10.1002/jpln.19791420506> .
+
+<http://id.crossref.org/contributor/g-domres-2tfw9uude0apk>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Domres" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "G." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "G. Domres" .
+
+<http://id.crossref.org/contributor/j-richter-2tfw9uude0apk>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Richter" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "J." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "J. Richter" .
+
+<http://id.crossref.org/issn/0044-3263>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0044-3263" , "1522-2624" ;
+      <http://purl.org/dc/terms/title>
+              "Zeitschrift für Pflanzenernährung und Bodenkunde" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0044-3263" , "1522-2624" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1522-2624" , "urn:issn:0044-3263" .

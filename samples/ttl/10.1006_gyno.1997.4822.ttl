@@ -1,0 +1,60 @@
+<http://dx.doi.org/10.1006/gyno.1997.4822>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1006/gyno.1997.4822" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "541" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "539" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "66" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/j-a-bridgewater-1r7alfzfue95x> , <http://id.crossref.org/contributor/g-j-s-rustin-1r7alfzfue95x> ;
+      <http://purl.org/dc/terms/date>
+              "1997-09"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1006/gyno.1997.4822" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0090-8258> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Pseudo-Meigs' Syndrome Secondary to an Ovarian Germ Cell Tumor" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1006/gyno.1997.4822" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "541" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "539" ;
+      <http://purl.org/ontology/bibo/volume>
+              "66" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1006/gyno.1997.4822> , <doi:10.1006/gyno.1997.4822> .
+
+<http://id.crossref.org/contributor/j-a-bridgewater-1r7alfzfue95x>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Bridgewater" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "J.A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "J.A. Bridgewater" .
+
+<http://id.crossref.org/issn/0090-8258>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0090-8258" ;
+      <http://purl.org/dc/terms/title>
+              "Gynecologic Oncology" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0090-8258" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0090-8258" .
+
+<http://id.crossref.org/contributor/g-j-s-rustin-1r7alfzfue95x>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Rustin" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "G.J.S." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "G.J.S. Rustin" .

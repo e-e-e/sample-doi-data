@@ -1,0 +1,87 @@
+<http://id.crossref.org/contributor/ulla-moberg-1urzpbybghjac>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Moberg" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Ulla" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Ulla Moberg" .
+
+<http://id.crossref.org/issn/0003-2697>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0003-2697" ;
+      <http://purl.org/dc/terms/title>
+              "Analytical Biochemistry" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0003-2697" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0003-2697" .
+
+<http://id.crossref.org/contributor/ronny-lundin-1urzpbybghjac>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Lundin" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Ronny" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Ronny Lundin" .
+
+<http://id.crossref.org/contributor/hans-sievertsson-1urzpbybghjac>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Sievertsson" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Hans" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Hans Sievertsson" .
+
+<http://dx.doi.org/10.1016/0003-2697(75)90284-5>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/0003-2697(75)90284-5" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "181" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "166" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "67" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/ulla-moberg-1urzpbybghjac> , <http://id.crossref.org/contributor/ronny-lundin-1urzpbybghjac> , <http://id.crossref.org/contributor/hans-sievertsson-1urzpbybghjac> , <http://id.crossref.org/contributor/gertrud-westin-sjodahl-1urzpbybghjac> , <http://id.crossref.org/contributor/ann-kopwillem-1urzpbybghjac> ;
+      <http://purl.org/dc/terms/date>
+              "1975-07"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/0003-2697(75)90284-5" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0003-2697> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Analytical isotachophoresis in the analysis of synthetic peptides" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/0003-2697(75)90284-5" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "181" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "166" ;
+      <http://purl.org/ontology/bibo/volume>
+              "67" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1016/0003-2697(75)90284-5> , <info:doi/10.1016/0003-2697(75)90284-5> .
+
+<http://id.crossref.org/contributor/gertrud-westin-sjodahl-1urzpbybghjac>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Westin-Sjödahl" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Gertrud" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Gertrud Westin-Sjödahl" .
+
+<http://id.crossref.org/contributor/ann-kopwillem-1urzpbybghjac>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kopwillem" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Ann" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Ann Kopwillem" .

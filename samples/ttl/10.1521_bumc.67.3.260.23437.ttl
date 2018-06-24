@@ -1,0 +1,51 @@
+<http://dx.doi.org/10.1521/bumc.67.3.260.23437>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1521/bumc.67.3.260.23437" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "270" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "260" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "67" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/ellen-j-safier-3ctde1mf3ler5> ;
+      <http://purl.org/dc/terms/date>
+              "2003-09"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1521/bumc.67.3.260.23437" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0025-9284> ;
+      <http://purl.org/dc/terms/publisher>
+              "Guilford Publications" ;
+      <http://purl.org/dc/terms/title>
+              "Seven ways that the concepts of attachment, mentalization and theory of mind transform family treatment" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1521/bumc.67.3.260.23437" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "270" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "260" ;
+      <http://purl.org/ontology/bibo/volume>
+              "67" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1521/bumc.67.3.260.23437> , <doi:10.1521/bumc.67.3.260.23437> .
+
+<http://id.crossref.org/issn/0025-9284>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0025-9284" ;
+      <http://purl.org/dc/terms/title>
+              "Bulletin of the Menninger Clinic" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0025-9284" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0025-9284" .
+
+<http://id.crossref.org/contributor/ellen-j-safier-3ctde1mf3ler5>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Safier" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Ellen J." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Ellen J. Safier" .

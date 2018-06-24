@@ -1,0 +1,51 @@
+<http://id.crossref.org/issn/0022-4871>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1552-7816" , "0022-4871" ;
+      <http://purl.org/dc/terms/title>
+              "Journal of Teacher Education" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1552-7816" , "0022-4871" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1552-7816" , "urn:issn:0022-4871" .
+
+<http://dx.doi.org/10.1177/0022487102053001004>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1177/0022487102053001004" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "43" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "33" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "53" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/j-john-loughran-2bun99ciho6u6> ;
+      <http://purl.org/dc/terms/date>
+              "2002-01"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1177/0022487102053001004" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0022-4871> ;
+      <http://purl.org/dc/terms/publisher>
+              "SAGE Publications" ;
+      <http://purl.org/dc/terms/title>
+              "Effective Reflective Practice" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1177/0022487102053001004" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "43" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "33" ;
+      <http://purl.org/ontology/bibo/volume>
+              "53" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1177/0022487102053001004> , <info:doi/10.1177/0022487102053001004> .
+
+<http://id.crossref.org/contributor/j-john-loughran-2bun99ciho6u6>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Loughran" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "J. John" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "J. John Loughran" .

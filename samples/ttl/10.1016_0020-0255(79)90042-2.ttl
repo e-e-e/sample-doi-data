@@ -1,0 +1,51 @@
+<http://id.crossref.org/issn/0020-0255>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0020-0255" ;
+      <http://purl.org/dc/terms/title>
+              "Information Sciences" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0020-0255" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0020-0255" .
+
+<http://dx.doi.org/10.1016/0020-0255(79)90042-2>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/0020-0255(79)90042-2" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "74" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "43" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "17" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/monique-pavel-9xdm0ym527ba> ;
+      <http://purl.org/dc/terms/date>
+              "1979-02"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/0020-0255(79)90042-2" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0020-0255> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Pattern recognition: The categorical setting" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/0020-0255(79)90042-2" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "74" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "43" ;
+      <http://purl.org/ontology/bibo/volume>
+              "17" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1016/0020-0255(79)90042-2> , <doi:10.1016/0020-0255(79)90042-2> .
+
+<http://id.crossref.org/contributor/monique-pavel-9xdm0ym527ba>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Pavel" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Monique" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Monique Pavel" .

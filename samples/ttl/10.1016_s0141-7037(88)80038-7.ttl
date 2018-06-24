@@ -1,0 +1,78 @@
+<http://id.crossref.org/contributor/david-v-seal-2opqdylvedijs>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Seal" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "David V." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "David V. Seal" .
+
+<http://id.crossref.org/issn/0141-7037>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0141-7037" ;
+      <http://purl.org/dc/terms/title>
+              "Journal of The British Contact Lens Association" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0141-7037" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0141-7037" .
+
+<http://id.crossref.org/contributor/ian-grierson-2opqdylvedijs>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Grierson" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Ian" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Ian Grierson" .
+
+<http://id.crossref.org/contributor/john-k-dart-2opqdylvedijs>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Dart" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "John K." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "John K. Dart" .
+
+<http://dx.doi.org/10.1016/s0141-7037(88)80038-7>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/s0141-7037(88)80038-7" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "97" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "95" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "11" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/david-v-seal-2opqdylvedijs> , <http://id.crossref.org/contributor/ian-grierson-2opqdylvedijs> , <http://id.crossref.org/contributor/john-k-dart-2opqdylvedijs> , <http://id.crossref.org/contributor/john-peacock-2opqdylvedijs> ;
+      <http://purl.org/dc/terms/date>
+              "1988-01"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/s0141-7037(88)80038-7" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0141-7037> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Ocular surface, contact lens and bacterial interactions in a rabbit model" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/s0141-7037(88)80038-7" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "97" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "95" ;
+      <http://purl.org/ontology/bibo/volume>
+              "11" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1016/s0141-7037(88)80038-7> , <info:doi/10.1016/s0141-7037(88)80038-7> .
+
+<http://id.crossref.org/contributor/john-peacock-2opqdylvedijs>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Peacock" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "John" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "John Peacock" .

@@ -1,0 +1,51 @@
+<http://dx.doi.org/10.1056/nejm198909213211231>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1056/nejm198909213211231" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "842" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "841" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "321" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/paul-r-schloerb-1p0p9sv944eio> ;
+      <http://purl.org/dc/terms/date>
+              "1989-09-21"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1056/nejm198909213211231" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0028-4793> ;
+      <http://purl.org/dc/terms/publisher>
+              "New England Journal of Medicine (NEJM/MMS)" ;
+      <http://purl.org/dc/terms/title>
+              "Book ReviewEnergy Metabolism, Indirect Calorimetry, and Nutrition" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1056/nejm198909213211231" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "842" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "841" ;
+      <http://purl.org/ontology/bibo/volume>
+              "321" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1056/nejm198909213211231> , <doi:10.1056/nejm198909213211231> .
+
+<http://id.crossref.org/contributor/paul-r-schloerb-1p0p9sv944eio>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Schloerb" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Paul R." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Paul R. Schloerb" .
+
+<http://id.crossref.org/issn/0028-4793>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1533-4406" , "0028-4793" ;
+      <http://purl.org/dc/terms/title>
+              "New England Journal of Medicine" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1533-4406" , "0028-4793" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0028-4793" , "urn:issn:1533-4406" .

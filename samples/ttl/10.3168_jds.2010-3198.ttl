@@ -1,0 +1,105 @@
+<http://id.crossref.org/contributor/k-e-lloyd-36thn0n9nkkk>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Lloyd" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "K.E." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "K.E. Lloyd" .
+
+<http://id.crossref.org/contributor/v-fellner-36thn0n9nkkk>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Fellner" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "V." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "V. Fellner" .
+
+<http://id.crossref.org/contributor/r-s-fry-36thn0n9nkkk>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Fry" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "R.S." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "R.S. Fry" .
+
+<http://id.crossref.org/contributor/s-j-mcleod-36thn0n9nkkk>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "McLeod" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "S.J." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "S.J. McLeod" .
+
+<http://id.crossref.org/contributor/j-w-spears-36thn0n9nkkk>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Spears" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "J.W." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "J.W. Spears" .
+
+<http://id.crossref.org/contributor/a-lamptey-36thn0n9nkkk>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Lamptey" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "A. Lamptey" .
+
+<http://id.crossref.org/contributor/k-krafka-36thn0n9nkkk>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Krafka" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "K." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "K. Krafka" .
+
+<http://dx.doi.org/10.3168/jds.2010-3198>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.3168/jds.2010-3198" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "4780" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "4774" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "93" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/k-e-lloyd-36thn0n9nkkk> , <http://id.crossref.org/contributor/v-fellner-36thn0n9nkkk> , <http://id.crossref.org/contributor/r-s-fry-36thn0n9nkkk> , <http://id.crossref.org/contributor/s-j-mcleod-36thn0n9nkkk> , <http://id.crossref.org/contributor/j-w-spears-36thn0n9nkkk> , <http://id.crossref.org/contributor/k-krafka-36thn0n9nkkk> , <http://id.crossref.org/contributor/a-lamptey-36thn0n9nkkk> ;
+      <http://purl.org/dc/terms/date>
+              "2010-10"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.3168/jds.2010-3198" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0022-0302> ;
+      <http://purl.org/dc/terms/publisher>
+              "American Dairy Science Association" ;
+      <http://purl.org/dc/terms/title>
+              "Effects of supplementing dairy cows with chromium propionate on milk and tissue chromium concentrations" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.3168/jds.2010-3198" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "4780" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "4774" ;
+      <http://purl.org/ontology/bibo/volume>
+              "93" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.3168/jds.2010-3198> , <info:doi/10.3168/jds.2010-3198> .
+
+<http://id.crossref.org/issn/0022-0302>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0022-0302" ;
+      <http://purl.org/dc/terms/title>
+              "Journal of Dairy Science" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0022-0302" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0022-0302" .

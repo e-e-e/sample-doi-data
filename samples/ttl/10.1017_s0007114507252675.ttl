@@ -1,0 +1,74 @@
+<http://id.crossref.org/contributor/s-f-ahmed-2rkbo9fj4d9is>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Ahmed" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "S. F." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "S. F. Ahmed" .
+
+<http://id.crossref.org/contributor/h-maxwell-2rkbo9fj4d9is>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Maxwell" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "H." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "H. Maxwell" .
+
+<http://dx.doi.org/10.1017/s0007114507252675>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1017/s0007114507252675" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "232" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "97" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/s-f-ahmed-2rkbo9fj4d9is> , <http://id.crossref.org/contributor/h-maxwell-2rkbo9fj4d9is> , <http://id.crossref.org/contributor/r-rashid-2rkbo9fj4d9is> , <http://id.crossref.org/contributor/e-neill-2rkbo9fj4d9is> ;
+      <http://purl.org/dc/terms/date>
+              "2007-02"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1017/s0007114507252675" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0007-1145> ;
+      <http://purl.org/dc/terms/publisher>
+              "Cambridge University Press (CUP)" ;
+      <http://purl.org/dc/terms/title>
+              "Growth and body composition in children with chronic kidney disease" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1017/s0007114507252675" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "232" ;
+      <http://purl.org/ontology/bibo/volume>
+              "97" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1017/s0007114507252675> , <info:doi/10.1017/s0007114507252675> .
+
+<http://id.crossref.org/contributor/r-rashid-2rkbo9fj4d9is>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Rashid" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "R." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "R. Rashid" .
+
+<http://id.crossref.org/issn/0007-1145>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1475-2662" , "0007-1145" ;
+      <http://purl.org/dc/terms/title>
+              "British Journal of Nutrition" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1475-2662" , "0007-1145" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1475-2662" , "urn:issn:0007-1145" .
+
+<http://id.crossref.org/contributor/e-neill-2rkbo9fj4d9is>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Neill" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "E." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "E. Neill" .

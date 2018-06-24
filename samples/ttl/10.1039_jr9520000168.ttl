@@ -1,0 +1,52 @@
+<http://id.crossref.org/issn/0368-1769>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0368-1769" ;
+      <http://purl.org/dc/terms/title>
+              "Journal of the Chemical Society (Resumed)" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0368-1769" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0368-1769" .
+
+<http://id.crossref.org/contributor/l-n-short-3cuhqm60bdy42>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Short" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "L. N." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "L. N. Short" .
+
+<http://id.crossref.org/contributor/h-w-thompson-3cuhqm60bdy42>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Thompson" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "H. W." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "H. W. Thompson" .
+
+<http://dx.doi.org/10.1039/jr9520000168>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1039/jr9520000168" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "168" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/l-n-short-3cuhqm60bdy42> , <http://id.crossref.org/contributor/h-w-thompson-3cuhqm60bdy42> ;
+      <http://purl.org/dc/terms/date>
+              "1952"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1039/jr9520000168" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0368-1769> ;
+      <http://purl.org/dc/terms/publisher>
+              "Royal Society of Chemistry (RSC)" ;
+      <http://purl.org/dc/terms/title>
+              "38. Infra-red spectra of derivatives of pyrimidine" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1039/jr9520000168" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "168" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1039/jr9520000168> , <info:doi/10.1039/jr9520000168> .

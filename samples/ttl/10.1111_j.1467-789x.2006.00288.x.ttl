@@ -1,0 +1,60 @@
+<http://id.crossref.org/issn/1467-7881>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1467-789X" , "1467-7881" ;
+      <http://purl.org/dc/terms/title>
+              "Obesity Reviews" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1467-789X" , "1467-7881" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1467-789X" , "urn:issn:1467-7881" .
+
+<http://id.crossref.org/contributor/s-danielzik-kspdpadt26k1>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Danielzik" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "S." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "S. Danielzik" .
+
+<http://id.crossref.org/contributor/m-j-muller-kspdpadt26k1>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Müller" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "M. J." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "M. J. Müller" .
+
+<http://dx.doi.org/10.1111/j.1467-789x.2006.00288.x>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1111/j.1467-789x.2006.00288.x" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "90" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "87" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "8" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/s-danielzik-kspdpadt26k1> , <http://id.crossref.org/contributor/m-j-muller-kspdpadt26k1> ;
+      <http://purl.org/dc/terms/date>
+              "2007-01"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1111/j.1467-789x.2006.00288.x" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1467-7881> ;
+      <http://purl.org/dc/terms/publisher>
+              "Wiley" ;
+      <http://purl.org/dc/terms/title>
+              "Childhood overweight: is there need for a new societal approach to the obesity epidemic?" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1111/j.1467-789x.2006.00288.x" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "90" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "87" ;
+      <http://purl.org/ontology/bibo/volume>
+              "8" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1111/j.1467-789x.2006.00288.x> , <doi:10.1111/j.1467-789x.2006.00288.x> .

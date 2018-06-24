@@ -1,0 +1,44 @@
+<http://id.crossref.org/contributor/zhijun-peng-33i22u3dbkeyd>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Peng" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Zhijun" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Zhijun Peng" .
+
+<http://id.crossref.org/contributor/hua-zhao-33i22u3dbkeyd>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Zhao" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Hua" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Hua Zhao" .
+
+<http://id.crossref.org/contributor/nicos-ladommatos-33i22u3dbkeyd>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Ladommatos" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Nicos" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Nicos Ladommatos" .
+
+<http://dx.doi.org/10.4271/2003-01-0747>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.4271/2003-01-0747" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/zhijun-peng-33i22u3dbkeyd> , <http://id.crossref.org/contributor/hua-zhao-33i22u3dbkeyd> , <http://id.crossref.org/contributor/nicos-ladommatos-33i22u3dbkeyd> ;
+      <http://purl.org/dc/terms/date>
+              "2003-03-03"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.4271/2003-01-0747" ;
+      <http://purl.org/dc/terms/publisher>
+              "SAE International" ;
+      <http://purl.org/dc/terms/title>
+              "Effects of Air/Fuel Ratios and EGR Rates on HCCI Combustion of n-heptane, a Diesel Type Fuel" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.4271/2003-01-0747" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.4271/2003-01-0747> , <doi:10.4271/2003-01-0747> .

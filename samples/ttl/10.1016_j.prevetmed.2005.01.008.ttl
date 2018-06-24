@@ -1,0 +1,87 @@
+<http://id.crossref.org/contributor/a-j-branscum-20owqbbv50ino>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Branscum" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "A.J." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "A.J. Branscum" .
+
+<http://id.crossref.org/contributor/m-c-thurmond-20owqbbv50ino>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Thurmond" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "M.C." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "M.C. Thurmond" .
+
+<http://id.crossref.org/contributor/w-o-johnson-20owqbbv50ino>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Johnson" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "W.O." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "W.O. Johnson" .
+
+<http://id.crossref.org/issn/0167-5877>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0167-5877" ;
+      <http://purl.org/dc/terms/title>
+              "Preventive Veterinary Medicine" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0167-5877" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0167-5877" .
+
+<http://id.crossref.org/contributor/e-j-bedrick-20owqbbv50ino>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Bedrick" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "E.J." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "E.J. Bedrick" .
+
+<http://dx.doi.org/10.1016/j.prevetmed.2005.01.008>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/j.prevetmed.2005.01.008" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "239" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "223" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "68" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/a-j-branscum-20owqbbv50ino> , <http://id.crossref.org/contributor/w-o-johnson-20owqbbv50ino> , <http://id.crossref.org/contributor/m-c-thurmond-20owqbbv50ino> , <http://id.crossref.org/contributor/e-j-bedrick-20owqbbv50ino> , <http://id.crossref.org/contributor/t-e-hanson-20owqbbv50ino> ;
+      <http://purl.org/dc/terms/date>
+              "2005-05"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/j.prevetmed.2005.01.008" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0167-5877> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Predicting the probability of abortion in dairy cows: a hierarchical Bayesian logistic-survival model using sequential pregnancy data" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/j.prevetmed.2005.01.008" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "239" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "223" ;
+      <http://purl.org/ontology/bibo/volume>
+              "68" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1016/j.prevetmed.2005.01.008> , <doi:10.1016/j.prevetmed.2005.01.008> .
+
+<http://id.crossref.org/contributor/t-e-hanson-20owqbbv50ino>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Hanson" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "T.E." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "T.E. Hanson" .

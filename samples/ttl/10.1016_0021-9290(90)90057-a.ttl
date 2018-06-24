@@ -1,0 +1,69 @@
+<http://id.crossref.org/issn/0021-9290>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0021-9290" ;
+      <http://purl.org/dc/terms/title>
+              "Journal of Biomechanics" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0021-9290" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0021-9290" .
+
+<http://id.crossref.org/contributor/b-orschall-ot18uqi2j0wv>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Orschall" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "B." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "B. Orschall" .
+
+<http://id.crossref.org/contributor/s-a-jovanovic-ot18uqi2j0wv>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Jovanovic" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "S.A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "S.A. Jovanovic" .
+
+<http://dx.doi.org/10.1016/0021-9290(90)90057-a>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/0021-9290(90)90057-a" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "306" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "297" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "23" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/b-orschall-ot18uqi2j0wv> , <http://id.crossref.org/contributor/s-a-jovanovic-ot18uqi2j0wv> , <http://id.crossref.org/contributor/e-j-richter-ot18uqi2j0wv> ;
+      <http://purl.org/dc/terms/date>
+              "1990-01"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/0021-9290(90)90057-a" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0021-9290> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Dental implant abutment resembling the two-phase tooth mobility" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/0021-9290(90)90057-a" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "306" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "297" ;
+      <http://purl.org/ontology/bibo/volume>
+              "23" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1016/0021-9290(90)90057-a> , <info:doi/10.1016/0021-9290(90)90057-a> .
+
+<http://id.crossref.org/contributor/e-j-richter-ot18uqi2j0wv>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Richter" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "E.-J." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "E.-J. Richter" .

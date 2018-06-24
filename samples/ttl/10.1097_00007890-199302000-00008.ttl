@@ -1,0 +1,78 @@
+<http://id.crossref.org/contributor/john-lake-3c3soaw92qlqo>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "LAKE" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "JOHN" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "JOHN LAKE" .
+
+<http://id.crossref.org/contributor/george-kuo-3c3soaw92qlqo>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "KUO" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "GEORGE" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "GEORGE KUO" .
+
+<http://id.crossref.org/contributor/carlos-a-stempel-3c3soaw92qlqo>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "STEMPEL" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "CARLOS A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "CARLOS A. STEMPEL" .
+
+<http://id.crossref.org/contributor/flavio-vincenti-3c3soaw92qlqo>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "VINCENTI" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "FLAVIO" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "FLAVIO VINCENTI" .
+
+<http://id.crossref.org/issn/0041-1337>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0041-1337" ;
+      <http://purl.org/dc/terms/title>
+              "Transplantation" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0041-1337" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0041-1337" .
+
+<http://dx.doi.org/10.1097/00007890-199302000-00008>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1097/00007890-199302000-00008" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "276" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "273" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "55" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/john-lake-3c3soaw92qlqo> , <http://id.crossref.org/contributor/george-kuo-3c3soaw92qlqo> , <http://id.crossref.org/contributor/flavio-vincenti-3c3soaw92qlqo> , <http://id.crossref.org/contributor/carlos-a-stempel-3c3soaw92qlqo> ;
+      <http://purl.org/dc/terms/date>
+              "1993-02"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1097/00007890-199302000-00008" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0041-1337> ;
+      <http://purl.org/dc/terms/publisher>
+              "Ovid Technologies (Wolters Kluwer Health)" ;
+      <http://purl.org/dc/terms/title>
+              "HEPATITIS C—ITS PREVALENCE IN END-STAGE RENAL FAILURE PATIENTS AND CLINICAL COURSE AFTER KIDNEY TRANSPLANTATION" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1097/00007890-199302000-00008" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "276" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "273" ;
+      <http://purl.org/ontology/bibo/volume>
+              "55" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1097/00007890-199302000-00008> , <info:doi/10.1097/00007890-199302000-00008> .

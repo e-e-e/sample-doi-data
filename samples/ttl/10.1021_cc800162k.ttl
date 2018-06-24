@@ -1,0 +1,96 @@
+<http://id.crossref.org/contributor/chunhao-yang-3mxrjza8gxliq>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Yang" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Chunhao" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Chunhao Yang" .
+
+<http://id.crossref.org/contributor/linghua-meng-3mxrjza8gxliq>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Meng" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Linghua" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Linghua Meng" .
+
+<http://id.crossref.org/contributor/jian-ding-3mxrjza8gxliq>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Ding" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Jian" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Jian Ding" .
+
+<http://id.crossref.org/contributor/min-jiang-3mxrjza8gxliq>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Jiang" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Min" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Min Jiang" .
+
+<http://dx.doi.org/10.1021/cc800162k>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1021/cc800162k" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "808" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "806" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "11" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/chunhao-yang-3mxrjza8gxliq> , <http://id.crossref.org/contributor/linghua-meng-3mxrjza8gxliq> , <http://id.crossref.org/contributor/jian-ding-3mxrjza8gxliq> , <http://id.crossref.org/contributor/min-jiang-3mxrjza8gxliq> , <http://id.crossref.org/contributor/yuyuan-xie-3mxrjza8gxliq> , <http://id.crossref.org/contributor/ting-li-3mxrjza8gxliq> ;
+      <http://purl.org/dc/terms/date>
+              "2009-09-14"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1021/cc800162k" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1520-4766> ;
+      <http://purl.org/dc/terms/publisher>
+              "American Chemical Society (ACS)" ;
+      <http://purl.org/dc/terms/title>
+              "Direct Palladium-Catalyzed Arylations of Aryl Bromides with 2/9-Substituted Pyrimido[5,4-b]indolizines" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1021/cc800162k" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "808" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "806" ;
+      <http://purl.org/ontology/bibo/volume>
+              "11" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1021/cc800162k> , <info:doi/10.1021/cc800162k> .
+
+<http://id.crossref.org/issn/1520-4766>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1520-4766" , "1520-4774" ;
+      <http://purl.org/dc/terms/title>
+              "Journal of Combinatorial Chemistry" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1520-4766" , "1520-4774" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1520-4774" , "urn:issn:1520-4766" .
+
+<http://id.crossref.org/contributor/yuyuan-xie-3mxrjza8gxliq>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Xie" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Yuyuan" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Yuyuan Xie" .
+
+<http://id.crossref.org/contributor/ting-li-3mxrjza8gxliq>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Li" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Ting" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Ting Li" .

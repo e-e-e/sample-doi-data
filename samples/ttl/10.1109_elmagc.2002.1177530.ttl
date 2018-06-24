@@ -1,0 +1,45 @@
+<http://id.crossref.org/contributor/jinyan-cai-23sjednhew23h>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Jinyan Cai" ;
+      <http://xmlns.com/foaf/0.1/name>
+              " Jinyan Cai" .
+
+<http://id.crossref.org/contributor/chunhui-han-23sjednhew23h>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Chunhui Han" ;
+      <http://xmlns.com/foaf/0.1/name>
+              " Chunhui Han" .
+
+<http://dx.doi.org/10.1109/elmagc.2002.1177530>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1109/elmagc.2002.1177530" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/jinyan-cai-23sjednhew23h> , <http://id.crossref.org/contributor/chunhui-han-23sjednhew23h> , <http://id.crossref.org/contributor/jafeng-meng-23sjednhew23h> ;
+      <http://purl.org/dc/terms/date>
+              ""^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1109/elmagc.2002.1177530" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/0780372778> ;
+      <http://purl.org/dc/terms/publisher>
+              "IEEE" ;
+      <http://purl.org/dc/terms/title>
+              "Control methods of EMI for modern radar" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1109/elmagc.2002.1177530" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1109/elmagc.2002.1177530> , <doi:10.1109/elmagc.2002.1177530> .
+
+<http://id.crossref.org/isbn/0780372778>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "2002 3rd International Symposium on Electromagnetic Compatibility" .
+
+<http://id.crossref.org/contributor/jafeng-meng-23sjednhew23h>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Jafeng Meng" ;
+      <http://xmlns.com/foaf/0.1/name>
+              " Jafeng Meng" .

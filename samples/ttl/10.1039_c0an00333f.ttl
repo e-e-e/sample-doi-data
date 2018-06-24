@@ -1,0 +1,74 @@
+<http://id.crossref.org/contributor/jennifer-m-johnson-ysk2xvkfpmzj>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Johnson" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Jennifer M." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Jennifer M. Johnson" .
+
+<http://id.crossref.org/contributor/tianwei-yu-ysk2xvkfpmzj>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Yu" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Tianwei" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Tianwei Yu" .
+
+<http://dx.doi.org/10.1039/c0an00333f>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1039/c0an00333f" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "2864" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "135" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/jennifer-m-johnson-ysk2xvkfpmzj> , <http://id.crossref.org/contributor/tianwei-yu-ysk2xvkfpmzj> , <http://id.crossref.org/contributor/dean-p-jones-ysk2xvkfpmzj> , <http://id.crossref.org/contributor/frederick-h-strobel-ysk2xvkfpmzj> ;
+      <http://purl.org/dc/terms/date>
+              "2010"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1039/c0an00333f" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0003-2654> ;
+      <http://purl.org/dc/terms/publisher>
+              "Royal Society of Chemistry (RSC)" ;
+      <http://purl.org/dc/terms/title>
+              "A practical approach to detect unique metabolic patterns for personalized medicine" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1039/c0an00333f" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "2864" ;
+      <http://purl.org/ontology/bibo/volume>
+              "135" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1039/c0an00333f> , <doi:10.1039/c0an00333f> .
+
+<http://id.crossref.org/issn/0003-2654>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0003-2654" , "1364-5528" ;
+      <http://purl.org/dc/terms/title>
+              "The Analyst" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0003-2654" , "1364-5528" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1364-5528" , "urn:issn:0003-2654" .
+
+<http://id.crossref.org/contributor/dean-p-jones-ysk2xvkfpmzj>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Jones" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Dean P." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Dean P. Jones" .
+
+<http://id.crossref.org/contributor/frederick-h-strobel-ysk2xvkfpmzj>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Strobel" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Frederick H." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Frederick H. Strobel" .

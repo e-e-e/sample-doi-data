@@ -1,0 +1,80 @@
+<http://id.crossref.org/contributor/james-o-jensen-3ram8u7uqrwn6>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Jensen" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "James O." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "James O. Jensen" .
+
+<http://id.crossref.org/contributor/wayne-f-j-evans-3ram8u7uqrwn6>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Evans" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Wayne F. J." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Wayne F. J. Evans" .
+
+<http://id.crossref.org/contributor/eldon-puckrin-3ram8u7uqrwn6>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Puckrin" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Eldon" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Eldon Puckrin" .
+
+<http://id.crossref.org/contributor/jean-marc-theriault-3ram8u7uqrwn6>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Theriault" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Jean-Marc" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Jean-Marc Theriault" .
+
+<http://dx.doi.org/10.1117/12.519178>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1117/12.519178" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/wayne-f-j-evans-3ram8u7uqrwn6> , <http://id.crossref.org/contributor/james-o-jensen-3ram8u7uqrwn6> , <http://id.crossref.org/contributor/jean-marc-theriault-3ram8u7uqrwn6> , <http://id.crossref.org/contributor/eldon-puckrin-3ram8u7uqrwn6> , <http://id.crossref.org/contributor/denis-dufour-3ram8u7uqrwn6> , <http://id.crossref.org/contributor/chris-ferguson-3ram8u7uqrwn6> , <http://id.crossref.org/contributor/kaley-a-walker-3ram8u7uqrwn6> ;
+      <http://purl.org/dc/terms/date>
+              "2004-02-27"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1117/12.519178" ;
+      <http://purl.org/dc/terms/publisher>
+              "SPIE" ;
+      <http://purl.org/dc/terms/title>
+              "Evaluation of the ACE FTS for obtaining nadir measurements" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1117/12.519178" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1117/12.519178> , <doi:10.1117/12.519178> .
+
+<http://id.crossref.org/contributor/denis-dufour-3ram8u7uqrwn6>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Dufour" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Denis" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Denis Dufour" .
+
+<http://id.crossref.org/contributor/chris-ferguson-3ram8u7uqrwn6>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Ferguson" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Chris" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Chris Ferguson" .
+
+<http://id.crossref.org/contributor/kaley-a-walker-3ram8u7uqrwn6>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Walker" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Kaley A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Kaley A. Walker" .

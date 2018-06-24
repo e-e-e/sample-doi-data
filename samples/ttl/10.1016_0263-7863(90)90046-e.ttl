@@ -1,0 +1,51 @@
+<http://id.crossref.org/contributor/john-kidd-2bg2guxlufhzs>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kidd" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "John" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "John Kidd" .
+
+<http://dx.doi.org/10.1016/0263-7863(90)90046-e>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/0263-7863(90)90046-e" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "115" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "109" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "8" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/john-kidd-2bg2guxlufhzs> ;
+      <http://purl.org/dc/terms/date>
+              "1990-05"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/0263-7863(90)90046-e" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0263-7863> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Project management software — are we being over-persuaded?" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/0263-7863(90)90046-e" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "115" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "109" ;
+      <http://purl.org/ontology/bibo/volume>
+              "8" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1016/0263-7863(90)90046-e> , <info:doi/10.1016/0263-7863(90)90046-e> .
+
+<http://id.crossref.org/issn/0263-7863>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0263-7863" ;
+      <http://purl.org/dc/terms/title>
+              "International Journal of Project Management" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0263-7863" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0263-7863" .

@@ -1,0 +1,51 @@
+<http://dx.doi.org/10.1163/157007363x00288>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1163/157007363x00288" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "376" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "371" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "15" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/josef-s-roucek-21eku388ag7mc> ;
+      <http://purl.org/dc/terms/date>
+              "1963-01-01"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1163/157007363x00288" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0044-3441> ;
+      <http://purl.org/dc/terms/publisher>
+              "Brill Academic Publishers" ;
+      <http://purl.org/dc/terms/title>
+              "Jan Amos Komenský" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1163/157007363x00288" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "376" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "371" ;
+      <http://purl.org/ontology/bibo/volume>
+              "15" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1163/157007363x00288> , <doi:10.1163/157007363x00288> .
+
+<http://id.crossref.org/issn/0044-3441>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0044-3441" , "1570-0739" ;
+      <http://purl.org/dc/terms/title>
+              "Zeitschrift für Religions- und Geistesgeschichte" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0044-3441" , "1570-0739" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1570-0739" , "urn:issn:0044-3441" .
+
+<http://id.crossref.org/contributor/josef-s-roucek-21eku388ag7mc>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Roucek" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Josef S." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Josef S. Roucek" .

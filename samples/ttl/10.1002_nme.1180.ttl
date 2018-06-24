@@ -1,0 +1,51 @@
+<http://id.crossref.org/issn/0029-5981>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1097-0207" , "0029-5981" ;
+      <http://purl.org/dc/terms/title>
+              "International Journal for Numerical Methods in Engineering" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1097-0207" , "0029-5981" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1097-0207" , "urn:issn:0029-5981" .
+
+<http://dx.doi.org/10.1002/nme.1180>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1002/nme.1180" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "2715" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "2696" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "61" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/pedro-ribeiro-12zq6uydxcqih> ;
+      <http://purl.org/dc/terms/date>
+              "2004"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1002/nme.1180" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0029-5981> ;
+      <http://purl.org/dc/terms/publisher>
+              "Wiley" ;
+      <http://purl.org/dc/terms/title>
+              "Ap-version, first order shear deformation, finite element for geometrically non-linear vibration of curved beams" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1002/nme.1180" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "2715" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "2696" ;
+      <http://purl.org/ontology/bibo/volume>
+              "61" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1002/nme.1180> , <info:doi/10.1002/nme.1180> .
+
+<http://id.crossref.org/contributor/pedro-ribeiro-12zq6uydxcqih>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Ribeiro" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Pedro" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Pedro Ribeiro" .

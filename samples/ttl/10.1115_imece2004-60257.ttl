@@ -1,0 +1,105 @@
+<http://id.crossref.org/contributor/w-lai-3m7p0ut83iznf>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Lai" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "W." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "W. Lai" .
+
+<http://id.crossref.org/isbn/079184711X>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Heat Transfer, Volume 2" .
+
+<http://id.crossref.org/contributor/r-s-prasher-3m7p0ut83iznf>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Prasher" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "R. S." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "R. S. Prasher" .
+
+<http://id.crossref.org/contributor/j-wang-3m7p0ut83iznf>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Wang" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "J." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "J. Wang" .
+
+<http://id.crossref.org/contributor/p-e-phelan-3m7p0ut83iznf>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Phelan" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "P. E." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "P. E. Phelan" .
+
+<http://id.crossref.org/contributor/s-nara-3m7p0ut83iznf>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Nara" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "S." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "S. Nara" .
+
+<http://id.crossref.org/contributor/t-tang-3m7p0ut83iznf>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Tang" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "T." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "T. Tang" .
+
+<http://id.crossref.org/contributor/p-bhattacharya-3m7p0ut83iznf>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Bhattacharya" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "P." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "P. Bhattacharya" .
+
+<http://dx.doi.org/10.1115/imece2004-60257>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1115/imece2004-60257" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/w-lai-3m7p0ut83iznf> , <http://id.crossref.org/contributor/r-s-prasher-3m7p0ut83iznf> , <http://id.crossref.org/contributor/p-e-phelan-3m7p0ut83iznf> , <http://id.crossref.org/contributor/j-wang-3m7p0ut83iznf> , <http://id.crossref.org/contributor/t-tang-3m7p0ut83iznf> , <http://id.crossref.org/contributor/s-nara-3m7p0ut83iznf> , <http://id.crossref.org/contributor/p-bhattacharya-3m7p0ut83iznf> , <http://id.crossref.org/contributor/d-w-song-3m7p0ut83iznf> , <http://id.crossref.org/contributor/p-vijayan-3m7p0ut83iznf> ;
+      <http://purl.org/dc/terms/date>
+              "2004"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1115/imece2004-60257" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/079184711X> ;
+      <http://purl.org/dc/terms/publisher>
+              "ASME" ;
+      <http://purl.org/dc/terms/title>
+              "Evaluation of the Temperature Oscillation Technique to Calculate Thermal Conductivity of Water and Systematic Measurement of the Thermal Conductivity of Aluminum Oxide – Water Nanofluid" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1115/imece2004-60257" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1115/imece2004-60257> , <info:doi/10.1115/imece2004-60257> .
+
+<http://id.crossref.org/contributor/p-vijayan-3m7p0ut83iznf>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Vijayan" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "P." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "P. Vijayan" .
+
+<http://id.crossref.org/contributor/d-w-song-3m7p0ut83iznf>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Song" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "D. W." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "D. W. Song" .

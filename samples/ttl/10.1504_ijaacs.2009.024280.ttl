@@ -1,0 +1,47 @@
+<http://id.crossref.org/issn/1754-8632>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1754-8640" , "1754-8632" ;
+      <http://purl.org/dc/terms/title>
+              "International Journal of Autonomous and Adaptive Communications Systems" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1754-8640" , "1754-8632" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1754-8640" , "urn:issn:1754-8632" .
+
+<http://id.crossref.org/contributor/c-fragouli-8efxmc14wgqv>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Fragouli" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "C." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "C. Fragouli" .
+
+<http://dx.doi.org/10.1504/ijaacs.2009.024280>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1504/ijaacs.2009.024280" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "1" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "2" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/c-fragouli-8efxmc14wgqv> ;
+      <http://purl.org/dc/terms/date>
+              "2009"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1504/ijaacs.2009.024280" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1754-8632> ;
+      <http://purl.org/dc/terms/publisher>
+              "Inderscience Publishers" ;
+      <http://purl.org/dc/terms/title>
+              "An overview of network coding for dynamically changing networks" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1504/ijaacs.2009.024280" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "1" ;
+      <http://purl.org/ontology/bibo/volume>
+              "2" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1504/ijaacs.2009.024280> , <info:doi/10.1504/ijaacs.2009.024280> .

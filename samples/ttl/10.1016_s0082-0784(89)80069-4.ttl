@@ -1,0 +1,60 @@
+<http://id.crossref.org/contributor/d-stepowski-1esmbq9d2cihx>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Stepowski" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "D." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "D. Stepowski" .
+
+<http://dx.doi.org/10.1016/s0082-0784(89)80069-4>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/s0082-0784(89)80069-4" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "625" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "619" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "22" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/d-stepowski-1esmbq9d2cihx> , <http://id.crossref.org/contributor/g-cabot-1esmbq9d2cihx> ;
+      <http://purl.org/dc/terms/date>
+              "1989-01"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/s0082-0784(89)80069-4" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0082-0784> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Laser Mie scattering measurement of mean mixture fraction density and temperature by conditional seeding in a turbulent diffusion flame" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/s0082-0784(89)80069-4" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "625" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "619" ;
+      <http://purl.org/ontology/bibo/volume>
+              "22" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1016/s0082-0784(89)80069-4> , <info:doi/10.1016/s0082-0784(89)80069-4> .
+
+<http://id.crossref.org/issn/0082-0784>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0082-0784" ;
+      <http://purl.org/dc/terms/title>
+              "Symposium (International) on Combustion" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0082-0784" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0082-0784" .
+
+<http://id.crossref.org/contributor/g-cabot-1esmbq9d2cihx>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Cabot" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "G." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "G. Cabot" .

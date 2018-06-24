@@ -1,0 +1,78 @@
+<http://id.crossref.org/contributor/s-v-melnichuk-1k44hj77dqpz0>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Melnichuk" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "S. V." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "S. V. Melnichuk" .
+
+<http://id.crossref.org/issn/0370-1972>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0370-1972" , "1521-3951" ;
+      <http://purl.org/dc/terms/title>
+              "physica status solidi (b)" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0370-1972" , "1521-3951" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0370-1972" , "urn:issn:1521-3951" .
+
+<http://id.crossref.org/contributor/n-k-tovstyuk-1k44hj77dqpz0>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Tovstyuk" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "N. K." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "N. K. Tovstyuk" .
+
+<http://id.crossref.org/contributor/k-d-tovstyuk-1k44hj77dqpz0>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Tovstyuk" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "K. D." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "K. D. Tovstyuk" .
+
+<http://dx.doi.org/10.1002/pssb.2221300263>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1002/pssb.2221300263" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "K156" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "K153" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "130" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/s-v-melnichuk-1k44hj77dqpz0> , <http://id.crossref.org/contributor/n-k-tovstyuk-1k44hj77dqpz0> , <http://id.crossref.org/contributor/k-d-tovstyuk-1k44hj77dqpz0> , <http://id.crossref.org/contributor/v-g-deybuk-1k44hj77dqpz0> ;
+      <http://purl.org/dc/terms/date>
+              "1985-08-01"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1002/pssb.2221300263" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0370-1972> ;
+      <http://purl.org/dc/terms/publisher>
+              "Wiley" ;
+      <http://purl.org/dc/terms/title>
+              "3d-Impurity Levels in CdTe and ZnSe" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1002/pssb.2221300263" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "K156" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "K153" ;
+      <http://purl.org/ontology/bibo/volume>
+              "130" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1002/pssb.2221300263> , <info:doi/10.1002/pssb.2221300263> .
+
+<http://id.crossref.org/contributor/v-g-deybuk-1k44hj77dqpz0>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Deybuk" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "V. G." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "V. G. Deybuk" .

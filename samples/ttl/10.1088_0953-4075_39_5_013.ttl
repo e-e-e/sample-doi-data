@@ -1,0 +1,60 @@
+<http://id.crossref.org/issn/0953-4075>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0953-4075" , "1361-6455" ;
+      <http://purl.org/dc/terms/title>
+              "Journal of Physics B: Atomic, Molecular and Optical Physics" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0953-4075" , "1361-6455" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0953-4075" , "urn:issn:1361-6455" .
+
+<http://id.crossref.org/contributor/bibhas-k-dutta-1db4qafp2h3fw>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Dutta" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Bibhas K" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Bibhas K Dutta" .
+
+<http://dx.doi.org/10.1088/0953-4075/39/5/013>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1088/0953-4075/39/5/013" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "1157" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "1145" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "39" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/bibhas-k-dutta-1db4qafp2h3fw> , <http://id.crossref.org/contributor/prasanta-k-mahapatra-1db4qafp2h3fw> ;
+      <http://purl.org/dc/terms/date>
+              "2006-02-15"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1088/0953-4075/39/5/013" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0953-4075> ;
+      <http://purl.org/dc/terms/publisher>
+              "IOP Publishing" ;
+      <http://purl.org/dc/terms/title>
+              "Electromagnetically induced grating in a three-level Ξ-type system driven by a strong standing wave pump and weak probe fields" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1088/0953-4075/39/5/013" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "1157" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "1145" ;
+      <http://purl.org/ontology/bibo/volume>
+              "39" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1088/0953-4075/39/5/013> , <info:doi/10.1088/0953-4075/39/5/013> .
+
+<http://id.crossref.org/contributor/prasanta-k-mahapatra-1db4qafp2h3fw>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Mahapatra" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Prasanta K" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Prasanta K Mahapatra" .

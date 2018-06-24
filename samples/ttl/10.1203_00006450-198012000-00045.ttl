@@ -1,0 +1,60 @@
+<http://id.crossref.org/contributor/k-i-osrstavi-jencndmlyare>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Osrstavi" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "K I" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "K I Osrstavi" .
+
+<http://id.crossref.org/issn/0031-3998>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0031-3998" , "1530-0447" ;
+      <http://purl.org/dc/terms/title>
+              "Pediatric Research" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0031-3998" , "1530-0447" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1530-0447" , "urn:issn:0031-3998" .
+
+<http://dx.doi.org/10.1203/00006450-198012000-00045>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1203/00006450-198012000-00045" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "1416" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "1416" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "14" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/k-i-osrstavi-jencndmlyare> , <http://id.crossref.org/contributor/n-s-halvorse-jencndmlyare> ;
+      <http://purl.org/dc/terms/date>
+              "1980-12"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1203/00006450-198012000-00045" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0031-3998> ;
+      <http://purl.org/dc/terms/publisher>
+              "Springer Nature" ;
+      <http://purl.org/dc/terms/title>
+              "THE EFFECT OF HUMAN MILK FRACTION ON ROTAVIRUS AND E. COLI HEAT LABILE ENTEROTOXIN" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1203/00006450-198012000-00045" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "1416" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "1416" ;
+      <http://purl.org/ontology/bibo/volume>
+              "14" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1203/00006450-198012000-00045> , <doi:10.1203/00006450-198012000-00045> .
+
+<http://id.crossref.org/contributor/n-s-halvorse-jencndmlyare>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Halvorse" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "N S" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "N S Halvorse" .

@@ -1,0 +1,87 @@
+<http://dx.doi.org/10.1007/bf00431968>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1007/bf00431968" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "142" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "139" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "67" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/g-sedvall-31qvksfz1s17x> , <http://id.crossref.org/contributor/f-johansson-31qvksfz1s17x> , <http://id.crossref.org/contributor/b-g-l-almay-31qvksfz1s17x> , <http://id.crossref.org/contributor/l-von-knorring-31qvksfz1s17x> , <http://id.crossref.org/contributor/l-terenius-31qvksfz1s17x> ;
+      <http://purl.org/dc/terms/date>
+              "1980-02"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1007/bf00431968" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0033-3158> ;
+      <http://purl.org/dc/terms/publisher>
+              "Springer Nature" ;
+      <http://purl.org/dc/terms/title>
+              "Relationships between CSF levels of endorphins and monoamine metabolites in chronic pain patients" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1007/bf00431968" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "142" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "139" ;
+      <http://purl.org/ontology/bibo/volume>
+              "67" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1007/bf00431968> , <doi:10.1007/bf00431968> .
+
+<http://id.crossref.org/contributor/g-sedvall-31qvksfz1s17x>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Sedvall" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "G." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "G. Sedvall" .
+
+<http://id.crossref.org/issn/0033-3158>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0033-3158" , "1432-2072" ;
+      <http://purl.org/dc/terms/title>
+              "Psychopharmacology" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0033-3158" , "1432-2072" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1432-2072" , "urn:issn:0033-3158" .
+
+<http://id.crossref.org/contributor/f-johansson-31qvksfz1s17x>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Johansson" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "F." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "F. Johansson" .
+
+<http://id.crossref.org/contributor/b-g-l-almay-31qvksfz1s17x>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Almay" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "B. G. L." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "B. G. L. Almay" .
+
+<http://id.crossref.org/contributor/l-von-knorring-31qvksfz1s17x>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "von Knorring" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "L." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "L. von Knorring" .
+
+<http://id.crossref.org/contributor/l-terenius-31qvksfz1s17x>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Terenius" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "L." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "L. Terenius" .

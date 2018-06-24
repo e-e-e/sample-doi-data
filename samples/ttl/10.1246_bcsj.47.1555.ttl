@@ -1,0 +1,69 @@
+<http://id.crossref.org/contributor/tamio-hayashi-231mbnied51y>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Hayashi" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Tamio" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Tamio Hayashi" .
+
+<http://id.crossref.org/issn/0009-2673>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1348-0634" , "0009-2673" ;
+      <http://purl.org/dc/terms/title>
+              "Bulletin of the Chemical Society of Japan" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1348-0634" , "0009-2673" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0009-2673" , "urn:issn:1348-0634" .
+
+<http://id.crossref.org/contributor/makoto-kumada-231mbnied51y>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kumada" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Makoto" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Makoto Kumada" .
+
+<http://dx.doi.org/10.1246/bcsj.47.1555>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1246/bcsj.47.1555" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "1556" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "1555" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "47" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/tamio-hayashi-231mbnied51y> , <http://id.crossref.org/contributor/makoto-kumada-231mbnied51y> , <http://id.crossref.org/contributor/keiji-yamamoto-231mbnied51y> ;
+      <http://purl.org/dc/terms/date>
+              "1974-06"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1246/bcsj.47.1555" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0009-2673> ;
+      <http://purl.org/dc/terms/publisher>
+              "The Chemical Society of Japan" ;
+      <http://purl.org/dc/terms/title>
+              "Determination of Enantiomeric Purity of 1-Phenylalkanols Using a Chiral NMR Shift Reagent" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1246/bcsj.47.1555" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "1556" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "1555" ;
+      <http://purl.org/ontology/bibo/volume>
+              "47" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1246/bcsj.47.1555> , <doi:10.1246/bcsj.47.1555> .
+
+<http://id.crossref.org/contributor/keiji-yamamoto-231mbnied51y>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Yamamoto" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Keiji" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Keiji Yamamoto" .

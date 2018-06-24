@@ -1,0 +1,51 @@
+<http://dx.doi.org/10.1038/148423b0>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1038/148423b0" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "423" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "423" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "148" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/c-h-d-3i1fzgsg7iyzg> ;
+      <http://purl.org/dc/terms/date>
+              "1941-10"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1038/148423b0" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0028-0836> ;
+      <http://purl.org/dc/terms/publisher>
+              "Springer Nature" ;
+      <http://purl.org/dc/terms/title>
+              "An Outline of Metallurgical Practice" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1038/148423b0" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "423" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "423" ;
+      <http://purl.org/ontology/bibo/volume>
+              "148" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1038/148423b0> , <info:doi/10.1038/148423b0> .
+
+<http://id.crossref.org/issn/0028-0836>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1476-4687" , "0028-0836" ;
+      <http://purl.org/dc/terms/title>
+              "Nature" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1476-4687" , "0028-0836" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0028-0836" , "urn:issn:1476-4687" .
+
+<http://id.crossref.org/contributor/c-h-d-3i1fzgsg7iyzg>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "D." ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "C. H." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "C. H. D." .

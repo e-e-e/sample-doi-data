@@ -1,0 +1,78 @@
+<http://id.crossref.org/contributor/martin-l-nusynowitz-3e1hqunn6ooih>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "NUSYNOWITZ" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "MARTIN L." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "MARTIN L. NUSYNOWITZ" .
+
+<http://dx.doi.org/10.1097/00003072-198102000-00001>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1097/00003072-198102000-00001" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "56" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "53" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "6" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/martin-l-nusynowitz-3e1hqunn6ooih> , <http://id.crossref.org/contributor/frederick-l-weiland-3e1hqunn6ooih> , <http://id.crossref.org/contributor/albert-s-hale-3e1hqunn6ooih> , <http://id.crossref.org/contributor/john-l-floyd-3e1hqunn6ooih> ;
+      <http://purl.org/dc/terms/date>
+              "1981-02"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1097/00003072-198102000-00001" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0363-9762> ;
+      <http://purl.org/dc/terms/publisher>
+              "Ovid Technologies (Wolters Kluwer Health)" ;
+      <http://purl.org/dc/terms/title>
+              "Hepatic Imaging: A Comparison of Tc-99m-Sulfur Colloid and PIPIDA in the Detection of Defects" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1097/00003072-198102000-00001" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "56" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "53" ;
+      <http://purl.org/ontology/bibo/volume>
+              "6" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1097/00003072-198102000-00001> , <info:doi/10.1097/00003072-198102000-00001> .
+
+<http://id.crossref.org/contributor/frederick-l-weiland-3e1hqunn6ooih>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "WEILAND" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "FREDERICK L." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "FREDERICK L. WEILAND" .
+
+<http://id.crossref.org/issn/0363-9762>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0363-9762" ;
+      <http://purl.org/dc/terms/title>
+              "Clinical Nuclear Medicine" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0363-9762" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0363-9762" .
+
+<http://id.crossref.org/contributor/albert-s-hale-3e1hqunn6ooih>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "HALE" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "ALBERT S." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "ALBERT S. HALE" .
+
+<http://id.crossref.org/contributor/john-l-floyd-3e1hqunn6ooih>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "FLOYD" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "JOHN L." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "JOHN L. FLOYD" .

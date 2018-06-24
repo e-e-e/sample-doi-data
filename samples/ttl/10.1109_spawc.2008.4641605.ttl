@@ -1,0 +1,51 @@
+<http://id.crossref.org/isbn/9781424420452>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "2008 IEEE 9th Workshop on Signal Processing Advances in Wireless Communications" .
+
+<http://id.crossref.org/contributor/carlos-mosquera-vl6ylob53fwg>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Mosquera" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Carlos" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Carlos Mosquera" .
+
+<http://id.crossref.org/contributor/sudharman-k-jayaweera-vl6ylob53fwg>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Jayaweera" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Sudharman K." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Sudharman K. Jayaweera" .
+
+<http://id.crossref.org/contributor/roberto-lopez-valcarce-vl6ylob53fwg>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Lopez-Valcarce" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Roberto" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Roberto Lopez-Valcarce" .
+
+<http://dx.doi.org/10.1109/spawc.2008.4641605>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1109/spawc.2008.4641605" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/carlos-mosquera-vl6ylob53fwg> , <http://id.crossref.org/contributor/sudharman-k-jayaweera-vl6ylob53fwg> , <http://id.crossref.org/contributor/roberto-lopez-valcarce-vl6ylob53fwg> ;
+      <http://purl.org/dc/terms/date>
+              "2008-07"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1109/spawc.2008.4641605" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9781424420452> ;
+      <http://purl.org/dc/terms/publisher>
+              "IEEE" ;
+      <http://purl.org/dc/terms/title>
+              "Distributed estimation with noisy exchanges" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1109/spawc.2008.4641605" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1109/spawc.2008.4641605> , <doi:10.1109/spawc.2008.4641605> .

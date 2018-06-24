@@ -1,0 +1,60 @@
+<http://dx.doi.org/10.1007/s11270-007-9535-5>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1007/s11270-007-9535-5" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "204" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "195" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "188" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/rainer-georg-joergensen-1iuhun5vp6od0> , <http://id.crossref.org/contributor/krishan-chander-1iuhun5vp6od0> ;
+      <http://purl.org/dc/terms/date>
+              "2007-10-20"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1007/s11270-007-9535-5" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0049-6979> ;
+      <http://purl.org/dc/terms/publisher>
+              "Springer Nature" ;
+      <http://purl.org/dc/terms/title>
+              "Decomposition of Zn-rich Arabidopsis halleri Litter in Low and High Metal Soil in the Presence and Absence of EDTA" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1007/s11270-007-9535-5" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "204" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "195" ;
+      <http://purl.org/ontology/bibo/volume>
+              "188" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1007/s11270-007-9535-5> , <doi:10.1007/s11270-007-9535-5> .
+
+<http://id.crossref.org/contributor/rainer-georg-joergensen-1iuhun5vp6od0>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Joergensen" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Rainer Georg" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Rainer Georg Joergensen" .
+
+<http://id.crossref.org/contributor/krishan-chander-1iuhun5vp6od0>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Chander" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Krishan" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Krishan Chander" .
+
+<http://id.crossref.org/issn/0049-6979>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1573-2932" , "0049-6979" ;
+      <http://purl.org/dc/terms/title>
+              "Water, Air, and Soil Pollution" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1573-2932" , "0049-6979" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1573-2932" , "urn:issn:0049-6979" .

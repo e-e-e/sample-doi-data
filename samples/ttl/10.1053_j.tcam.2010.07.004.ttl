@@ -1,0 +1,51 @@
+<http://id.crossref.org/issn/1938-9736>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1938-9736" ;
+      <http://purl.org/dc/terms/title>
+              "Topics in Companion Animal Medicine" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1938-9736" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1938-9736" .
+
+<http://dx.doi.org/10.1053/j.tcam.2010.07.004>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1053/j.tcam.2010.07.004" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "144" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "142" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "25" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/michael-r-lappin-3ndaxnkqczzi6> ;
+      <http://purl.org/dc/terms/date>
+              "2010-08"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1053/j.tcam.2010.07.004" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1938-9736> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Update on the Diagnosis and Management of Hepatozoon spp Infections in Dogs in the United States" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1053/j.tcam.2010.07.004" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "144" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "142" ;
+      <http://purl.org/ontology/bibo/volume>
+              "25" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1053/j.tcam.2010.07.004> , <doi:10.1053/j.tcam.2010.07.004> .
+
+<http://id.crossref.org/contributor/michael-r-lappin-3ndaxnkqczzi6>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Lappin" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Michael R." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Michael R. Lappin" .

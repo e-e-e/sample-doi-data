@@ -1,0 +1,36 @@
+<http://dx.doi.org/10.1016/s0016-0032(21)90057-7>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/s0016-0032(21)90057-7" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "108" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "192" ;
+      <http://purl.org/dc/terms/date>
+              "1921-07"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/s0016-0032(21)90057-7" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0016-0032> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Utah's lofty mountains" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/s0016-0032(21)90057-7" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "108" ;
+      <http://purl.org/ontology/bibo/volume>
+              "192" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1016/s0016-0032(21)90057-7> , <info:doi/10.1016/s0016-0032(21)90057-7> .
+
+<http://id.crossref.org/issn/0016-0032>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0016-0032" ;
+      <http://purl.org/dc/terms/title>
+              "Journal of the Franklin Institute" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0016-0032" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0016-0032" .

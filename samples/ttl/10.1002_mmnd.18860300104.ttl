@@ -1,0 +1,51 @@
+<http://dx.doi.org/10.1002/mmnd.18860300104>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1002/mmnd.18860300104" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "62" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "39" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "30" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/johannes-schilde-fn88uyq5v8pp> ;
+      <http://purl.org/dc/terms/date>
+              "2008-04-18"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1002/mmnd.18860300104" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0323-6145> ;
+      <http://purl.org/dc/terms/publisher>
+              "Wiley" ;
+      <http://purl.org/dc/terms/title>
+              "Betrachtungen über die Variabilität in der Schmetterlings-Gattung Pyrgus" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1002/mmnd.18860300104" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "62" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "39" ;
+      <http://purl.org/ontology/bibo/volume>
+              "30" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1002/mmnd.18860300104> , <doi:10.1002/mmnd.18860300104> .
+
+<http://id.crossref.org/issn/0323-6145>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0323-6145" , "1860-1324" ;
+      <http://purl.org/dc/terms/title>
+              "Berliner entomologische Zeitschrift" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0323-6145" , "1860-1324" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1860-1324" , "urn:issn:0323-6145" .
+
+<http://id.crossref.org/contributor/johannes-schilde-fn88uyq5v8pp>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Schilde" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Johannes" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Johannes Schilde" .

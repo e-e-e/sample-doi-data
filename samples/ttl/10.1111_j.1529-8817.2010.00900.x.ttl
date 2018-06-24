@@ -1,0 +1,141 @@
+<http://id.crossref.org/contributor/heather-spalding-25wdgk4wnretj>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Spalding" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Heather" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Heather Spalding" .
+
+<http://id.crossref.org/contributor/julie-a-buchheim-25wdgk4wnretj>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Buchheim" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Julie A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Julie A. Buchheim" .
+
+<http://id.crossref.org/contributor/matt-ashworth-25wdgk4wnretj>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Ashworth" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Matt" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Matt Ashworth" .
+
+<http://id.crossref.org/contributor/marvin-w-fawley-25wdgk4wnretj>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Fawley" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Marvin W." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Marvin W. Fawley" .
+
+<http://id.crossref.org/issn/0022-3646>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0022-3646" ;
+      <http://purl.org/dc/terms/title>
+              "Journal of Phycology" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0022-3646" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0022-3646" .
+
+<http://id.crossref.org/contributor/frederik-leliaert-25wdgk4wnretj>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Leliaert" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Frederik" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Frederik Leliaert" .
+
+<http://id.crossref.org/contributor/bindhu-verghese-25wdgk4wnretj>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Verghese" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Bindhu" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Bindhu Verghese" .
+
+<http://id.crossref.org/contributor/frederick-w-zechman-25wdgk4wnretj>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Zechman" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Frederick W." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Frederick W. Zechman" .
+
+<http://id.crossref.org/contributor/curt-m-pueschel-25wdgk4wnretj>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Pueschel" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Curt M." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Curt M. Pueschel" .
+
+<http://id.crossref.org/contributor/m-dennis-hanisak-25wdgk4wnretj>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Hanisak" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "M. Dennis" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "M. Dennis Hanisak" .
+
+<http://dx.doi.org/10.1111/j.1529-8817.2010.00900.x>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1111/j.1529-8817.2010.00900.x" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "1295" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "1288" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "46" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/frederick-w-zechman-25wdgk4wnretj> , <http://id.crossref.org/contributor/heather-spalding-25wdgk4wnretj> , <http://id.crossref.org/contributor/curt-m-pueschel-25wdgk4wnretj> , <http://id.crossref.org/contributor/julie-a-buchheim-25wdgk4wnretj> , <http://id.crossref.org/contributor/matt-ashworth-25wdgk4wnretj> , <http://id.crossref.org/contributor/m-dennis-hanisak-25wdgk4wnretj> , <http://id.crossref.org/contributor/marvin-w-fawley-25wdgk4wnretj> , <http://id.crossref.org/contributor/mark-a-buchheim-25wdgk4wnretj> , <http://id.crossref.org/contributor/frederik-leliaert-25wdgk4wnretj> , <http://id.crossref.org/contributor/bindhu-verghese-25wdgk4wnretj> , <http://id.crossref.org/contributor/heroen-verbruggen-25wdgk4wnretj> ;
+      <http://purl.org/dc/terms/date>
+              "2010-09-27"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1111/j.1529-8817.2010.00900.x" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0022-3646> ;
+      <http://purl.org/dc/terms/publisher>
+              "Wiley" ;
+      <http://purl.org/dc/terms/title>
+              "AN UNRECOGNIZED ANCIENT LINEAGE OF GREEN PLANTS PERSISTS IN DEEP MARINE WATERS1" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1111/j.1529-8817.2010.00900.x" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "1295" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "1288" ;
+      <http://purl.org/ontology/bibo/volume>
+              "46" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1111/j.1529-8817.2010.00900.x> , <doi:10.1111/j.1529-8817.2010.00900.x> .
+
+<http://id.crossref.org/contributor/mark-a-buchheim-25wdgk4wnretj>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Buchheim" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Mark A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Mark A. Buchheim" .
+
+<http://id.crossref.org/contributor/heroen-verbruggen-25wdgk4wnretj>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Verbruggen" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Heroen" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Heroen Verbruggen" .

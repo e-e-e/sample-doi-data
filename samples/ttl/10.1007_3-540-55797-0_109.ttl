@@ -1,0 +1,68 @@
+<http://id.crossref.org/contributor/r-t-corrigan-324t931d15g80>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Corrigan" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "R. T." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "R. T. Corrigan" .
+
+<http://id.crossref.org/contributor/r-l-webster-324t931d15g80>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Webster" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "R. L." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "R. L. Webster" .
+
+<http://dx.doi.org/10.1007/3-540-55797-0_109>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1007/3-540-55797-0_109" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "263" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "256" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/r-t-corrigan-324t931d15g80> , <http://id.crossref.org/contributor/r-l-webster-324t931d15g80> , <http://id.crossref.org/contributor/m-j-irwin-324t931d15g80> , <http://id.crossref.org/contributor/p-c-hewett-324t931d15g80> ;
+      <http://purl.org/dc/terms/date>
+              ""^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1007/3-540-55797-0_109" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9783540557975> ;
+      <http://purl.org/dc/terms/publisher>
+              "Springer Berlin Heidelberg" ;
+      <http://purl.org/dc/terms/title>
+              "A search for close separation (≲ 1″) quasar images" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1007/3-540-55797-0_109" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "263" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "256" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1007/3-540-55797-0_109> , <doi:10.1007/3-540-55797-0_109> .
+
+<http://id.crossref.org/contributor/m-j-irwin-324t931d15g80>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Irwin" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "M. J." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "M. J. Irwin" .
+
+<http://id.crossref.org/isbn/9783540557975>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Gravitational Lenses" .
+
+<http://id.crossref.org/contributor/p-c-hewett-324t931d15g80>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Hewett" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "P. C." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "P. C. Hewett" .

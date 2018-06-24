@@ -1,0 +1,30 @@
+<http://id.crossref.org/issn/0036-6773>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0036-6773" ;
+      <http://purl.org/dc/terms/title>
+              "The School Review" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0036-6773" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0036-6773" .
+
+<http://dx.doi.org/10.1086/sr.1928.36.issue-6>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1086/sr.1928.36.issue-6" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "36" ;
+      <http://purl.org/dc/terms/date>
+              "1928-06"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1086/sr.1928.36.issue-6" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0036-6773> ;
+      <http://purl.org/dc/terms/publisher>
+              "University of Chicago Press" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1086/sr.1928.36.issue-6" ;
+      <http://purl.org/ontology/bibo/volume>
+              "36" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1086/sr.1928.36.issue-6> , <doi:10.1086/sr.1928.36.issue-6> .

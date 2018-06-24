@@ -1,0 +1,51 @@
+<http://id.crossref.org/issn/0749-2081>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0749-2081" ;
+      <http://purl.org/dc/terms/title>
+              "Seminars in Oncology Nursing" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0749-2081" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0749-2081" .
+
+<http://id.crossref.org/contributor/katherine-g-oconnor-8ee22156u5gr>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "O'Connor" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Katherine G." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Katherine G. O'Connor" .
+
+<http://dx.doi.org/10.1016/s0749-2081(99)80037-0>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/s0749-2081(99)80037-0" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "35" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "26" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "15" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/katherine-g-oconnor-8ee22156u5gr> ;
+      <http://purl.org/dc/terms/date>
+              "1999-02"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/s0749-2081(99)80037-0" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0749-2081> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Gastric cancer" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/s0749-2081(99)80037-0" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "35" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "26" ;
+      <http://purl.org/ontology/bibo/volume>
+              "15" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1016/s0749-2081(99)80037-0> , <doi:10.1016/s0749-2081(99)80037-0> .

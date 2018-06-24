@@ -1,0 +1,40 @@
+<http://dx.doi.org/10.1016/s0140-6736(02)63346-x>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/s0140-6736(02)63346-x" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "429" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "427" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "101" ;
+      <http://purl.org/dc/terms/date>
+              "1873-03"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/s0140-6736(02)63346-x" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0140-6736> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "GULSTONIAN LECTURES AT THE ROYAL COLLEGE OF PHYSICIANS." ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/s0140-6736(02)63346-x" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "429" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "427" ;
+      <http://purl.org/ontology/bibo/volume>
+              "101" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1016/s0140-6736(02)63346-x> , <info:doi/10.1016/s0140-6736(02)63346-x> .
+
+<http://id.crossref.org/issn/0140-6736>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0140-6736" ;
+      <http://purl.org/dc/terms/title>
+              "The Lancet" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0140-6736" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0140-6736" .

@@ -1,0 +1,51 @@
+<http://id.crossref.org/issn/0012-0472>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0012-0472" , "1439-4413" ;
+      <http://purl.org/dc/terms/title>
+              "DMW - Deutsche Medizinische Wochenschrift" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0012-0472" , "1439-4413" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1439-4413" , "urn:issn:0012-0472" .
+
+<http://dx.doi.org/10.1055/s-0028-1117024>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1055/s-0028-1117024" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "1957" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "1952" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "82" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/ludwig-delius-2rg4moyj8lncw> ;
+      <http://purl.org/dc/terms/date>
+              "1957-11"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1055/s-0028-1117024" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0012-0472> ;
+      <http://purl.org/dc/terms/publisher>
+              "Georg Thieme Verlag KG" ;
+      <http://purl.org/dc/terms/title>
+              "Über Umstimmung und Anpassung1" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1055/s-0028-1117024" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "1957" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "1952" ;
+      <http://purl.org/ontology/bibo/volume>
+              "82" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1055/s-0028-1117024> , <info:doi/10.1055/s-0028-1117024> .
+
+<http://id.crossref.org/contributor/ludwig-delius-2rg4moyj8lncw>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Delius" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Ludwig" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Ludwig Delius" .

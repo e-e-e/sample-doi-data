@@ -1,0 +1,58 @@
+<http://id.crossref.org/contributor/w-zhang-m7rlze9pltru>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Zhang" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "W." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "W. Zhang" .
+
+<http://id.crossref.org/issn/0021-891X>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0021-891X" ;
+      <http://purl.org/dc/terms/title>
+              "Journal of Applied Electrochemistry" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0021-891X" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0021-891X" .
+
+<http://id.crossref.org/contributor/e-a-charles-m7rlze9pltru>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Charles" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "E.A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "E.A. Charles" .
+
+<http://dx.doi.org/10.1023/a:1026217808475>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1023/a:1026217808475" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "1033" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "1025" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "33" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/w-zhang-m7rlze9pltru> , <http://id.crossref.org/contributor/e-a-charles-m7rlze9pltru> ;
+      <http://purl.org/dc/terms/date>
+              "2003"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1023/a:1026217808475" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0021-891X> ;
+      <http://purl.org/dc/terms/publisher>
+              "Springer Nature" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1023/a:1026217808475" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "1033" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "1025" ;
+      <http://purl.org/ontology/bibo/volume>
+              "33" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1023/a:1026217808475> , <info:doi/10.1023/a:1026217808475> .

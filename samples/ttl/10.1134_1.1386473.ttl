@@ -1,0 +1,78 @@
+<http://dx.doi.org/10.1134/1.1386473>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1134/1.1386473" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "1327" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "1325" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "43" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/o-v-rogazinskaya-1czwkh3r7frwk> , <http://id.crossref.org/contributor/a-a-sidorkin-1czwkh3r7frwk> , <http://id.crossref.org/contributor/s-d-milovidova-1czwkh3r7frwk> , <http://id.crossref.org/contributor/a-s-sidorkin-1czwkh3r7frwk> ;
+      <http://purl.org/dc/terms/date>
+              "2001-07"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1134/1.1386473" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1063-7834> ;
+      <http://purl.org/dc/terms/publisher>
+              "Pleiades Publishing Ltd" ;
+      <http://purl.org/dc/terms/title>
+              "Thermostimulated electron emission from polar cleavage of a triglycine sulfate crystal" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1134/1.1386473" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "1327" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "1325" ;
+      <http://purl.org/ontology/bibo/volume>
+              "43" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1134/1.1386473> , <info:doi/10.1134/1.1386473> .
+
+<http://id.crossref.org/issn/1063-7834>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1063-7834" , "1090-6460" ;
+      <http://purl.org/dc/terms/title>
+              "Physics of the Solid State" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1063-7834" , "1090-6460" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1090-6460" , "urn:issn:1063-7834" .
+
+<http://id.crossref.org/contributor/a-a-sidorkin-1czwkh3r7frwk>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Sidorkin" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "A. A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "A. A. Sidorkin" .
+
+<http://id.crossref.org/contributor/o-v-rogazinskaya-1czwkh3r7frwk>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Rogazinskaya" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "O. V." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "O. V. Rogazinskaya" .
+
+<http://id.crossref.org/contributor/a-s-sidorkin-1czwkh3r7frwk>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Sidorkin" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "A. S." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "A. S. Sidorkin" .
+
+<http://id.crossref.org/contributor/s-d-milovidova-1czwkh3r7frwk>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Milovidova" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "S. D." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "S. D. Milovidova" .

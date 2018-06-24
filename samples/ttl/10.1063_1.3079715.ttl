@@ -1,0 +1,179 @@
+<http://id.crossref.org/contributor/v-korolev-1frqbnpnt5k98>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Korolev" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "V." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "V. Korolev" .
+
+<http://id.crossref.org/contributor/bruce-r-kusse-1frqbnpnt5k98>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kusse" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Bruce R." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Bruce R. Kusse" .
+
+<http://id.crossref.org/contributor/e-kazakov-1frqbnpnt5k98>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kazakov" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "E." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "E. Kazakov" .
+
+<http://id.crossref.org/contributor/a-zelenin-1frqbnpnt5k98>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Zelenin" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "A. Zelenin" .
+
+<http://id.crossref.org/contributor/s-tkachenko-1frqbnpnt5k98>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Tkachenko" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "S." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "S. Tkachenko" .
+
+<http://id.crossref.org/contributor/v-smirnov-1frqbnpnt5k98>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "smirnov" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "V." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "V. smirnov" .
+
+<http://id.crossref.org/contributor/yu-kalinin-1frqbnpnt5k98>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kalinin" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Yu." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Yu. Kalinin" .
+
+<http://id.crossref.org/contributor/a-chernenko-1frqbnpnt5k98>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Chernenko" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "A. Chernenko" .
+
+<http://id.crossref.org/contributor/s-pikuz-1frqbnpnt5k98>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Pikuz" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "S." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "S. Pikuz" .
+
+<http://id.crossref.org/contributor/v-bryzgunov-1frqbnpnt5k98>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Bryzgunov" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "V." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "V. Bryzgunov" .
+
+<http://id.crossref.org/contributor/p-blinov-1frqbnpnt5k98>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Blinov" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "P." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "P. Blinov" .
+
+<http://id.crossref.org/contributor/s-ananev-1frqbnpnt5k98>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Anan’ev" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "S." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "S. Anan’ev" .
+
+<http://id.crossref.org/contributor/david-a-hammer-1frqbnpnt5k98>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Hammer" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "David A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "David A. Hammer" .
+
+<http://dx.doi.org/10.1063/1.3079715>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1063/1.3079715" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/v-korolev-1frqbnpnt5k98> , <http://id.crossref.org/contributor/e-kazakov-1frqbnpnt5k98> , <http://id.crossref.org/contributor/bruce-r-kusse-1frqbnpnt5k98> , <http://id.crossref.org/contributor/a-zelenin-1frqbnpnt5k98> , <http://id.crossref.org/contributor/s-tkachenko-1frqbnpnt5k98> , <http://id.crossref.org/contributor/v-smirnov-1frqbnpnt5k98> , <http://id.crossref.org/contributor/yu-kalinin-1frqbnpnt5k98> , <http://id.crossref.org/contributor/a-chernenko-1frqbnpnt5k98> , <http://id.crossref.org/contributor/s-pikuz-1frqbnpnt5k98> , <http://id.crossref.org/contributor/p-blinov-1frqbnpnt5k98> , <http://id.crossref.org/contributor/v-bryzgunov-1frqbnpnt5k98> , <http://id.crossref.org/contributor/s-ananev-1frqbnpnt5k98> , <http://id.crossref.org/contributor/david-a-hammer-1frqbnpnt5k98> , <http://id.crossref.org/contributor/a-kingsep-1frqbnpnt5k98> , <http://id.crossref.org/contributor/s-danko-1frqbnpnt5k98> , <http://id.crossref.org/contributor/v-mizhiritsky-1frqbnpnt5k98> , <http://id.crossref.org/contributor/yu-bakshaev-1frqbnpnt5k98> , <http://id.crossref.org/contributor/t-shelkovenko-1frqbnpnt5k98> ;
+      <http://purl.org/dc/terms/date>
+              "2009"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1063/1.3079715" ;
+      <http://purl.org/dc/terms/publisher>
+              "AIP" ;
+      <http://purl.org/dc/terms/title>
+              "Study of the Multiwire X-Pinch as a Load for Mega-Ampere-Range Pulsed Power Generators" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1063/1.3079715" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1063/1.3079715> , <doi:10.1063/1.3079715> .
+
+<http://id.crossref.org/contributor/a-kingsep-1frqbnpnt5k98>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kingsep" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "A. Kingsep" .
+
+<http://id.crossref.org/contributor/s-danko-1frqbnpnt5k98>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Danko" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "S." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "S. Danko" .
+
+<http://id.crossref.org/contributor/v-mizhiritsky-1frqbnpnt5k98>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Mizhiritsky" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "V." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "V. Mizhiritsky" .
+
+<http://id.crossref.org/contributor/yu-bakshaev-1frqbnpnt5k98>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Bakshaev" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Yu." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Yu. Bakshaev" .
+
+<http://id.crossref.org/contributor/t-shelkovenko-1frqbnpnt5k98>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Shelkovenko" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "T." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "T. Shelkovenko" .

@@ -1,0 +1,60 @@
+<http://dx.doi.org/10.1016/s0040-4039(00)85120-5>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/s0040-4039(00)85120-5" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "5014" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "5011" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "27" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/mark-s-cooper-2ewwn58r30v7c> , <http://id.crossref.org/contributor/harry-heaney-2ewwn58r30v7c> ;
+      <http://purl.org/dc/terms/date>
+              "1986-01"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/s0040-4039(00)85120-5" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0040-4039> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Mannich reactions of aryl-trialkylstannanes using preformed dialkyl-methyleneiminium salts" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/s0040-4039(00)85120-5" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "5014" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "5011" ;
+      <http://purl.org/ontology/bibo/volume>
+              "27" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1016/s0040-4039(00)85120-5> , <info:doi/10.1016/s0040-4039(00)85120-5> .
+
+<http://id.crossref.org/contributor/mark-s-cooper-2ewwn58r30v7c>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Cooper" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Mark S." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Mark S. Cooper" .
+
+<http://id.crossref.org/contributor/harry-heaney-2ewwn58r30v7c>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Heaney" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Harry" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Harry Heaney" .
+
+<http://id.crossref.org/issn/0040-4039>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0040-4039" ;
+      <http://purl.org/dc/terms/title>
+              "Tetrahedron Letters" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0040-4039" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0040-4039" .

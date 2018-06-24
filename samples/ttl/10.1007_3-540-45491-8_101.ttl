@@ -1,0 +1,61 @@
+<http://id.crossref.org/contributor/mario-batusic-wflrrapohgc6>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Batusic" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Mario" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Mario Batusic" .
+
+<http://id.crossref.org/isbn/9783540439042>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Lecture Notes in Computer Science" .
+
+<http://id.crossref.org/issn/0302-9743>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0302-9743" ;
+      <http://purl.org/dc/terms/title>
+              "Lecture Notes in Computer Science" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0302-9743" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0302-9743" .
+
+<http://id.crossref.org/contributor/franz-urban-wflrrapohgc6>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Urban" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Franz" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Franz Urban" .
+
+<http://dx.doi.org/10.1007/3-540-45491-8_101>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1007/3-540-45491-8_101" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "536" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "535" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/mario-batusic-wflrrapohgc6> , <http://id.crossref.org/contributor/franz-urban-wflrrapohgc6> ;
+      <http://purl.org/dc/terms/date>
+              "2002"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1007/3-540-45491-8_101" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9783540439042> , <http://id.crossref.org/issn/0302-9743> ;
+      <http://purl.org/dc/terms/publisher>
+              "Springer Berlin Heidelberg" ;
+      <http://purl.org/dc/terms/title>
+              "Preparing Tactile Graphics for Traditional Braille Printers with BrlGraphEditor" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1007/3-540-45491-8_101" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "536" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "535" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1007/3-540-45491-8_101> , <info:doi/10.1007/3-540-45491-8_101> .

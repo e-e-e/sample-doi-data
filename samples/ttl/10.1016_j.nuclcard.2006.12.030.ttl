@@ -1,0 +1,78 @@
+<http://id.crossref.org/contributor/l-lalitharudraiah-34b55qzqcd1jp>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "LALITHARUDRAIAH" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "L" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "L LALITHARUDRAIAH" .
+
+<http://id.crossref.org/contributor/m-mohammadalikizilbash-34b55qzqcd1jp>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "MOHAMMADALIKIZILBASH" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "M" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "M MOHAMMADALIKIZILBASH" .
+
+<http://id.crossref.org/issn/1071-3581>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1071-3581" ;
+      <http://purl.org/dc/terms/title>
+              "Journal of Nuclear Cardiology" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1071-3581" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1071-3581" .
+
+<http://id.crossref.org/contributor/a-anapumakottam-34b55qzqcd1jp>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "ANAPUMAKOTTAM" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "A" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "A ANAPUMAKOTTAM" .
+
+<http://dx.doi.org/10.1016/j.nuclcard.2006.12.030>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/j.nuclcard.2006.12.030" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "S7" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "S7" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "14" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/l-lalitharudraiah-34b55qzqcd1jp> , <http://id.crossref.org/contributor/m-mohammadalikizilbash-34b55qzqcd1jp> , <http://id.crossref.org/contributor/a-anapumakottam-34b55qzqcd1jp> , <http://id.crossref.org/contributor/f-florenceprigent-34b55qzqcd1jp> ;
+      <http://purl.org/dc/terms/date>
+              "2007-03"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/j.nuclcard.2006.12.030" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1071-3581> ;
+      <http://purl.org/dc/terms/publisher>
+              "Springer Nature" ;
+      <http://purl.org/dc/terms/title>
+              "1.28Is there an incremental value to stress imaging in patients with a low ejection fraction and normal perfusion on rest myocardial perfusion imaging?" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/j.nuclcard.2006.12.030" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "S7" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "S7" ;
+      <http://purl.org/ontology/bibo/volume>
+              "14" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1016/j.nuclcard.2006.12.030> , <doi:10.1016/j.nuclcard.2006.12.030> .
+
+<http://id.crossref.org/contributor/f-florenceprigent-34b55qzqcd1jp>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "FLORENCEPRIGENT" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "F" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "F FLORENCEPRIGENT" .

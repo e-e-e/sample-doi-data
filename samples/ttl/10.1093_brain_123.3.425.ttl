@@ -1,0 +1,51 @@
+<http://dx.doi.org/10.1093/brain/123.3.425>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1093/brain/123.3.425" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "462" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "425" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "123" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/m-m-robertson-j87t3f1risy5> ;
+      <http://purl.org/dc/terms/date>
+              "2000-03-01"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1093/brain/123.3.425" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1460-2156> ;
+      <http://purl.org/dc/terms/publisher>
+              "Oxford University Press (OUP)" ;
+      <http://purl.org/dc/terms/title>
+              "Tourette syndrome, associated conditions and the complexities of treatment" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1093/brain/123.3.425" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "462" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "425" ;
+      <http://purl.org/ontology/bibo/volume>
+              "123" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1093/brain/123.3.425> , <info:doi/10.1093/brain/123.3.425> .
+
+<http://id.crossref.org/issn/1460-2156>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1460-2156" ;
+      <http://purl.org/dc/terms/title>
+              "Brain" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1460-2156" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1460-2156" .
+
+<http://id.crossref.org/contributor/m-m-robertson-j87t3f1risy5>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Robertson" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "M. M." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "M. M. Robertson" .

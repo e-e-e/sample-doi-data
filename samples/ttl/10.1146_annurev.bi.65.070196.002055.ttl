@@ -1,0 +1,51 @@
+<http://dx.doi.org/10.1146/annurev.bi.65.070196.002055>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1146/annurev.bi.65.070196.002055" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "409" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "367" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "65" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/angela-kramer-1kzbo4nm8v7a> ;
+      <http://purl.org/dc/terms/date>
+              "1996-06"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1146/annurev.bi.65.070196.002055" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0066-4154> ;
+      <http://purl.org/dc/terms/publisher>
+              "Annual Reviews" ;
+      <http://purl.org/dc/terms/title>
+              "The Structure and Function of Proteins Involved in Mammalian Pre-mRNA Splicing" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1146/annurev.bi.65.070196.002055" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "409" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "367" ;
+      <http://purl.org/ontology/bibo/volume>
+              "65" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1146/annurev.bi.65.070196.002055> , <doi:10.1146/annurev.bi.65.070196.002055> .
+
+<http://id.crossref.org/contributor/angela-kramer-1kzbo4nm8v7a>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Krämer" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Angela" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Angela Krämer" .
+
+<http://id.crossref.org/issn/0066-4154>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0066-4154" , "1545-4509" ;
+      <http://purl.org/dc/terms/title>
+              "Annual Review of Biochemistry" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0066-4154" , "1545-4509" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0066-4154" , "urn:issn:1545-4509" .

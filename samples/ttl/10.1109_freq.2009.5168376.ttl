@@ -1,0 +1,42 @@
+<http://id.crossref.org/contributor/william-dean-3tx5g30e8jkm3>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Dean" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "William" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "William Dean" .
+
+<http://id.crossref.org/contributor/nigel-helsby-3tx5g30e8jkm3>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Helsby" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Nigel" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Nigel Helsby" .
+
+<http://dx.doi.org/10.1109/freq.2009.5168376>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1109/freq.2009.5168376" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/william-dean-3tx5g30e8jkm3> , <http://id.crossref.org/contributor/nigel-helsby-3tx5g30e8jkm3> ;
+      <http://purl.org/dc/terms/date>
+              "2009-04"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1109/freq.2009.5168376" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9781424435111> ;
+      <http://purl.org/dc/terms/publisher>
+              "IEEE" ;
+      <http://purl.org/dc/terms/title>
+              "Progress in portable instrumentation for time source verification and analysis" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1109/freq.2009.5168376" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1109/freq.2009.5168376> , <info:doi/10.1109/freq.2009.5168376> .
+
+<http://id.crossref.org/isbn/9781424435111>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "2009 IEEE International Frequency Control Symposium Joint with the 22nd European Frequency and Time forum" .

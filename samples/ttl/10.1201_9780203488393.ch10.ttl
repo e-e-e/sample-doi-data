@@ -1,0 +1,22 @@
+<http://dx.doi.org/10.1201/9780203488393.ch10>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1201/9780203488393.ch10" ;
+      <http://purl.org/dc/terms/date>
+              "2003-06-27"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1201/9780203488393.ch10" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9780849318504> ;
+      <http://purl.org/dc/terms/publisher>
+              "Informa Healthcare" ;
+      <http://purl.org/dc/terms/title>
+              "Mexico" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1201/9780203488393.ch10" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1201/9780203488393.ch10> , <doi:10.1201/9780203488393.ch10> .
+
+<http://id.crossref.org/isbn/9780849318504>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "International Labeling Requirements for Medical Devices, Medical Equipment and Diagnostic Products" .

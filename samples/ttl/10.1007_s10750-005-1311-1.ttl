@@ -1,0 +1,96 @@
+<http://id.crossref.org/issn/0018-8158>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1573-5117" , "0018-8158" ;
+      <http://purl.org/dc/terms/title>
+              "Hydrobiologia" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1573-5117" , "0018-8158" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1573-5117" , "urn:issn:0018-8158" .
+
+<http://dx.doi.org/10.1007/s10750-005-1311-1>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1007/s10750-005-1311-1" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "95" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "85" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "557" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/e-gonzalez-ortegon-8btp3w5n1vxa> , <http://id.crossref.org/contributor/j-a-cuesta-8btp3w5n1vxa> , <http://id.crossref.org/contributor/p-drake-8btp3w5n1vxa> , <http://id.crossref.org/contributor/a-rodriguez-8btp3w5n1vxa> , <http://id.crossref.org/contributor/c-vilas-8btp3w5n1vxa> , <http://id.crossref.org/contributor/f-baldo-8btp3w5n1vxa> ;
+      <http://purl.org/dc/terms/date>
+              "2006-03"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1007/s10750-005-1311-1" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0018-8158> ;
+      <http://purl.org/dc/terms/publisher>
+              "Springer Nature" ;
+      <http://purl.org/dc/terms/title>
+              "The Decapod Custacean Community of the Guadalquivir Estuary (SW Spain): Seasonal and Inter-Year Changes in Community Structure" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1007/s10750-005-1311-1" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "95" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "85" ;
+      <http://purl.org/ontology/bibo/volume>
+              "557" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1007/s10750-005-1311-1> , <info:doi/10.1007/s10750-005-1311-1> .
+
+<http://id.crossref.org/contributor/e-gonzalez-ortegon-8btp3w5n1vxa>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "González-Ortegón" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "E." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "E. González-Ortegón" .
+
+<http://id.crossref.org/contributor/p-drake-8btp3w5n1vxa>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Drake" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "P." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "P. Drake" .
+
+<http://id.crossref.org/contributor/j-a-cuesta-8btp3w5n1vxa>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Cuesta" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "J. A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "J. A. Cuesta" .
+
+<http://id.crossref.org/contributor/c-vilas-8btp3w5n1vxa>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Vilas" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "C." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "C. Vilas" .
+
+<http://id.crossref.org/contributor/a-rodriguez-8btp3w5n1vxa>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Rodríguez" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "A. Rodríguez" .
+
+<http://id.crossref.org/contributor/f-baldo-8btp3w5n1vxa>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Baldó" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "F." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "F. Baldó" .

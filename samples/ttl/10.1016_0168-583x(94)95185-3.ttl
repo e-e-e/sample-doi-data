@@ -1,0 +1,69 @@
+<http://id.crossref.org/contributor/h-a-synal-1vvvrditc7rnc>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Synal" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "H.-A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "H.-A. Synal" .
+
+<http://id.crossref.org/contributor/u-zoppi-1vvvrditc7rnc>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Zoppi" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "U." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "U. Zoppi" .
+
+<http://id.crossref.org/issn/0168-583X>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0168-583X" ;
+      <http://purl.org/dc/terms/title>
+              "Nuclear Instruments and Methods in Physics Research Section B: Beam Interactions with Materials and Atoms" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0168-583X" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0168-583X" .
+
+<http://id.crossref.org/contributor/m-suter-1vvvrditc7rnc>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Suter" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "M." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "M. Suter" .
+
+<http://dx.doi.org/10.1016/0168-583x(94)95185-3>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/0168-583x(94)95185-3" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "265" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "262" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "89" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/h-a-synal-1vvvrditc7rnc> , <http://id.crossref.org/contributor/u-zoppi-1vvvrditc7rnc> , <http://id.crossref.org/contributor/m-suter-1vvvrditc7rnc> ;
+      <http://purl.org/dc/terms/date>
+              "1994-05"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/0168-583x(94)95185-3" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0168-583X> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Isobar separation with gas ionization counters in accelerator mass spectrometry" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/0168-583x(94)95185-3" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "265" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "262" ;
+      <http://purl.org/ontology/bibo/volume>
+              "89" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1016/0168-583x(94)95185-3> , <doi:10.1016/0168-583x(94)95185-3> .
