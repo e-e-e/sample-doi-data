@@ -1,0 +1,51 @@
+<http://id.crossref.org/contributor/kenneth-b-wells-30klkfdss2161>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Wells" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Kenneth B." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Kenneth B. Wells" .
+
+<http://dx.doi.org/10.1016/s0033-3182(94)71776-x>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/s0033-3182(94)71776-x" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "296" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "279" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "35" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/kenneth-b-wells-30klkfdss2161> ;
+      <http://purl.org/dc/terms/date>
+              "1994-05"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/s0033-3182(94)71776-x" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0033-3182> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Depression in General Medical Settings" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/s0033-3182(94)71776-x" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "296" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "279" ;
+      <http://purl.org/ontology/bibo/volume>
+              "35" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1016/s0033-3182(94)71776-x> , <info:doi/10.1016/s0033-3182(94)71776-x> .
+
+<http://id.crossref.org/issn/0033-3182>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0033-3182" ;
+      <http://purl.org/dc/terms/title>
+              "Psychosomatics" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0033-3182" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0033-3182" .

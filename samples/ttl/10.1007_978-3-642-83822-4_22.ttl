@@ -1,0 +1,59 @@
+<http://dx.doi.org/10.1007/978-3-642-83822-4_22>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1007/978-3-642-83822-4_22" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "139" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "135" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/s-g-nychas-397lwxqs4dpnd> , <http://id.crossref.org/contributor/h-eckelmann-397lwxqs4dpnd> , <http://id.crossref.org/contributor/m-randolph-397lwxqs4dpnd> ;
+      <http://purl.org/dc/terms/date>
+              "1989"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1007/978-3-642-83822-4_22" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9783642838248> ;
+      <http://purl.org/dc/terms/publisher>
+              "Springer Berlin Heidelberg" ;
+      <http://purl.org/dc/terms/title>
+              "On the Relation Between Sweeps and Streamwise Vortices" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1007/978-3-642-83822-4_22" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "139" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "135" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1007/978-3-642-83822-4_22> , <info:doi/10.1007/978-3-642-83822-4_22> .
+
+<http://id.crossref.org/contributor/s-g-nychas-397lwxqs4dpnd>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Nychas" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "S. G." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "S. G. Nychas" .
+
+<http://id.crossref.org/isbn/9783642838248>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Advances in Turbulence 2" .
+
+<http://id.crossref.org/contributor/h-eckelmann-397lwxqs4dpnd>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Eckelmann" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "H." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "H. Eckelmann" .
+
+<http://id.crossref.org/contributor/m-randolph-397lwxqs4dpnd>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Randolph" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "M." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "M. Randolph" .

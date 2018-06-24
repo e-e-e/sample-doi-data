@@ -1,0 +1,60 @@
+<http://id.crossref.org/contributor/raymond-t-bauer-2x7qfeasuo2kl>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Bauer" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Raymond T." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Raymond T. Bauer" .
+
+<http://id.crossref.org/contributor/tyler-j-olivier-2x7qfeasuo2kl>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Olivier" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Tyler J." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Tyler J. Olivier" .
+
+<http://id.crossref.org/issn/0003-0031>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0003-0031" , "1938-4238" ;
+      <http://purl.org/dc/terms/title>
+              "The American Midland Naturalist" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0003-0031" , "1938-4238" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0003-0031" , "urn:issn:1938-4238" .
+
+<http://dx.doi.org/10.1674/0003-0031-166.2.379>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1674/0003-0031-166.2.379" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "393" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "379" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "166" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/raymond-t-bauer-2x7qfeasuo2kl> , <http://id.crossref.org/contributor/tyler-j-olivier-2x7qfeasuo2kl> ;
+      <http://purl.org/dc/terms/date>
+              "2011-10"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1674/0003-0031-166.2.379" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0003-0031> ;
+      <http://purl.org/dc/terms/publisher>
+              "University of Notre Dame" ;
+      <http://purl.org/dc/terms/title>
+              "Female Downstream-Hatching Migration of the River Shrimp Macrobrachium ohione in the Lower Mississippi River and the Atchafalaya River" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1674/0003-0031-166.2.379" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "393" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "379" ;
+      <http://purl.org/ontology/bibo/volume>
+              "166" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1674/0003-0031-166.2.379> , <info:doi/10.1674/0003-0031-166.2.379> .

@@ -1,0 +1,69 @@
+<http://id.crossref.org/contributor/michael-burt-309yk5xitogao>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Burt" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Michael" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Michael Burt" .
+
+<http://id.crossref.org/contributor/dalit-shach-pinsly-309yk5xitogao>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Shach-Pinsly" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Dalit" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Dalit Shach-Pinsly" .
+
+<http://id.crossref.org/contributor/dafna-fisher-gewirtzman-309yk5xitogao>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Fisher-Gewirtzman" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Dafna" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Dafna Fisher-Gewirtzman" .
+
+<http://id.crossref.org/issn/1357-4809>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1469-9664" , "1357-4809" ;
+      <http://purl.org/dc/terms/title>
+              "Journal of Urban Design" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1469-9664" , "1357-4809" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1357-4809" , "urn:issn:1469-9664" .
+
+<http://dx.doi.org/10.1080/13574809.2011.548979>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1080/13574809.2011.548979" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "256" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "233" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "16" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/michael-burt-309yk5xitogao> , <http://id.crossref.org/contributor/dalit-shach-pinsly-309yk5xitogao> , <http://id.crossref.org/contributor/dafna-fisher-gewirtzman-309yk5xitogao> ;
+      <http://purl.org/dc/terms/date>
+              "2011-04"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1080/13574809.2011.548979" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1357-4809> ;
+      <http://purl.org/dc/terms/publisher>
+              "Informa UK Limited" ;
+      <http://purl.org/dc/terms/title>
+              "Visual Exposure and Visual Openness: An Integrated Approach and Comparative Evaluation" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1080/13574809.2011.548979" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "256" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "233" ;
+      <http://purl.org/ontology/bibo/volume>
+              "16" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1080/13574809.2011.548979> , <info:doi/10.1080/13574809.2011.548979> .

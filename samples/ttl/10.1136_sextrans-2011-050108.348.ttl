@@ -1,0 +1,105 @@
+<http://id.crossref.org/issn/1368-4973>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1368-4973" ;
+      <http://purl.org/dc/terms/title>
+              "Sexually Transmitted Infections" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1368-4973" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1368-4973" .
+
+<http://dx.doi.org/10.1136/sextrans-2011-050108.348>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1136/sextrans-2011-050108.348" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "A247" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "A247" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "87" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/j-verbeek-lnsz5s6tm3pt> , <http://id.crossref.org/contributor/e-ruotsaalainen-lnsz5s6tm3pt> , <http://id.crossref.org/contributor/j-heikkinen-lnsz5s6tm3pt> , <http://id.crossref.org/contributor/n-mngoma-lnsz5s6tm3pt> , <http://id.crossref.org/contributor/l-isotalo-lnsz5s6tm3pt> , <http://id.crossref.org/contributor/o-ojo-lnsz5s6tm3pt> , <http://id.crossref.org/contributor/k-rasanen-lnsz5s6tm3pt> ;
+      <http://purl.org/dc/terms/date>
+              "2011-07-01"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1136/sextrans-2011-050108.348" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1368-4973> ;
+      <http://purl.org/dc/terms/publisher>
+              "BMJ" ;
+      <http://purl.org/dc/terms/title>
+              "P2-S5.06 Behavioural interventions for reducing HIV infection in workers in occupational settings, a Cochrane systematic review" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1136/sextrans-2011-050108.348" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "A247" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "A247" ;
+      <http://purl.org/ontology/bibo/volume>
+              "87" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1136/sextrans-2011-050108.348> , <info:doi/10.1136/sextrans-2011-050108.348> .
+
+<http://id.crossref.org/contributor/j-verbeek-lnsz5s6tm3pt>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Verbeek" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "J." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "J. Verbeek" .
+
+<http://id.crossref.org/contributor/e-ruotsaalainen-lnsz5s6tm3pt>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Ruotsaalainen" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "E." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "E. Ruotsaalainen" .
+
+<http://id.crossref.org/contributor/j-heikkinen-lnsz5s6tm3pt>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Heikkinen" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "J." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "J. Heikkinen" .
+
+<http://id.crossref.org/contributor/n-mngoma-lnsz5s6tm3pt>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Mngoma" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "N." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "N. Mngoma" .
+
+<http://id.crossref.org/contributor/l-isotalo-lnsz5s6tm3pt>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Isotalo" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "L." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "L. Isotalo" .
+
+<http://id.crossref.org/contributor/o-ojo-lnsz5s6tm3pt>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Ojo" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "O." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "O. Ojo" .
+
+<http://id.crossref.org/contributor/k-rasanen-lnsz5s6tm3pt>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Rasanen" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "K." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "K. Rasanen" .

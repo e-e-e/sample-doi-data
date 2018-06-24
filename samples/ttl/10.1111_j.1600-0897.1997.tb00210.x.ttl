@@ -1,0 +1,96 @@
+<http://id.crossref.org/issn/1046-7408>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1046-7408" ;
+      <http://purl.org/dc/terms/title>
+              "American Journal of Reproductive Immunology" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1046-7408" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1046-7408" .
+
+<http://id.crossref.org/contributor/liat-lerner-geva-rf6u8g9ir6ds>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Lerner-Geva" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Liat" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Liat Lerner-Geva" .
+
+<http://id.crossref.org/contributor/joseph-b-lessing-rf6u8g9ir6ds>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Lessing" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Joseph B." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Joseph B. Lessing" .
+
+<http://dx.doi.org/10.1111/j.1600-0897.1997.tb00210.x>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1111/j.1600-0897.1997.tb00210.x" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "186" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "184" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "37" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/liat-lerner-geva-rf6u8g9ir6ds> , <http://id.crossref.org/contributor/joseph-b-lessing-rf6u8g9ir6ds> , <http://id.crossref.org/contributor/ami-amit-rf6u8g9ir6ds> , <http://id.crossref.org/contributor/eli-geva-rf6u8g9ir6ds> , <http://id.crossref.org/contributor/foad-azem-rf6u8g9ir6ds> , <http://id.crossref.org/contributor/israel-yovel-rf6u8g9ir6ds> ;
+      <http://purl.org/dc/terms/date>
+              "1997-02"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1111/j.1600-0897.1997.tb00210.x" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1046-7408> ;
+      <http://purl.org/dc/terms/publisher>
+              "Wiley" ;
+      <http://purl.org/dc/terms/title>
+              "The Presence of Antithyroid Antibodies in Euthyroid Patients With Unexplained Infertility and Tubal Obstruction" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1111/j.1600-0897.1997.tb00210.x" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "186" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "184" ;
+      <http://purl.org/ontology/bibo/volume>
+              "37" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1111/j.1600-0897.1997.tb00210.x> , <doi:10.1111/j.1600-0897.1997.tb00210.x> .
+
+<http://id.crossref.org/contributor/ami-amit-rf6u8g9ir6ds>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Amit" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Ami" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Ami Amit" .
+
+<http://id.crossref.org/contributor/eli-geva-rf6u8g9ir6ds>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Geva" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Eli" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Eli Geva" .
+
+<http://id.crossref.org/contributor/foad-azem-rf6u8g9ir6ds>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Azem" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Foad" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Foad Azem" .
+
+<http://id.crossref.org/contributor/israel-yovel-rf6u8g9ir6ds>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Yovel" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Israel" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Israel Yovel" .

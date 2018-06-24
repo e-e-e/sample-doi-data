@@ -1,0 +1,40 @@
+<http://dx.doi.org/10.1056/nejm190906241602516>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1056/nejm190906241602516" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "834" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "834" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "160" ;
+      <http://purl.org/dc/terms/date>
+              "1909-06-24"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1056/nejm190906241602516" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0096-6762> ;
+      <http://purl.org/dc/terms/publisher>
+              "New England Journal of Medicine (NEJM/MMS)" ;
+      <http://purl.org/dc/terms/title>
+              "Miscellany" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1056/nejm190906241602516" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "834" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "834" ;
+      <http://purl.org/ontology/bibo/volume>
+              "160" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1056/nejm190906241602516> , <info:doi/10.1056/nejm190906241602516> .
+
+<http://id.crossref.org/issn/0096-6762>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1533-4406" , "0096-6762" ;
+      <http://purl.org/dc/terms/title>
+              "The Boston Medical and Surgical Journal" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1533-4406" , "0096-6762" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0096-6762" , "urn:issn:1533-4406" .

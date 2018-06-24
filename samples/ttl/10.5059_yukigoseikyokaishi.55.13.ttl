@@ -1,0 +1,51 @@
+<http://id.crossref.org/contributor/haruo-yamada-o7u5lf72dty3>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "YAMADA" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Haruo" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Haruo YAMADA" .
+
+<http://id.crossref.org/issn/0037-9980>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1883-6526" , "0037-9980" ;
+      <http://purl.org/dc/terms/title>
+              "Journal of Synthetic Organic Chemistry, Japan" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1883-6526" , "0037-9980" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1883-6526" , "urn:issn:0037-9980" .
+
+<http://dx.doi.org/10.5059/yukigoseikyokaishi.55.13>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.5059/yukigoseikyokaishi.55.13" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "25" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "13" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "55" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/haruo-yamada-o7u5lf72dty3> ;
+      <http://purl.org/dc/terms/date>
+              "1997"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.5059/yukigoseikyokaishi.55.13" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0037-9980> ;
+      <http://purl.org/dc/terms/publisher>
+              "The Society of Synthetic Organic Chemistry, Japan" ;
+      <http://purl.org/dc/terms/title>
+              "Development of New Methods for the Synthesis of Oligosaccharide and Conformational Analysis of Oligosaccharide in Aqueous Solution" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.5059/yukigoseikyokaishi.55.13" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "25" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "13" ;
+      <http://purl.org/ontology/bibo/volume>
+              "55" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.5059/yukigoseikyokaishi.55.13> , <doi:10.5059/yukigoseikyokaishi.55.13> .

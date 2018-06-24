@@ -1,0 +1,22 @@
+<http://id.crossref.org/isbn/9789898111050>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Proceedings of the Second International Conference on Software and Data Technologies" .
+
+<http://dx.doi.org/10.5220/0001333601090116>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.5220/0001333601090116" ;
+      <http://purl.org/dc/terms/date>
+              "2007"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.5220/0001333601090116" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9789898111050> ;
+      <http://purl.org/dc/terms/publisher>
+              "SciTePress - Science and and Technology Publications" ;
+      <http://purl.org/dc/terms/title>
+              "TURNING CONCEPTS INTO REALITY - Bridging Requirement Engineering and Model-Driven Generation of Web Applications" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.5220/0001333601090116" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.5220/0001333601090116> , <info:doi/10.5220/0001333601090116> .

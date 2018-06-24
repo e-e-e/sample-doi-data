@@ -1,0 +1,123 @@
+<http://id.crossref.org/contributor/c-l-gao-27kgtaubp7i4>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Gao" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "C.-L." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "C.-L. Gao" .
+
+<http://dx.doi.org/10.1124/dmd.111.041152>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1124/dmd.111.041152" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "388" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "381" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "40" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/c-l-gao-27kgtaubp7i4> , <http://id.crossref.org/contributor/j-zhong-27kgtaubp7i4> , <http://id.crossref.org/contributor/m-k-yao-27kgtaubp7i4> , <http://id.crossref.org/contributor/y-m-ma-27kgtaubp7i4> , <http://id.crossref.org/contributor/x-h-wang-27kgtaubp7i4> , <http://id.crossref.org/contributor/f-r-qiu-27kgtaubp7i4> , <http://id.crossref.org/contributor/b-l-ma-27kgtaubp7i4> , <http://id.crossref.org/contributor/j-s-wu-27kgtaubp7i4> , <http://id.crossref.org/contributor/c-h-wang-27kgtaubp7i4> ;
+      <http://purl.org/dc/terms/date>
+              "2011-11-15"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1124/dmd.111.041152" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1521-009X> ;
+      <http://purl.org/dc/terms/publisher>
+              "American Society for Pharmacology & Experimental Therapeutics (ASPET)" ;
+      <http://purl.org/dc/terms/title>
+              "Increased Systemic Exposure to Rhizoma Coptidis Alkaloids in Lipopolysaccharide-Pretreated Rats Attributable to Enhanced Intestinal Absorption" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1124/dmd.111.041152" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "388" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "381" ;
+      <http://purl.org/ontology/bibo/volume>
+              "40" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1124/dmd.111.041152> , <info:doi/10.1124/dmd.111.041152> .
+
+<http://id.crossref.org/contributor/m-k-yao-27kgtaubp7i4>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Yao" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "M.-K." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "M.-K. Yao" .
+
+<http://id.crossref.org/contributor/j-zhong-27kgtaubp7i4>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Zhong" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "J." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "J. Zhong" .
+
+<http://id.crossref.org/contributor/y-m-ma-27kgtaubp7i4>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Ma" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Y.-M." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Y.-M. Ma" .
+
+<http://id.crossref.org/issn/1521-009X>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1521-009X" ;
+      <http://purl.org/dc/terms/title>
+              "Drug Metabolism and Disposition" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1521-009X" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1521-009X" .
+
+<http://id.crossref.org/contributor/x-h-wang-27kgtaubp7i4>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Wang" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "X.-H." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "X.-H. Wang" .
+
+<http://id.crossref.org/contributor/f-r-qiu-27kgtaubp7i4>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Qiu" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "F.-R." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "F.-R. Qiu" .
+
+<http://id.crossref.org/contributor/b-l-ma-27kgtaubp7i4>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Ma" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "B.-L." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "B.-L. Ma" .
+
+<http://id.crossref.org/contributor/j-s-wu-27kgtaubp7i4>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Wu" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "J.-S." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "J.-S. Wu" .
+
+<http://id.crossref.org/contributor/c-h-wang-27kgtaubp7i4>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Wang" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "C.-H." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "C.-H. Wang" .

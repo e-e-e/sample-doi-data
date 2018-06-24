@@ -1,0 +1,74 @@
+<http://id.crossref.org/contributor/robert-l-opila-1c0seaaz3yrgg>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Opila" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Robert L." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Robert L. Opila" .
+
+<http://id.crossref.org/issn/0734-2101>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0734-2101" , "1520-8559" ;
+      <http://purl.org/dc/terms/title>
+              "Journal of Vacuum Science & Technology A: Vacuum, Surfaces, and Films" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0734-2101" , "1520-8559" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1520-8559" , "urn:issn:0734-2101" .
+
+<http://dx.doi.org/10.1116/1.3581053>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1116/1.3581053" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "031403" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "29" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/robert-l-opila-1c0seaaz3yrgg> , <http://id.crossref.org/contributor/rama-venkatasubramanian-1c0seaaz3yrgg> , <http://id.crossref.org/contributor/fang-fang-1c0seaaz3yrgg> , <http://id.crossref.org/contributor/thomas-colpitts-1c0seaaz3yrgg> ;
+      <http://purl.org/dc/terms/date>
+              "2011-05"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1116/1.3581053" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0734-2101> ;
+      <http://purl.org/dc/terms/publisher>
+              "American Vacuum Society" ;
+      <http://purl.org/dc/terms/title>
+              "Preparation of clean Bi2Te3 and Sb2Te3 thin films to determine alignment at valence band maxima" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1116/1.3581053" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "031403" ;
+      <http://purl.org/ontology/bibo/volume>
+              "29" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1116/1.3581053> , <doi:10.1116/1.3581053> .
+
+<http://id.crossref.org/contributor/rama-venkatasubramanian-1c0seaaz3yrgg>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Venkatasubramanian" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Rama" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Rama Venkatasubramanian" .
+
+<http://id.crossref.org/contributor/thomas-colpitts-1c0seaaz3yrgg>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Colpitts" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Thomas" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Thomas Colpitts" .
+
+<http://id.crossref.org/contributor/fang-fang-1c0seaaz3yrgg>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Fang" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Fang" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Fang Fang" .

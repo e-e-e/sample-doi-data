@@ -1,0 +1,105 @@
+<http://id.crossref.org/contributor/elizabeth-s-williams-34ue2zsmb9blu>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Williams" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Elizabeth S." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Elizabeth S. Williams" .
+
+<http://id.crossref.org/contributor/robert-a-kunkle-34ue2zsmb9blu>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kunkle" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Robert A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Robert A. Kunkle" .
+
+<http://id.crossref.org/contributor/amir-n-hamir-34ue2zsmb9blu>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Hamir" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Amir N." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Amir N. Hamir" .
+
+<http://id.crossref.org/contributor/marcus-e-kehrli-34ue2zsmb9blu>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kehrli" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Marcus E." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Marcus E. Kehrli" .
+
+<http://id.crossref.org/contributor/juergen-a-richt-34ue2zsmb9blu>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Richt" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Juergen A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Juergen A. Richt" .
+
+<http://id.crossref.org/issn/1040-6387>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1040-6387" , "1943-4936" ;
+      <http://purl.org/dc/terms/title>
+              "Journal of Veterinary Diagnostic Investigation" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1040-6387" , "1943-4936" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1943-4936" , "urn:issn:1040-6387" .
+
+<http://dx.doi.org/10.1177/104063870701900610>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1177/104063870701900610" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "686" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "680" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "19" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/robert-a-kunkle-34ue2zsmb9blu> , <http://id.crossref.org/contributor/elizabeth-s-williams-34ue2zsmb9blu> , <http://id.crossref.org/contributor/amir-n-hamir-34ue2zsmb9blu> , <http://id.crossref.org/contributor/marcus-e-kehrli-34ue2zsmb9blu> , <http://id.crossref.org/contributor/juergen-a-richt-34ue2zsmb9blu> , <http://id.crossref.org/contributor/janice-m-miller-34ue2zsmb9blu> , <http://id.crossref.org/contributor/randall-c-cutlip-34ue2zsmb9blu> ;
+      <http://purl.org/dc/terms/date>
+              "2007-11"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1177/104063870701900610" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1040-6387> ;
+      <http://purl.org/dc/terms/publisher>
+              "SAGE Publications" ;
+      <http://purl.org/dc/terms/title>
+              "Age-Related Lesions in Laboratory-Confined Raccoons (Procyon Lotor) Inoculated with the Agent of Chronic Wasting Disease of Mule Deer" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1177/104063870701900610" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "686" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "680" ;
+      <http://purl.org/ontology/bibo/volume>
+              "19" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1177/104063870701900610> , <doi:10.1177/104063870701900610> .
+
+<http://id.crossref.org/contributor/janice-m-miller-34ue2zsmb9blu>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Miller" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Janice M." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Janice M. Miller" .
+
+<http://id.crossref.org/contributor/randall-c-cutlip-34ue2zsmb9blu>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Cutlip" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Randall C." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Randall C. Cutlip" .

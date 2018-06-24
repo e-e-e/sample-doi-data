@@ -1,0 +1,69 @@
+<http://id.crossref.org/contributor/m-speakman-15axd0psj975d>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Speakman" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "M." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "M. Speakman" .
+
+<http://id.crossref.org/contributor/f-mcmeekin-15axd0psj975d>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "McMeekin" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "F." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "F. McMeekin" .
+
+<http://id.crossref.org/issn/0090-4295>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0090-4295" ;
+      <http://purl.org/dc/terms/title>
+              "Urology" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0090-4295" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0090-4295" .
+
+<http://id.crossref.org/contributor/s-segaran-15axd0psj975d>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Segaran" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "S." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "S. Segaran" .
+
+<http://dx.doi.org/10.1016/j.urology.2011.07.956>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/j.urology.2011.07.956" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "S308" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "S307" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "78" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/m-speakman-15axd0psj975d> , <http://id.crossref.org/contributor/f-mcmeekin-15axd0psj975d> , <http://id.crossref.org/contributor/s-segaran-15axd0psj975d> ;
+      <http://purl.org/dc/terms/date>
+              "2011-09"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/j.urology.2011.07.956" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0090-4295> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "UP-02.138 The Prostate Cancer Gene 3 (PCA3) Urine Test: Improving Prediction of Initial Biopsy and Management" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/j.urology.2011.07.956" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "S308" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "S307" ;
+      <http://purl.org/ontology/bibo/volume>
+              "78" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1016/j.urology.2011.07.956> , <info:doi/10.1016/j.urology.2011.07.956> .

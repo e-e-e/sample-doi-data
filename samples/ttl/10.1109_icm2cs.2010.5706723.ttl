@@ -1,0 +1,60 @@
+<http://id.crossref.org/isbn/9781424497010>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "2010 International Conference on Methods and Models in Computer Science (ICM2CS-2010)" .
+
+<http://id.crossref.org/contributor/a-pande-2d56ty7ygwtey>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Pande" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "A" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "A Pande" .
+
+<http://id.crossref.org/contributor/r-s-rao-2d56ty7ygwtey>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Rao" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "R S" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "R S Rao" .
+
+<http://dx.doi.org/10.1109/icm2cs.2010.5706723>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1109/icm2cs.2010.5706723" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/r-s-rao-2d56ty7ygwtey> , <http://id.crossref.org/contributor/a-pande-2d56ty7ygwtey> , <http://id.crossref.org/contributor/m-gupta-2d56ty7ygwtey> , <http://id.crossref.org/contributor/a-k-tripathi-2d56ty7ygwtey> ;
+      <http://purl.org/dc/terms/date>
+              "2010-12"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1109/icm2cs.2010.5706723" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9781424497010> ;
+      <http://purl.org/dc/terms/publisher>
+              "IEEE" ;
+      <http://purl.org/dc/terms/title>
+              "Design Pattern Detection by normalized cross correlation" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1109/icm2cs.2010.5706723" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1109/icm2cs.2010.5706723> , <doi:10.1109/icm2cs.2010.5706723> .
+
+<http://id.crossref.org/contributor/m-gupta-2d56ty7ygwtey>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Gupta" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "M" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "M Gupta" .
+
+<http://id.crossref.org/contributor/a-k-tripathi-2d56ty7ygwtey>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Tripathi" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "A K" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "A K Tripathi" .

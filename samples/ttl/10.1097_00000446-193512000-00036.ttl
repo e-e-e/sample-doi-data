@@ -1,0 +1,45 @@
+<http://id.crossref.org/issn/0002-936X>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0002-936X" ;
+      <http://purl.org/dc/terms/title>
+              "AJN, American Journal of Nursing" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0002-936X" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0002-936X" .
+
+<http://dx.doi.org/10.1097/00000446-193512000-00036>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1097/00000446-193512000-00036" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "1187" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "35" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/na-1igds6jsxgae6> ;
+      <http://purl.org/dc/terms/date>
+              "1935-12"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1097/00000446-193512000-00036" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0002-936X> ;
+      <http://purl.org/dc/terms/publisher>
+              "Ovid Technologies (Wolters Kluwer Health)" ;
+      <http://purl.org/dc/terms/title>
+              "The Story of the AJN" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1097/00000446-193512000-00036" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "1187" ;
+      <http://purl.org/ontology/bibo/volume>
+              "35" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1097/00000446-193512000-00036> , <doi:10.1097/00000446-193512000-00036> .
+
+<http://id.crossref.org/contributor/na-1igds6jsxgae6>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "&NA;" ;
+      <http://xmlns.com/foaf/0.1/name>
+              " &NA;" .

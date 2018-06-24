@@ -1,0 +1,168 @@
+<http://id.crossref.org/contributor/masoud-azodi-ibght63frqw>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Azodi" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Masoud" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Masoud Azodi" .
+
+<http://id.crossref.org/contributor/peter-e-schwartz-ibght63frqw>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Schwartz" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Peter E." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Peter E. Schwartz" .
+
+<http://id.crossref.org/contributor/marta-bellone-ibght63frqw>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Bellone" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Marta" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Marta Bellone" .
+
+<http://dx.doi.org/10.1158/1538-7445.am10-699>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1158/1538-7445.am10-699" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "699" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "699" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "70" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/peter-e-schwartz-ibght63frqw> , <http://id.crossref.org/contributor/masoud-azodi-ibght63frqw> , <http://id.crossref.org/contributor/marta-bellone-ibght63frqw> , <http://id.crossref.org/contributor/dan-arin-silasi-ibght63frqw> , <http://id.crossref.org/contributor/alessandro-d-santin-ibght63frqw> , <http://id.crossref.org/contributor/stefania-bellone-ibght63frqw> , <http://id.crossref.org/contributor/thomas-j-rutherford-ibght63frqw> , <http://id.crossref.org/contributor/emiliano-cocco-ibght63frqw> , <http://id.crossref.org/contributor/sergio-pecorelli-ibght63frqw> , <http://id.crossref.org/contributor/karim-el-sahwi-ibght63frqw> , <http://id.crossref.org/contributor/paola-todeschini-ibght63frqw> , <http://id.crossref.org/contributor/francesca-casagrande-ibght63frqw> , <http://id.crossref.org/contributor/joyce-varughese-ibght63frqw> , <http://id.crossref.org/contributor/christine-e-richter-ibght63frqw> ;
+      <http://purl.org/dc/terms/date>
+              "2010-04-15"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1158/1538-7445.am10-699" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0008-5472> ;
+      <http://purl.org/dc/terms/publisher>
+              "American Association for Cancer Research (AACR)" ;
+      <http://purl.org/dc/terms/title>
+              "Abstract 699: Uterine serous papillary carcinomas overexpress human trophoblast-cell-surface marker (Trop-2) and are highly sensitive to immunotherapy with hRS7, a humanized monoclonal anti-Trop-2 antibody" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1158/1538-7445.am10-699" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "699" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "699" ;
+      <http://purl.org/ontology/bibo/volume>
+              "70" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1158/1538-7445.am10-699> , <info:doi/10.1158/1538-7445.am10-699> .
+
+<http://id.crossref.org/contributor/dan-arin-silasi-ibght63frqw>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Silasi" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Dan-Arin" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Dan-Arin Silasi" .
+
+<http://id.crossref.org/contributor/stefania-bellone-ibght63frqw>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Bellone" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Stefania" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Stefania Bellone" .
+
+<http://id.crossref.org/contributor/thomas-j-rutherford-ibght63frqw>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Rutherford" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Thomas J." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Thomas J. Rutherford" .
+
+<http://id.crossref.org/contributor/alessandro-d-santin-ibght63frqw>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Santin" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Alessandro D." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Alessandro D. Santin" .
+
+<http://id.crossref.org/contributor/sergio-pecorelli-ibght63frqw>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Pecorelli" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Sergio" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Sergio Pecorelli" .
+
+<http://id.crossref.org/contributor/emiliano-cocco-ibght63frqw>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Cocco" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Emiliano" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Emiliano Cocco" .
+
+<http://id.crossref.org/contributor/karim-el-sahwi-ibght63frqw>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "El-Sahwi" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Karim" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Karim El-Sahwi" .
+
+<http://id.crossref.org/contributor/paola-todeschini-ibght63frqw>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Todeschini" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Paola" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Paola Todeschini" .
+
+<http://id.crossref.org/contributor/francesca-casagrande-ibght63frqw>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Casagrande" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Francesca" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Francesca Casagrande" .
+
+<http://id.crossref.org/contributor/joyce-varughese-ibght63frqw>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Varughese" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Joyce" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Joyce Varughese" .
+
+<http://id.crossref.org/issn/0008-5472>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1538-7445" , "0008-5472" ;
+      <http://purl.org/dc/terms/title>
+              "Cancer Research" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1538-7445" , "0008-5472" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0008-5472" , "urn:issn:1538-7445" .
+
+<http://id.crossref.org/contributor/christine-e-richter-ibght63frqw>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Richter" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Christine E." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Christine E. Richter" .

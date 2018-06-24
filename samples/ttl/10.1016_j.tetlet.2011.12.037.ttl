@@ -1,0 +1,96 @@
+<http://id.crossref.org/contributor/xerardo-garcia-mera-4i5buqwtkzew>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "García-Mera" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Xerardo" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Xerardo García-Mera" .
+
+<http://id.crossref.org/contributor/olga-caamano-4i5buqwtkzew>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Caamaño" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Olga" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Olga Caamaño" .
+
+<http://dx.doi.org/10.1016/j.tetlet.2011.12.037>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/j.tetlet.2011.12.037" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "1032" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "1029" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "53" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/xerardo-garcia-mera-4i5buqwtkzew> , <http://id.crossref.org/contributor/olga-caamano-4i5buqwtkzew> , <http://id.crossref.org/contributor/fabio-rizzo-aguiar-4i5buqwtkzew> , <http://id.crossref.org/contributor/jose-e-rodriguez-borges-4i5buqwtkzew> , <http://id.crossref.org/contributor/carlos-a-d-sousa-4i5buqwtkzew> , <http://id.crossref.org/contributor/m-luisa-c-vale-4i5buqwtkzew> ;
+      <http://purl.org/dc/terms/date>
+              "2012-02"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/j.tetlet.2011.12.037" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0040-4039> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "A route to selective functionalization of polyhydroxypyrrolidines" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/j.tetlet.2011.12.037" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "1032" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "1029" ;
+      <http://purl.org/ontology/bibo/volume>
+              "53" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1016/j.tetlet.2011.12.037> , <doi:10.1016/j.tetlet.2011.12.037> .
+
+<http://id.crossref.org/contributor/fabio-rizzo-aguiar-4i5buqwtkzew>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Rizzo-Aguiar" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Fabio" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Fabio Rizzo-Aguiar" .
+
+<http://id.crossref.org/issn/0040-4039>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0040-4039" ;
+      <http://purl.org/dc/terms/title>
+              "Tetrahedron Letters" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0040-4039" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0040-4039" .
+
+<http://id.crossref.org/contributor/jose-e-rodriguez-borges-4i5buqwtkzew>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Rodríguez-Borges" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "José E." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "José E. Rodríguez-Borges" .
+
+<http://id.crossref.org/contributor/carlos-a-d-sousa-4i5buqwtkzew>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Sousa" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Carlos A.D." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Carlos A.D. Sousa" .
+
+<http://id.crossref.org/contributor/m-luisa-c-vale-4i5buqwtkzew>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Vale" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "M. Luísa C." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "M. Luísa C. Vale" .
