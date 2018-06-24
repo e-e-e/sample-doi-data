@@ -1,0 +1,78 @@
+<http://id.crossref.org/contributor/noor-ali-farrokhi-3t6haf19nkywa>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Farrokhi" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Noor Ali" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Noor Ali Farrokhi" .
+
+<http://id.crossref.org/contributor/soghra-ebrahimi-qavam-3t6haf19nkywa>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Ebrahimi-Qavam" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Soghra" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Soghra Ebrahimi-Qavam" .
+
+<http://id.crossref.org/issn/1877-0428>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1877-0428" ;
+      <http://purl.org/dc/terms/title>
+              "Procedia - Social and Behavioral Sciences" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1877-0428" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1877-0428" .
+
+<http://id.crossref.org/contributor/jahanshir-tavakolizadeh-3t6haf19nkywa>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Tavakolizadeh" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Jahanshir" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Jahanshir Tavakolizadeh" .
+
+<http://id.crossref.org/contributor/mahmood-golzari-3t6haf19nkywa>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Golzari" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Mahmood" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Mahmood Golzari" .
+
+<http://dx.doi.org/10.1016/j.sbspro.2011.11.344>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/j.sbspro.2011.11.344" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "1114" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "1105" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "29" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/noor-ali-farrokhi-3t6haf19nkywa> , <http://id.crossref.org/contributor/soghra-ebrahimi-qavam-3t6haf19nkywa> , <http://id.crossref.org/contributor/jahanshir-tavakolizadeh-3t6haf19nkywa> , <http://id.crossref.org/contributor/mahmood-golzari-3t6haf19nkywa> ;
+      <http://purl.org/dc/terms/date>
+              "2011"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/j.sbspro.2011.11.344" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1877-0428> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "The effectuality of teaching of self-regulated learning strategies on mental health in students" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/j.sbspro.2011.11.344" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "1114" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "1105" ;
+      <http://purl.org/ontology/bibo/volume>
+              "29" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1016/j.sbspro.2011.11.344> , <info:doi/10.1016/j.sbspro.2011.11.344> .

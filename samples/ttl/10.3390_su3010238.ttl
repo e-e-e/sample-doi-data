@@ -1,0 +1,69 @@
+<http://id.crossref.org/contributor/emile-a-frison-cuk08259cwkk>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Frison" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Emile A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Emile A. Frison" .
+
+<http://id.crossref.org/contributor/jeremy-cherfas-cuk08259cwkk>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Cherfas" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Jeremy" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Jeremy Cherfas" .
+
+<http://id.crossref.org/issn/2071-1050>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "2071-1050" ;
+      <http://purl.org/dc/terms/title>
+              "Sustainability" ;
+      <http://purl.org/ontology/bibo/issn>
+              "2071-1050" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:2071-1050" .
+
+<http://dx.doi.org/10.3390/su3010238>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.3390/su3010238" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "253" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "238" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "3" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/emile-a-frison-cuk08259cwkk> , <http://id.crossref.org/contributor/jeremy-cherfas-cuk08259cwkk> , <http://id.crossref.org/contributor/toby-hodgkin-cuk08259cwkk> ;
+      <http://purl.org/dc/terms/date>
+              "2011-01-14"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.3390/su3010238" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/2071-1050> ;
+      <http://purl.org/dc/terms/publisher>
+              "MDPI AG" ;
+      <http://purl.org/dc/terms/title>
+              "Agricultural Biodiversity Is Essential for a Sustainable Improvement in Food and Nutrition Security" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.3390/su3010238" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "253" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "238" ;
+      <http://purl.org/ontology/bibo/volume>
+              "3" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.3390/su3010238> , <info:doi/10.3390/su3010238> .
+
+<http://id.crossref.org/contributor/toby-hodgkin-cuk08259cwkk>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Hodgkin" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Toby" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Toby Hodgkin" .

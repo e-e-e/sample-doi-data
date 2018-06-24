@@ -1,0 +1,78 @@
+<http://id.crossref.org/contributor/michelle-debatisse-uruzq1dwppwa>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Debatisse" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Michelle" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Michelle Debatisse" .
+
+<http://dx.doi.org/10.1051/medsci/2011278011>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1051/medsci/2011278011" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "709" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "707" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "27" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/michelle-debatisse-uruzq1dwppwa> , <http://id.crossref.org/contributor/daniel-birnbaum-uruzq1dwppwa> , <http://id.crossref.org/contributor/max-chaffanet-uruzq1dwppwa> , <http://id.crossref.org/contributor/anne-letessier-uruzq1dwppwa> ;
+      <http://purl.org/dc/terms/date>
+              "2011-08"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1051/medsci/2011278011" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0767-0974> ;
+      <http://purl.org/dc/terms/publisher>
+              "EDP Sciences" ;
+      <http://purl.org/dc/terms/title>
+              "La pauvreté en sites d’initiation de la réplication rend-elle fragile certaines régions du génome ?" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1051/medsci/2011278011" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "709" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "707" ;
+      <http://purl.org/ontology/bibo/volume>
+              "27" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1051/medsci/2011278011> , <info:doi/10.1051/medsci/2011278011> .
+
+<http://id.crossref.org/issn/0767-0974>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1958-5381" , "0767-0974" ;
+      <http://purl.org/dc/terms/title>
+              "médecine/sciences" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1958-5381" , "0767-0974" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1958-5381" , "urn:issn:0767-0974" .
+
+<http://id.crossref.org/contributor/daniel-birnbaum-uruzq1dwppwa>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Birnbaum" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Daniel" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Daniel Birnbaum" .
+
+<http://id.crossref.org/contributor/max-chaffanet-uruzq1dwppwa>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Chaffanet" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Max" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Max Chaffanet" .
+
+<http://id.crossref.org/contributor/anne-letessier-uruzq1dwppwa>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Letessier" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Anne" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Anne Letessier" .

@@ -1,0 +1,105 @@
+<http://dx.doi.org/10.1016/j.mvr.2011.08.004>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/j.mvr.2011.08.004" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "310" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "304" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "82" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/ming-zhang-6yajruznidie> , <http://id.crossref.org/contributor/jianping-li-6yajruznidie> , <http://id.crossref.org/contributor/qing-xin-6yajruznidie> , <http://id.crossref.org/contributor/feifei-liu-6yajruznidie> , <http://id.crossref.org/contributor/guoqiang-chen-6yajruznidie> , <http://id.crossref.org/contributor/zengyong-li-6yajruznidie> , <http://id.crossref.org/contributor/jianyong-li-6yajruznidie> ;
+      <http://purl.org/dc/terms/date>
+              "2011-11"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/j.mvr.2011.08.004" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0026-2862> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Correlation analysis between prefrontal oxygenation oscillations and cerebral artery hemodynamics in humans" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/j.mvr.2011.08.004" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "310" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "304" ;
+      <http://purl.org/ontology/bibo/volume>
+              "82" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1016/j.mvr.2011.08.004> , <info:doi/10.1016/j.mvr.2011.08.004> .
+
+<http://id.crossref.org/contributor/ming-zhang-6yajruznidie>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Zhang" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Ming" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Ming Zhang" .
+
+<http://id.crossref.org/contributor/jianping-li-6yajruznidie>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Li" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Jianping" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Jianping Li" .
+
+<http://id.crossref.org/contributor/qing-xin-6yajruznidie>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Xin" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Qing" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Qing Xin" .
+
+<http://id.crossref.org/contributor/feifei-liu-6yajruznidie>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Liu" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Feifei" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Feifei Liu" .
+
+<http://id.crossref.org/contributor/guoqiang-chen-6yajruznidie>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Chen" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Guoqiang" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Guoqiang Chen" .
+
+<http://id.crossref.org/contributor/zengyong-li-6yajruznidie>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Li" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Zengyong" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Zengyong Li" .
+
+<http://id.crossref.org/contributor/jianyong-li-6yajruznidie>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Li" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Jianyong" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Jianyong Li" .
+
+<http://id.crossref.org/issn/0026-2862>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0026-2862" ;
+      <http://purl.org/dc/terms/title>
+              "Microvascular Research" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0026-2862" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0026-2862" .

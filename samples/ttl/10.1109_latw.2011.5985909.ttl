@@ -1,0 +1,42 @@
+<http://id.crossref.org/isbn/9781457714894>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "2011 12th Latin American Test Workshop (LATW)" .
+
+<http://id.crossref.org/contributor/e-sanchez-hw7qikv162cv>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Sanchez" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "E." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "E. Sanchez" .
+
+<http://dx.doi.org/10.1109/latw.2011.5985909>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1109/latw.2011.5985909" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/e-sanchez-hw7qikv162cv> , <http://id.crossref.org/contributor/m-sonzareorda-hw7qikv162cv> ;
+      <http://purl.org/dc/terms/date>
+              "2011-03"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1109/latw.2011.5985909" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9781457714894> ;
+      <http://purl.org/dc/terms/publisher>
+              "IEEE" ;
+      <http://purl.org/dc/terms/title>
+              "On the functional test of MESI controllers" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1109/latw.2011.5985909" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1109/latw.2011.5985909> , <info:doi/10.1109/latw.2011.5985909> .
+
+<http://id.crossref.org/contributor/m-sonzareorda-hw7qikv162cv>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "SonzaReorda" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "M." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "M. SonzaReorda" .

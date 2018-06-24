@@ -1,0 +1,51 @@
+<http://id.crossref.org/contributor/yoshinori-ohyama-3eehza1i9h1y>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Ohyama" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Yoshinori" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Yoshinori Ohyama" .
+
+<http://dx.doi.org/10.1265/jjh.21.344>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1265/jjh.21.344" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "349" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "344" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "21" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/yoshinori-ohyama-3eehza1i9h1y> ;
+      <http://purl.org/dc/terms/date>
+              "1966"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1265/jjh.21.344" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0021-5082> ;
+      <http://purl.org/dc/terms/publisher>
+              "Japanese Society for Hygiene" ;
+      <http://purl.org/dc/terms/title>
+              "A hygienic study on the flexibility of the normal" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1265/jjh.21.344" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "349" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "344" ;
+      <http://purl.org/ontology/bibo/volume>
+              "21" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1265/jjh.21.344> , <info:doi/10.1265/jjh.21.344> .
+
+<http://id.crossref.org/issn/0021-5082>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1882-6482" , "0021-5082" ;
+      <http://purl.org/dc/terms/title>
+              "Nippon Eiseigaku Zasshi (Japanese Journal of Hygiene)" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1882-6482" , "0021-5082" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1882-6482" , "urn:issn:0021-5082" .

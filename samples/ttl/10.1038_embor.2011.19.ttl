@@ -1,0 +1,105 @@
+<http://id.crossref.org/contributor/franck-coste-338ju8tv8aq6q>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Coste" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Franck" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Franck Coste" .
+
+<http://dx.doi.org/10.1038/embor.2011.19>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1038/embor.2011.19" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "333" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "327" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "12" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/franck-coste-338ju8tv8aq6q> , <http://id.crossref.org/contributor/julien-royet-338ju8tv8aq6q> , <http://id.crossref.org/contributor/christine-kellenberger-338ju8tv8aq6q> , <http://id.crossref.org/contributor/nada-basbous-338ju8tv8aq6q> , <http://id.crossref.org/contributor/alain-roussel-338ju8tv8aq6q> , <http://id.crossref.org/contributor/renaud-vincentelli-338ju8tv8aq6q> , <http://id.crossref.org/contributor/philippe-leone-338ju8tv8aq6q> ;
+      <http://purl.org/dc/terms/date>
+              "2011-03-04"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1038/embor.2011.19" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1469-221X> ;
+      <http://purl.org/dc/terms/publisher>
+              "Wiley" ;
+      <http://purl.org/dc/terms/title>
+              "The Drosophila peptidoglycan-recognition protein LF interacts with peptidoglycan-recognition protein LC to downregulate the Imd pathway" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1038/embor.2011.19" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "333" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "327" ;
+      <http://purl.org/ontology/bibo/volume>
+              "12" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1038/embor.2011.19> , <info:doi/10.1038/embor.2011.19> .
+
+<http://id.crossref.org/contributor/julien-royet-338ju8tv8aq6q>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Royet" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Julien" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Julien Royet" .
+
+<http://id.crossref.org/issn/1469-221X>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1469-221X" , "1469-3178" ;
+      <http://purl.org/dc/terms/title>
+              "EMBO reports" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1469-221X" , "1469-3178" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1469-221X" , "urn:issn:1469-3178" .
+
+<http://id.crossref.org/contributor/christine-kellenberger-338ju8tv8aq6q>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kellenberger" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Christine" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Christine Kellenberger" .
+
+<http://id.crossref.org/contributor/nada-basbous-338ju8tv8aq6q>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Basbous" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Nada" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Nada Basbous" .
+
+<http://id.crossref.org/contributor/alain-roussel-338ju8tv8aq6q>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Roussel" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Alain" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Alain Roussel" .
+
+<http://id.crossref.org/contributor/renaud-vincentelli-338ju8tv8aq6q>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Vincentelli" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Renaud" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Renaud Vincentelli" .
+
+<http://id.crossref.org/contributor/philippe-leone-338ju8tv8aq6q>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Leone" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Philippe" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Philippe Leone" .

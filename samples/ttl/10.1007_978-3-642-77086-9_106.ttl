@@ -1,0 +1,86 @@
+<http://id.crossref.org/contributor/m-berger-ng4f66rbmc0b>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Berger" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "M." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "M. Berger" .
+
+<http://id.crossref.org/contributor/l-stoll-ng4f66rbmc0b>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Stoll" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "L." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "L. Stoll" .
+
+<http://id.crossref.org/isbn/9783540547846>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Biologische Psychiatrie" .
+
+<http://id.crossref.org/contributor/t-schubert-ng4f66rbmc0b>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Schubert" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "T." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "T. Schubert" .
+
+<http://id.crossref.org/contributor/p-fleckenstein-ng4f66rbmc0b>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Fleckenstein" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "P." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "P. Fleckenstein" .
+
+<http://id.crossref.org/contributor/d-riemann-ng4f66rbmc0b>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Riemann" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "D." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "D. Riemann" .
+
+<http://id.crossref.org/contributor/w-e-muller-ng4f66rbmc0b>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Müller" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "W. E." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "W. E. Müller" .
+
+<http://dx.doi.org/10.1007/978-3-642-77086-9_106>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1007/978-3-642-77086-9_106" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "483" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "481" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/m-berger-ng4f66rbmc0b> , <http://id.crossref.org/contributor/l-stoll-ng4f66rbmc0b> , <http://id.crossref.org/contributor/p-fleckenstein-ng4f66rbmc0b> , <http://id.crossref.org/contributor/t-schubert-ng4f66rbmc0b> , <http://id.crossref.org/contributor/d-riemann-ng4f66rbmc0b> , <http://id.crossref.org/contributor/w-e-muller-ng4f66rbmc0b> ;
+      <http://purl.org/dc/terms/date>
+              "1992"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1007/978-3-642-77086-9_106" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9783540547846> ;
+      <http://purl.org/dc/terms/publisher>
+              "Springer Berlin Heidelberg" ;
+      <http://purl.org/dc/terms/title>
+              "Agonisten-induzierte Desensitivierung zentraler und peripherer α2-Rezeptoren — Vergleichende In-vitro- und In-vivo-Untersuchungen" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1007/978-3-642-77086-9_106" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "483" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "481" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1007/978-3-642-77086-9_106> , <doi:10.1007/978-3-642-77086-9_106> .

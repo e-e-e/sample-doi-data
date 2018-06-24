@@ -1,0 +1,87 @@
+<http://id.crossref.org/contributor/a-cochini-1qzncm8r2oynu>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Cochini" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "A. Cochini" .
+
+<http://dx.doi.org/10.1016/j.gyobfe.2011.07.005>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/j.gyobfe.2011.07.005" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "537" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "533" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "39" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/a-cochini-1qzncm8r2oynu> , <http://id.crossref.org/contributor/h-letur-konirsch-1qzncm8r2oynu> , <http://id.crossref.org/contributor/p-granet-1qzncm8r2oynu> , <http://id.crossref.org/contributor/d-cupa-1qzncm8r2oynu> , <http://id.crossref.org/contributor/r-wainer-1qzncm8r2oynu> ;
+      <http://purl.org/dc/terms/date>
+              "2011-09"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/j.gyobfe.2011.07.005" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1297-9589> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Le vécu des patientes et les représentations maternelles au fil des étapes d’un don d’ovocytes" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/j.gyobfe.2011.07.005" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "537" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "533" ;
+      <http://purl.org/ontology/bibo/volume>
+              "39" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1016/j.gyobfe.2011.07.005> , <info:doi/10.1016/j.gyobfe.2011.07.005> .
+
+<http://id.crossref.org/contributor/h-letur-konirsch-1qzncm8r2oynu>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Letur-Könirsch" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "H." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "H. Letur-Könirsch" .
+
+<http://id.crossref.org/issn/1297-9589>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1297-9589" ;
+      <http://purl.org/dc/terms/title>
+              "Gynécologie Obstétrique & Fertilité" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1297-9589" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1297-9589" .
+
+<http://id.crossref.org/contributor/r-wainer-1qzncm8r2oynu>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Wainer" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "R." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "R. Wainer" .
+
+<http://id.crossref.org/contributor/p-granet-1qzncm8r2oynu>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Granet" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "P." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "P. Granet" .
+
+<http://id.crossref.org/contributor/d-cupa-1qzncm8r2oynu>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Cupa" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "D." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "D. Cupa" .

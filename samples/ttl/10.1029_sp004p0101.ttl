@@ -1,0 +1,61 @@
+<http://dx.doi.org/10.1029/sp004p0101>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1029/sp004p0101" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "110" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "101" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/marion-b-busch-33lg70dyx9qjy> , <http://id.crossref.org/contributor/paul-t-schickedanz-33lg70dyx9qjy> ;
+      <http://purl.org/dc/terms/date>
+              "2013-03-19"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1029/sp004p0101" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9781118668993> , <http://id.crossref.org/issn/2328-9279> ;
+      <http://purl.org/dc/terms/publisher>
+              "American Geophysical Union" ;
+      <http://purl.org/dc/terms/title>
+              "Data Processing and Analytical Procedures for Urban Precipitation Studies" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1029/sp004p0101" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "110" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "101" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1029/sp004p0101> , <info:doi/10.1029/sp004p0101> .
+
+<http://id.crossref.org/isbn/9781118668993>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Precipitation Analysis for Hydrologic Modeling" .
+
+<http://id.crossref.org/issn/2328-9279>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "2328-9279" ;
+      <http://purl.org/dc/terms/title>
+              "Precipitation Analysis for Hydrologic Modeling" ;
+      <http://purl.org/ontology/bibo/issn>
+              "2328-9279" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:2328-9279" .
+
+<http://id.crossref.org/contributor/marion-b-busch-33lg70dyx9qjy>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Busch" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Marion B." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Marion B. Busch" .
+
+<http://id.crossref.org/contributor/paul-t-schickedanz-33lg70dyx9qjy>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Schickedanz" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Paul T." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Paul T. Schickedanz" .

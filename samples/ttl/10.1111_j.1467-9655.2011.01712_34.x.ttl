@@ -1,0 +1,51 @@
+<http://id.crossref.org/issn/1359-0987>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1359-0987" ;
+      <http://purl.org/dc/terms/title>
+              "Journal of the Royal Anthropological Institute" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1359-0987" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1359-0987" .
+
+<http://dx.doi.org/10.1111/j.1467-9655.2011.01712_34.x>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1111/j.1467-9655.2011.01712_34.x" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "667" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "666" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "17" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/nancy-lindisfarne-1bebhggy4j3k2> ;
+      <http://purl.org/dc/terms/date>
+              "2011-08-02"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1111/j.1467-9655.2011.01712_34.x" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1359-0987> ;
+      <http://purl.org/dc/terms/publisher>
+              "Wiley" ;
+      <http://purl.org/dc/terms/title>
+              "The city's outback - By Gillian Cowlishaw" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1111/j.1467-9655.2011.01712_34.x" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "667" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "666" ;
+      <http://purl.org/ontology/bibo/volume>
+              "17" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1111/j.1467-9655.2011.01712_34.x> , <doi:10.1111/j.1467-9655.2011.01712_34.x> .
+
+<http://id.crossref.org/contributor/nancy-lindisfarne-1bebhggy4j3k2>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "LINDISFARNE" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "NANCY" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "NANCY LINDISFARNE" .

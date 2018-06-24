@@ -1,0 +1,69 @@
+<http://id.crossref.org/contributor/s-kung-3aum6squg0l2t>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kung" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "S." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "S. Kung" .
+
+<http://id.crossref.org/contributor/l-mazhani-3aum6squg0l2t>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Mazhani" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "L." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "L. Mazhani" .
+
+<http://id.crossref.org/issn/0091-6749>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0091-6749" ;
+      <http://purl.org/dc/terms/title>
+              "Journal of Allergy and Clinical Immunology" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0091-6749" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0091-6749" .
+
+<http://id.crossref.org/contributor/a-p-steenhoff-3aum6squg0l2t>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Steenhoff" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "A.P." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "A.P. Steenhoff" .
+
+<http://dx.doi.org/10.1016/j.jaci.2010.12.610>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/j.jaci.2010.12.610" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "AB154" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "AB154" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "127" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/s-kung-3aum6squg0l2t> , <http://id.crossref.org/contributor/l-mazhani-3aum6squg0l2t> , <http://id.crossref.org/contributor/a-p-steenhoff-3aum6squg0l2t> ;
+      <http://purl.org/dc/terms/date>
+              "2011-02"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/j.jaci.2010.12.610" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0091-6749> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Epidemiology of Asthma and Other Respiratory Admissions in a Referral Hospital in Gaborone, Botswana" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/j.jaci.2010.12.610" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "AB154" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "AB154" ;
+      <http://purl.org/ontology/bibo/volume>
+              "127" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1016/j.jaci.2010.12.610> , <info:doi/10.1016/j.jaci.2010.12.610> .

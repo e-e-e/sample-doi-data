@@ -1,0 +1,42 @@
+<http://id.crossref.org/isbn/9781450302654>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Proceedings of the 6th Workshop on Hot Topics in Embedded Networked Sensors - HotEmNets '10" .
+
+<http://id.crossref.org/contributor/dirk-pesch-xfv1t8hqw94q>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Pesch" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Dirk" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Dirk Pesch" .
+
+<http://id.crossref.org/contributor/rodolfo-de-paz-alberola-xfv1t8hqw94q>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "de Paz Alberola" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Rodolfo" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Rodolfo de Paz Alberola" .
+
+<http://dx.doi.org/10.1145/1978642.1978658>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1145/1978642.1978658" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/dirk-pesch-xfv1t8hqw94q> , <http://id.crossref.org/contributor/rodolfo-de-paz-alberola-xfv1t8hqw94q> ;
+      <http://purl.org/dc/terms/date>
+              "2010"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1145/1978642.1978658" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9781450302654> ;
+      <http://purl.org/dc/terms/publisher>
+              "ACM Press" ;
+      <http://purl.org/dc/terms/title>
+              "Joint duty cycle and link adaptation for IEEE 802.15.4 beacon-enabled networks" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1145/1978642.1978658" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1145/1978642.1978658> , <info:doi/10.1145/1978642.1978658> .

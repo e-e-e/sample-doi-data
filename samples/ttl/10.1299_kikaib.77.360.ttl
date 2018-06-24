@@ -1,0 +1,69 @@
+<http://dx.doi.org/10.1299/kikaib.77.360>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1299/kikaib.77.360" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "367" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "360" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "77" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/yoshiyuki-kidoguchi-3elhr9osgmroi> , <http://id.crossref.org/contributor/naoki-hosomi-3elhr9osgmroi> , <http://id.crossref.org/contributor/hirofumi-noge-3elhr9osgmroi> ;
+      <http://purl.org/dc/terms/date>
+              "2011"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1299/kikaib.77.360" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0387-5016> ;
+      <http://purl.org/dc/terms/publisher>
+              "Japan Society of Mechanical Engineers" ;
+      <http://purl.org/dc/terms/title>
+              "A Fundamental Study of Role of Thermal Decomposition of Diesel Fuel Mixed with Bio-Diesel Fuel on PM Reduction" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1299/kikaib.77.360" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "367" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "360" ;
+      <http://purl.org/ontology/bibo/volume>
+              "77" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1299/kikaib.77.360> , <info:doi/10.1299/kikaib.77.360> .
+
+<http://id.crossref.org/contributor/yoshiyuki-kidoguchi-3elhr9osgmroi>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "KIDOGUCHI" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Yoshiyuki" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Yoshiyuki KIDOGUCHI" .
+
+<http://id.crossref.org/contributor/naoki-hosomi-3elhr9osgmroi>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "HOSOMI" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Naoki" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Naoki HOSOMI" .
+
+<http://id.crossref.org/issn/0387-5016>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1884-8346" , "0387-5016" ;
+      <http://purl.org/dc/terms/title>
+              "TRANSACTIONS OF THE JAPAN SOCIETY OF MECHANICAL ENGINEERS Series B" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1884-8346" , "0387-5016" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1884-8346" , "urn:issn:0387-5016" .
+
+<http://id.crossref.org/contributor/hirofumi-noge-3elhr9osgmroi>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "NOGE" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Hirofumi" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Hirofumi NOGE" .

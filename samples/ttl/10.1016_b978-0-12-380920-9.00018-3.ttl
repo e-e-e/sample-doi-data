@@ -1,0 +1,68 @@
+<http://id.crossref.org/contributor/robert-f-hoyt-3marg8d9al9c4>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Hoyt" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Robert F." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Robert F. Hoyt" .
+
+<http://id.crossref.org/contributor/richard-young-3marg8d9al9c4>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Young" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Richard" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Richard Young" .
+
+<http://dx.doi.org/10.1016/b978-0-12-380920-9.00018-3>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/b978-0-12-380920-9.00018-3" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "560" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "529" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/robert-f-hoyt-3marg8d9al9c4> , <http://id.crossref.org/contributor/richard-young-3marg8d9al9c4> , <http://id.crossref.org/contributor/garry-linton-3marg8d9al9c4> , <http://id.crossref.org/contributor/tanya-h-burkholder-3marg8d9al9c4> ;
+      <http://purl.org/dc/terms/date>
+              "2012"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/b978-0-12-380920-9.00018-3" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9780123809209> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier" ;
+      <http://purl.org/dc/terms/title>
+              "The Rabbit as an Experimental Model" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/b978-0-12-380920-9.00018-3" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "560" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "529" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1016/b978-0-12-380920-9.00018-3> , <info:doi/10.1016/b978-0-12-380920-9.00018-3> .
+
+<http://id.crossref.org/contributor/garry-linton-3marg8d9al9c4>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Linton" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Garry" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Garry Linton" .
+
+<http://id.crossref.org/contributor/tanya-h-burkholder-3marg8d9al9c4>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Burkholder" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Tanya H." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Tanya H. Burkholder" .
+
+<http://id.crossref.org/isbn/9780123809209>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "The Laboratory Rabbit, Guinea Pig, Hamster, and Other Rodents" .

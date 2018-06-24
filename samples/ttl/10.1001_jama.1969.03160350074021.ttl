@@ -1,0 +1,47 @@
+<http://id.crossref.org/issn/0098-7484>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0098-7484" ;
+      <http://purl.org/dc/terms/title>
+              "JAMA: The Journal of the American Medical Association" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0098-7484" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0098-7484" .
+
+<http://id.crossref.org/contributor/roy-cohn-1p8ot3aipja51>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Cohn" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Roy" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Roy Cohn" .
+
+<http://dx.doi.org/10.1001/jama.1969.03160350074021>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1001/jama.1969.03160350074021" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "1762" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "210" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/roy-cohn-1p8ot3aipja51> ;
+      <http://purl.org/dc/terms/date>
+              "1969-12-01"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1001/jama.1969.03160350074021" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0098-7484> ;
+      <http://purl.org/dc/terms/publisher>
+              "American Medical Association (AMA)" ;
+      <http://purl.org/dc/terms/title>
+              "Transplantation and Renal Oxalates" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1001/jama.1969.03160350074021" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "1762" ;
+      <http://purl.org/ontology/bibo/volume>
+              "210" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1001/jama.1969.03160350074021> , <doi:10.1001/jama.1969.03160350074021> .

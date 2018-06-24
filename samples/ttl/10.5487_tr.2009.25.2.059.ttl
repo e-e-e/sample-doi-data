@@ -1,0 +1,60 @@
+<http://dx.doi.org/10.5487/tr.2009.25.2.059>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.5487/tr.2009.25.2.059" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "69" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "59" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "25" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/byung-mu-lee-32hvk3fwh5j2j> , <http://id.crossref.org/contributor/kyu-bong-kim-32hvk3fwh5j2j> ;
+      <http://purl.org/dc/terms/date>
+              "2009-06-01"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.5487/tr.2009.25.2.059" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1976-8257> ;
+      <http://purl.org/dc/terms/publisher>
+              "The Korean Society of Toxicology" ;
+      <http://purl.org/dc/terms/title>
+              "Metabolomics, a New Promising Technology for Toxicological Research" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.5487/tr.2009.25.2.059" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "69" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "59" ;
+      <http://purl.org/ontology/bibo/volume>
+              "25" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.5487/tr.2009.25.2.059> , <info:doi/10.5487/tr.2009.25.2.059> .
+
+<http://id.crossref.org/contributor/byung-mu-lee-32hvk3fwh5j2j>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Lee" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Byung-Mu" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Byung-Mu Lee" .
+
+<http://id.crossref.org/contributor/kyu-bong-kim-32hvk3fwh5j2j>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kim" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Kyu-Bong" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Kyu-Bong Kim" .
+
+<http://id.crossref.org/issn/1976-8257>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1976-8257" ;
+      <http://purl.org/dc/terms/title>
+              "Toxicological Research" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1976-8257" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1976-8257" .

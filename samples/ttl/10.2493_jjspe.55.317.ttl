@@ -1,0 +1,87 @@
+<http://id.crossref.org/contributor/akira-sawada-130f4mozcj0a1>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "SAWADA" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Akira" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Akira SAWADA" .
+
+<http://id.crossref.org/contributor/hideto-kitazawa-130f4mozcj0a1>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "KITAZAWA" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Hideto" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Hideto KITAZAWA" .
+
+<http://dx.doi.org/10.2493/jjspe.55.317>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.2493/jjspe.55.317" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "322" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "317" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "55" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/akira-sawada-130f4mozcj0a1> , <http://id.crossref.org/contributor/hideto-kitazawa-130f4mozcj0a1> , <http://id.crossref.org/contributor/tadashi-ezawa-130f4mozcj0a1> , <http://id.crossref.org/contributor/satoshi-honda-130f4mozcj0a1> , <http://id.crossref.org/contributor/yasuhiro-kitabatake-130f4mozcj0a1> ;
+      <http://purl.org/dc/terms/date>
+              "1989"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.2493/jjspe.55.317" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1882-675X> ;
+      <http://purl.org/dc/terms/publisher>
+              "Japan Society for Precision Engineering" ;
+      <http://purl.org/dc/terms/title>
+              "Development of the gripper operated by forced vibration." ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.2493/jjspe.55.317" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "322" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "317" ;
+      <http://purl.org/ontology/bibo/volume>
+              "55" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.2493/jjspe.55.317> , <doi:10.2493/jjspe.55.317> .
+
+<http://id.crossref.org/contributor/tadashi-ezawa-130f4mozcj0a1>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "EZAWA" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Tadashi" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Tadashi EZAWA" .
+
+<http://id.crossref.org/issn/1882-675X>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0912-0289" , "1882-675X" ;
+      <http://purl.org/dc/terms/title>
+              "Journal of the Japan Society for Precision Engineering" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0912-0289" , "1882-675X" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1882-675X" , "urn:issn:0912-0289" .
+
+<http://id.crossref.org/contributor/satoshi-honda-130f4mozcj0a1>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "HONDA" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Satoshi" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Satoshi HONDA" .
+
+<http://id.crossref.org/contributor/yasuhiro-kitabatake-130f4mozcj0a1>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "KITABATAKE" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Yasuhiro" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Yasuhiro KITABATAKE" .

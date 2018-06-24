@@ -1,0 +1,78 @@
+<http://id.crossref.org/contributor/steve-titcomb-36hjdofp0j6hd>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Titcomb" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Steve" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Steve Titcomb" .
+
+<http://id.crossref.org/contributor/saba-a-hanna-36hjdofp0j6hd>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Hanna" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Saba A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Saba A. Hanna" .
+
+<http://id.crossref.org/issn/0263-2241>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0263-2241" ;
+      <http://purl.org/dc/terms/title>
+              "Measurement" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0263-2241" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0263-2241" .
+
+<http://id.crossref.org/contributor/walter-varhue-36hjdofp0j6hd>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Varhue" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Walter" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Walter Varhue" .
+
+<http://dx.doi.org/10.1016/j.measurement.2011.05.008>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/j.measurement.2011.05.008" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "1421" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "1412" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "44" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/steve-titcomb-36hjdofp0j6hd> , <http://id.crossref.org/contributor/saba-a-hanna-36hjdofp0j6hd> , <http://id.crossref.org/contributor/walter-varhue-36hjdofp0j6hd> , <http://id.crossref.org/contributor/yuichi-motai-36hjdofp0j6hd> ;
+      <http://purl.org/dc/terms/date>
+              "2011-10"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/j.measurement.2011.05.008" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0263-2241> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Measurement evaluations of static and low frequency magnetic fields in the near field region" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/j.measurement.2011.05.008" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "1421" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "1412" ;
+      <http://purl.org/ontology/bibo/volume>
+              "44" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1016/j.measurement.2011.05.008> , <info:doi/10.1016/j.measurement.2011.05.008> .
+
+<http://id.crossref.org/contributor/yuichi-motai-36hjdofp0j6hd>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Motai" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Yuichi" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Yuichi Motai" .

@@ -1,0 +1,30 @@
+<http://id.crossref.org/isbn/9781847559166>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Handbook of Culture Media for Food and Water Microbiology" .
+
+<http://dx.doi.org/10.1039/9781847551450-00952>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1039/9781847551450-00952" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "955" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "952" ;
+      <http://purl.org/dc/terms/date>
+              ""^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1039/9781847551450-00952" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9781847559166> ;
+      <http://purl.org/dc/terms/publisher>
+              "Royal Society of Chemistry" ;
+      <http://purl.org/dc/terms/title>
+              "Chapter T5. Tryptose Sulfite Cycloserine (TSC) agar (without egg yolk)" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1039/9781847551450-00952" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "955" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "952" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1039/9781847551450-00952> , <doi:10.1039/9781847551450-00952> .
