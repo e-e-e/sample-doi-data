@@ -1,0 +1,21 @@
+{
+	"id": "10.5392/JKCA.2010.10.3.072",
+	"DOI": "10.5392/JKCA.2010.10.3.072",
+	"URL": "https://doi.org/10.5392/JKCA.2010.10.3.072",
+	"type": "article-journal",
+	"author": [
+		{ "family":"Lee, Woo-Beom", "given":"" }
+	],
+	"title":"자기조직형 얼굴 인식에 의한 학생 출결 관리 시스템",
+	"issued": {
+		"date-parts": [
+			[ 2010, 3, 28 ]
+		]
+	},
+	"container-title":"한국콘텐츠학회논문지",
+	"publisher":"한국콘텐츠학회",
+	"volume":"10",
+	"issue":"3",
+	"page": "72-79"
+	
+}

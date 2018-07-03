@@ -6,14 +6,18 @@ const readline = require('readline')
 const PromiseQueue = require('a-promise-queue')
 
 const config = require('./configuration')
+const TYPE = 'csl.json'
 
 function delay (ms) {
   return new Promise(resolve => setTimeout(resolve, ms))
 }
-
-const TURTLE_DIR = path.join(config.SAMPLE_DIR, `/ttl`)
+const type = {
+  ttl: 'text/turtle',
+  'csl.json': 'application/vnd.citationstyles.csl+json'
+}
+const TYPE_DIR = path.join(config.SAMPLE_DIR, `/${TYPE}`)
 try {
-  fs.mkdirSync(TURTLE_DIR)
+  fs.mkdirSync(TYPE_DIR)
 } catch (e) { }
 
 function getDetailFromDOI (doi) {
@@ -21,11 +25,11 @@ function getDetailFromDOI (doi) {
   return request({
     url: `${config.DOI_URL}/${doi}`,
     headers: {
-      Accept: 'text/turtle'
+      Accept: type[TYPE]
     }
   }).then((res) => {
     console.log(res)
-    const filename = path.join(TURTLE_DIR, `/${doi.replace(/\//g, '_')}.ttl`)
+    const filename = path.join(TYPE_DIR, `/${doi.replace(/\//g, '_')}.${TYPE}`)
     fs.writeFileSync(filename, res)
   })
 }

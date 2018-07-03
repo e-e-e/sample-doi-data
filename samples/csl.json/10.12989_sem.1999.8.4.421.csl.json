@@ -1,0 +1,23 @@
+{
+	"id": "10.12989/SEM.1999.8.4.421",
+	"DOI": "10.12989/SEM.1999.8.4.421",
+	"URL": "https://doi.org/10.12989/SEM.1999.8.4.421",
+	"type": "article-journal",
+	"author": [
+		{ "family":"Yan", "given":"A.M." },
+		{ "family":"Nguyen", "given":"D.H." },
+		{ "family":"Gilles", "given":"Ph." }
+	],
+	"title":"Practical estimation of the plastic collapse limit of curved pipes subjected to complex loading",
+	"issued": {
+		"date-parts": [
+			[ 1999, 10, 25 ]
+		]
+	},
+	"container-title":"Structural Engineering and Mechanics",
+	"publisher":"테크노프레스",
+	"volume":"8",
+	"issue":"4",
+	"page": "421-438"
+	
+}

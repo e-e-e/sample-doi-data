@@ -1,0 +1,37 @@
+{
+  "type": "article-journal",
+  "id": "https://doi.org/10.21236/ada201919",
+  "categories": [
+    "090100",
+    "Electrical and Electronic Equipment",
+    "STRIP TRANSMISSION LINES",
+    "RESONATORS",
+    "ANTENNAS",
+    "RADIATORS(GENERAL)",
+    "DIELECTRICS",
+    "SYSTEMS ENGINEERING",
+    "FREQUENCY",
+    "MILLIMETER WAVES"
+  ],
+  "language": "English",
+  "author": [
+    {
+      "family": "Long",
+      "given": "Stuart A."
+    },
+    {
+      "family": "Jackson",
+      "given": "David R."
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        1988
+      ]
+    ]
+  },
+  "DOI": "10.21236/ada201919",
+  "publisher": "Defense Technical Information Center",
+  "title": "Millimeter Wave Antennas"
+}

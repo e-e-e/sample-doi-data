@@ -1,0 +1,39 @@
+{
+  "type": "article-journal",
+  "id": "https://doi.org/10.21236/ada140452",
+  "categories": [
+    "120500",
+    "Computer Programming and Software",
+    "Computer programming",
+    "Programming languages",
+    "Compilers",
+    "Error detection codes",
+    "Computer program documentation",
+    "Computer program verification",
+    "Specifications",
+    "Computer logic",
+    "*ADA",
+    "*ADA programming language",
+    "*ANNA(Annotated ADA)",
+    "Formal Annotation Language",
+    "WURADC55811907",
+    "PE62702F"
+  ],
+  "language": "English",
+  "author": [
+    {
+      "family": "Luckham",
+      "given": "D. C."
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        1984
+      ]
+    ]
+  },
+  "DOI": "10.21236/ada140452",
+  "publisher": "Defense Technical Information Center",
+  "title": "Annotation Language Design for Ada (ANNA)."
+}

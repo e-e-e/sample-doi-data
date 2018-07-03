@@ -1,0 +1,63 @@
+{
+  "type": "article-journal",
+  "id": "https://doi.org/10.21236/ad1004171",
+  "categories": [
+    "PHOTOLITHOGRAPHY",
+    "MILLIMETER WAVES",
+    "TRAVELING WAVE TUBES",
+    "VACUUM ELECTRONICS",
+    "UV LIGA(ULTRAVIOLET PHOTOLITHOGRAPHY AND ELECTROFORMING)",
+    "SWS(SLOW WAVE STRUCTURES)",
+    "TWT(TRAVELING WAVE TUBE)",
+    "MICROFABRICATION"
+  ],
+  "language": "English",
+  "author": [
+    {
+      "family": "Joye",
+      "given": "Colin D."
+    },
+    {
+      "family": "Cook",
+      "given": "Alan M."
+    },
+    {
+      "family": "Calame",
+      "given": "Jeffrey P."
+    },
+    {
+      "family": "Abe",
+      "given": "David K."
+    },
+    {
+      "family": "Nguyen",
+      "given": "Khanh T."
+    },
+    {
+      "family": "Wright",
+      "given": "Edward L."
+    },
+    {
+      "family": "Hanna",
+      "given": "Jeremy M."
+    },
+    {
+      "family": "Chernyavskiy",
+      "given": "Igor A."
+    },
+    {
+      "family": "Levush",
+      "given": "Baruch"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2015
+      ]
+    ]
+  },
+  "DOI": "10.21236/ad1004171",
+  "publisher": "Defense Technical Information Center",
+  "title": "Microfabrication Techniques for Millimeter Wave Vacuum Electronics"
+}
